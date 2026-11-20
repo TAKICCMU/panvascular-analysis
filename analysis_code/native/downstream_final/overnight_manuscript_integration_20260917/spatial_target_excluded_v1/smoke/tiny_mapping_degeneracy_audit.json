@@ -1,0 +1,15 @@
+{
+  "expected_shape": [
+    24,
+    2
+  ],
+  "actual_shape": [
+    24,
+    2
+  ],
+  "zero_rows": 0,
+  "zero_factors": 0,
+  "overall_positive": true,
+  "total_mean": 290.784912109375,
+  "interpretation": "Technical checks only; zero factors/spots explicitly flagged for scientific review"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "COMPLETE_VALIDATED",
+  "DE_complete": 79,
+  "not_estimable": 0,
+  "ineligible": 265,
+  "CKB_contexts": 52,
+  "CKB_meta": 9,
+  "no_HCA_in_models": true,
+  "all_gene_BH_rechecked": true,
+  "target_set_BH_rechecked": true,
+  "block_omitted": 0
+}

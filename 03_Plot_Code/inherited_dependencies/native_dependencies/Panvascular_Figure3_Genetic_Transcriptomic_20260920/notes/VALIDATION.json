@@ -1,0 +1,11 @@
+{
+  "exact_original_MAGMA_records": 9,
+  "exact_original_pseudobulk_records": 63,
+  "protected_Figure3_a_b_d_e_f_objects": "BYTE_IDENTICAL",
+  "other14_pages": "REUSED_UNCHANGED",
+  "all15_merge_native_geometry_and_render": "IDENTICAL",
+  "text_overlap_candidates": [],
+  "visual_review": "Actual Figure3 and c detail reviewed; author approval pending",
+  "ORA": "PENDING; archived comparison retained; absent from new main c",
+  "no_scientific_models_or_tests_run": true
+}

@@ -1,0 +1,26 @@
+{
+  "python": "3.9.25 (main, Nov  3 2025, 22:33:05) \n[GCC 11.2.0]",
+  "packages": {
+    "scdrs": "1.0.2",
+    "scanpy": "1.9.3",
+    "anndata": "0.8.0",
+    "numpy": "1.23.5",
+    "scipy": "1.10.1",
+    "pandas": "1.5.3",
+    "h5py": "3.14.0"
+  },
+  "source": [
+    {
+      "path": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/lib/python3.9/site-packages/scdrs/pp.py",
+      "sha256": "a9fcfeee5cda20752620bece15eeaa24caccec1a2e9c2919430c5146ddd9f9c8"
+    },
+    {
+      "path": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/lib/python3.9/site-packages/scdrs/util.py",
+      "sha256": "7046a3d67516bf1b0c8f3af71ab70faa738ecb2143c650f300d2e6e40671652c"
+    },
+    {
+      "path": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/lib/python3.9/site-packages/scdrs/method.py",
+      "sha256": "055fc45f3a55cb2c7dc82c3ffc80e2e703bdded023a6f74973d7837940b61eff"
+    }
+  ]
+}

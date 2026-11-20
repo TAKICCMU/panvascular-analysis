@@ -1,0 +1,296 @@
+{
+  "Figure5_mm": [
+    183,
+    170
+  ],
+  "all_60_unit_points": 60,
+  "c_to_f_identical_SVG_elements": {
+    "FigureYa6_native_forest": true,
+    "axes_8": true,
+    "axes_9": true,
+    "axes_10": true,
+    "legend_2": true,
+    "legend_3": true,
+    "legend_4": true,
+    "text_136": true,
+    "text_137": true,
+    "text_138": true,
+    "text_139": true,
+    "text_140": true,
+    "text_141": true,
+    "text_142": true,
+    "text_143": true,
+    "text_144": true,
+    "text_145": true,
+    "text_146": true,
+    "text_147": true,
+    "text_148": true,
+    "text_149": true,
+    "text_150": true,
+    "text_151": true,
+    "text_152": true,
+    "text_153": true,
+    "text_154": true,
+    "text_155": true,
+    "text_156": true
+  },
+  "spatial_views": [
+    {
+      "key": "HE",
+      "allocated_mm": [
+        7,
+        9,
+        35,
+        19.5
+      ],
+      "data_mm": [
+        15.359374999999998,
+        8.999999999999988,
+        18.28125,
+        19.500000000000007
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": null,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "Fib_abundance",
+      "allocated_mm": [
+        54,
+        9,
+        35,
+        19.5
+      ],
+      "data_mm": [
+        62.35937499999999,
+        8.999999999999988,
+        18.281250000000007,
+        19.500000000000007
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": 1779,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "FN1",
+      "allocated_mm": [
+        7,
+        37,
+        35,
+        19.5
+      ],
+      "data_mm": [
+        15.359374999999998,
+        36.99999999999998,
+        18.28125,
+        19.500000000000007
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": 1779,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "SCARB1",
+      "allocated_mm": [
+        54,
+        37,
+        35,
+        19.5
+      ],
+      "data_mm": [
+        62.35937499999999,
+        36.99999999999998,
+        18.281250000000007,
+        19.500000000000007
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": 1779,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "HE",
+      "allocated_mm": [
+        127,
+        24,
+        48,
+        36
+      ],
+      "data_mm": [
+        134.125,
+        24.00000000000001,
+        33.75000000000001,
+        36.00000000000001
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": null,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "FN1",
+      "allocated_mm": [
+        127,
+        69,
+        48,
+        36
+      ],
+      "data_mm": [
+        134.125,
+        69.0,
+        33.75000000000001,
+        36.00000000000001
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": 1779,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "Fib_abundance",
+      "allocated_mm": [
+        127,
+        118,
+        48,
+        36
+      ],
+      "data_mm": [
+        134.125,
+        118.0,
+        33.75000000000001,
+        36.00000000000001
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": 1779,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "HE",
+      "allocated_mm": [
+        127,
+        24,
+        48,
+        36
+      ],
+      "data_mm": [
+        134.125,
+        24.00000000000001,
+        33.75000000000001,
+        36.00000000000001
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": null,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "SCARB1",
+      "allocated_mm": [
+        127,
+        69,
+        48,
+        36
+      ],
+      "data_mm": [
+        134.125,
+        69.0,
+        33.75000000000001,
+        36.00000000000001
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": 1779,
+      "interpolation": "nearest image only; no spot interpolation"
+    },
+    {
+      "key": "Fib_abundance",
+      "allocated_mm": [
+        127,
+        118,
+        48,
+        36
+      ],
+      "data_mm": [
+        134.125,
+        118.0,
+        33.75000000000001,
+        36.00000000000001
+      ],
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "spot_count": 1779,
+      "interpolation": "nearest image only; no spot interpolation"
+    }
+  ],
+  "new_fits": false,
+  "new_P_FDR": false,
+  "old_b_preserved": "review/former_Figure5b_detection_matrix.pdf",
+  "visual_review": "ACTUALLY_VIEWED_main_and_both_prototype_PNGs_AUTHOR_APPROVAL_PENDING",
+  "lower_c_f_raster_exact": true,
+  "source_hashes_unchanged": 28,
+  "manuscript_modified": false,
+  "other14_figures_modified": false,
+  "ORA": "PENDING",
+  "status": "PAUSED_FOR_FIGURE5_EVIDENCE_FOCUS_REVIEW",
+  "PDF_final_size_check": {
+    "Figure5": [
+      183,
+      170
+    ],
+    "prototype_each_page": [
+      183,
+      170
+    ],
+    "minimum_font_pt": 6,
+    "out_of_page_text_spans": 0
+  },
+  "actual_visual_review_files": [
+    "review/Figure5_after.png",
+    "review/Focus_FN1.png",
+    "review/Focus_SCARB1.png"
+  ]
+}

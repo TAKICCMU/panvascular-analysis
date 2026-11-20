@@ -1,0 +1,22 @@
+{
+  "database_lines": [
+    {
+      "block": "c_magma",
+      "group_line_x_pt": 42.528755905511815,
+      "all_three_lines_aligned": true,
+      "name_start_gap_mm": 1.2
+    },
+    {
+      "block": "c_pseudobulk",
+      "group_line_x_pt": 34.0248188976378,
+      "all_three_lines_aligned": true,
+      "name_start_gap_mm": 1.2
+    }
+  ],
+  "all_29_forest_rows_unchanged": true,
+  "evidence_matrix_SVG_unchanged": true,
+  "no_not_evaluated_cells_in_matrix": true,
+  "f_existing_rows": 10,
+  "f_shared_SNP_counts_equal_between_scenarios": true,
+  "new_models_or_statistics": false
+}

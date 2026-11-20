@@ -1,0 +1,165 @@
+check	status	detail
+table_header_Table 01	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_01	PASS	26
+table_header_Table 02	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_02	PASS	247
+table_header_Table 03	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_03	PASS	116
+table_header_Table 04	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_04	PASS	8
+table_header_Table 05	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_05	PASS	708
+table_header_Table 06	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_06	PASS	64
+table_header_Table 07	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_07	PASS	8
+table_header_Table 08	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_08	PASS	16
+table_header_Table 09	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_09	PASS	9
+table_header_Table 10	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_10	PASS	5
+table_header_Table 11	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_11	PASS	10
+table_header_Table 12	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_12	PASS	29
+table_header_Table 13	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_13	PASS	29
+table_header_Table 14	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_14	PASS	14
+table_header_Table 15	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_15	PASS	89
+table_header_Table 16	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_16	PASS	14
+table_header_Table 17	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_17	PASS	1372
+table_header_Table 18	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_18	PASS	196
+table_header_Table 19	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_19	PASS	16194
+table_header_Table 20	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_20	PASS	36752
+table_header_Table 21	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_21	PASS	49
+table_header_Table 22	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_22	PASS	7
+table_header_Table 23	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_23	PASS	50
+table_header_Table 24	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_24	PASS	15
+table_header_Table 25	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_25	PASS	64
+table_header_Table 26	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_26	PASS	6114
+table_header_Table 27	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_27	PASS	8
+table_header_Table 28	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_28	PASS	247
+table_header_Table 29	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_29	PASS	116
+table_header_Table 30	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_30	PASS	416
+table_header_Table 31	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_31	PASS	247
+table_header_Table 32	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_32	PASS	87
+table_header_Table 33	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_33	PASS	112
+table_header_Table 34	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_34	PASS	168
+table_header_Table 35	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_35	PASS	582
+table_header_Table 36	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_36	PASS	12
+table_header_Table 37	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_37	PASS	3728
+table_header_Table 38	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_38	PASS	176
+table_header_Table 39	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_39	PASS	6
+table_header_Table 40	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_40	PASS	418
+table_header_Table 41	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_41	PASS	58
+table_header_Table 42	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_42	PASS	87
+table_header_Table 43	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_43	PASS	15639
+table_header_Table 44	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_44	PASS	24
+table_header_Table 45	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_45	PASS	700
+table_header_Table 46	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_46	PASS	8
+table_header_Table 47	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_47	PASS	9
+table_header_Table 48	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_48	PASS	348
+table_header_Table 49	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_49	PASS	5506
+table_header_Table 50	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_50	PASS	7
+table_header_Table 51	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_51	PASS	6
+table_header_Table 52	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_52	PASS	18
+table_header_Table 53	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_53	PASS	348
+table_header_Table 54	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_54	PASS	7
+table_header_Table 55	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_55	PASS	70
+table_header_Table 56	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_56	PASS	7
+table_header_Table 57	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_57	PASS	8574
+table_header_Table 58	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_58	PASS	6132
+table_header_Table 59	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_59	PASS	2842
+table_header_Table 60	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_60	PASS	816
+table_header_Table 61	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_61	PASS	217
+table_header_Table 62	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_62	PASS	5506
+table_header_Table 63	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_63	PASS	1568
+table_header_Table 64	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_rows_64	PASS	4
+table_header_Table 13	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+Figure3de_Table13	PASS	{'rows': 29, 'unmatched': 0, 'mismatches': {'metalogfc': 0, 'metase': 0, 'metap': 0, 'metacilow': 0, 'metacihigh': 0, 'targetsetmetafdr': 0, 'directionconsistency': 0}}
+table_header_Table 32	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+Figure5_all87_Table32	PASS	{'rows': 87, 'unmatched': 0, 'mismatches': {'beta': 0, 'se': 0, 'p': 0, 'cilow': 0, 'cihigh': 0, 'fdrbhall29pairsx3terms': 0}}
+Figure5c_original_meta29	PASS	{'rows': 29, 'unmatched': 0, 'mismatches': {'beta': 0, 'cilow': 0, 'cihigh': 0, 'fdrbhall29pairsx3terms': 0}}
+Figure5b_original_unit_estimates	PASS	{'rows': 60, 'unmatched': 0, 'mismatches': {'beta': 0, 'se': 0, 'nsections': 0}}
+Figure5b_count	PASS	{'estimates': 60, 'recorded_IDs': 34, 'by_gene': {'FN1': 34, 'SCARB1': 26}}
+Figure1g_geometry	PASS	14 x 28 stored matrix, row/column identity
+Figure1g_scaled_storage	PASS	Stored B vs min-max of stored A; not new expression computation
+Figure1g_detection_range	PASS	Fractions 0–1
+Figure1g_prior_raw_recheck	PASS	{'max_mean_error': np.float64(0.0), 'max_detection_error': np.float64(0.0), 'scope': 'Earlier raw recheck record read only; not repeated now', 'coverage_limit': ['NO_CELL_OR_SAMPLE_GENE_MEASUREMENT_MASK']}
+Figure3c_MAGMA_original_GSEA	PASS	{'rows': 9, 'unmatched': 0, 'mismatches': {'pval': 0, 'padj': 0, 'nes': 0, 'size': 0, 'nrankedgenes': 0}}
+MAGMA_display_scope	PASS	{'GO_BP': 3, 'KEGG_LEGACY': 3, 'REACTOME': 3}
+Figure3c_pseudobulk_full_DL_GSEA	PASS	{'rows': 63, 'unmatched': 0, 'mismatches': {'nes': 0, 'pval': 0, 'padj': 0, 'size': 0, 'nrankedgenes': 0}}
+pseudobulk_display_scope	PASS	9 pathways x 7 L1 groups; signed DL rank
+atlas_n_cells	PASS	1175115
+table_header_Table 29	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+table_header_Table 29	PASS	Preserved machine headers match mapping; workbook uses mapped display headers
+named_state_table29	PASS	116
+full_recurrence_groups	PASS	128
+adopted_Figure1	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_Figure2	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_Figure3	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_Figure4	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_Figure5	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure1	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure2	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure3	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure4	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure5	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure6	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure7	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure8	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure9	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+adopted_ExtendedData_Figure10	PASS	PDF/SVG vs adopted manifest; this is identity check, not new visual approval
+packaged_native_resolver_dependency	REVIEW_REQUIRED	figure_code/native_plot_code/merge_records/PATH_MAP.json missing in inherited package; original manifest recovered separately, not silently patched

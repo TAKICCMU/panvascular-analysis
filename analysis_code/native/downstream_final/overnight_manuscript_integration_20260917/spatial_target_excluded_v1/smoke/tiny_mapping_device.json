@@ -1,0 +1,8 @@
+{
+  "device": "cuda:0",
+  "pid": 2362697,
+  "epochs": 2,
+  "batch_size": null,
+  "gpu_peak_bytes": 17518592,
+  "history_rows": 2
+}

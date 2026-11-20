@@ -1,0 +1,17 @@
+{
+  "status": "AUDIT_ONLY_NOT_APPROVED_TO_RUN",
+  "sample_registry": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/covarnet_pseudobulk_launch_review_20260915/updated_scope_audit_v2/sample_sidecar_updated.tsv",
+  "sample_registry_sha256": "39a2e33bb4f2f7b3ab5027dc62ce8ce51c8c0e266f105f8e686f6ecd7a5d82e3",
+  "profile_unit": "sample_uid",
+  "donor_block": "donor_uid; unresolved samples have individual placeholders, not inferred donors",
+  "all_three_GSE224587_proximal_samples": "healthy; same donor as matching center",
+  "exclude_study": [
+    "GSE220774"
+  ],
+  "exclude_samples": [
+    "GSE224559__GSM7025944",
+    "GSE224559__GSM7025945"
+  ],
+  "scope": "CoVarNet only; no historical analysis mutation",
+  "CoVarNet_run": false
+}

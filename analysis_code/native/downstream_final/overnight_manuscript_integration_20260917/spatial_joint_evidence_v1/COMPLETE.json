@@ -1,0 +1,15 @@
+{
+  "status": "TECHNICAL_COMPLETE_DESCRIPTIVE_NOT_INDEPENDENT_VALIDATION",
+  "datasets": 7,
+  "sections": 49,
+  "spots": 45348,
+  "biological_units": 35,
+  "QC_fallback_sections": 2,
+  "target_pairs": 29,
+  "target_section_posterior_models_ok": 2046,
+  "target_model_rows": 6138,
+  "target_meta_rows": 348,
+  "reference_target_excluded": false,
+  "threads": 1,
+  "ended": 1789580534.2593873
+}

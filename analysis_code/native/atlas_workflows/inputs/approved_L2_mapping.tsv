@@ -1,0 +1,97 @@
+branch	level1_annotation	cluster_key	cluster_uid	n_cells	L2_annotation	action	previous_review_status	previous_candidate_name	marker_candidates	rationale
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_1	2321	CXCL10 IFN-responsive macrophage	NAME	PRIORITY_NAMING	CXCL10 IFN-responsive macrophage	CXCL10;RSAD2;ISG15;MX1;IFIT1;IFIT3	多基因IFN程序及巨噬身份完整；名称不区分或证明特定IFN刺激来源。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_3	13961	CD83 activated macrophage	NAME	PRIORITY_NAMING	CD83 activated macrophage	CD83;RGS1;SGK1;HLA-DRA;IL1B;CCL3	激活与APC/炎症程序重叠，作为命名候选保留；需与6/17比较后确认分辨率。CD83阳性不等于DC。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_5	5458	MKI67 proliferating macrophage	NAME	PRIORITY_NAMING	MKI67 proliferating macrophage	MKI67;TOP2A;UBE2C;BIRC5	多个细胞周期基因共同支持，巨噬身份保留；程序命名不代表独立发育谱系。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_6	32438	HLA-DRA antigen-presenting macrophage	NAME	PRIORITY_NAMING	HLA-DRA antigen-presenting macrophage	HLA-DRA;HLA-DPA1;HLA-DPB1;HLA-DMA;CD74	完整HLA-II/APC程序，与炎症信号并存；不由HLA-II alone判定DC。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_8	7832	MSR1 phagocytosis-associated macrophage	NAME	PRIORITY_NAMING	MSR1 phagocytosis-associated macrophage	MSR1;MERTK;STAB1;NCKAP5;IGSF21;FCGBP	吞噬/清除受体组合的表达相关候选，未实际测吞噬。可讨论NCKAP5锚点，但不由单基因推断功能。与9/10/13比较。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_9	16558	LYVE1 resident-like macrophage	NAME	PRIORITY_NAMING	LYVE1 resident-like macrophage	LYVE1;MRC1;F13A1;FOLR2;LILRB5	LYVE1/MRC1与F13A1强；resident-like仅表达描述，不证明驻留起源或解剖位置。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_10	9819	C1QC complement-rich macrophage	NAME	PRIORITY_NAMING	C1QC complement-rich macrophage	C1QA;C1QB;C1QC;SELENOP;RNASE1;APOE	C1Q富集与炎症相对较低；复杂度较低，需与2及9/13区分；不等于补体功能已验证。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_12	9483	CYP27A1 lipid-associated macrophage	NAME	PRIORITY_NAMING	CYP27A1 lipid-associated macrophage	CYP27A1;GPNMB;LPL;APOE;TREM2;LGALS3;SPP1	多基因脂质/溶酶体程序清楚，可替代锚点GPNMB；与18均SPP1阳性，需直接比较，不证明泡沫细胞形态或功能。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_13	14189	FOLR2 resident-like macrophage	NAME	PRIORITY_NAMING	FOLR2 resident-like macrophage	FOLR2;SELENOP;IGF1;SLC40A1;MRC1;F13A1	FOLR2/SELENOP/IGF1程序突出，LYVE1也表达；可保留与9的区分候选，不以共享resident就强合并。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_17	9172	IL1B inflammatory macrophage	NAME	PRIORITY_NAMING	IL1B inflammatory macrophage	IL1B;CXCL8;PTGS2;TRAF1;PLAUR;NLRP3	炎症多基因一致；按marker相关状态描述，不直接命名M1或推断功能因果。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_18	7757	SPP1 lipid-associated macrophage	NAME	PRIORITY_NAMING	SPP1 lipid-associated macrophage	SPP1;GPNMB;TREM2;LPL;PSD3;PCSK6	SPP1同时有脂质相关组合；与12相比APOE/GPNMB/CYP27A1程序不同程度，独立节点需直接比较，不按SPP1单基因划分。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_19	10878	CCL20 inflammatory macrophage	NAME	PRIORITY_NAMING	CCL20 inflammatory macrophage	CCL20;PHLDA1;C15ORF48;EREG;MMP19;CXCL8	趋化/炎症及重塑相关组合，与17炎症状态有重叠，保留待审细粒度候选而不是按共同炎症强合并。
+Macrophage	Macrophage	mac_L2_r1p2	MacL2_R1_r1p2_11	2531	Unknown	UNKNOWN	RECOMMEND_L2_UNKNOWN	Unknown	DCN;LUM;COL1A1;COL1A2;PDLIM3;C1QC	多基因基质与髓系信号明显混合，不命名ECM macrophage，也不改L1或宣称双细胞；建议仅L2 Unknown。
+Fibroblast	Fibroblast	lineage_L2_r0p8	FibL2_R1_r0p8_2	34062	LAMA2 tissue-associated fibroblast	NAME	NAME_CANDIDATE	LAMA2 tissue-associated fibroblast	LAMA2;SCARA5;ABI3BP;BNC2	先保留名称候选；已有r1.2可用于区分内部相关状态。
+Fibroblast	Fibroblast	lineage_L2_r0p8	FibL2_R1_r0p8_4	32421	PI16 adventitial-like fibroblast	NAME	NAME_CANDIDATE	PI16 adventitial-like fibroblast	PI16;MFAP5;CFD;SCARA5	adventitial-like仅为转录参考，不证明空间定位。
+Fibroblast	Fibroblast	lineage_L2_r0p8	FibL2_R1_r0p8_6	46446	ITGA8 contractile-program fibroblast	NAME	NAME_CANDIDATE	ITGA8 contractile-program fibroblast	ITGA8;TAGLN;BGN;DCN;LUM;COL1A2	Fib基质核心广泛，伴随收缩程序；不因单个MYH11阳性就回改L1。需与另一个SMC占优的簇11区分。
+Fibroblast	Fibroblast	lineage_L2_r0p8	FibL2_R1_r0p8_7	15863	FAP activated ECM-remodelling fibroblast	NAME	NAME_CANDIDATE	FAP activated ECM-remodelling fibroblast	FAP;TNC;SERPINE1;SPHK1;TNFRSF12A	
+Fibroblast	Fibroblast	lineage_L2_r0p8	FibL2_R1_r0p8_8	17394	CXCL12 chemokine-expressing fibroblast	NAME	NAME_CANDIDATE	CXCL12 chemokine-expressing fibroblast	CXCL12;CXCL14;CCL19;C7	不据此宣称空间上的周血管定位。
+Fibroblast	Fibroblast	lineage_L2_r0p8	FibL2_R1_r0p8_3	3464	ITGBL1 ECM-remodelling fibroblast	NAME	NAME_CANDIDATE	ITGBL1 ECM-remodelling fibroblast	ITGBL1;LTBP2;OGN;COL1A2	
+Fibroblast	Fibroblast	lineage_L2_r0p8	FibL2_R1_r0p8_9	6509	FOSB stress-responsive fibroblast	NAME	NAME_CANDIDATE	FOSB stress-responsive fibroblast	FOSB;JUNB;ATF3;DNAJB1	应激/即时早期表达不等于疾病特异激活，保留处理效应的可能。
+Fibroblast	Fibroblast	lineage_L2_r0p8	FibL2_R1_r0p8_11	2279	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	MYOCD;MYH11;CNN1;LMOD1;CARMN;DCN	MYOCD/MYH11/CNN1/LMOD1/CARMN成套收缩程序突出，仍有基质表达；建议在L2设Unknown，L1保持Fibroblast。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_1	20939	CNN1 contractile SMC	NAME	NAME_CANDIDATE	CNN1 contractile SMC	CNN1;ACTA2;TAGLN;MYH11;LMOD1	与11号直接比较；两个强收缩簇不必自动视为两个独立state。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_4	7260	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	DCN;LUM;PDGFRA;MYH11;CNN1	DCN/LUM/PDGFRA基质程序明显高于成熟收缩程序，建议L2 Unknown，不返回L1改Fib。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_5	22487	COX4I2 contractile SMC	NAME	NAME_CANDIDATE	COX4I2 contractile SMC	COX4I2;RERGL;MYH11;CNN1;LMOD1	SMC核心很强；不能因COX4I2或RGS5就改Pericyte。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_7	2658	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	PTPRC;MS4A1;CD79A;BANK1;MYH11	B/免疫相关程序与SMC混合，不能解释为SMC独特功能状态。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_8	7132	CCL21 chemokine-expressing SMC	NAME	NAME_CANDIDATE	CCL21 chemokine-expressing SMC	CCL21;CCL19;STEAP4;FGF7;LMOD1;MYH11	SMC与周细胞相关表达重叠，不自动排除；化学因子表达不证明空间功能。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_9	2480	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	MS4A1;CD79A;CD79B;MZB1;MYH11	MS4A1/CD79A/CD79B和免疫球蛋白组合突出，完整SMC核心相对弱。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_10	30411	EFEMP1 ECM-remodelling SMC	NAME	NAME_CANDIDATE	EFEMP1 ECM-remodelling SMC	EFEMP1;OMD;BGN;LTBP2;MYH11;CNN1	保留强SMC核心，ECM阳性不等于跨谱系污染。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_11	12272	MYH11 contractile SMC	NAME	NAME_CANDIDATE	MYH11 contractile SMC	MYH11;PRKG1;LMOD1;MYLK	与1、5等做有限pairwise以确定是否保留独立state。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_13	2733	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	PI16;MFAP5;SCARA5;DCN;MYH11	PI16/MFAP5/SCARA5等Fib程序突出，收缩仍有信号；优先身份复核。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_15	7532	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	DCN;S100B;LUM;MYH11;SOX10;MPZ	DCN/S100B等基质程序占优，成熟SMC弱；不能因S100B命名Schwann。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_16	1451	IFIT1 IFN-responsive SMC	NAME	NAME_CANDIDATE	IFIT1 IFN-responsive SMC	IFIT1;IFIT3;IFI44L;MX1;ISG15	一个sample贡献约45.8%，先保留IFN表型，不宣称跨研究稳定。
+SMC	Smooth muscle cell	lineage_L2_r0p8	SMCL2_R1_r0p8_19	294	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	SLC34A2;AGR3;PIGR;EPCAM;KRT18	SLC34A2/AGR3/PIGR及EPCAM/KRT18支持上皮混合，SMC核心弱；94.2%来自单study。
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_0	19887	ACKR1 venous endothelial cell	NAME	NAME_CANDIDATE	ACKR1 venous endothelial cell	ACKR1;VWF;NR2F2;PLVAP	与9号为同一静脉轴的不同状态候选，尚未决定是否合并。
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_2	8222	CA4 capillary endothelial cell	NAME	NAME_CANDIDATE	CA4 capillary endothelial cell	CA4;RGCC;EMCN;KDR;BTNL9	
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_3	7194	SEMA3G arterial endothelial cell	NAME	NAME_CANDIDATE	SEMA3G arterial endothelial cell	SEMA3G;GJA5;EFNB2;HEY1	
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_6	2255	PROX1 lymphatic endothelial cell	NAME	NAME_CANDIDATE	PROX1 lymphatic endothelial cell	PROX1;CCL21;PDPN;FLT4;TFF3	
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_7	1428	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	CD3D;CD3E;TRAC;PECAM1;VWF	CD3D/CD3E/TRAC等T受体程序与内皮同时明显，按规则建议L2 Unknown。
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_8	8265	OMD matrix-associated endothelial cell	NAME	NAME_CANDIDATE	OMD matrix-associated endothelial cell	OMD;EDN1;BGN;FN1;PECAM1;CDH5	内皮核心和BMPER/NRG1同时有支持；与10/13比较，不仅因ECM就排除。
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_9	9303	ZNF385D venous endothelial cell	NAME	NAME_CANDIDATE	ZNF385D venous endothelial cell	ZNF385D;TLL1;ACKR1;VWF	需要与0号直接比较才能最终决定独立state。
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_11	1179	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	DCN;LUM;COL1A1;COL1A2;PECAM1	DCN/LUM/胶原等Fib程序广泛，并有内皮程序；不据此称EndMT。
+Endothelial	Endothelial cell	lineage_L2_r0p8	EndoL2_R1_r0p8_12	1272	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	TYROBP;LST1;CSF1R;MS4A7;PECAM1	TYROBP/LST1/CSF1R及髓系FindMarkers与内皮表达重叠。
+Fibromyocyte	Fibromyocyte	lineage_L2_r0p8	FMCL2_R1_r0p8_0	4014	DCN fibroblast-like fibromyocyte	NAME	NAME_CANDIDATE	DCN fibroblast-like fibromyocyte	DCN;LUM;COL1A2;FN1;TAGLN	
+Fibromyocyte	Fibromyocyte	lineage_L2_r0p8	FMCL2_R1_r0p8_2	2652	ACTA2 contractile fibromyocyte	NAME	NAME_CANDIDATE	ACTA2 contractile fibromyocyte	ACTA2;TAGLN;MYH11;COL1A2	这一本就属于Fib/收缩父类；不因MYH11高再回改L1。
+Fibromyocyte	Fibromyocyte	lineage_L2_r0p8	FMCL2_R1_r0p8_4	2844	PRKG1 contractile fibromyocyte	NAME	NAME_CANDIDATE	PRKG1 contractile fibromyocyte	PRKG1;MYH11;LMOD1;COL1A2	与11/8比较，避免把不同anchor当成不同真实state。
+Fibromyocyte	Fibromyocyte	lineage_L2_r0p8	FMCL2_R1_r0p8_5	1984	ITGA10 ECM-remodelling fibromyocyte	NAME	NAME_CANDIDATE	ITGA10 ECM-remodelling fibromyocyte	ITGA10;CYTL1;COL1A2;AEBP1;FN1	
+Fibromyocyte	Fibromyocyte	lineage_L2_r0p8	FMCL2_R1_r0p8_7	1866	CD9 ECM-remodelling fibromyocyte	NAME	NAME_CANDIDATE	CD9 ECM-remodelling fibromyocyte	CD9;CD151;DKK3;GAS6;FN1	
+Fibromyocyte	Fibromyocyte	lineage_L2_r0p8	FMCL2_R1_r0p8_9	2236	LAMA2 matrix-associated fibromyocyte	NAME	NAME_CANDIDATE	LAMA2 matrix-associated fibromyocyte	LAMA2;RBMS3;COL1A2;FN1	RBMS3不自动支持progenitor命名。
+Fibromyocyte	Fibromyocyte	lineage_L2_r0p8	FMCL2_R1_r0p8_10	4298	FOSB stress-responsive fibromyocyte	NAME	NAME_CANDIDATE	FOSB stress-responsive fibromyocyte	FOSB;JUND;PTGS2;COL1A2	不能区分采样应激和体内激活。
+Pericyte	Pericyte	lineage_L2_r0p8	PeriL2_R1_r0p8_1	532	COX4I2 pericyte	NAME	NAME_CANDIDATE	COX4I2 pericyte	COX4I2;NDUFA4L2;RGS5;ABCC9	先保留marker定义；不是新功能已证实。
+Pericyte	Pericyte	lineage_L2_r0p8	PeriL2_R1_r0p8_3	597	PRKG1 contractile-program pericyte	NAME	NAME_CANDIDATE	PRKG1 contractile-program pericyte	PRKG1;DLC1;ABCC9;KCNJ8	与SMC共享收缩信号不自动否定已冻结周细胞L1。
+Pericyte	Pericyte	lineage_L2_r0p8	PeriL2_R1_r0p8_5	586	PDGFRA matrix-associated pericyte	NAME	NAME_CANDIDATE	PDGFRA matrix-associated pericyte	PDGFRA;FN1;THBS2;VCAN;RGS5	
+Pericyte	Pericyte	lineage_L2_r0p8	PeriL2_R1_r0p8_7	248	COL4A1 basement-membrane-associated pericyte	NAME	NAME_CANDIDATE	COL4A1 basement-membrane-associated pericyte	COL4A1;COL4A2;RGS5;ABCC9	基因表达关联，不等同功能验证。
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_0	5521	FGFBP2 cytotoxic T cell	NAME	NAME_CANDIDATE	FGFBP2 cytotoxic T cell	FGFBP2;GNLY;NKG7;CD3D;CD3E;TRAC	T受体组合仍清楚，不能仅因GNLY高就叫NK。
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_1	1693	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	MYH11;CARMN;LMOD1;CD3D;TRAC	MYH11/CARMN/LMOD1等壁细胞组合与T信号共存，建议L2 Unknown。
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_4	29699	GZMK cytotoxic-memory T cell	NAME	NAME_CANDIDATE	GZMK cytotoxic-memory T cell	GZMK;CD8A;CD8B;TRAC	CD8相关表达支持，但主名暂不用强制CD8限定。
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_5	13574	ZEB2 cytotoxic T cell	NAME	NAME_CANDIDATE	ZEB2 cytotoxic T cell	ZEB2;NKG7;GZMB;CD8A;TRAC	
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_7	23231	IL7R memory T cell	NAME	NAME_CANDIDATE	IL7R memory T cell	IL7R;KLRB1;LTB;CD3D;TRAC	与6/2差异需要现有1.2与pairwise核对。
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_10	8643	ZNF683 cytotoxic T cell	NAME	NAME_CANDIDATE	ZNF683 cytotoxic T cell	ZNF683;HOPX;KLRC1;CD8B;TRAC	未使用resident作为确定解剖或来源结论。
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_11	2715	MKI67 proliferating T cell	NAME	NAME_CANDIDATE	MKI67 proliferating T cell	MKI67;TOP2A;UBE2C;BIRC5;CD3D	
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_12	1489	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	SH2D1B;NCAM1;NCR1;KLRD1;GNLY;CD3D;TRAC	SH2D1B/NCAM1/NCR1及NK组合强，CD3D/TRAC低；L2不强塞进T状态。
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_13	4783	FOXP3 regulatory T cell	NAME	NAME_CANDIDATE	FOXP3 regulatory T cell	FOXP3;IL2RA;CTLA4;CD3D;TRAC	
+T_cell	T cell	lineage_L2_r0p8	TL2_R1_r0p8_15	994	IFIT1 IFN-responsive T cell	NAME	NAME_CANDIDATE	IFIT1 IFN-responsive T cell	IFIT1;IFIT3;ISG15;MX1;TRAC	
+NK_cell	Natural killer cell	lineage_L2_r0p8	NKL2_R1_r0p8_1	4352	FGFBP2 cytotoxic NK cell	NAME	NAME_CANDIDATE	FGFBP2 cytotoxic NK cell	FGFBP2;FCGR3A;GNLY;PRF1	与5号强相关，不预先判为两个独立state。
+NK_cell	Natural killer cell	lineage_L2_r0p8	NKL2_R1_r0p8_3	1138	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	CD3D;CD3E;CD3G;TRAC;KLRD1;GNLY	局部CD3D/CD3E/CD3G/TRAC组合集中，同时NK程序存在；建议L2 Unknown，不回改冻结NK L1。
+NK_cell	Natural killer cell	lineage_L2_r0p8	NKL2_R1_r0p8_6	1131	XCL1 chemokine-expressing NK cell	NAME	NAME_CANDIDATE	XCL1 chemokine-expressing NK cell	XCL1;XCL2;SPINK2;NKG7;KLRD1	MKI67只在少部分检出，不叫整簇增殖。
+NK_cell	Natural killer cell	lineage_L2_r0p8	NKL2_R1_r0p8_7	3960	GZMK chemokine-associated NK cell	NAME	NAME_CANDIDATE	GZMK chemokine-associated NK cell	GZMK;XCL1;XCL2;NKG7;KLRD1	
+Dendritic	Dendritic cell	lineage_L2_r0p8	DCL2_R1_r0p8_2	824	CLEC9A cDC1 dendritic cell	NAME	NAME_CANDIDATE	CLEC9A cDC1 dendritic cell	CLEC9A;XCR1;CADM1;BATF3	
+Dendritic	Dendritic cell	lineage_L2_r0p8	DCL2_R1_r0p8_3	1196	LILRA4 plasmacytoid dendritic cell	NAME	NAME_CANDIDATE	LILRA4 plasmacytoid dendritic cell	LILRA4;CLEC4C;IL3RA;TCF4;GZMB	JCHAIN/MZB1不使其自动成为Plasma。
+Dendritic	Dendritic cell	lineage_L2_r0p8	DCL2_R1_r0p8_5	1107	CD1C cDC2 dendritic cell	NAME	NAME_CANDIDATE	CD1C cDC2 dendritic cell	CD1C;FCER1A;CLEC10A;CD1E	
+Dendritic	Dendritic cell	lineage_L2_r0p8	DCL2_R1_r0p8_6	228	LAMP3 mature dendritic cell	NAME	NAME_CANDIDATE	LAMP3 mature dendritic cell	LAMP3;CCR7;FSCN1;CCL22	
+Dendritic	Dendritic cell	lineage_L2_r0p8	DCL2_R1_r0p8_8	144	SIGLEC6 AXL-associated dendritic cell	NAME	NAME_CANDIDATE	SIGLEC6 AXL-associated dendritic cell	SIGLEC6;AXL;CD5;LILRA4	144个细胞；命名为表达相关，不推断DC发育轨迹。
+Dendritic	Dendritic cell	lineage_L2_r0p8	DCL2_R1_r0p8_10	2520	IL1B inflammatory dendritic cell	NAME	NAME_CANDIDATE	IL1B inflammatory dendritic cell	IL1B;CXCL8;CD1C;FCER1A;CLEC10A	C1Q仍存在，成熟髓系共享程序不自动排除；保留source注意。
+Monocyte	Monocyte	lineage_L2_r0p8	MonoL2_R1_r0p8_1	3785	FCN1 classical monocyte	NAME	NAME_CANDIDATE	FCN1 classical monocyte	FCN1;S100A8;S100A9;VCAN	与3号直接比较；不假定两者独立类型。
+Monocyte	Monocyte	lineage_L2_r0p8	MonoL2_R1_r0p8_2	2470	CXCL8 inflammatory monocyte	NAME	NAME_CANDIDATE	CXCL8 inflammatory monocyte	CXCL8;CCL20;FCN1;S100A9;VCAN	
+Monocyte	Monocyte	lineage_L2_r0p8	MonoL2_R1_r0p8_3	4342	S100A12 classical monocyte	NAME	NAME_CANDIDATE	S100A12 classical monocyte	S100A12;S100A8;S100A9;FCN1;VCAN	
+Monocyte	Monocyte	lineage_L2_r0p8	MonoL2_R1_r0p8_6	6202	IL1B inflammatory monocyte	NAME	NAME_CANDIDATE	IL1B inflammatory monocyte	IL1B;FCN1;VCAN;CD74	抗原呈递程序并存，不凭HLA阳性改DC。
+Monocyte	Monocyte	lineage_L2_r0p8	MonoL2_R1_r0p8_8	1584	SERPINB2 inflammatory monocyte	NAME	NAME_CANDIDATE	SERPINB2 inflammatory monocyte	SERPINB2;ANPEP;AQP9;FCN1	待与7/2/6有限pairwise确认状态分辨率。
+Monocyte	Monocyte	lineage_L2_r0p8	MonoL2_R1_r0p8_10	401	CXCL10 IFN-responsive monocyte	NAME	NAME_CANDIDATE	CXCL10 IFN-responsive monocyte	CXCL10;IFIT1;MX1;ISG15;FCN1	
+B_cell	B cell	lineage_L2_r0p8	BL2_R1_r0p8_1	696	AICDA germinal-centre-like B cell	NAME	NAME_CANDIDATE	AICDA germinal-centre-like B cell	AICDA;BCL6;RGS13;SERPINA9;MEF2B	虽TCL1A高但GC组合更完整；88.6%来自单study，不声称跨研究普遍。
+B_cell	B cell	lineage_L2_r0p8	BL2_R1_r0p8_5	1112	BANK1 memory-like B cell	NAME	NAME_CANDIDATE	BANK1 memory-like B cell	BANK1;CD27;TNFRSF13B;MS4A1	
+B_cell	B cell	lineage_L2_r0p8	BL2_R1_r0p8_6	1284	MT2A stress-responsive B cell	NAME	NAME_CANDIDATE	MT2A stress-responsive B cell	MT2A;HSPA6;BAG3;MS4A1	应激与来源影响需分开，不称疾病特异。
+B_cell	B cell	lineage_L2_r0p8	BL2_R1_r0p8_7	880	TCL1A naive-like B cell	NAME	NAME_CANDIDATE	TCL1A naive-like B cell	TCL1A;IGHD;IGHM;MS4A1	与9号可能是同一基本状态的深度/来源差别。
+B_cell	B cell	lineage_L2_r0p8	BL2_R1_r0p8_8	1514	NR4A1 activated B cell	NAME	NAME_CANDIDATE	NR4A1 activated B cell	NR4A1;NR4A2;CD69;CD83;MS4A1	
+Plasma	Plasma cell	lineage_L2_r0p8	PlasmaL2_R1_r0p8_2	318	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	CD3D;CD3E;TRAC;MZB1;JCHAIN	CD3D/CD3E/TRAC与Plasma程序共存，建议L2 Unknown。
+Plasma	Plasma cell	lineage_L2_r0p8	PlasmaL2_R1_r0p8_5	1317	DERL3 secretory plasma cell	NAME	NAME_CANDIDATE	DERL3 secretory plasma cell	DERL3;PRDX4;MZB1;XBP1	与0/4/7可能是分泌轴，需pairwise判断粒度；不是已证实新亚型。
+Mast	Mast cell	lineage_L2_r0p8	MastL2_R1_r0p8_3	868	P2RY14 receptor-associated mast cell	NAME	NAME_CANDIDATE	P2RY14 receptor-associated mast cell	P2RY14;KIT;STXBP5;HDC	表达相关命名，不证明脱颗粒功能。
+Mast	Mast cell	lineage_L2_r0p8	MastL2_R1_r0p8_4	94	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	PECAM1;VWF;CDH5;TPSAB1;KIT	内皮组合与Mast核心并存。
+Mast	Mast cell	lineage_L2_r0p8	MastL2_R1_r0p8_5	688	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	C1QC;CD68;LST1;TPSAB1;KIT	C1Q/髓系组合与Mast核心广泛重叠。
+Mast	Mast cell	lineage_L2_r0p8	MastL2_R1_r0p8_7	1380	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	DCN;LUM;COL1A2;TPSAB1;TPSB2	DCN/LUM/COL1A1/2基质程序强，Mast程序也存在。
+Mast	Mast cell	lineage_L2_r0p8	MastL2_R1_r0p8_8	151	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	MYH11;LMOD1;CNN1;TPSAB1;KIT	MYH11/LMOD1等完整SMC组合与Mast核心同时高。
+Mast	Mast cell	lineage_L2_r0p8	MastL2_R1_r0p8_9	1452	NFKBIA activation-associated mast cell	NAME	NAME_CANDIDATE	NFKBIA activation-associated mast cell	NFKBIA;BIRC3;CDKN1A;TPSAB1	不推断激活的病因或是否已发生脱颗粒。
+Mast	Mast cell	lineage_L2_r0p8	MastL2_R1_r0p8_12	257	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	CD3D;CD3E;TRAC;TPSAB1;KIT	CD3D/CD3E/TRAC的T组合与Mast共存。
+Mast	Mast cell	lineage_L2_r0p8	MastL2_R1_r0p8_13	318	Unknown	UNKNOWN	L2_UNKNOWN_CANDIDATE	Unknown	CD68;C1QC;TYROBP;TPSAB1;KIT	CD68/C1QC及髓系程序高而Mast核心仍在。
+Neutrophil	Neutrophil	lineage_L2_r0p8	NeutroL2_R1_r0p8_3	2450	CXCL8 inflammatory neutrophil	NAME	NAME_CANDIDATE	CXCL8 inflammatory neutrophil	CXCL8;G0S2;SOD2;CSF3R	表达相关，不是病因或功能独立验证。
+Neutrophil	Neutrophil	lineage_L2_r0p8	NeutroL2_R1_r0p8_6	2053	S100A12 inflammatory neutrophil	NAME	NAME_CANDIDATE	S100A12 inflammatory neutrophil	S100A12;S100A8;S100A9;MMP9;CSF3R	

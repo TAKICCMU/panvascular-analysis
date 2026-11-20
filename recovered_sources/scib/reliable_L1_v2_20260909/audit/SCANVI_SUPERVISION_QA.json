@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "actual_model_unlabeled_indices_match": true,
+  "actual_model_labeled_indices_match": true,
+  "n_unlabeled": 132981,
+  "n_labeled": 182968,
+  "model_loaded_on_CPU_for_audit": true
+}

@@ -1,0 +1,40 @@
+state_id	level1_annotation	level2_annotation	hex	within_parent_display_order	non_named_state
+L2_700ff29be0fb	Endothelial cell	ACKR1 venous endothelial cell	#377E9A	1	False
+L2_43528a699905	Endothelial cell	ASPN matrix-associated endothelial cell	#B98D4F	2	False
+L2_86f704962638	Endothelial cell	CA4 capillary endothelial cell	#7C6EAA	3	False
+L2_4625e955d444	Endothelial cell	NRG1 matrix-associated endothelial cell	#4D9B8D	4	False
+L2_8f0c48bd4aba	Endothelial cell	OMD matrix-associated endothelial cell	#B56870	5	False
+L2_a62ba8a9b9b0	Endothelial cell	PECAM1 endothelial cell	#768B51	6	False
+L2_e113afe05c7c	Endothelial cell	PROX1 lymphatic endothelial cell	#6486B6	7	False
+L2_641baf39fb8c	Endothelial cell	SEMA3G arterial endothelial cell	#B67D58	8	False
+L2_95500ac5486e	Endothelial cell	ZNF385D venous endothelial cell	#9B7FA1	9	False
+L2_cee868a0824a	Fibroblast	CDH19 matrix-associated fibroblast	#377E9A	1	False
+L2_2705ff04f2a0	Fibroblast	CLDN1 matrix-associated fibroblast	#B98D4F	2	False
+L2_96fc15d3a0ef	Fibroblast	CXCL12 chemokine-expressing fibroblast	#7C6EAA	3	False
+L2_1470e9acba10	Fibroblast	DCN fibroblast	#4D9B8D	4	False
+L2_df6ac5f97d56	Fibroblast	FAP activated ECM-remodelling fibroblast	#B56870	5	False
+L2_c6cf7820e034	Fibroblast	FOSB stress-responsive fibroblast	#768B51	6	False
+L2_2103f18a553c	Fibroblast	ITGA8 contractile-program fibroblast	#6486B6	7	False
+L2_fd8a511dae68	Fibroblast	ITGBL1 ECM-remodelling fibroblast	#B67D58	8	False
+L2_065af36c5807	Fibroblast	LAMA2 tissue-associated fibroblast	#9B7FA1	9	False
+L2_5fbc7aa67bb5	Fibroblast	LTBP2 ECM-remodelling fibroblast	#4C7779	10	False
+L2_d933b1dfdc96	Fibroblast	PI16 adventitial-like fibroblast	#AD9D67	11	False
+L2_24e16725a6dd	Fibroblast	RSAD2 IFN-responsive fibroblast	#718C9C	12	False
+L2_055c558b1d77	Fibroblast	S100B matrix-associated fibroblast	#B8808F	13	False
+L2_06ccf0eea037	Macrophage	C1QC complement-rich macrophage	#377E9A	1	False
+L2_dcc124caf722	Macrophage	CCL20 inflammatory macrophage	#B98D4F	2	False
+L2_a7ffc2cbbbf1	Macrophage	CCL3 activated resident-like macrophage	#7C6EAA	3	False
+L2_388e7ab8a86a	Macrophage	CD68 macrophage	#4D9B8D	4	False
+L2_6076c8fdbb80	Macrophage	CD83 activated macrophage	#B56870	5	False
+L2_669fb73116cd	Macrophage	CXCL10 IFN-responsive macrophage	#768B51	6	False
+L2_002b936eafb0	Macrophage	CYP27A1 lipid-associated macrophage	#6486B6	7	False
+L2_343e08d912e8	Macrophage	FCN1 monocyte-like macrophage	#B67D58	8	False
+L2_1e430987af3f	Macrophage	HLA-DRA antigen-presenting macrophage	#9B7FA1	9	False
+L2_adb1ee0c9e55	Macrophage	IL1B inflammatory macrophage	#4C7779	10	False
+L2_e1236472a79d	Macrophage	JUN stress-responsive macrophage	#AD9D67	11	False
+L2_3a22177ca243	Macrophage	KYNU inflammatory macrophage	#718C9C	12	False
+L2_accd24a5cd99	Macrophage	LYVE1 resident-like macrophage	#B8808F	13	False
+L2_ad81293a8367	Macrophage	MKI67 proliferating macrophage	#889869	14	False
+L2_4004d577bdcf	Macrophage	MSR1 phagocytosis-associated macrophage	#526C9A	15	False
+L2_0f291d68992d	Macrophage	PDE4C-high macrophage	#8C7155	16	False
+L2_53ea43ca145f	Macrophage	SPP1 lipid-associated macrophage	#6E9EAA	17	False

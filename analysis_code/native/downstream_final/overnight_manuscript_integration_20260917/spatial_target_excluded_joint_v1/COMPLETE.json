@@ -1,0 +1,16 @@
+{
+  "status": "TECHNICAL_COMPLETE_DESCRIPTIVE_NOT_INDEPENDENT_VALIDATION",
+  "mapping_root_override": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs",
+  "datasets": 7,
+  "sections": 49,
+  "spots": 45348,
+  "biological_units": 35,
+  "QC_fallback_sections": 2,
+  "target_pairs": 29,
+  "target_section_posterior_models_ok": 2044,
+  "target_model_rows": 6132,
+  "target_meta_rows": 348,
+  "reference_target_excluded": true,
+  "threads": 1,
+  "ended": 1789618881.8581393
+}

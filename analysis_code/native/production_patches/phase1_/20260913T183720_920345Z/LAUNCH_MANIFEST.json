@@ -1,0 +1,32 @@
+{
+  "job": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/phase1_/20260913T183720_920345Z",
+  "config": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/phase1_/20260913T183720_920345Z/configs/cpu_config_APPROVED.yaml",
+  "command": [
+    "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python",
+    "-B",
+    "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_release_compat_20260914/scripts/run_downstream.py",
+    "--config",
+    "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/phase1_/20260913T183720_920345Z/configs/cpu_config_APPROVED.yaml",
+    "--execute",
+    "--modules",
+    "cohort",
+    "counts",
+    "markers",
+    "figures",
+    "dotplot"
+  ],
+  "modules": [
+    "cohort",
+    "counts",
+    "markers",
+    "figures",
+    "dotplot"
+  ],
+  "science_started": false,
+  "free_gib_at_prepare": 66.29283905029297,
+  "available_ram_gib_at_prepare": 643.4280204772949,
+  "cpu_workers": 2,
+  "threads_each": 12,
+  "reserved_gpu_cpu_threads": 4,
+  "note": "No duplicate dispatcher may run alongside this one without a common resource budget. GPU setup in a separate unchanged code directory."
+}

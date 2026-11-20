@@ -1,0 +1,87 @@
+[
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/Supplementary_Table_full_LDSC_intercept_matrix.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/LDSC_intercept.tsv",
+    "sha256": "77c3d9b36eac6d8c5004bf56a633c3def4a0a90c18df770ef44a3fde3867557c"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/server_export/LDSC_07__pairwise_rg_with_axis_labels.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/rg_with_P.tsv",
+    "sha256": "0ec0001299b24cf931f84f10ff16d5c6524cda814b0d3c08a335f31309ff0c72"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/credible_sets_with_acceptance.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/credible_sets.tsv",
+    "sha256": "ba562bbb2b40f176e4675022e62313610bb68b0f6083a71150341d6001db418e"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/ExtendedData2_PIP_thresholds.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/PIP_counts.tsv",
+    "sha256": "38143869d0255184b73bc28234e38285173087d236cbfdc4e064ab7bcee083bd"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/Figure2_Fig3f_FUMA_analysis_summary.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/FUMA_summary.tsv",
+    "sha256": "a3e2100865e75751562f5b150f6fa1b77e09321b756397829b5e85c082c7cb75"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/LD_aware_QSNP_primary_r2_0.10/full_bifactor_G_variants_excluded_by_QSNP_loci_primary_r2_0.10.tsv.gz",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/excluded_Q_LD.tsv.gz",
+    "sha256": "b44e40aaa299a7171c608a1228f7796786978a7c84428c3436e689d001cb0bae"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/LD_aware_QSNP_primary_r2_0.10/filter_QC.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/filter_QC.tsv",
+    "sha256": "84c2063c1670d9071a07b701bef1017a74542c9f3c2a2ce3e527c76329f69ebf"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/derived/Fig2e_interval_union_membership.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/archived_interval_membership.tsv",
+    "sha256": "f216c2188d97be4fa033a5a6dafa74e077a6d56ad0e137203b2fbaf4f999b3a6"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/derived/Fig2e_intersection_counts.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/archived_intersection_counts.tsv",
+    "sha256": "bceb4288e40bd2acf79de4eba58d535848a639542756d748c041c21157d5480f"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/FUMA_LDr20.1Q_bifactor/GenomicRiskLoci.txt",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/FUMA_LDr20.1Q_bifactor.tsv",
+    "sha256": "b9e2526321bad66a6f0ac19baf487d157fe5b08be74c1a388cc99108a0a42659"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/FUMA_LDr20.6Q_bifactor/GenomicRiskLoci.txt",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/FUMA_LDr20.6Q_bifactor.tsv",
+    "sha256": "c32b9f51ed9488a4b7dfc1018c1792299761f5f20af1ae26bc78198f27bbea5b"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/FUMA_LOTCAD_LDr20.1Q_bifactor/GenomicRiskLoci.txt",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/FUMA_LOTCAD_LDr20.1Q_bifactor.tsv",
+    "sha256": "a0eff571cdb71f92061abf53c19c21ed8b253da528c1c508ebdf9855d8beff91"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/final_revision_work/packages/Figure2_final/source_data/local_existing/FUMA_LOTCAD_LDr20.6Q_bifactor/GenomicRiskLoci.txt",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/FUMA_LOTCAD_LDr20.6Q_bifactor.tsv",
+    "sha256": "ef8d41f8cb4c224e54a78f09ddc61b716a886c82732226f71f288b71018c3727"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/Panvas_Nature_rebuild_v2_20260917/source_data/Figure3/raw/MAGMA_all_12_families_original_values.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/MAGMA_all_12_families_original_values.tsv",
+    "sha256": "ef015872367b2496759612d582a93b3ad437c13d03d8ce62c340e067768b6f05"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/Panvas_Nature_rebuild_v2_20260917/source_data/Figure3/raw/L1_all_scenario_metrics.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/L1_all_scenario_metrics.tsv",
+    "sha256": "8a05fd07a75190eec37d8e32c89fdcf779078df7fcd9b5c7dffc77d0767e5d52"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/Panvas_Nature_rebuild_v2_20260917/source_data/Figure3/raw/L2_all_scenario_metrics.tsv",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/L2_all_scenario_metrics.tsv",
+    "sha256": "e9d509756edc96bb42ee696b874bea531efb5b91870748608ad99b802b46f14a"
+  },
+  {
+    "source": "/Users/taki/Desktop/Codex\u4efb\u52a11/Panvas_Zenodo_final_release_20260901/Panvas_derived_shared_factor_GWAS_v1.0.0/full_bifactor_G_GWAS_compact.tsv.gz",
+    "copy": "/Users/taki/Desktop/Panvascular_Figure_Redesign_20260917_v1/source_data/genetics/full_GWAS.tsv.gz",
+    "sha256": "b1142d76d7de212b0a8479ec0911ca089eff4e9ea261c925dafec75997fadf91"
+  }
+]

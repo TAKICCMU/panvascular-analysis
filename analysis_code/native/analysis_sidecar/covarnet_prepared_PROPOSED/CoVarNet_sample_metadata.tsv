@@ -1,0 +1,178 @@
+covarnet_sample_uid	study_canonical	tissue_v2	condition_v2	covarnet_donor_key	donor_resolved	n_technical_samples	n_total_atlas_cells
+"[""GSE131778"",""DONOR::GSE131778::DONOR::rca4"",""coronary artery"",""case""]"	GSE131778	coronary artery	case	DONOR::GSE131778::DONOR::rca4	True	1	2186
+"[""GSE155468"",""DONOR::GSE155468::DONOR::ATAA1"",""ascending aorta"",""case""]"	GSE155468	ascending aorta	case	DONOR::GSE155468::DONOR::ATAA1	True	1	4875
+"[""GSE155468"",""DONOR::GSE155468::DONOR::ATAA2"",""ascending aorta"",""case""]"	GSE155468	ascending aorta	case	DONOR::GSE155468::DONOR::ATAA2	True	1	4020
+"[""GSE155468"",""DONOR::GSE155468::DONOR::ATAA3"",""ascending aorta"",""case""]"	GSE155468	ascending aorta	case	DONOR::GSE155468::DONOR::ATAA3	True	1	4065
+"[""GSE155468"",""DONOR::GSE155468::DONOR::ATAA4"",""ascending aorta"",""case""]"	GSE155468	ascending aorta	case	DONOR::GSE155468::DONOR::ATAA4	True	1	6006
+"[""GSE155468"",""DONOR::GSE155468::DONOR::ATAA5"",""ascending aorta"",""case""]"	GSE155468	ascending aorta	case	DONOR::GSE155468::DONOR::ATAA5	True	1	6519
+"[""GSE155468"",""DONOR::GSE155468::DONOR::ATAA6"",""ascending aorta"",""case""]"	GSE155468	ascending aorta	case	DONOR::GSE155468::DONOR::ATAA6	True	1	4844
+"[""GSE155468"",""DONOR::GSE155468::DONOR::ATAA7"",""ascending aorta"",""case""]"	GSE155468	ascending aorta	case	DONOR::GSE155468::DONOR::ATAA7	True	1	8215
+"[""GSE155468"",""DONOR::GSE155468::DONOR::ATAA8"",""ascending aorta"",""case""]"	GSE155468	ascending aorta	case	DONOR::GSE155468::DONOR::ATAA8	True	1	5053
+"[""GSE155468"",""DONOR::GSE155468::DONOR::Control6"",""ascending aorta"",""reference""]"	GSE155468	ascending aorta	reference	DONOR::GSE155468::DONOR::Control6	True	1	1354
+"[""GSE155468"",""DONOR::GSE155468::DONOR::Control9"",""ascending aorta"",""reference""]"	GSE155468	ascending aorta	reference	DONOR::GSE155468::DONOR::Control9	True	1	4848
+"[""GSE155512"",""DONOR::GSE155512::DONOR::carotid_1"",""carotid artery"",""case""]"	GSE155512	carotid artery	case	DONOR::GSE155512::DONOR::carotid_1	True	1	3239
+"[""GSE155512"",""DONOR::GSE155512::DONOR::carotid_2"",""carotid artery"",""case""]"	GSE155512	carotid artery	case	DONOR::GSE155512::DONOR::carotid_2	True	1	4146
+"[""GSE155512"",""DONOR::GSE155512::DONOR::carotid_3"",""carotid artery"",""case""]"	GSE155512	carotid artery	case	DONOR::GSE155512::DONOR::carotid_3	True	1	2847
+"[""GSE159677"",""DONOR::GSE159677::DONOR::1"",""carotid artery"",""case""]"	GSE159677	carotid artery	case	DONOR::GSE159677::DONOR::1	True	1	10114
+"[""GSE159677"",""DONOR::GSE159677::DONOR::1"",""carotid artery"",""reference""]"	GSE159677	carotid artery	reference	DONOR::GSE159677::DONOR::1	True	1	3431
+"[""GSE159677"",""DONOR::GSE159677::DONOR::2"",""carotid artery"",""case""]"	GSE159677	carotid artery	case	DONOR::GSE159677::DONOR::2	True	1	14724
+"[""GSE159677"",""DONOR::GSE159677::DONOR::2"",""carotid artery"",""reference""]"	GSE159677	carotid artery	reference	DONOR::GSE159677::DONOR::2	True	1	4697
+"[""GSE159677"",""DONOR::GSE159677::DONOR::3"",""carotid artery"",""case""]"	GSE159677	carotid artery	case	DONOR::GSE159677::DONOR::3	True	1	11158
+"[""GSE159677"",""DONOR::GSE159677::DONOR::3"",""carotid artery"",""reference""]"	GSE159677	carotid artery	reference	DONOR::GSE159677::DONOR::3	True	1	3151
+"[""GSE166676"",""DONOR::GSE166676::DONOR::GSM5077727"",""aorta"",""case""]"	GSE166676	aorta	case	DONOR::GSE166676::DONOR::GSM5077727	True	1	1509
+"[""GSE166676"",""DONOR::GSE166676::DONOR::GSM5077728"",""aorta"",""case""]"	GSE166676	aorta	case	DONOR::GSE166676::DONOR::GSM5077728	True	1	1137
+"[""GSE166676"",""DONOR::GSE166676::DONOR::GSM5077729"",""aorta"",""case""]"	GSE166676	aorta	case	DONOR::GSE166676::DONOR::GSM5077729	True	1	1209
+"[""GSE166676"",""DONOR::GSE166676::DONOR::GSM5077730"",""aorta"",""case""]"	GSE166676	aorta	case	DONOR::GSE166676::DONOR::GSM5077730	True	1	454
+"[""GSE166676"",""DONOR::GSE166676::DONOR::GSM5077731"",""aorta"",""reference""]"	GSE166676	aorta	reference	DONOR::GSE166676::DONOR::GSM5077731	True	1	688
+"[""GSE166676"",""DONOR::GSE166676::DONOR::GSM5077732"",""aorta"",""reference""]"	GSE166676	aorta	reference	DONOR::GSE166676::DONOR::GSM5077732	True	1	1125
+"[""GSE184073"",""DONOR::GSE184073::DONOR::GSM5577199"",""coronary artery"",""case""]"	GSE184073	coronary artery	case	DONOR::GSE184073::DONOR::GSM5577199	True	1	753
+"[""GSE184073"",""DONOR::GSE184073::DONOR::GSM5577200"",""coronary artery"",""case""]"	GSE184073	coronary artery	case	DONOR::GSE184073::DONOR::GSM5577200	True	1	1288
+"[""GSE198750"",""DONOR::GSE198750::DONOR::patient_1"",""aorta"",""reference""]"	GSE198750	aorta	reference	DONOR::GSE198750::DONOR::patient_1	True	1	8548
+"[""GSE198750"",""DONOR::GSE198750::DONOR::patient_1"",""coronary artery"",""reference""]"	GSE198750	coronary artery	reference	DONOR::GSE198750::DONOR::patient_1	True	1	18023
+"[""GSE198750"",""DONOR::GSE198750::DONOR::patient_2"",""aorta"",""reference""]"	GSE198750	aorta	reference	DONOR::GSE198750::DONOR::patient_2	True	1	9884
+"[""GSE198750"",""DONOR::GSE198750::DONOR::patient_2"",""pulmonary artery"",""reference""]"	GSE198750	pulmonary artery	reference	DONOR::GSE198750::DONOR::patient_2	True	1	8771
+"[""GSE198750"",""DONOR::GSE198750::DONOR::patient_3"",""pulmonary artery"",""reference""]"	GSE198750	pulmonary artery	reference	DONOR::GSE198750::DONOR::patient_3	True	1	6155
+"[""GSE213128"",""DONOR::GSA::HRI274922"",""aortic valve"",""reference""]"	GSE213128	aortic valve	reference	DONOR::GSA::HRI274922	True	1	5938
+"[""GSE213128"",""DONOR::GSA::HRI274923"",""aortic valve"",""reference""]"	GSE213128	aortic valve	reference	DONOR::GSA::HRI274923	True	1	10597
+"[""GSE213128"",""DONOR::GSA::HRI274924"",""aortic valve"",""reference""]"	GSE213128	aortic valve	reference	DONOR::GSA::HRI274924	True	1	6747
+"[""GSE213128"",""DONOR::GSA::HRI274926"",""aortic valve"",""reference""]"	GSE213128	aortic valve	reference	DONOR::GSA::HRI274926	True	1	9314
+"[""GSE213128"",""DONOR::GSA::HRI274927"",""aortic valve"",""reference""]"	GSE213128	aortic valve	reference	DONOR::GSA::HRI274927	True	1	7846
+"[""GSE213740"",""DONOR::GSE213740::DONOR::AD_1"",""ascending aorta"",""case""]"	GSE213740	ascending aorta	case	DONOR::GSE213740::DONOR::AD_1	True	1	12704
+"[""GSE213740"",""DONOR::GSE213740::DONOR::AD_2"",""ascending aorta"",""case""]"	GSE213740	ascending aorta	case	DONOR::GSE213740::DONOR::AD_2	True	1	8960
+"[""GSE213740"",""DONOR::GSE213740::DONOR::AD_3"",""ascending aorta"",""case""]"	GSE213740	ascending aorta	case	DONOR::GSE213740::DONOR::AD_3	True	1	10714
+"[""GSE213740"",""DONOR::GSE213740::DONOR::AD_4"",""ascending aorta"",""case""]"	GSE213740	ascending aorta	case	DONOR::GSE213740::DONOR::AD_4	True	1	8093
+"[""GSE213740"",""DONOR::GSE213740::DONOR::AD_5"",""ascending aorta"",""case""]"	GSE213740	ascending aorta	case	DONOR::GSE213740::DONOR::AD_5	True	1	11535
+"[""GSE213740"",""DONOR::GSE213740::DONOR::AD_6"",""ascending aorta"",""case""]"	GSE213740	ascending aorta	case	DONOR::GSE213740::DONOR::AD_6	True	1	14378
+"[""GSE213740"",""DONOR::GSE213740::DONOR::Normal_1"",""ascending aorta"",""reference""]"	GSE213740	ascending aorta	reference	DONOR::GSE213740::DONOR::Normal_1	True	1	9773
+"[""GSE213740"",""DONOR::GSE213740::DONOR::Normal_2"",""ascending aorta"",""reference""]"	GSE213740	ascending aorta	reference	DONOR::GSE213740::DONOR::Normal_2	True	1	8644
+"[""GSE213740"",""DONOR::GSE213740::DONOR::Normal_3"",""ascending aorta"",""reference""]"	GSE213740	ascending aorta	reference	DONOR::GSE213740::DONOR::Normal_3	True	1	18622
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Acute-1"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Acute-1	True	1	6549
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Acute-2"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Acute-2	True	1	5249
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Acute-3"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Acute-3	True	1	8517
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Acute-4"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Acute-4	True	1	8238
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Chronic-1"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Chronic-1	True	1	8256
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Chronic-2"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Chronic-2	True	1	7981
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Subacute-1"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Subacute-1	True	1	5113
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Subacute-2"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Subacute-2	True	1	11495
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Aortic_dissection_Subacute-3"",""ascending aorta"",""case""]"	GSE222318	ascending aorta	case	DONOR::GSE222318::DONOR::Aortic_dissection_Subacute-3	True	1	8748
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Normal-1"",""ascending aorta"",""reference""]"	GSE222318	ascending aorta	reference	DONOR::GSE222318::DONOR::Normal-1	True	1	8190
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Normal-2"",""ascending aorta"",""reference""]"	GSE222318	ascending aorta	reference	DONOR::GSE222318::DONOR::Normal-2	True	1	6727
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Normal-3"",""ascending aorta"",""reference""]"	GSE222318	ascending aorta	reference	DONOR::GSE222318::DONOR::Normal-3	True	1	7415
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Normal-4"",""ascending aorta"",""reference""]"	GSE222318	ascending aorta	reference	DONOR::GSE222318::DONOR::Normal-4	True	1	3035
+"[""GSE222318"",""DONOR::GSE222318::DONOR::Normal-5"",""ascending aorta"",""reference""]"	GSE222318	ascending aorta	reference	DONOR::GSE222318::DONOR::Normal-5	True	1	9827
+"[""GSE224273"",""DONOR::GSE224273::DONOR::Sample1"",""carotid artery"",""case""]"	GSE224273	carotid artery	case	DONOR::GSE224273::DONOR::Sample1	True	1	160
+"[""GSE224273"",""DONOR::GSE224273::DONOR::Sample2"",""carotid artery"",""case""]"	GSE224273	carotid artery	case	DONOR::GSE224273::DONOR::Sample2	True	1	1108
+"[""GSE224273"",""DONOR::GSE224273::DONOR::Sample3"",""carotid artery"",""case""]"	GSE224273	carotid artery	case	DONOR::GSE224273::DONOR::Sample3	True	1	1493
+"[""GSE224273"",""DONOR::GSE224273::DONOR::Sample3A"",""carotid artery"",""case""]"	GSE224273	carotid artery	case	DONOR::GSE224273::DONOR::Sample3A	True	1	179
+"[""GSE224273"",""DONOR::GSE224273::DONOR::Sample4"",""carotid artery"",""case""]"	GSE224273	carotid artery	case	DONOR::GSE224273::DONOR::Sample4	True	1	718
+"[""GSE224273"",""DONOR::GSE224273::DONOR::Sample5"",""carotid artery"",""case""]"	GSE224273	carotid artery	case	DONOR::GSE224273::DONOR::Sample5	True	1	1210
+"[""GSE224559"",""DONOR::GSE224559::DONOR::dissection6"",""aorta"",""case""]"	GSE224559	aorta	case	DONOR::GSE224559::DONOR::dissection6	True	1	4981
+"[""GSE224587"",""DONOR::GSE224587::DONOR::AAA4"",""aorta"",""case""]"	GSE224587	aorta	case	DONOR::GSE224587::DONOR::AAA4	True	1	8563
+"[""GSE224587"",""DONOR::GSE224587::DONOR::AAA5"",""aorta"",""case""]"	GSE224587	aorta	case	DONOR::GSE224587::DONOR::AAA5	True	1	3800
+"[""GSE228644"",""DONOR::GSE228644::DONOR::Donor_2"",""pulmonary artery"",""reference""]"	GSE228644	pulmonary artery	reference	DONOR::GSE228644::DONOR::Donor_2	True	1	389
+"[""GSE228644"",""DONOR::GSE228644::DONOR::Donor_3"",""pulmonary artery"",""reference""]"	GSE228644	pulmonary artery	reference	DONOR::GSE228644::DONOR::Donor_3	True	1	5160
+"[""GSE228644"",""DONOR::GSE228644::DONOR::Donor_4"",""pulmonary artery"",""reference""]"	GSE228644	pulmonary artery	reference	DONOR::GSE228644::DONOR::Donor_4	True	1	19677
+"[""GSE228644"",""DONOR::GSE228644::DONOR::Donor_5"",""pulmonary artery"",""reference""]"	GSE228644	pulmonary artery	reference	DONOR::GSE228644::DONOR::Donor_5	True	1	3903
+"[""GSE228644"",""DONOR::GSE228644::DONOR::PAH_1"",""pulmonary artery"",""case""]"	GSE228644	pulmonary artery	case	DONOR::GSE228644::DONOR::PAH_1	True	1	598
+"[""GSE228644"",""DONOR::GSE228644::DONOR::PAH_2"",""pulmonary artery"",""case""]"	GSE228644	pulmonary artery	case	DONOR::GSE228644::DONOR::PAH_2	True	1	2840
+"[""GSE228644"",""DONOR::GSE228644::DONOR::PAH_3"",""pulmonary artery"",""case""]"	GSE228644	pulmonary artery	case	DONOR::GSE228644::DONOR::PAH_3	True	1	8538
+"[""GSE228644"",""DONOR::GSE228644::DONOR::PHPF_1"",""pulmonary artery"",""case""]"	GSE228644	pulmonary artery	case	DONOR::GSE228644::DONOR::PHPF_1	True	1	1548
+"[""GSE228644"",""DONOR::GSE228644::DONOR::PHPF_2"",""pulmonary artery"",""case""]"	GSE228644	pulmonary artery	case	DONOR::GSE228644::DONOR::PHPF_2	True	1	13952
+"[""GSE228644"",""DONOR::GSE228644::DONOR::PHPF_3"",""pulmonary artery"",""case""]"	GSE228644	pulmonary artery	case	DONOR::GSE228644::DONOR::PHPF_3	True	1	6324
+"[""GSE247238"",""DONOR::GSE247238_GSE294291::DONOR::CAR1"",""carotid artery"",""case""]"	GSE247238	carotid artery	case	DONOR::GSE247238_GSE294291::DONOR::CAR1	True	1	888
+"[""GSE247238"",""DONOR::GSE247238_GSE294291::DONOR::CAR11"",""carotid artery"",""case""]"	GSE247238	carotid artery	case	DONOR::GSE247238_GSE294291::DONOR::CAR11	True	1	657
+"[""GSE247238"",""DONOR::GSE247238_GSE294291::DONOR::CAR8"",""carotid artery"",""case""]"	GSE247238	carotid artery	case	DONOR::GSE247238_GSE294291::DONOR::CAR8	True	1	115
+"[""GSE248610"",""DONOR::GSE248609::DONOR::patient1"",""artery"",""case""]"	GSE248610	artery	case	DONOR::GSE248609::DONOR::patient1	True	1	3428
+"[""GSE248610"",""DONOR::GSE248609::DONOR::patient1"",""artery"",""reference""]"	GSE248610	artery	reference	DONOR::GSE248609::DONOR::patient1	True	1	4809
+"[""GSE248610"",""DONOR::GSE248609::DONOR::patient2"",""artery"",""case""]"	GSE248610	artery	case	DONOR::GSE248609::DONOR::patient2	True	1	5078
+"[""GSE248610"",""DONOR::GSE248609::DONOR::patient3"",""artery"",""case""]"	GSE248610	artery	case	DONOR::GSE248609::DONOR::patient3	True	1	5619
+"[""GSE248610"",""DONOR::GSE248609::DONOR::patient3"",""artery"",""reference""]"	GSE248610	artery	reference	DONOR::GSE248609::DONOR::patient3	True	1	5643
+"[""GSE248610"",""DONOR::GSE248609::DONOR::patient4"",""artery"",""reference""]"	GSE248610	artery	reference	DONOR::GSE248609::DONOR::patient4	True	1	4599
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_13"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_13	True	1	1648
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_14"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_14	True	1	3863
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_15"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_15	True	1	4163
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_16"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_16	True	1	5133
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_17"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_17	True	1	5412
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_18"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_18	True	1	3731
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_19"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_19	True	1	4081
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_20"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_20	True	1	2044
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_21"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_21	True	1	2932
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_4"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_4	True	1	2147
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_6"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_6	True	1	5683
+"[""GSE253904"",""DONOR::GSE253904::DONOR::carotid_9"",""carotid artery"",""case""]"	GSE253904	carotid artery	case	DONOR::GSE253904::DONOR::carotid_9	True	1	4727
+"[""GSE254132"",""DONOR::GSE254132::DONOR::ATAD1"",""aorta"",""case""]"	GSE254132	aorta	case	DONOR::GSE254132::DONOR::ATAD1	True	1	9358
+"[""GSE254132"",""DONOR::GSE254132::DONOR::ATAD2"",""aorta"",""case""]"	GSE254132	aorta	case	DONOR::GSE254132::DONOR::ATAD2	True	1	9418
+"[""GSE254132"",""DONOR::GSE254132::DONOR::ATAD3"",""aorta"",""case""]"	GSE254132	aorta	case	DONOR::GSE254132::DONOR::ATAD3	True	1	12219
+"[""GSE254132"",""DONOR::GSE254132::DONOR::NA1"",""aorta"",""reference""]"	GSE254132	aorta	reference	DONOR::GSE254132::DONOR::NA1	True	1	9614
+"[""GSE254132"",""DONOR::GSE254132::DONOR::NA2"",""aorta"",""reference""]"	GSE254132	aorta	reference	DONOR::GSE254132::DONOR::NA2	True	1	10140
+"[""GSE254132"",""DONOR::GSE254132::DONOR::NA3"",""aorta"",""reference""]"	GSE254132	aorta	reference	DONOR::GSE254132::DONOR::NA3	True	1	7626
+"[""GSE255895"",""DONOR::GSE255895::DONOR::man_1"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::man_1	True	1	3914
+"[""GSE255895"",""DONOR::GSE255895::DONOR::man_2"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::man_2	True	1	4116
+"[""GSE255895"",""DONOR::GSE255895::DONOR::man_3"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::man_3	True	1	3947
+"[""GSE255895"",""DONOR::GSE255895::DONOR::man_4"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::man_4	True	1	2439
+"[""GSE255895"",""DONOR::GSE255895::DONOR::man_5"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::man_5	True	1	1998
+"[""GSE255895"",""DONOR::GSE255895::DONOR::man_6"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::man_6	True	1	4890
+"[""GSE255895"",""DONOR::GSE255895::DONOR::woman_1"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::woman_1	True	1	1725
+"[""GSE255895"",""DONOR::GSE255895::DONOR::woman_2"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::woman_2	True	1	2937
+"[""GSE255895"",""DONOR::GSE255895::DONOR::woman_3"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::woman_3	True	1	1232
+"[""GSE255895"",""DONOR::GSE255895::DONOR::woman_4"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::woman_4	True	1	6133
+"[""GSE255895"",""DONOR::GSE255895::DONOR::woman_5"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::woman_5	True	1	2778
+"[""GSE255895"",""DONOR::GSE255895::DONOR::woman_6"",""internal thoracic artery"",""reference""]"	GSE255895	internal thoracic artery	reference	DONOR::GSE255895::DONOR::woman_6	True	1	1227
+"[""GSE266682"",""DONOR::GSE266682::DONOR::1"",""artery"",""reference""]"	GSE266682	artery	reference	DONOR::GSE266682::DONOR::1	True	1	8405
+"[""GSE266682"",""DONOR::GSE266682::DONOR::2"",""artery"",""reference""]"	GSE266682	artery	reference	DONOR::GSE266682::DONOR::2	True	1	6382
+"[""GSE266682"",""DONOR::GSE266682::DONOR::3"",""artery"",""reference""]"	GSE266682	artery	reference	DONOR::GSE266682::DONOR::3	True	1	4610
+"[""GSE271435"",""DONOR::GSE271435::DONOR::1"",""pulmonary artery"",""case""]"	GSE271435	pulmonary artery	case	DONOR::GSE271435::DONOR::1	True	1	2385
+"[""GSE271435"",""DONOR::GSE271435::DONOR::2"",""pulmonary artery"",""case""]"	GSE271435	pulmonary artery	case	DONOR::GSE271435::DONOR::2	True	1	2407
+"[""GSE271435"",""DONOR::GSE271435::DONOR::3"",""pulmonary artery"",""case""]"	GSE271435	pulmonary artery	case	DONOR::GSE271435::DONOR::3	True	1	755
+"[""GSE271435"",""DONOR::GSE271435::DONOR::4"",""pulmonary artery"",""case""]"	GSE271435	pulmonary artery	case	DONOR::GSE271435::DONOR::4	True	1	1800
+"[""GSE271435"",""DONOR::GSE271435::DONOR::5"",""pulmonary artery"",""case""]"	GSE271435	pulmonary artery	case	DONOR::GSE271435::DONOR::5	True	1	430
+"[""GSE273980"",""DONOR::GSE273980::DONOR::HH4"",""aortic valve"",""case""]"	GSE273980	aortic valve	case	DONOR::GSE273980::DONOR::HH4	True	1	5270
+"[""GSE273980"",""DONOR::GSE273980::DONOR::HH6"",""aortic valve"",""case""]"	GSE273980	aortic valve	case	DONOR::GSE273980::DONOR::HH6	True	1	5478
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1"",""abdominal aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	abdominal aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1	True	1	2303
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1"",""aortic arch"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	aortic arch	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1	True	1	5659
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1"",""ascending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	ascending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1	True	1	1444
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1"",""carotid artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	carotid artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1	True	1	4386
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1"",""descending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	descending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1	True	1	3374
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1"",""iliac artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	iliac artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1	True	1	1855
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1"",""pulmonary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	pulmonary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1	True	1	3256
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2"",""abdominal aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	abdominal aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2	True	1	1672
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2"",""carotid artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	carotid artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2	True	1	3378
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2"",""coronary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	coronary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2	True	1	2333
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2"",""descending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	descending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2	True	1	2447
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3"",""aortic arch"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	aortic arch	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3	True	1	3638
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3"",""ascending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	ascending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3	True	1	3726
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3"",""carotid artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	carotid artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3	True	1	4617
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3"",""coronary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	coronary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3	True	1	4253
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3"",""descending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	descending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3	True	1	5493
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3"",""pulmonary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	pulmonary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3	True	1	5546
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4"",""aortic arch"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	aortic arch	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4	True	1	4694
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4"",""ascending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	ascending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4	True	1	5549
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4"",""carotid artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	carotid artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4	True	1	5484
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4"",""coronary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	coronary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4	True	1	2689
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4"",""descending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	descending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4	True	1	6168
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4"",""iliac artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	iliac artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4	True	1	5663
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4"",""pulmonary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	pulmonary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4	True	1	3920
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5"",""aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	True	1	4314
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5"",""aortic arch"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	aortic arch	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	True	1	3146
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5"",""ascending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	ascending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	True	1	2904
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5"",""carotid artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	carotid artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	True	1	6505
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5"",""coronary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	coronary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	True	1	3786
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5"",""descending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	descending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	True	1	4275
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5"",""iliac artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	iliac artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	True	1	2608
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5"",""pulmonary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	pulmonary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	True	1	3943
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6"",""aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6	True	1	5504
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6"",""aortic arch"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	aortic arch	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6	True	1	4601
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6"",""ascending aorta"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	ascending aorta	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6	True	1	5419
+"[""HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7"",""DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6"",""coronary artery"",""reference""]"	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	coronary artery	reference	DONOR::HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6	True	1	4208
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::Stenosis_1_female"",""aortic valve"",""case""]"	PRJNA562645	aortic valve	case	DONOR::PRJNA562645::DONOR::Stenosis_1_female	True	1	8675
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::Stenosis_2_female"",""aortic valve"",""case""]"	PRJNA562645	aortic valve	case	DONOR::PRJNA562645::DONOR::Stenosis_2_female	True	1	4717
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::Stenosis_3_male"",""aortic valve"",""case""]"	PRJNA562645	aortic valve	case	DONOR::PRJNA562645::DONOR::Stenosis_3_male	True	1	9959
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::Stenosis_4_female"",""aortic valve"",""case""]"	PRJNA562645	aortic valve	case	DONOR::PRJNA562645::DONOR::Stenosis_4_female	True	1	4140
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::health_1_male"",""aortic valve"",""reference""]"	PRJNA562645	aortic valve	reference	DONOR::PRJNA562645::DONOR::health_1_male	True	1	1536
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::health_2_female"",""aortic valve"",""reference""]"	PRJNA562645	aortic valve	reference	DONOR::PRJNA562645::DONOR::health_2_female	True	1	3077
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::wh20210929_Elder2_male"",""aortic valve"",""reference""]"	PRJNA562645	aortic valve	reference	DONOR::PRJNA562645::DONOR::wh20210929_Elder2_male	True	1	11523
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::wh20211023_Young3_female"",""aortic valve"",""reference""]"	PRJNA562645	aortic valve	reference	DONOR::PRJNA562645::DONOR::wh20211023_Young3_female	True	1	13226
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::wh20211120_Young1_female"",""aortic valve"",""reference""]"	PRJNA562645	aortic valve	reference	DONOR::PRJNA562645::DONOR::wh20211120_Young1_female	True	1	15534
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::wh20211210_Young2_male"",""aortic valve"",""reference""]"	PRJNA562645	aortic valve	reference	DONOR::PRJNA562645::DONOR::wh20211210_Young2_male	True	1	13906
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::wh20211224_Elder1_female"",""aortic valve"",""reference""]"	PRJNA562645	aortic valve	reference	DONOR::PRJNA562645::DONOR::wh20211224_Elder1_female	True	1	12046
+"[""PRJNA562645"",""DONOR::PRJNA562645::DONOR::wh20220112_Elder3_male"",""aortic valve"",""reference""]"	PRJNA562645	aortic valve	reference	DONOR::PRJNA562645::DONOR::wh20220112_Elder3_male	True	1	13472

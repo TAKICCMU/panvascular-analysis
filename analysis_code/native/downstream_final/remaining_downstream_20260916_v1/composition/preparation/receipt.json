@@ -1,0 +1,16 @@
+{
+  "status": "PREPARED_NOT_RUN",
+  "source_sha256": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/disease_background_3groups_review_v2/sample_background_sidecar_v2.tsv": "852c08353c53a1b4d32b0b5928c9d1ac6a0278e365748912adfaf2ff30cf2ce4",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/descriptive_updated_v2/L1_sample_composition.tsv.gz": "01f4244a58d8c8876ec4b5633351d5f01c4c8d3e415e936ebcd3397203c6c970",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/descriptive_updated_v2/L2_sample_composition.tsv.gz": "d6874c92bff81b727d8e707b7207eeb457f765cd312052345b1539acb7b9bda3"
+  },
+  "model_status": {
+    "PREPARED": 634,
+    "NOT_ESTIMABLE": 182
+  },
+  "scope_n": 241,
+  "excluded_unmatched": 6,
+  "patched_R_sha256": "24fabc0b00cc519909cffd309fff99a3a5df792e9e5c2348c3f07152a572f806",
+  "inherited_R_sha256": "733bce453d4e76f83f6e28a004de6d18fcd99da819e282509e360359ab3f991e"
+}

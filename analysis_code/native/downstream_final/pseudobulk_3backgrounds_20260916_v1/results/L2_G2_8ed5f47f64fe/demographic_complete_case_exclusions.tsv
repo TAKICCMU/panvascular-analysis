@@ -1,0 +1,6 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G2	Endothelial cell | ZNF385D venous endothelial cell	GSE222318	GSE222318::DONOR::Aortic_dissection_Chronic-1	ascending aorta	disease	L2_cc2819074d73d182	55	GSE222318__GSM6919838		male	scRNA-seq	GSE222318	True	case
+G2	Endothelial cell | ZNF385D venous endothelial cell	GSE222318	GSE222318::DONOR::Normal-3	ascending aorta	healthy	L2_a9d1edadffb361a0	21	GSE222318__GSM6919844		male	scRNA-seq	GSE222318	True	reference
+G2	Endothelial cell | ZNF385D venous endothelial cell	GSE254132	GSE254132::DONOR::ATAD1	aorta	disease	L2_ca0761618f935d53	30	GSE254132__GSM8033727			scRNA-seq	GSE254132	True	case
+G2	Endothelial cell | ZNF385D venous endothelial cell	GSE254132	GSE254132::DONOR::NA1	aorta	healthy	L2_9b9428f7226fa9a4	29	GSE254132__GSM8033730			scRNA-seq	GSE254132	True	reference
+G2	Endothelial cell | ZNF385D venous endothelial cell	GSE254132	GSE254132::DONOR::NA2	aorta	healthy	L2_e7d017c638c53cd1	67	GSE254132__GSM8033731			scRNA-seq	GSE254132	True	reference

@@ -1,0 +1,7 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G1	Macrophage | HLA-DRA antigen-presenting macrophage	GSE198750	GSE198750::DONOR::patient_1	coronary artery	healthy	L2_4e3c1cc211669b5b	557	PMID33626908__patient1_CA			scRNA-seq	GSE198750	True	reference
+G1	Macrophage | HLA-DRA antigen-presenting macrophage	GSE198750	GSE198750::DONOR::patient_2	coronary artery	healthy	L2_7692bc9e17505a1f	954	PMID33626908__patient2_CA1;PMID33626908__patient2_CA2			scRNA-seq	GSE198750	True	reference
+G1	Macrophage | HLA-DRA antigen-presenting macrophage	GSE198750	GSE198750::DONOR::patient_3	coronary artery	healthy	L2_d31581df257389e9	1014	PMID33626908__patient3_CA1;PMID33626908__patient3_CA2			scRNA-seq	GSE198750	True	reference
+G1	Macrophage | HLA-DRA antigen-presenting macrophage	GSE224273	GSE224273::DONOR::Sample3	carotid artery	disease	L2_81af9fd5491ae5a6	26	GSE224273__GSM7018581			scRNA-seq	GSE224273	True	case
+G1	Macrophage | HLA-DRA antigen-presenting macrophage	GSE248610	GSE248609::DONOR::patient2	artery	disease	L2_7e20d95c57ed8015	30	GSE248609__GSM7917901			scRNA-seq	GSE248610	True	case
+G1	Macrophage | HLA-DRA antigen-presenting macrophage	GSE248610	GSE248609::DONOR::patient4	artery	healthy	L2_5955dca506e56d6b	181	GSE248609__GSM7917904			scRNA-seq	GSE248610	True	reference

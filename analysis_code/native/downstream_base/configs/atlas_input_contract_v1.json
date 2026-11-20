@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0",
+  "contract_status": "PLANNED_NOT_FINALIZED_NOT_EXECUTED",
+  "atlas_release_version": "L1L2_final_v1",
+  "paths": {
+    "project_root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908",
+    "final_h5ad": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.h5ad",
+    "final_manifest": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.manifest.json",
+    "file_checksum": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.h5ad.sha256",
+    "release_support_dir": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/atlas_release/L1L2_final_v1",
+    "project_state": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/PROJECT_STATE_ATLAS_L1L2_FINAL_v1.md",
+    "downstream_root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v1"
+  },
+  "expected_identity": {
+    "n_obs": 1175115,
+    "n_vars": 37336,
+    "n_sample_uid": 247,
+    "expected_level1_counts": {
+      "Endothelial cell": 104415,
+      "Fibroblast": 251371,
+      "Fibromyocyte": 29347,
+      "Smooth muscle cell": 243346,
+      "Pericyte": 4513,
+      "Macrophage": 210967,
+      "Monocyte": 31046,
+      "Neutrophil": 18509,
+      "T cell": 156349,
+      "Natural killer cell": 25719,
+      "B cell": 10496,
+      "Plasma cell": 4802,
+      "Mast cell": 12929,
+      "Dendritic cell": 10556,
+      "Schwann cell": 2832,
+      "Unknown": 57918
+    },
+    "level2_state_count": null,
+    "level2_state_count_policy": "derive from final human-approved ontology; never require 71/100/old count",
+    "metadata_source_policy": "actual latest imported approved metadata, including user-confirmed donor update; record checksum at release"
+  },
+  "data_layout": {
+    "X": {
+      "meaning": "unchanged QC/deduplicated raw counts, all genes",
+      "format": "csr",
+      "values": "finite nonnegative integer-valued",
+      "dtype": "preserve source"
+    },
+    "layers": {
+      "log1p": {
+        "meaning": "all-gene library-size normalize_total target_sum=10000 then natural log1p; NOT Harmony-corrected",
+        "shape": "same as X",
+        "preserve_values": true
+      }
+    },
+    "raw": {
+      "expected": null,
+      "reason": "raw counts are explicitly in X; no second full duplicate"
+    },
+    "obs_names": "original unique global cell_id; preserve order and values",
+    "var_names": "original unique gene identifiers; preserve order and values",
+    "annotation_keys": [
+      "level1_annotation",
+      "level2_annotation"
+    ],
+    "legacy_l2_keys_to_resolve": [
+      "L2_annotation",
+      "level2_annotation"
+    ],
+    "legacy_policy": "conflicting aliases must stop; archive historical annotation/cluster columns externally; retain biological/sample/clinical/QC fields",
+    "metadata_columns_expected_from_v4": [
+      "sample_uid",
+      "analysis_sample_uid",
+      "study",
+      "study_uid",
+      "atlas_source_id",
+      "sample_id",
+      "sample_name",
+      "source_series_accession",
+      "source_sample_accession",
+      "sra_experiment_accession",
+      "biosample_accession",
+      "biological_sample_uid",
+      "donor_uid",
+      "donor_id",
+      "age",
+      "sex",
+      "tissue",
+      "tissue_detail",
+      "vascular_bed",
+      "vascular_bed_group",
+      "sample_compartment",
+      "condition",
+      "disease",
+      "comparison_group",
+      "disease_context",
+      "cohort_disease_context",
+      "source_diagnosis",
+      "donor_disease_context",
+      "tissue_disease_status",
+      "assay_type"
+    ],
+    "metadata_nullable_columns": [
+      "age",
+      "sex",
+      "donor_disease_context",
+      "tissue_disease_status",
+      "donor_uid",
+      "donor_id"
+    ],
+    "nullable_policy": "real missing values permitted; never invent clinical values or collapse missing donors into one person",
+    "obsm_obsp_varm_varp": "preserve existing verified GLOBAL arrays and graphs; local L2 graphs/embeddings remain in branch h5ad",
+    "preferred_global_keys": {
+      "pca": "X_pca_cpu",
+      "harmony": "X_harmony_cpu",
+      "umap": "X_umap_cpu",
+      "neighbors_uns": "neighbors_cpu_n30"
+    },
+    "preferred_key_policy": "resolve actual existing keys and record semantic mapping; no recomputation or guessing if absent",
+    "var": "preserve all original gene metadata and GLOBAL HVG/loading data; never replace by a union of lineage HVGs",
+    "uns_required": {
+      "atlas_schema_version": "1.0",
+      "atlas_release_version": "L1L2_final_v1",
+      "level1_frozen": true,
+      "level2_frozen": true,
+      "release_status": "FINAL_APPROVED",
+      "annotation_keys": {
+        "level1": "level1_annotation",
+        "level2": "level2_annotation"
+      },
+      "metadata_version": "RECORD_ACTUAL_APPROVED_VERSION_AT_RELEASE",
+      "matrix_semantics": "RECORD_X_AND_LOG1P_MEANINGS",
+      "global_embedding_keys": "RECORD_ACTUAL_KEYS",
+      "source_h5ad": "RECORD_ACTUAL_SOURCE_AT_RELEASE"
+    }
+  },
+  "annotation_rules": {
+    "level1_immutable": true,
+    "approved_names_style": "marker + state description + parent cell identity",
+    "level2_special_values": {
+      "Unknown": "final human-reviewed unresolved/other-lineage L2, or L1=Unknown",
+      "Not_assessed": "Schwann cell only by current decision"
+    },
+    "level1_Unknown_implies_level2_Unknown": true,
+    "Schwann_cell_implies_level2_Not_assessed": true,
+    "forbidden_at_release": [
+      "Pending",
+      "PENDING",
+      "",
+      "Unresolved",
+      "NA",
+      "NR",
+      "nan",
+      "None"
+    ],
+    "all_missing_level2_forbidden": true,
+    "named_states_have_unique_parent_in_external_ontology": true,
+    "cross_lineage_decisions": "mark L2 Unknown only after approval; never modify frozen L1",
+    "no_automatic_pending_to_unknown": true,
+    "do_not_create_fixed_quota_of_states": true
+  },
+  "release_sidecars": {
+    "level2_ontology.tsv": [
+      "level2_state_id",
+      "level2_annotation",
+      "level1_annotation",
+      "marker_anchor",
+      "state_description",
+      "n_cells",
+      "approved"
+    ],
+    "cell_annotations.tsv.gz": [
+      "cell_id",
+      "level1_annotation",
+      "level2_annotation"
+    ],
+    "sample_metadata.csv": "247-row snapshot of actual final metadata",
+    "gene_metadata.tsv.gz": "all-gene metadata and source identifier mapping where known",
+    "source_registry.tsv": [
+      "role",
+      "path",
+      "sha256",
+      "version",
+      "n_obs",
+      "n_vars",
+      "label_key",
+      "graph_key",
+      "embedding_key"
+    ],
+    "approved_level2_mapping.tsv": "exact final per-cell and/or complete cluster-UID mapping and evidence source; external to obs",
+    "annotation_column_migration.tsv": "old column -> final or external archive, without deleting clinical/QC data",
+    "schema_inventory.json": "actual keys, shapes, dtypes and categories",
+    "validation_report.json": "release checks and blockers",
+    "metadata_review_sources.json": "actual imported metadata sources/versions; not a repeat of old un-applied proposals"
+  },
+  "write_policy": {
+    "overwrite_existing_final": false,
+    "partial_filename": "panvascular_CPU_theta2_L1L2_final_v1.partial.h5ad",
+    "validation_before_publish": true,
+    "atomic_same_filesystem_rename": true,
+    "input_open_mode": "read-only",
+    "whole_file_sha_stored_outside_h5ad": true,
+    "preserve_raw_log1p_ids_l1_global_representations": true,
+    "read_only_after_validation": true,
+    "if_release_changes": "new version v2; never overwrite v1"
+  }
+}

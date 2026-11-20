@@ -1,0 +1,5 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G1	Endothelial cell | NRG1 matrix-associated endothelial cell	GSE159677	GSE159677::DONOR::1	carotid artery	disease	L2_e68054df27ba0641	136	GSE159677__GSM4837523	82		scRNA-seq	GSE159677	True	case
+G1	Endothelial cell | NRG1 matrix-associated endothelial cell	GSE159677	GSE159677::DONOR::3	carotid artery	disease	L2_e7d032bf2e27f97c	248	GSE159677__GSM4837527	65		scRNA-seq	GSE159677	True	case
+G1	Endothelial cell | NRG1 matrix-associated endothelial cell	GSE198750	GSE198750::DONOR::patient_1	coronary artery	healthy	L2_cd8f1c2477a9710f	89	PMID33626908__patient1_CA			scRNA-seq	GSE198750	True	reference
+G1	Endothelial cell | NRG1 matrix-associated endothelial cell	GSE224273	GSE224273::DONOR::Sample4	carotid artery	disease	L2_4fd672c875f97d16	23	GSE224273__GSM7018583			scRNA-seq	GSE224273	True	case

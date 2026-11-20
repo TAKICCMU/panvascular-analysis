@@ -1,0 +1,8 @@
+{
+  "previous_attempt": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_racefix_v2",
+  "output": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1/third_score_completion_v3",
+  "native_threads": 12,
+  "validator_threads": 1,
+  "total_cpu_max": 40,
+  "heavy_jobs_max": 4
+}

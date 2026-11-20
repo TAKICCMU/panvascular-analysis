@@ -1,0 +1,13 @@
+{
+  "num_samples": 8,
+  "return_samples": false,
+  "summaries": [
+    "means",
+    "stds",
+    "q05",
+    "q95"
+  ],
+  "q50": "not requested; native default summaries retained",
+  "use_quantiles": false,
+  "saved_raw_draws": false
+}

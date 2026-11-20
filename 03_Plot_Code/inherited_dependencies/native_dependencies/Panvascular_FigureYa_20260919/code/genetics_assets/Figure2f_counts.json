@@ -1,0 +1,21 @@
+{
+  "counts": {
+    "100": 65,
+    "010": 1113,
+    "001": 31,
+    "110": 207,
+    "101": 10,
+    "011": 8,
+    "111": 224
+  },
+  "set_sizes": [
+    506,
+    1552,
+    273
+  ],
+  "MAGMA_tested_genes": 17953,
+  "MAGMA_threshold": 2.785049852392358e-06,
+  "candidate_gene_overlap_union": 29,
+  "candidate_pairs": 29,
+  "chromatin_mapping_enabled": false
+}

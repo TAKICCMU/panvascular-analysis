@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "tests": ["original function extraction", "paired blocks", "direct native QLF numerical identity", "all-gene BH", "effect direction", "native REML numerical identity"],
+  "edgeR": "4.0.16",
+  "metafor": "5.0.1",
+  "glmQLFit_default_formals": ["$y", "", "", "$design", "NULL", "", "$dispersion", "NULL", "", "$offset", "NULL", "", "$lib.size", "NULL", "", "$weights", "NULL", "", "$abundance.trend", "[1] TRUE", "", "$AveLogCPM", "NULL", "", "$covariate.trend", "NULL", "", "$robust", "[1] FALSE", "", "$winsor.tail.p", "c(0.05, 0.1)", "", "$legacy", "[1] TRUE", "", "$top.proportion", "[1] 0.05", "", "$...", "", ""]
+}

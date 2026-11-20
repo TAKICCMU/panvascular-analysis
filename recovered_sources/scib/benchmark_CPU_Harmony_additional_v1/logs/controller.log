@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/benchmark_CPU_Harmony_additional_v1/code/controller.py", line 37, in <module>
+    run('finalize.py',[],cpuenv,'finalize')
+  File "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/benchmark_CPU_Harmony_additional_v1/code/controller.py", line 12, in run
+    subprocess.run([PY,'-u',str(R/'code'/script),*args],env=env,stdout=log,stderr=subprocess.STDOUT,check=True)
+  File "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/home/anzhen_vhd/miniconda3/envs/scib_GPU/bin/python', '-u', '/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/benchmark_CPU_Harmony_additional_v1/code/finalize.py']' returned non-zero exit status 1.

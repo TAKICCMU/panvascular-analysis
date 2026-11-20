@@ -1,0 +1,10 @@
+{
+  "classification": "technical diagnostics only; scientific convergence not certified",
+  "epochs": 2,
+  "no_arbitrary_ELBO_threshold": true,
+  "requires_review": [
+    "ELBO trajectory",
+    "reconstruction QC",
+    "prior/posterior scale"
+  ]
+}

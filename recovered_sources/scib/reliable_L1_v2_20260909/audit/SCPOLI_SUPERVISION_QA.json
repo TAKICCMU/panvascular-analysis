@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "saved_labeled_indices_match": true,
+  "Unknown_excluded_from_cell_types": true,
+  "n_labeled": 182968,
+  "n_cell_types": 14
+}

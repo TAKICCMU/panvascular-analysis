@@ -1,0 +1,73 @@
+{
+  "atlas_sha256": "00fc74c1ddaa5e4b32d8664f134e0ec5a0c762f5e9a9fb45b96acbd40804a310",
+  "source_config_sha256": "4f5c82b21b8654a1ef40efe289260c38296970d903e12f5ac1feb0eb2fe3068d",
+  "source_code_digest": "ac18f657d6197cf3229f64e9578bb14c5f85b846b4917d7f621cb404c783a006",
+  "specificity_source_sha256": "afa224091867d9b4e335aa3df770a95e5752039378f2514b3359f5f3bcd94daf",
+  "annotation_and_study_keys": {
+    "level1_key": "level1_annotation",
+    "level2_key": "level2_annotation",
+    "study_key": "study"
+  },
+  "specificity_parameters": {
+    "normalization": "full raw library CP1e6 natural log1p",
+    "min_cells": 500,
+    "min_studies": 3,
+    "min_study_cells": 20,
+    "cell_weighted_and_study_balanced_separate_specifications": true
+  },
+  "files": {
+    "L1_cell_weighted_specificity.tsv": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/L1_cell_weighted_specificity.tsv",
+      "sha256": "64b7df6ef4402632e3f85124100e8e4704122600a5909c1e16a418de94df098b"
+    },
+    "L1_variables.tsv": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/L1_variables.tsv",
+      "sha256": "be4e5d7b4b30955fa70e4f599e7d076939d8d7bf1ac9e1ab64c49000ac5d62a4"
+    },
+    "L1_eligibility.tsv": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/L1_eligibility.tsv",
+      "sha256": "d0db142ec4258f071e14fbb97a8a618e2bac8407d75460f39c73dff39f1e9794"
+    },
+    "L1_gene_mapping_audit.tsv": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/L1_gene_mapping_audit.tsv",
+      "sha256": "ca4704bdfd1865582762128df45b418df060e8715b269c374a695061252385fa"
+    },
+    "primary_r0.1_L1_cell_weighted.gsa.out": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/primary_r0.1_L1_cell_weighted.gsa.out",
+      "sha256": "c950c9bff6378843ad53da522ef20f97ff570b5baa51ac8ac4a9f4efc98cbb2d"
+    },
+    "primary_r0.1_L1_cell_weighted.log": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/primary_r0.1_L1_cell_weighted.log",
+      "sha256": "caf7c5d73c42625094db2d2687994315aaa394b2f755c1c918386626d68d1dec"
+    },
+    "commands.jsonl": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/commands.jsonl",
+      "sha256": "77f6ddd75aebca8a0bdec4e2a99bbed8e79230294d6d9c8e11726e401eb76951"
+    },
+    "EXTERNAL_AUTHENTICATED.json": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/EXTERNAL_AUTHENTICATED.json",
+      "sha256": "0043c9dd26fe4ce41f0f69e30a95956402540109d721b052523e1471c9f29cb4"
+    },
+    "preflight.json": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs/runs/20260913T190814_808850_7ccf71427e40/magma/preflight.json",
+      "sha256": "9c548bc46dba645dcc35331fb83967c1f22cddc82f64a1e68ff99273ea6869a6"
+    },
+    "magma_config_APPROVED.yaml": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/configs/magma_config_APPROVED.yaml",
+      "sha256": "4f5c82b21b8654a1ef40efe289260c38296970d903e12f5ac1feb0eb2fe3068d"
+    },
+    "gene_map_MAGMA_READY.tsv": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/inputs/gene_map_MAGMA_READY.tsv",
+      "sha256": "c6b6891b82f204d5cad8c5cb7450301fde01d62c8b205fa2a9b9f91b779ca3e0"
+    },
+    "external_modules.py": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/magma_adapter_v1/src/external_modules.py",
+      "sha256": "afa224091867d9b4e335aa3df770a95e5752039378f2514b3359f5f3bcd94daf"
+    },
+    "magma": {
+      "path": "/home/anzhen_vhd/scRNAseq/magma",
+      "sha256": "cfaf44469064d3b4b6717cea11666b9754d0250950d35ce290d059327ae5a583"
+    }
+  },
+  "reuse_policy": "Copy certified L1 cell-weighted table and first complete raw native gsa/log; read raw for unsaved L1 study-balanced and L2; validate recomputed L1 equivalence at serialization tolerance; retain all outputs and all conditional rows"
+}

@@ -1,0 +1,396 @@
+study_file	reliable_L1	n_cells
+GSE131778	B cell	121
+GSE131778	Dendritic cell	6
+GSE131778	Endothelial cell	1166
+GSE131778	Fibroblast	1764
+GSE131778	Fibromyocyte	19
+GSE131778	Macrophage	1617
+GSE131778	Mast cell	72
+GSE131778	Monocyte	149
+GSE131778	Natural killer cell	352
+GSE131778	Pericyte	12
+GSE131778	Plasma cell	456
+GSE131778	Smooth muscle cell	183
+GSE131778	T cell	533
+GSE131778	Unknown	4437
+GSE155468	B cell	54
+GSE155468	Dendritic cell	12
+GSE155468	Endothelial cell	215
+GSE155468	Fibroblast	330
+GSE155468	Macrophage	3851
+GSE155468	Mast cell	136
+GSE155468	Monocyte	93
+GSE155468	Natural killer cell	858
+GSE155468	Neutrophil	21
+GSE155468	Pericyte	27
+GSE155468	Plasma cell	183
+GSE155468	Smooth muscle cell	1004
+GSE155468	T cell	3992
+GSE155468	Unknown	4078
+GSE155512	B cell	4
+GSE155512	Dendritic cell	1
+GSE155512	Endothelial cell	547
+GSE155512	Fibroblast	48
+GSE155512	Fibromyocyte	3
+GSE155512	Macrophage	897
+GSE155512	Mast cell	109
+GSE155512	Monocyte	52
+GSE155512	Natural killer cell	35
+GSE155512	Neutrophil	4
+GSE155512	Pericyte	14
+GSE155512	Plasma cell	34
+GSE155512	Smooth muscle cell	661
+GSE155512	T cell	153
+GSE155512	Unknown	1938
+GSE159677	B cell	183
+GSE159677	Dendritic cell	4
+GSE159677	Endothelial cell	1479
+GSE159677	Fibroblast	629
+GSE159677	Fibromyocyte	1
+GSE159677	Macrophage	765
+GSE159677	Mast cell	73
+GSE159677	Monocyte	386
+GSE159677	Natural killer cell	354
+GSE159677	Neutrophil	9
+GSE159677	Pericyte	14
+GSE159677	Plasma cell	84
+GSE159677	Smooth muscle cell	384
+GSE159677	T cell	1584
+GSE159677	Unknown	3051
+GSE166676	B cell	849
+GSE166676	Dendritic cell	3
+GSE166676	Endothelial cell	117
+GSE166676	Fibroblast	135
+GSE166676	Fibromyocyte	1
+GSE166676	Macrophage	358
+GSE166676	Mast cell	40
+GSE166676	Monocyte	593
+GSE166676	Natural killer cell	305
+GSE166676	Neutrophil	8
+GSE166676	Pericyte	1
+GSE166676	Plasma cell	86
+GSE166676	Smooth muscle cell	5
+GSE166676	T cell	1146
+GSE166676	Unknown	2466
+GSE184073	B cell	123
+GSE184073	Macrophage	183
+GSE184073	Mast cell	16
+GSE184073	Monocyte	368
+GSE184073	Natural killer cell	219
+GSE184073	Neutrophil	1
+GSE184073	Plasma cell	13
+GSE184073	T cell	676
+GSE184073	Unknown	442
+GSE210248	B cell	22
+GSE210248	Dendritic cell	2
+GSE210248	Endothelial cell	572
+GSE210248	Fibroblast	502
+GSE210248	Fibromyocyte	9
+GSE210248	Macrophage	1389
+GSE210248	Mast cell	114
+GSE210248	Monocyte	403
+GSE210248	Natural killer cell	383
+GSE210248	Neutrophil	1
+GSE210248	Pericyte	7
+GSE210248	Plasma cell	21
+GSE210248	Smooth muscle cell	516
+GSE210248	T cell	772
+GSE210248	Unknown	3774
+GSE213128	Dendritic cell	6
+GSE213128	Endothelial cell	80
+GSE213128	Fibroblast	2888
+GSE213128	Fibromyocyte	6
+GSE213128	Macrophage	688
+GSE213128	Mast cell	34
+GSE213128	Monocyte	77
+GSE213128	Natural killer cell	8
+GSE213128	Neutrophil	4
+GSE213128	Pericyte	3
+GSE213128	Plasma cell	1
+GSE213128	Smooth muscle cell	3
+GSE213128	T cell	106
+GSE213128	Unknown	3596
+GSE213740	B cell	52
+GSE213740	Endothelial cell	1395
+GSE213740	Fibroblast	1816
+GSE213740	Fibromyocyte	10
+GSE213740	Macrophage	1499
+GSE213740	Mast cell	15
+GSE213740	Monocyte	760
+GSE213740	Natural killer cell	137
+GSE213740	Neutrophil	7
+GSE213740	Pericyte	31
+GSE213740	Plasma cell	43
+GSE213740	Smooth muscle cell	705
+GSE213740	T cell	792
+GSE213740	Unknown	6238
+GSE220774	B cell	19
+GSE220774	Dendritic cell	2
+GSE220774	Endothelial cell	3083
+GSE220774	Fibroblast	3699
+GSE220774	Fibromyocyte	102
+GSE220774	Macrophage	2598
+GSE220774	Mast cell	37
+GSE220774	Monocyte	116
+GSE220774	Natural killer cell	68
+GSE220774	Neutrophil	8
+GSE220774	Pericyte	7
+GSE220774	Plasma cell	14
+GSE220774	Smooth muscle cell	13
+GSE220774	T cell	633
+GSE220774	Unknown	10482
+GSE222318	B cell	61
+GSE222318	Dendritic cell	29
+GSE222318	Endothelial cell	359
+GSE222318	Fibroblast	2886
+GSE222318	Fibromyocyte	33
+GSE222318	Macrophage	4585
+GSE222318	Mast cell	475
+GSE222318	Monocyte	863
+GSE222318	Natural killer cell	899
+GSE222318	Neutrophil	113
+GSE222318	Pericyte	27
+GSE222318	Plasma cell	218
+GSE222318	Smooth muscle cell	57
+GSE222318	T cell	1899
+GSE222318	Unknown	8496
+GSE224273	B cell	42
+GSE224273	Dendritic cell	5
+GSE224273	Endothelial cell	114
+GSE224273	Fibroblast	7
+GSE224273	Fibromyocyte	2
+GSE224273	Macrophage	248
+GSE224273	Mast cell	40
+GSE224273	Monocyte	133
+GSE224273	Natural killer cell	756
+GSE224273	Plasma cell	78
+GSE224273	Smooth muscle cell	6
+GSE224273	T cell	1650
+GSE224273	Unknown	1787
+GSE224559	B cell	42
+GSE224559	Dendritic cell	1
+GSE224559	Endothelial cell	29
+GSE224559	Fibroblast	21
+GSE224559	Fibromyocyte	1
+GSE224559	Macrophage	152
+GSE224559	Mast cell	19
+GSE224559	Monocyte	1015
+GSE224559	Natural killer cell	535
+GSE224559	Neutrophil	38
+GSE224559	Pericyte	2
+GSE224559	Plasma cell	24
+GSE224559	T cell	481
+GSE224559	Unknown	1018
+GSE224587	B cell	1649
+GSE224587	Dendritic cell	6
+GSE224587	Endothelial cell	29
+GSE224587	Fibroblast	51
+GSE224587	Macrophage	714
+GSE224587	Mast cell	84
+GSE224587	Monocyte	492
+GSE224587	Natural killer cell	1303
+GSE224587	Neutrophil	45
+GSE224587	Pericyte	3
+GSE224587	Plasma cell	437
+GSE224587	T cell	3964
+GSE224587	Unknown	2786
+GSE228643	B cell	26
+GSE228643	Dendritic cell	1
+GSE228643	Endothelial cell	652
+GSE228643	Fibroblast	695
+GSE228643	Fibromyocyte	11
+GSE228643	Macrophage	1423
+GSE228643	Mast cell	73
+GSE228643	Monocyte	365
+GSE228643	Natural killer cell	555
+GSE228643	Pericyte	7
+GSE228643	Plasma cell	3
+GSE228643	Smooth muscle cell	158
+GSE228643	T cell	753
+GSE228643	Unknown	2778
+GSE237230	B cell	673
+GSE237230	Dendritic cell	7
+GSE237230	Endothelial cell	380
+GSE237230	Fibroblast	164
+GSE237230	Fibromyocyte	4
+GSE237230	Macrophage	212
+GSE237230	Mast cell	5
+GSE237230	Monocyte	89
+GSE237230	Natural killer cell	69
+GSE237230	Neutrophil	128
+GSE237230	Pericyte	12
+GSE237230	Plasma cell	59
+GSE237230	Smooth muscle cell	46
+GSE237230	T cell	612
+GSE237230	Unknown	1794
+GSE247238	B cell	14
+GSE247238	Dendritic cell	16
+GSE247238	Endothelial cell	683
+GSE247238	Fibroblast	23
+GSE247238	Fibromyocyte	13
+GSE247238	Macrophage	619
+GSE247238	Mast cell	71
+GSE247238	Monocyte	69
+GSE247238	Natural killer cell	245
+GSE247238	Neutrophil	40
+GSE247238	Pericyte	6
+GSE247238	Plasma cell	54
+GSE247238	Smooth muscle cell	318
+GSE247238	T cell	935
+GSE247238	Unknown	2507
+GSE248609	B cell	481
+GSE248609	Endothelial cell	465
+GSE248609	Fibroblast	131
+GSE248609	Fibromyocyte	2
+GSE248609	Macrophage	478
+GSE248609	Mast cell	94
+GSE248609	Monocyte	130
+GSE248609	Natural killer cell	459
+GSE248609	Neutrophil	3
+GSE248609	Pericyte	24
+GSE248609	Plasma cell	16
+GSE248609	Smooth muscle cell	180
+GSE248609	T cell	2144
+GSE248609	Unknown	4393
+GSE253903	B cell	76
+GSE253903	Dendritic cell	16
+GSE253903	Endothelial cell	1286
+GSE253903	Fibroblast	286
+GSE253903	Fibromyocyte	17
+GSE253903	Macrophage	3910
+GSE253903	Mast cell	300
+GSE253903	Monocyte	840
+GSE253903	Natural killer cell	339
+GSE253903	Neutrophil	262
+GSE253903	Pericyte	64
+GSE253903	Plasma cell	373
+GSE253903	Smooth muscle cell	663
+GSE253903	T cell	2873
+GSE253903	Unknown	6695
+GSE254132	B cell	24
+GSE254132	Endothelial cell	124
+GSE254132	Fibroblast	1846
+GSE254132	Macrophage	457
+GSE254132	Mast cell	62
+GSE254132	Monocyte	1088
+GSE254132	Natural killer cell	492
+GSE254132	Neutrophil	1095
+GSE254132	Plasma cell	56
+GSE254132	T cell	605
+GSE254132	Unknown	3151
+GSE255895	B cell	68
+GSE255895	Dendritic cell	2
+GSE255895	Endothelial cell	897
+GSE255895	Fibroblast	227
+GSE255895	Fibromyocyte	10
+GSE255895	Macrophage	9
+GSE255895	Mast cell	8
+GSE255895	Monocyte	19
+GSE255895	Natural killer cell	9
+GSE255895	Neutrophil	8
+GSE255895	Pericyte	23
+GSE255895	Plasma cell	4
+GSE255895	Smooth muscle cell	10576
+GSE255895	T cell	20
+GSE255895	Unknown	5579
+GSE266682	B cell	2
+GSE266682	Endothelial cell	35
+GSE266682	Fibroblast	186
+GSE266682	Fibromyocyte	4
+GSE266682	Macrophage	217
+GSE266682	Mast cell	16
+GSE266682	Monocyte	13
+GSE266682	Natural killer cell	26
+GSE266682	Neutrophil	3
+GSE266682	Pericyte	1
+GSE266682	Smooth muscle cell	926
+GSE266682	T cell	21
+GSE266682	Unknown	3050
+GSE271435	B cell	72
+GSE271435	Dendritic cell	12
+GSE271435	Endothelial cell	1297
+GSE271435	Fibroblast	5
+GSE271435	Macrophage	419
+GSE271435	Mast cell	18
+GSE271435	Monocyte	498
+GSE271435	Natural killer cell	367
+GSE271435	Neutrophil	1
+GSE271435	Plasma cell	23
+GSE271435	Smooth muscle cell	3
+GSE271435	T cell	962
+GSE271435	Unknown	2008
+GSE273980	Endothelial cell	3
+GSE273980	Fibroblast	734
+GSE273980	Fibromyocyte	8
+GSE273980	Macrophage	611
+GSE273980	Mast cell	2
+GSE273980	Monocyte	9
+GSE273980	T cell	5
+GSE273980	Unknown	1628
+GSE294291	B cell	4
+GSE294291	Dendritic cell	2
+GSE294291	Endothelial cell	215
+GSE294291	Fibroblast	3
+GSE294291	Fibromyocyte	2
+GSE294291	Macrophage	185
+GSE294291	Mast cell	177
+GSE294291	Monocyte	24
+GSE294291	Natural killer cell	83
+GSE294291	Neutrophil	8
+GSE294291	Pericyte	4
+GSE294291	Plasma cell	15
+GSE294291	Smooth muscle cell	56
+GSE294291	T cell	382
+GSE294291	Unknown	762
+HCA	B cell	18
+HCA	Dendritic cell	8
+HCA	Endothelial cell	7246
+HCA	Fibroblast	6495
+HCA	Fibromyocyte	21
+HCA	Macrophage	10180
+HCA	Mast cell	1008
+HCA	Monocyte	430
+HCA	Natural killer cell	115
+HCA	Neutrophil	62
+HCA	Pericyte	333
+HCA	Plasma cell	187
+HCA	Smooth muscle cell	4940
+HCA	T cell	292
+HCA	Unknown	25609
+PMID33626908	B cell	4
+PMID33626908	Dendritic cell	6
+PMID33626908	Endothelial cell	866
+PMID33626908	Fibroblast	4000
+PMID33626908	Fibromyocyte	19
+PMID33626908	Macrophage	3284
+PMID33626908	Mast cell	174
+PMID33626908	Monocyte	34
+PMID33626908	Natural killer cell	417
+PMID33626908	Pericyte	30
+PMID33626908	Plasma cell	21
+PMID33626908	Smooth muscle cell	189
+PMID33626908	T cell	468
+PMID33626908	Unknown	6988
+PRJNA562645_1	Dendritic cell	1
+PRJNA562645_1	Endothelial cell	35
+PRJNA562645_1	Fibroblast	1695
+PRJNA562645_1	Fibromyocyte	4
+PRJNA562645_1	Macrophage	172
+PRJNA562645_1	Mast cell	4
+PRJNA562645_1	Monocyte	5
+PRJNA562645_1	Natural killer cell	23
+PRJNA562645_1	Pericyte	1
+PRJNA562645_1	Plasma cell	2
+PRJNA562645_1	T cell	71
+PRJNA562645_1	Unknown	6987
+PRJNA562645_2	Dendritic cell	3
+PRJNA562645_2	Endothelial cell	371
+PRJNA562645_2	Fibroblast	3106
+PRJNA562645_2	Fibromyocyte	22
+PRJNA562645_2	Macrophage	762
+PRJNA562645_2	Mast cell	14
+PRJNA562645_2	Monocyte	4
+PRJNA562645_2	Natural killer cell	22
+PRJNA562645_2	Plasma cell	1
+PRJNA562645_2	T cell	232
+PRJNA562645_2	Unknown	4463

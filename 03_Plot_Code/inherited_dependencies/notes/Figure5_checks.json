@@ -1,0 +1,176 @@
+{
+  "original": {
+    "section": "GSE248608::GSM7917894_CA1",
+    "section_choice": "Results P86 names FN1 and SCARB1; one non-QC-fallback calcified arterial section with known paired identity and both targets estimable. Both section slopes align with their overall sign; SCARB1 is not section-significant. Chosen after examining existing results; not blinded and not a maximum signal or minimum P selection.",
+    "shared_field": "entire original hires image; no new crop, ROI or mask",
+    "n_spots": 1779,
+    "limits": {
+      "FN1": [
+        1.8499559877594565,
+        4.352771622269675
+      ],
+      "SCARB1": [
+        0.45313323079225926,
+        2.27122445764514
+      ],
+      "Fib_abundance": [
+        0.0304108033255033,
+        6.498108049295842
+      ]
+    },
+    "new_example_scale_rule": "Positive-expression 2nd\u201398th percentiles, the pre-existing plotting convention; zero separately grey; no numeric expression changes. Abundance full min\u2013max, not expression scale.",
+    "image": "/Users/taki/Desktop/Codex\u4efb\u52a11/spatial_visium_geo_local/extracted/GSE248608/GSM7917894_CA1_tissue_hires_image.png",
+    "scalefactors": {
+      "tissue_hires_scalef": 0.12207031,
+      "tissue_lowres_scalef": 0.036621094,
+      "fiducial_diameter_fullres": 192.13406039577904,
+      "spot_diameter_fullres": 118.94013262595847
+    },
+    "histology": "NOT_CONFIRMED; no named layers; no new per-spot pathology screening",
+    "model": "primary q05/all_sections/cell_abundance; conditional at section program mean",
+    "unit_CI": "not stored; show original SE explicitly in detailed quantitative prototype"
+  },
+  "added": {
+    "section": "GSE314851::GSM9414346_T1077",
+    "image": "/Users/taki/Desktop/Codex\u4efb\u52a11/spatial_visium_geo_local/extracted/GSE314851/GSM9414346_T1077_tissue_hires_image.png",
+    "limits": {
+      "FN1": [
+        1.8612911033790183,
+        5.866264781101346
+      ],
+      "Fib_abundance": [
+        0.026251644721196503,
+        21.147543261945252
+      ]
+    },
+    "scalefactors": {
+      "tissue_hires_scalef": 0.1391498,
+      "tissue_lowres_scalef": 0.04174494,
+      "fiducial_diameter_fullres": 170.20289474114438,
+      "spot_diameter_fullres": 105.36369674451795
+    }
+  },
+  "selection": "Coronary vascular bed added to anterior tibial example; T1077 original complete H&E inspected, no QC fallback, 1363 original QC spots, negative FN1 conditional coefficient consistent with overall. Selection after results review, not blinded, not minimum P. Tissue identity from frozen section manifest. Unit is a moderate-confidence library ID, not confirmed donor.",
+  "views": [
+    {
+      "section": "GSE248608::GSM7917894_CA1",
+      "key": "HE",
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "data_rect_mm": [
+        7.156250000000002,
+        7.499999999999992,
+        19.6875,
+        21.0
+      ],
+      "spots": 1779,
+      "label_center_mm": 17
+    },
+    {
+      "section": "GSE248608::GSM7917894_CA1",
+      "key": "Fib_abundance",
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "data_rect_mm": [
+        39.15625000000001,
+        7.499999999999992,
+        19.6875,
+        21.0
+      ],
+      "spots": 1779,
+      "label_center_mm": 49
+    },
+    {
+      "section": "GSE248608::GSM7917894_CA1",
+      "key": "FN1",
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "data_rect_mm": [
+        75.15625,
+        7.499999999999992,
+        19.6875,
+        21.0
+      ],
+      "spots": 1779,
+      "label_center_mm": 85
+    },
+    {
+      "section": "GSE314851::GSM9414346_T1077",
+      "key": "HE",
+      "field": [
+        0,
+        2000,
+        1951,
+        0
+      ],
+      "data_rect_mm": [
+        6.236289082521784,
+        37.5,
+        21.52742183495643,
+        21.0
+      ],
+      "spots": 1363,
+      "label_center_mm": 17
+    },
+    {
+      "section": "GSE314851::GSM9414346_T1077",
+      "key": "Fib_abundance",
+      "field": [
+        0,
+        2000,
+        1951,
+        0
+      ],
+      "data_rect_mm": [
+        38.236289082521786,
+        37.5,
+        21.52742183495644,
+        21.0
+      ],
+      "spots": 1363,
+      "label_center_mm": 49
+    },
+    {
+      "section": "GSE314851::GSM9414346_T1077",
+      "key": "FN1",
+      "field": [
+        0,
+        2000,
+        1951,
+        0
+      ],
+      "data_rect_mm": [
+        74.23628908252178,
+        37.5,
+        21.52742183495645,
+        21.0
+      ],
+      "spots": 1363,
+      "label_center_mm": 85
+    }
+  ],
+  "gene_unit_estimates": 60,
+  "distinct_recorded_unit_IDs": 34,
+  "zero_line_page_x_mm": 148.16129032258064,
+  "FN1_legend_center_mm": 133,
+  "SCARB1_legend_center_mm": 163,
+  "c_f_render_identical_below66mm": true,
+  "ORA": "PENDING",
+  "histology": "Not independently confirmed",
+  "science_recomputed": false,
+  "visual_review": "Rendered full page inspected; 5a row identity gap, centered image labels, 5b zero-side identity legends and pooled table inspected. Tissue regions are not pathologist-validated.",
+  "all_objects_outside_replaced_ab_byte_identical": true,
+  "60_point_id_values_and_offsets_exact": true
+}

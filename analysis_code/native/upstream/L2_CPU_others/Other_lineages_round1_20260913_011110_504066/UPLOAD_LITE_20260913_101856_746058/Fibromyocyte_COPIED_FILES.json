@@ -1,0 +1,692 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 19741,
+    "sha256": "91b7021343624a85f1bd1b59ca993dda3c36a8b02b48f5da3b37647a625fe090",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 11442,
+    "sha256": "8db861f6aad71e63d025770b19feff2a7bb37f43132eeb75bdcf4e031a0dc683",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 10178,
+    "sha256": "cee4ab9e29daa2dd708a09c33be91ff7bd43432924924a16e92e47ce052054d9",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 315,
+    "sha256": "c411f0194b1823b731fe4582e7d36e10a37d671e4fbcaffbe6774c5d2f62c8d9",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 25668,
+    "sha256": "d059ab411b52b337ca3c294952c0019d24912e8f779430488874516ee42c9289",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 172780,
+    "sha256": "19e584b60e4371a5a45d9d10ccfdae07571949fb78339087ba36f5bb5f5b6ac0",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 460664,
+    "sha256": "5aa9bb271ce9c994086cff16f96dfb369804dfeb751cd51f54f85fd134867a0d",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 4173,
+    "sha256": "823bce80fbf4c720ea3375bfbb96ecd459bb9acf27861e6180b944d6835399e0",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 4242,
+    "sha256": "0c8292918706366e27dc553f2dfcdd0f9b16a24bb96a28b9a02ffcffd83f34b9",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 795,
+    "sha256": "f0fcca8f15e27fee7cff4cea98dc6d072da4e4cbeb0680af093d1d1e72545ab8",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 807,
+    "sha256": "ef785373ca6178097338a3105161b15a30c0c660e0742cff093b3d858cb0ddf6",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 90228,
+    "sha256": "c48077f85122bc68b88872d5f962788995de45b74106e3478be888e98079507a",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 15958,
+    "sha256": "16987b5ae3679383a844c407f34729446ebb60d12c3c728059dfc964695394bb",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 210,
+    "sha256": "5fdae4cc7c18b6c42564aa31eb06b7f7ba9fed73b84c1a10942473fd74a4aa4e",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 210,
+    "sha256": "5fdae4cc7c18b6c42564aa31eb06b7f7ba9fed73b84c1a10942473fd74a4aa4e",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 317,
+    "sha256": "ee33980de490956bc8864bbad9c14f28a193aeaab3725d20d0a44cf74d6a7fc1",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 7779,
+    "sha256": "e8eeef5eac1fee753505f173f8b9a0c41f50ffb9f263dff1b308bdaf6bac5630",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 11050,
+    "sha256": "0031326c9bfff9652fadc36826c8d7fdff71ada414ba366253e9386c8f76850b",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 945,
+    "sha256": "2c2c07eec86de591c6c71bdce0ad9b6e17857a4ec410449ecf473f1d4374e9c3",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 601,
+    "sha256": "e78817716eb6b0b63d10a31c969756ce71d309cb68bd3446a20b2887f03e2465",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 5486,
+    "sha256": "9b032996f4b3f80b44e48c9a9526c0c8e515469b7c5c2625e98f0c11e4ce304f",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 69464,
+    "sha256": "748209835ccd6d04015a7810a58a067e702ade2bc2b3739ae225517266ed73dd",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 121547,
+    "sha256": "2c28b89051c26d64f276da82645ee758981639b21fc2bd57cf38e201daf5c68a",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 533591,
+    "sha256": "74a620fe76e17e18d06a521e1b408bb52258b51adff73ad7ea999fdd2cb5133c",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 4038,
+    "sha256": "b38a6888257ccad8d449c4e32b8120e4fc32c9ee59405267c906fccd6fc14800",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 16731,
+    "sha256": "96c0c4c1abd20ba170e3acf92993a8b3439e6a711152953b83b5a8286291e03f",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 65256,
+    "sha256": "c50c32d3fa6de2f45c816337d4764dae6ea8c69678c7615948d3b6f2d80fbe42",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 16820,
+    "sha256": "129949fe564ec7546a1b60665e5833df9e6b109b9ec72ecb858a1682427b211b",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 16476,
+    "sha256": "621e81a91b45b599eea211850f7443f4e89ea183356a484f0eed7be3d9f3a24d",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 6888,
+    "sha256": "d3ba839b8bfd4692936d0f668b719992e2f624eaaedd2fccf13d5c1eaa050bd0",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 6968,
+    "sha256": "98e59e965cc12a1ad50364ef7525deb862a4e8ee516d1748fffd50f752bc7a29",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 7041,
+    "sha256": "4868f3042a5ae9239cc7364697b6bcc27fa7f35eac54babaaff6523207bb9d46",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 7015,
+    "sha256": "261360dec249f1ae9b6e5fd1affcd8b522ae8d8578d6f740b4de2024be639c37",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 162461,
+    "sha256": "f44cdf88f61b6527b99febb7d919938815b1905bc82369f07d45e818792ee40c",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 27515,
+    "sha256": "cf94ae252b0848d86818973d8343b198e093797d1e3e49ff6e581267119348cd",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 335,
+    "sha256": "261d81f0819fb460ee8e406059bbd8313a7332865d2999b034b795e9f2a8b200",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 335,
+    "sha256": "261d81f0819fb460ee8e406059bbd8313a7332865d2999b034b795e9f2a8b200",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 465,
+    "sha256": "c04d293e2cf5b3ac26037ae2ec0fcfb1461836cdda77fda9d174ad441f7e43be",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 9559,
+    "sha256": "726734162ad9627c85ac44270ebca79e5e83bdf90f15d75e0a2171a21add4ba8",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 13531,
+    "sha256": "d17c120b0fa955cab189b32a29de64fd636f1ff32f7b806a53bfde2826bf71e2",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 1332,
+    "sha256": "faffe33d3198f0cde2ebffaa50104930ee28460e0ada4d03322332abaaf6bc43",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 863,
+    "sha256": "7de40344e257d5b5504e271209674e167aec403865cadea2d4ae26ef67b540eb",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 8651,
+    "sha256": "921324b7b2b3d204a056aaba71c66901b007f66f97cc71a5af029080e22cc36b",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 103507,
+    "sha256": "dcd4be4b727abfef4d151e863ac7dd09b8e14ab395fce88cc845d2af70ca5b99",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 147970,
+    "sha256": "d369017a1aa56056540aa39993e2a831ba6f52f04660f8b2526be6ae44355192",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 717202,
+    "sha256": "54fceb7b3ed73876b175d1969fefd12c92ec7dee3875386529787291c79bf3cb",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 6291,
+    "sha256": "eedef8def8b0bdcf265166903302b12b85f3834cf0841f5bba98632cfe533391",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 27734,
+    "sha256": "b461f79d4fcdba26658c7573ec50397bfdb27718fa49bb2d52c3d31d247b06e8",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 110676,
+    "sha256": "d849f488bdecd6f1949267ff03462a3140aad902ebf76c172c51ae582297d80a",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 27823,
+    "sha256": "b57b7c32b47c2d474affe29e3cc414c9fcba11114f32d2beddf36267ea2b9dcd",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 27396,
+    "sha256": "3312a10f2538a9d222814511255ded6b8f6d45368e36123ca2403616d54b1e86",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 536,
+    "sha256": "95f33e07445e56e433eb520eb738e335d04353fbe2ef3b98a874a1ab85e3ee2c",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 1047,
+    "sha256": "d4a46995f0fb0ab5b3c75cdc3f015bb92be7e9349defeab1087f8fe2e0961abe",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 10631,
+    "sha256": "0f2bc472e26a9adfb9468a376b3402db4abaa850bf906230a83a9d7fe68669f7",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 10676,
+    "sha256": "f7bca257fd92d9fcc236dbce27a90b9b2fc4b5b8fa0d1629a908c49c517e9fe1",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 11005,
+    "sha256": "72fb99f3c8a6ffee7a68b8961214e58364312bf87bbedef973f00896318abe18",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 11001,
+    "sha256": "9d6c13668203f874a28d71bfda9fed97145ef21c0160cf1a537039132ef495b6",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 11153,
+    "sha256": "272dbdf96204dc27ecbfb26245435449a7cfb7faa5934e4be4c29ac7fff32033",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 11142,
+    "sha256": "c1d92f5d62ae7e198940c5be662248449edadfbc5edd74367032ee5ebed904bd",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_04_detection_fraction.tsv",
+    "bytes": 2214,
+    "sha256": "8d5cec77442fdef185a0ac47476591628b82bdc7387baa9b9f509b47d5597812",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_04_mean_log1p.tsv",
+    "bytes": 2242,
+    "sha256": "21192d856d5f5404f88120874f178ba8557e1a607fd3ad809fe63a0e71628e85",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 264614,
+    "sha256": "2e1c617474399fac23dbfee540031bdf466df0b44ff47d7d94d9272a460b5e5f",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 47698,
+    "sha256": "a206781189ca1a6ed80dd5c011a477b49aea0377548fc55340d9f40430dc4bf0",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 505,
+    "sha256": "b429170462ecb75fa37e4c320322aaab65052a1dc77217e86cb677370be05cc1",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 505,
+    "sha256": "b429170462ecb75fa37e4c320322aaab65052a1dc77217e86cb677370be05cc1",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 670,
+    "sha256": "127d0eec89f395671ac566391feccaad31a185a29d7a8cb8e5b22e749d6fb31d",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 12024,
+    "sha256": "f78e0614ff7b58f75b487a88a26a038de307fc16863ecfe0c47f7a7d2dc6e720",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 17011,
+    "sha256": "f662c60bcea593106685e9edf47d9258b774fcb4f2bb7ff79bbdfee0d5bd80e1",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 1857,
+    "sha256": "b97e1b1eb4f72a7009dffb08e11609909c4cf17cf4c95402f4f4a9691e9bd99d",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 1208,
+    "sha256": "71429c2275eaef162c9435caccf448d03249a5f21f1dfa739261cf78ef4cd0eb",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 13273,
+    "sha256": "8494b23678f910f3f89eb4210b673dc703e60921175d216c70898059bffd8751",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 142522,
+    "sha256": "5cd96be1369013ce85a6c57be6ec547975316cc878aa76db89eb45c8fbef4f18",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 173534,
+    "sha256": "2d39e4e835cf183e275ebe9282a65f21d080c5bc3502cc4b1f74de17de32f26d",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 911801,
+    "sha256": "28084ab968dfe6d788bf4a9ebc05684eaa501c50386e7f5334b1a44af96e3b6e",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 9517,
+    "sha256": "d7183d484c93b64f816e6c2b8ed0f0be22197106f442e14a50070eba8a5b84af",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 42644,
+    "sha256": "9ec18f8a886384f53529e44af061f35a2ba6093045eaea4d11472a4c40fcd28d",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 173140,
+    "sha256": "e1acd4c622db997c8800d7274d76d94cc9101b896cfcd2ae018dcd2a4ed64869",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 42732,
+    "sha256": "e1f61c6352ce147438cf7022778967c35049da50c162def4ef8e02c28cbe0935",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 42079,
+    "sha256": "0e6a4e9b77548ec82af1d328c2982d287e2136caf9e327eafddb7bcb4e968837",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1287,
+    "sha256": "5dfa3d67a0fd2b2e57445405c4ae459ee550ec45f892ca609e467f2df3c7d0aa",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1178,
+    "sha256": "272426dbd2291ce9c3227267d9347f1da4d33af2f9a29bddc027c9e2a7dde042",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 2002,
+    "sha256": "481f0dc34140a76718bde7cdcb780fabb6c84122b3ac1e4b4f5bffeef7cd49b9",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 960566,
+    "sha256": "23280ec85b10cbeb06498bcf4fa103d09f3152eb43085c18e9e3cd995026303f",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 935706,
+    "sha256": "a1964aa93168d3ac7d67c2865af3f0e9e06bec55ea0348a213ea53006a2c0f9b",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 936242,
+    "sha256": "45400430447d27522902dfdca9cfa5d4bf767d85873ce564f9af0a01586b7eb0",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 654827,
+    "sha256": "5cd1259e6465b80595f492513a5704e26293b9320e179f9e70d34cba512482b8",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 700257,
+    "sha256": "cb80aab12e7500c9b483b485190f4822621b2abad8c4c76ebcb64520852bf804",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 719935,
+    "sha256": "cacaab80c946ab75aa06fd3d721fbb4f5124f34fa8210cbb6c6eaed5c595891d",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 757587,
+    "sha256": "270a3e9911dfd580567978f6b663d0d278c7fc577b32f5146f40fbcf6f9da232",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 826772,
+    "sha256": "1604df4dd7de7c874a1c185c9293a13a277515eca66116ce0b15268017b7c3b7",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 958412,
+    "sha256": "521d395383e4d1eea8e8571a9cc24a8d5e56056608d92ffff4d6f6dd1bd2e5e0",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 850146,
+    "sha256": "3eeff46375e6b144221794aeb56b661fb75ce0debb999d1358e5e8dae479d637",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 470522,
+    "sha256": "42181ec3ba1e78e6348b7f23b1aa29a78767d870ce8725f6b88f8e0e39213c6d",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 416276,
+    "sha256": "30c0c4c2ca2e59d6a62a25eb9e4740090865720470d685af305b03548472e6de",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 278894,
+    "sha256": "15da35706d918a341dfe40b42f9381c8db4b869f5e782eed57765bab7002b0ee",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_02.png",
+    "bytes": 110765,
+    "sha256": "fb3db1cd992c84f65b866e81718fee734c34e9d19f80c177f562d22915ee8d36",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 349675,
+    "sha256": "e6b9a5f13ad18f457ca900059eddad325c4fa676fe2ea408b7cbbc7a38e00508",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 339297,
+    "sha256": "01cc97b269a9841cf4a6383be4e1b53b8dfb9306ee6d8ef99c90cab91c9aa0c9",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 376885,
+    "sha256": "38ede300c58a05a583e3635d2f7262dabbce39d509160ed7c845213ea6eb9166",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 366886,
+    "sha256": "7c03a350d15925b81245424e855eb06fd9be47979442adeeb7ee196d74dfc316",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 489754,
+    "sha256": "01cda266fc522bae20ea12aa7515fc8640ab06c4ea195bf13d8bd1d4457eb279",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 438824,
+    "sha256": "ddd222a613d53db51c2f85cabc9f3888ca2edfa627f5ec7d37ee7771e49418c4",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 461319,
+    "sha256": "0ba20614f3d7c539b0b21a2f7975448536cb008a92820c7b904052e13b0e0829",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 512398,
+    "sha256": "bb8f129f84355563b26c4d423b94d011ddc2d61f69e77decbab103fa3b8f0295",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 476426,
+    "sha256": "3b13a354e530ca16221690b072e8cae107108b7b63ac00d52e540c25fdac1880",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_04.png",
+    "bytes": 189235,
+    "sha256": "05ab36e00d93574acd2c415428f202095e76f90ce926b0b37fd31c56b6b0df60",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 678003,
+    "sha256": "af76a8131cbeeab24971cbf0d759b3d5a8563c22803da026dfd39c711c3fdc25",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 565320,
+    "sha256": "5a0cefd23c54ef8b7e2cc13aedbf311d2c63e5169c821371081a7add51cb96ab",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2754,
+    "sha256": "fd0d1f6b545c43fa773e30c716d7aa35270390fca217c74556cd1d5c0fce6888",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 20072,
+    "sha256": "96618973c87269f3382a2024df12633453eca8a2370482b2a6d1d79af5f04b02",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 5050,
+    "sha256": "5850364d29639faa05a6e4a42f60a73d64ece90034a123c73a54a745f8b78226",
+    "bundle": "Fibromyocyte_review_lite_01.zip"
+  }
+]

@@ -1,0 +1,77 @@
+branch	review_unit	original_cluster_uid	label_key	selection_rule	level2_annotation	n_cells_reviewed	decision_basis
+Macrophage	Pending::MacL2_R1_r1p2_15	MacL2_R1_r1p2_15	mac_L2_r1p2	exact current Pending review unit; do not override any other cell	PDE4C-high macrophage	2487	user_approved_marker_parent_finalization
+Macrophage	Pending::MacL2_R1_r1p2_20	MacL2_R1_r1p2_20	mac_L2_r1p2	exact current Pending review unit; do not override any other cell	FCN1 monocyte-like macrophage	3940	user_approved_marker_parent_finalization
+Macrophage	Pending::MacL2_R1_r1p2_2	MacL2_R1_r1p2_2	mac_L2_r1p2	exact current Pending review unit; do not override any other cell	CD68 macrophage	19438	user_approved_marker_parent_finalization
+Macrophage	Pending::MacL2_R1_r1p2_4	MacL2_R1_r1p2_4	mac_L2_r1p2	exact current Pending review unit; do not override any other cell	CD68 macrophage	12501	user_approved_marker_parent_finalization
+Macrophage	Pending::MacL2_R1_r1p2_7	MacL2_R1_r1p2_7	mac_L2_r1p2	exact current Pending review unit; do not override any other cell	CD68 macrophage	4170	user_approved_marker_parent_finalization
+Macrophage		MacL2_R1_r1p2_13	mac_L2_r1p2		CCL3 activated resident-like macrophage	14189	
+Fibroblast	Pending::FibL2_R1_r0p8_10	FibL2_R1_r0p8_10	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CDH19 matrix-associated fibroblast	23071	user_approved_marker_parent_finalization
+Fibroblast	Pending::FibL2_R1_r0p8_12	FibL2_R1_r0p8_12	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	S100B matrix-associated fibroblast	9001	user_approved_marker_parent_finalization
+Fibroblast	Pending::FibL2_R1_r1p2_16	FibL2_R1_r1p2_16	lineage_L2_r1p2	exact current Pending review unit; do not override any other cell	Unknown	3149	user_approved_marker_parent_finalization
+Fibroblast	Pending::FibL2_R1_r0p8_1	FibL2_R1_r0p8_1	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DCN fibroblast	9650	user_approved_marker_parent_finalization
+Fibroblast	Pending::FibL2_R1_r0p8_5	FibL2_R1_r0p8_5	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DCN fibroblast	42679	user_approved_marker_parent_finalization
+SMC	Pending::SMCL2_R1_r0p8_0	SMCL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	RGS6 contractile SMC	5422	user_approved_marker_parent_finalization
+SMC	Pending::SMCL2_R1_r0p8_17	SMCL2_R1_r0p8_17	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DLX5 contractile SMC	710	user_approved_marker_parent_finalization
+SMC	Pending::SMCL2_R1_r0p8_6	SMCL2_R1_r0p8_6	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	PRKG1 contractile SMC	17490	user_approved_marker_parent_finalization
+SMC	Pending::SMCL2_R1_r0p8_12	SMCL2_R1_r0p8_12	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	PRKG1 contractile SMC	27811	user_approved_marker_parent_finalization
+SMC	Pending::SMCL2_R1_r0p8_2	SMCL2_R1_r0p8_2	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	MYH11 SMC	51411	user_approved_marker_parent_finalization
+SMC	Pending::SMCL2_R1_r0p8_3	SMCL2_R1_r0p8_3	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	MYH11 SMC	9001	user_approved_marker_parent_finalization
+SMC	Pending::SMCL2_R1_r0p8_14	SMCL2_R1_r0p8_14	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	Unknown	13054	user_approved_marker_parent_finalization
+SMC	Pending::SMCL2_R1_r0p8_18	SMCL2_R1_r0p8_18	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	Unknown	798	user_approved_marker_parent_finalization
+Endothelial	Pending::EndoL2_R1_r0p8_10	EndoL2_R1_r0p8_10	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	NRG1 matrix-associated endothelial cell	10107	user_approved_marker_parent_finalization
+Endothelial	Pending::EndoL2_R1_r0p8_13	EndoL2_R1_r0p8_13	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	ASPN matrix-associated endothelial cell	3509	user_approved_marker_parent_finalization
+Endothelial	Pending::EndoL2_R1_r0p8_1	EndoL2_R1_r0p8_1	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	PECAM1 endothelial cell	12600	user_approved_marker_parent_finalization
+Endothelial	Pending::EndoL2_R1_r0p8_4	EndoL2_R1_r0p8_4	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	PECAM1 endothelial cell	3633	user_approved_marker_parent_finalization
+Endothelial	Pending::EndoL2_R1_r0p8_5	EndoL2_R1_r0p8_5	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	PECAM1 endothelial cell	15405	user_approved_marker_parent_finalization
+Endothelial	Pending::EndoL2_R1_r0p8_14	EndoL2_R1_r0p8_14	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CA4 capillary endothelial cell	156	user_approved_marker_parent_finalization
+Fibromyocyte	Pending::FMCL2_R1_r0p8_1	FMCL2_R1_r0p8_1	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	AEBP1 fibromyocyte	5141	user_approved_marker_parent_finalization
+Fibromyocyte	Pending::FMCL2_R1_r0p8_3	FMCL2_R1_r0p8_3	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	LAMA2 matrix-associated fibromyocyte	359	user_approved_marker_parent_finalization
+Fibromyocyte	Pending::FMCL2_R1_r0p8_6	FMCL2_R1_r0p8_6	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	LAMA2 matrix-associated fibromyocyte	880	user_approved_marker_parent_finalization
+Fibromyocyte	Pending::FMCL2_R1_r0p8_11	FMCL2_R1_r0p8_11	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	PRKG1 contractile fibromyocyte	1452	user_approved_marker_parent_finalization
+Fibromyocyte	Pending::FMCL2_R1_r0p8_8	FMCL2_R1_r0p8_8	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	MYOCD contractile fibromyocyte	1621	user_approved_marker_parent_finalization
+Pericyte	Pending::PeriL2_R1_r0p8_0	PeriL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	RGS5 pericyte	469	user_approved_marker_parent_finalization
+Pericyte	Pending::PeriL2_R1_r0p8_2	PeriL2_R1_r0p8_2	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CD36-high pericyte	252	user_approved_marker_parent_finalization
+Pericyte	Pending::PeriL2_R1_r0p8_4	PeriL2_R1_r0p8_4	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	COL4A1 basement-membrane-associated pericyte	350	user_approved_marker_parent_finalization
+Pericyte	Pending::PeriL2_R1_r0p8_6	PeriL2_R1_r0p8_6	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	FN1 matrix-associated pericyte	422	user_approved_marker_parent_finalization
+Pericyte	Pending::PeriL2_R1_r0p8_8	PeriL2_R1_r0p8_8	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	STEAP4-associated pericyte	905	user_approved_marker_parent_finalization
+Pericyte	Pending::PeriL2_R1_r0p8_9	PeriL2_R1_r0p8_9	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	PI15-high pericyte	152	user_approved_marker_parent_finalization
+T_cell	Pending::TL2_R1_r0p8_8	TL2_R1_r0p8_8	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	GZMK cytotoxic-memory T cell	1387	user_approved_marker_parent_finalization
+T_cell	Pending::TL2_R1_r0p8_9	TL2_R1_r0p8_9	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CD3D T cell	17622	user_approved_marker_parent_finalization
+NK_cell	Pending::NKL2_R1_r0p8_0	NKL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	KLRD1 NK cell	1625	user_approved_marker_parent_finalization
+NK_cell	Pending::NKL2_R1_r0p8_4	NKL2_R1_r0p8_4	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	KLRD1 NK cell	956	user_approved_marker_parent_finalization
+NK_cell	Pending::NKL2_R1_r0p8_2	NKL2_R1_r0p8_2	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	XCL1 chemokine-expressing NK cell	1429	user_approved_marker_parent_finalization
+NK_cell	Pending::NKL2_R1_r0p8_8	NKL2_R1_r0p8_8	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	XCL1 chemokine-expressing NK cell	3572	user_approved_marker_parent_finalization
+NK_cell	Pending::NKL2_R1_r0p8_9	NKL2_R1_r0p8_9	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	XCL1 chemokine-expressing NK cell	3587	user_approved_marker_parent_finalization
+Dendritic	Pending::DCL2_R1_r0p8_0	DCL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	Unknown	1201	user_approved_marker_parent_finalization
+Dendritic	Pending::DCL2_R1_r0p8_7	DCL2_R1_r0p8_7	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	Unknown	1334	user_approved_marker_parent_finalization
+Dendritic	Pending::DCL2_R1_r0p8_1	DCL2_R1_r0p8_1	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CD1C cDC2 dendritic cell	725	user_approved_marker_parent_finalization
+Dendritic	Pending::DCL2_R1_r0p8_9	DCL2_R1_r0p8_9	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CD1C cDC2 dendritic cell	1069	user_approved_marker_parent_finalization
+Dendritic	Pending::DCL2_R1_r0p8_4	DCL2_R1_r0p8_4	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	FCER1A dendritic cell	208	user_approved_marker_parent_finalization
+Monocyte	Pending::MonoL2_R1_r0p8_0	MonoL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	TXNIP-high monocyte	6091	user_approved_marker_parent_finalization
+Monocyte	Pending::MonoL2_R1_r0p8_7	MonoL2_R1_r0p8_7	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	IL1B inflammatory monocyte	2878	user_approved_marker_parent_finalization
+Monocyte	Pending::MonoL2_R1_r0p8_5	MonoL2_R1_r0p8_5	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	JUN stress-responsive monocyte	320	user_approved_marker_parent_finalization
+Monocyte	Pending::MonoL2_R1_r0p8_9	MonoL2_R1_r0p8_9	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	FCN1 classical monocyte	1367	user_approved_marker_parent_finalization
+B_cell	Pending::BL2_R1_r0p8_0	BL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	MS4A1 B cell	2013	user_approved_marker_parent_finalization
+B_cell	Pending::BL2_R1_r0p8_3	BL2_R1_r0p8_3	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	MS4A1 B cell	588	user_approved_marker_parent_finalization
+B_cell	Pending::BL2_R1_r0p8_2	BL2_R1_r0p8_2	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	BANK1 memory-like B cell	354	user_approved_marker_parent_finalization
+B_cell	Pending::BL2_R1_r0p8_4	BL2_R1_r0p8_4	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	BANK1 memory-like B cell	341	user_approved_marker_parent_finalization
+B_cell	Pending::BL2_R1_r0p8_9	BL2_R1_r0p8_9	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	TCL1A naive-like B cell	1714	user_approved_marker_parent_finalization
+Plasma	Pending::PlasmaL2_R1_r0p8_0	PlasmaL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DERL3 secretory plasma cell	346	user_approved_marker_parent_finalization
+Plasma	Pending::PlasmaL2_R1_r0p8_1	PlasmaL2_R1_r0p8_1	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DERL3 secretory plasma cell	409	user_approved_marker_parent_finalization
+Plasma	Pending::PlasmaL2_R1_r0p8_4	PlasmaL2_R1_r0p8_4	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DERL3 secretory plasma cell	809	user_approved_marker_parent_finalization
+Plasma	Pending::PlasmaL2_R1_r0p8_6	PlasmaL2_R1_r0p8_6	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DERL3 secretory plasma cell	40	user_approved_marker_parent_finalization
+Plasma	Pending::PlasmaL2_R1_r0p8_7	PlasmaL2_R1_r0p8_7	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DERL3 secretory plasma cell	172	user_approved_marker_parent_finalization
+Plasma	Pending::PlasmaL2_R1_r0p8_8	PlasmaL2_R1_r0p8_8	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DERL3 secretory plasma cell	260	user_approved_marker_parent_finalization
+Plasma	Pending::PlasmaL2_R1_r0p8_9	PlasmaL2_R1_r0p8_9	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	DERL3 secretory plasma cell	512	user_approved_marker_parent_finalization
+Plasma	Pending::PlasmaL2_R1_r0p8_3	PlasmaL2_R1_r0p8_3	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	Unknown	308	user_approved_marker_parent_finalization
+Mast	Pending::MastL2_R1_r0p8_0	MastL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	TPSAB1 mast cell	1644	user_approved_marker_parent_finalization
+Mast	Pending::MastL2_R1_r0p8_1	MastL2_R1_r0p8_1	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	TPSAB1 mast cell	2477	user_approved_marker_parent_finalization
+Mast	Pending::MastL2_R1_r0p8_10	MastL2_R1_r0p8_10	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	TPSAB1 mast cell	2025	user_approved_marker_parent_finalization
+Mast	Pending::MastL2_R1_r0p8_11	MastL2_R1_r0p8_11	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	TPSAB1 mast cell	682	user_approved_marker_parent_finalization
+Mast	Pending::MastL2_R1_r0p8_2	MastL2_R1_r0p8_2	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	NFKBIA activation-associated mast cell	555	user_approved_marker_parent_finalization
+Mast	Pending::MastL2_R1_r0p8_14	MastL2_R1_r0p8_14	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	Unknown	157	user_approved_marker_parent_finalization
+Neutrophil	Pending::NeutroL2_R1_r0p8_0	NeutroL2_R1_r0p8_0	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	Unknown	1129	user_approved_marker_parent_finalization
+Neutrophil	Pending::NeutroL2_R1_r0p8_1	NeutroL2_R1_r0p8_1	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CXCL8 inflammatory neutrophil	1956	user_approved_marker_parent_finalization
+Neutrophil	Pending::NeutroL2_R1_r0p8_2	NeutroL2_R1_r0p8_2	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CSF3R neutrophil	2034	user_approved_marker_parent_finalization
+Neutrophil	Pending::NeutroL2_R1_r0p8_4	NeutroL2_R1_r0p8_4	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CSF3R neutrophil	4411	user_approved_marker_parent_finalization
+Neutrophil	Pending::NeutroL2_R1_r0p8_7	NeutroL2_R1_r0p8_7	lineage_L2_r0p8	exact current Pending review unit; do not override any other cell	CXCR2-associated neutrophil	918	user_approved_marker_parent_finalization

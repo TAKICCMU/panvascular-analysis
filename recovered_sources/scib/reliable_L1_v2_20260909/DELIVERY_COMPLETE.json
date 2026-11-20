@@ -1,0 +1,16 @@
+{
+  "status": "complete",
+  "methods": 8,
+  "metrics_per_method": 10,
+  "primary_cells": 315949,
+  "evaluated_trusted_cells": 182968,
+  "unknown_cells": 132981,
+  "K_sensitivity": "not_run",
+  "overall_winner": "scPoli",
+  "biology_winner": "scPoli",
+  "batch_winner": "Harmony",
+  "unsupervised_overall_winner": "Harmony",
+  "historical_files_preserved": true,
+  "large_artifacts": "Available on codex-shpc-gpu at corresponding version directory; see embeddings/EMBEDDING_MANIFEST.tsv",
+  "local_files_hashed": 129
+}

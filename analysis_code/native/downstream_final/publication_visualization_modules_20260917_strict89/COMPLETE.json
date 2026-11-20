@@ -1,0 +1,19 @@
+{
+  "status": "COMPLETE",
+  "modules": 14,
+  "nodes": 89,
+  "sections": 49,
+  "spots": 45348,
+  "biological_units": 35,
+  "datasets": 7,
+  "posterior": [
+    "q05",
+    "mean"
+  ],
+  "seed": 20260917,
+  "null_draws": 1000,
+  "threads": 8,
+  "coherence_BH_family": 28,
+  "program_BH_family": 84,
+  "method_note": "legacy_fallback excludes observedtop10 and maycrossparent; strict_parent samples sameparentcounts withoutreplacement frommapped89eligiblepool allowingobservednodes; top10weights attached in nodeorder; originalcoherence statistic unweighted. Common nulldrawstates acrosssections. Coherence aggregatedmediansectionswithinunit thenunitswithindataset thendatasets. Programs mediansectionrho withinunit thenunitswithindataset; one-sidedpositive binomial acrossdatasets. No confidenceinterval inferred from7datasets."
+}

@@ -1,0 +1,710 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 19830,
+    "sha256": "143ebe0d98be80e69747cfa87e50cb0f71378216f9b728195ae8b8ed9b30dd79",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 12164,
+    "sha256": "a8143b36b90d1e77e984978c6b73ffdb318319e45389e2858b9c7b2922753f5c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 10421,
+    "sha256": "e1eab1a4b269dd0a07baa1493d05c204d0729f6f7dff69107ca6912de9f3b128",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 198,
+    "sha256": "cf355495d7f477732a96e89b2cda94550ae2d1bc62ac7854e968a7a25bf90802",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 30365,
+    "sha256": "c45cec879796b7b6c890dfe161f770e90d55266e446d3b0f6f48c2b15d438c42",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 221328,
+    "sha256": "44f3792f4b4641573a99dc930313c879ce48d1a3a573b95ccb6610f163a7785b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 1492805,
+    "sha256": "ae2d594dc0d926347201f5e86f4bf1a3090c59d8d64f3e01d295efe042080bfd",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 6462,
+    "sha256": "bb821cdff776976798b71fae5811ef3d09b4336f470efe91dc84c57f4541ea43",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 6436,
+    "sha256": "229bf92b2052e528dfac02797c158ce5b90f2aefa5879ec099495c8786075e63",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 5866,
+    "sha256": "41905d17ae3b8ef7a33c56997b2aabd4c9891daa76d10e07f889060d148e5867",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 5840,
+    "sha256": "baf917e0050f4df36f6de19dfd867fc17ce5367d7bcd65ba277d58619d285757",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 123611,
+    "sha256": "51e126d9c00c458d547fa4c3d9e058fa194e4984ced5ab875d8e1f77bdbbd486",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 22322,
+    "sha256": "c58d69761f4d89d3c0c4c74d54eb2c2b959ded7b284741a2596c96fff40e1d8a",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 329,
+    "sha256": "6f6ff01247890beb3bf78c81f2e90f58f8778da1efc7636c22d08e798bcd0805",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 329,
+    "sha256": "6f6ff01247890beb3bf78c81f2e90f58f8778da1efc7636c22d08e798bcd0805",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 473,
+    "sha256": "8f2741377b2458fa3d915cd7b12c0fb3763efc4f38bd1290a7e902265ab441c2",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 9797,
+    "sha256": "e30046bc575b58508e4f9c0bf1750274fbc1d841b04a1241172fadb17d1e197b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 13874,
+    "sha256": "eea5334340e5c477b001bd886e5c5c43d5bd0d3136f46c4fe43432c4dd012cab",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 1377,
+    "sha256": "fe6d84b767280fe0fd9eda01fc67c766cceb4a1c61dfe8ddf548f2dd4cc94673",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 875,
+    "sha256": "8bd4d05a4daa8b923f99b4bfd3ec58d60c7fcb58a1df047e9bed24dd94b42645",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 7808,
+    "sha256": "6e54a1e6d1af06a8c58dcbbd9e3d93580d42eba65ed025f661b8c350c98fd6fe",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 111298,
+    "sha256": "5dfbe4826d3c94aa79e4a992accc032033518aded26c982812e6faea49aa797d",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 302698,
+    "sha256": "e5407ecf0a74429487af0980e8751245a0fb14200f2c04dd5a12a443033ca50c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 1092208,
+    "sha256": "503a92cb380d1941a41aca50e1704b1c3d17dbc5a9cf0b51d6273a62e729ecbf",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 5614,
+    "sha256": "108645839af64bd788c4d5c0a4a561ef3edc23ca00bcf308f3150134de87964b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 31287,
+    "sha256": "860f9ce16a385658200db122e3435f5839370bd6feb8b127fcfa3a4bde828484",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 124770,
+    "sha256": "1193ebb774a55761cd83caa81687e69d3126320726d14517b645cc31e9dd16db",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 31194,
+    "sha256": "287362e48631ff960a637a369bda0d29bd3b4e91876a63ba7a78f39ff782bfd4",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 30772,
+    "sha256": "e9de4be1a14da0e63657645bd5d8e4383e25840f2b80b6e80b400a787b2a9d00",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 7976,
+    "sha256": "31b74d0b1b59f564cb7ff48b1593a49a3e0269eb91ca6f1f797e5b0873140757",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 7966,
+    "sha256": "e9989890bf44edca8c943f95de1b216a16345fe4f9774c44c260342138fd8804",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 9038,
+    "sha256": "fb1c23d77f7d5006181fcebb380a2c0c4480d00b12a05d7ba2c70bf298dfa981",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 9015,
+    "sha256": "0422d573e60a87db60cb439a3eafd9ffeb23364e7f69c2a449d46557bb7d95c3",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 4841,
+    "sha256": "669d1ab2b1f2f74b2c280f48f6b836b37c9ac29e8c421a246185c9a454fca7e0",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 4833,
+    "sha256": "130215bda42dff67a7340c80b16891fbceae3ac75a5196629935dfb77dd2b3f5",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 173380,
+    "sha256": "4bc2f283598f5064a558a1103bf59e644ac76d9edfd55f7478b75f9774307310",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 30488,
+    "sha256": "7e03d9529913511f2efc03949e724ac3e982a3f89cd341b5a000e8b554afceca",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 433,
+    "sha256": "0c99fb508c7fcc2bf871f7017eb1e3466ee1b560e472cf1f8a3abfb92e2c511b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 433,
+    "sha256": "0c99fb508c7fcc2bf871f7017eb1e3466ee1b560e472cf1f8a3abfb92e2c511b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 597,
+    "sha256": "290cce98bc7c5146685d4a01ad5b393d1a3e2557d244acb09829c25b359b086f",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 11313,
+    "sha256": "3c2ba3b4cfb4719e0e98837704342ea4220fd18a94b51af08e5eff3c7a32d23c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 16011,
+    "sha256": "329816123415b73a1323dc2dbbee5e9ba9d5beb7dddf3f07fb9c108e29781bae",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 1713,
+    "sha256": "dbd2b8950e1137f5ef40734cf867c0be46c5d09792ef106f21f964d45b5e5043",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 1089,
+    "sha256": "9e7f040dde14ebdfcfd20a64e433f6decd0e8d68ec1a20d565e7ea330716546a",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 10191,
+    "sha256": "c20ed66921b4595854133fb653b671de2ae4e2ea6399e0b202f88e443ecd235d",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 134671,
+    "sha256": "386958485c8a08b508e673c3e5dcdfc9888aab47e7499b5f0bde6cfd46f0f8ce",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 340352,
+    "sha256": "271d4134766713083afe6a7e3525f333b199cb029d1232c9cb4cddafd136f107",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 1249628,
+    "sha256": "43d5c19ec15bab5793c9be4a00550f19d6dc69f6b3bf012eb4b2ef4c03cbda4c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 7292,
+    "sha256": "c8fa5b2b82a3abb6f7013b83956adcad86bc24d69d2ce32086755da8fe7b1928",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 41590,
+    "sha256": "aff93dbee1c83a03843b8721a7c6ab1c72383fcc07fc6dbe0b74e7afa78fca71",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 168385,
+    "sha256": "331a81450924a2bd2f290047f77f518f6922305db224576983cc05b59a5726da",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 41507,
+    "sha256": "698aa3b0a2a422117b1b320199df6d04579b6072fc4c2f0cdc60bfe328e9df64",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 40979,
+    "sha256": "b8561f26fd9ac853b0256a9a943ab5a8dc721b57cd1384bf48d2f2220c0ec825",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 867,
+    "sha256": "c4d3306ebc1d9674009175c97edfd43ac5f148929aa8a6dac6fc90f5f2abdf4e",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 1369,
+    "sha256": "79569f944240c05af138da2f200924e657d80de31a7ce4d471aa87c3392e0c76",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 10760,
+    "sha256": "1ca3fd0121a5a10897f1bf01be5075cdf57da7e136f2aeb11cf205c2b734da5d",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 10684,
+    "sha256": "813dbd50c14356d7871724a6405e078c7a7068a5ee913dce9684313ccc9ee255",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 12981,
+    "sha256": "21e161a9fa085b443430136ee901f85b01e040b3b5e731c1ac5ee0d849ec357c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 12947,
+    "sha256": "2d7a6785c49e80a8deeff816facbf0e7069429a99d4970dabbf72bc11c3ea482",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 12592,
+    "sha256": "dcbd62bc1036cc1d90afa45abf04a8cc7d4b12efdf2b6f9c3a6baaf75f103b9d",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 12505,
+    "sha256": "ec5caa3e51e6035d2f6953f947ff5b145bec3fce742e319e67ae171a06c80f6b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_04_detection_fraction.tsv",
+    "bytes": 6774,
+    "sha256": "6884673f2b0331571e7dbccbd923418ecb68ce76c2afbc79eb0d678b2c9945ac",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_04_mean_log1p.tsv",
+    "bytes": 6771,
+    "sha256": "957a38b54e1815e4988276dd04b814bae2cb6f0b6f080f5131f154a200f9503c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 245425,
+    "sha256": "991916dc7cc728253025feed95148991b1f03ebb9c3fee970ee82fedbba91107",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 43621,
+    "sha256": "2f6fc954bdc4acb429b8b25d392fe7c5c827c2800000ee8bd0890441dcd95987",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 594,
+    "sha256": "3e18baa61e23f9ee079d290d77521e27f457dd2184ced594bd5bf8eeaeec5966",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 594,
+    "sha256": "3e18baa61e23f9ee079d290d77521e27f457dd2184ced594bd5bf8eeaeec5966",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 789,
+    "sha256": "ee808f8114b0bf739c9c69a6a4ba366eee44f3e811860fe9ccd5197cb994900c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 13576,
+    "sha256": "e14967cb2da495c46d84a1173192815dba488e91ce4d3214b932557d02e96892",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 19182,
+    "sha256": "54ca675a4757f283e8d6695b2a1a8c2c6e2cb584ec783347fc6581608ba52b67",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 2204,
+    "sha256": "a7fbad5dfeff6f29761b7c96246204bf0c67062d23efbdaa5f520a467142dffb",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 1409,
+    "sha256": "1987d9947ce42efde871e293f657776dabe26cc1c4358170c78ff88df4b28046",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 14108,
+    "sha256": "26cbc6e7cd2439a9ed37b51d819a432f45c65739bafd2ab97ce61a4a83b7c568",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 174114,
+    "sha256": "5c90de5bdc03adf73099833610b2168023f8c84d158a0283f5a77e8157db2349",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 393574,
+    "sha256": "ebd2da493528d8c6be33f37fb575ef78f140b6536e1f6979fef3993a5ac3b306",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 1528749,
+    "sha256": "9b357db00d70fb6b988e083be0d00766f0ba34f911d37340fc5fdd1fdd9b9f01",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 10005,
+    "sha256": "e07107dcdab960daf2fda380f94060e69aeac06c3b1ba9fafac9987a4e385333",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 57639,
+    "sha256": "4bde28e31f59b194a394d96e3253aa8ce340f1136e33b0b53d419c02d40753ed",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 235521,
+    "sha256": "b101bfb9f45716f815552a87f75dd55c4e7c8579a1600be77be20e8a6edd46b0",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 57560,
+    "sha256": "9beb66191076ec7831bdb55828414c694db4501d1bae6e48596a9c27d2e9beb4",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 56825,
+    "sha256": "8349ef022fe1173d6e49599a294c6f546879fdf2a5f1750acec7bd29b019537d",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1302,
+    "sha256": "6cb9fcf4e1b62fed73c3714b77360bd76168b587664be1b4c753eb2610c3bc5b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1189,
+    "sha256": "7d24be7310147c359270d1631c6030bf6808c713eaf0cd911d250d711db86af4",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 2012,
+    "sha256": "7ab777d9c87b7413b2b4a3eef3d838c5277c546fb5b8795749cab3256da995f0",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 1778892,
+    "sha256": "c1cad8399f03e114effddc8f786fc6c1bfd6771f3cc83b9d05a5844f2d05142e",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 1762193,
+    "sha256": "16dddd3e6ed2c643ba64edb392d30722511d5753a65b30202944f35da7c7c4f1",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 1747616,
+    "sha256": "158df6dd4e3e36da447ba71473c7b83f2c5e8d39c388aee24ae44773fc3d6200",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 1284025,
+    "sha256": "e595a6aac4992383006b6d2fd6f64e8787434cbfd1b2028da08155f472c5ac9e",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 1365349,
+    "sha256": "3f923286bf70740c884772dc6e668efee69bddbd2a86ac333ff24d4f7f3959d7",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 1328455,
+    "sha256": "f98a6f13d6cbd8da271c580aedbe2d0105400908f1e83c476da53e981d4823c3",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 1345501,
+    "sha256": "da4bc01f7e9b66ba47ce4ad932f03b55549ada0e158a033cbe023bfda6ca4fe9",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 1456496,
+    "sha256": "c1c7c2b6edfb035d3c0a8feff19d3601cc613ea4fb56d4503bad9e5f42a300e3",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 1782926,
+    "sha256": "47339a2dc9bcb8573c5c80678193eb23dff38f45883831e76890bfe10554deca",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 1664884,
+    "sha256": "3d1cb133c7897492d434e4ef1ca11e10e8ed39f3eb80fc613dfd8092c880d14c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 561801,
+    "sha256": "28e82f743935e539394ddb43b3c916e5b4ce389ffe96aba144dfe251e20d4153",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 433306,
+    "sha256": "eb64fb7c7976d73de596bc62da6e29bb39bab048f709ffcf6304eb1e98d7072e",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 259313,
+    "sha256": "4dd2d5eb427c21f0582bcef9f7dbf338729ac46f7e6ac9a43d65bd89b59ef569",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_02.png",
+    "bytes": 205716,
+    "sha256": "37a0305f41a46920b3f28f643eaa0d479f024751a7832c486b70fbfad8322407",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 492258,
+    "sha256": "ef3757153acfe62be1a00de0f16a513f883c2e4ddf844807c332f647a76f0609",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 395597,
+    "sha256": "2f08c3fa9cd2b85ad85940930840cd09a561600c8d6a98fefab5df90ac4418fb",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 318735,
+    "sha256": "e80af88bb2241757bc93f77724c3ee5c88a24440006180ce58e56d5edf840169",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 281888,
+    "sha256": "e79c082041db203481e41e7dea20c3e9560431708ace04fd34456756e0121374",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_03.png",
+    "bytes": 180628,
+    "sha256": "f0654aad29e7f707849dbddb27091fcb2a550213bd186c2f6cb481be5b718827",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 592738,
+    "sha256": "7c5268d4b2058be09369e8bf32a4fcf24a9bdf7621e2ec37b51bac252a2bc48b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 456704,
+    "sha256": "453ff9b95d06faab0b37b1325138aeb3ab6f1f728c9d539f9582de76e499fcb0",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 384839,
+    "sha256": "e23f95a5023a18a76451d6b93e3d428d31f880c0e0646e3f06867d88b7b18a6b",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 386260,
+    "sha256": "0720e10cce741979e27d71025f86bf1a8e21f5378ade6ad9295a8a9fe162c4f4",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 314226,
+    "sha256": "86559ce0c4b5f3ea4f633a431dc312c117d1c6b7dbae6753c2bf86cdc8e590f6",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_04.png",
+    "bytes": 212843,
+    "sha256": "34474a5aebefa4d7333ff59ac01f809d99500517dbb7ee3f32f10e02625d7946",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 750470,
+    "sha256": "10ca73383c5f8ff6a619e6ae3e92ee8c96988434f256d0acdba923744ec11efa",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 546704,
+    "sha256": "0611c4717e3c10bdac37b78d5f2e6a26bb13dfda41b3a7d77d39121441da52fb",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 3110,
+    "sha256": "f26b42717d328baf2b11030ac63f9cb7bf42069a925b8cca3462fdf9cb27e34c",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 20661,
+    "sha256": "854e959efcf6fdf172bc3a8189488862c7163eac0f9ea9f30a634790eece07c4",
+    "bundle": "Endothelial_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 5400,
+    "sha256": "b02fc181bd9125946fb4b78d5a924d636999f3a11ddd6a2717fea4bfabd50da1",
+    "bundle": "Endothelial_review_lite_01.zip"
+  }
+]

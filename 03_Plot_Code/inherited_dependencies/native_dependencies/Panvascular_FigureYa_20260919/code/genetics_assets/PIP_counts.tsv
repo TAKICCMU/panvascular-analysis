@@ -1,0 +1,5 @@
+scenario	method_label	n_variant_rows	n_PIP_ge_0_10	n_PIP_ge_0_50	n_PIP_ge_0_90	n_PIP_ge_0_99	n_in_CS	n_ready_PIP_ge_0_10
+leave_one_CAD	median_Nhat_sensitivity	50742	161	53	26	16	664	76
+leave_one_CAD	z_only_primary	49403	146	45	22	13	477	76
+primary	median_Nhat_sensitivity	106043	422	102	37	22	2437	396
+primary	z_only_primary	106043	417	99	37	21	2360	391

@@ -1,0 +1,34 @@
+[
+  {
+    "figure": "ExtendedData_Figure3",
+    "panel": "b",
+    "source": "/Users/taki/Documents/Panvascular_Figure_Archive_20260919/Panvascular_Full_Layout_Correction_20260918/panels/atlas/ExtendedData_Figure3_b_full_matrix.tsv",
+    "sha256": "b981c19a7cda7f2ae34d01a4d69515743178ced4483a86a949c4c33364828f9a",
+    "matrix_entries": 1968,
+    "rendered_entries": 1968
+  },
+  {
+    "figure": "ExtendedData_Figure4",
+    "panel": "b",
+    "source": "/Users/taki/Documents/Panvascular_Figure_Archive_20260919/Panvascular_Full_Layout_Correction_20260918/panels/atlas/ExtendedData_Figure4_b_full_matrix.tsv",
+    "sha256": "a57aed29512f74fb95ff99cdf994e60b707da8e778ffcac0e9625ccf30d10015",
+    "matrix_entries": 180,
+    "rendered_entries": 180
+  },
+  {
+    "figure": "ExtendedData_Figure4",
+    "panel": "d",
+    "source": "/Users/taki/Documents/Panvascular_Figure_Archive_20260919/Panvascular_Full_Layout_Correction_20260918/panels/atlas/ExtendedData_Figure4_d_full_matrix.tsv",
+    "sha256": "bab02a631614498e7a0948f9bacf3407887dc3e52398e722c7c6930fd9effe4b",
+    "matrix_entries": 432,
+    "rendered_entries": 432
+  },
+  {
+    "figure": "ExtendedData_Figure5",
+    "panel": "b",
+    "source": "/Users/taki/Documents/Panvascular_Figure_Archive_20260919/Panvascular_Full_Layout_Correction_20260918/panels/atlas/ExtendedData_Figure5_b_full_matrix.tsv",
+    "sha256": "2dbdf8dd71ecab85d902e30adab8399691e650bfa0c8b7b4f75498145fb674d7",
+    "matrix_entries": 1710,
+    "rendered_entries": 1710
+  }
+]

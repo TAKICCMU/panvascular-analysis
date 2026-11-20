@@ -1,0 +1,72 @@
+{
+  "Figure1b_hidden_Unknown": 57918,
+  "Figure1b_shown": 1117197,
+  "full_atlas_N": 1175115,
+  "hidden_in_both_panels": true,
+  "annotation_and_all_other_panels_unchanged": true,
+  "tissue_color_changed": {
+    "Aortic valve": {
+      "old": "#CB7689",
+      "new": "#A3966A"
+    }
+  },
+  "heading_aligned_to_frozen_image_rectangles": true,
+  "Figure2f": {
+    "circle_radius_pt": 32,
+    "outline_pt": 1.2,
+    "unchanged_region_counts": [
+      65,
+      1113,
+      31,
+      207,
+      10,
+      8,
+      224
+    ],
+    "area_proportional": false
+  },
+  "Figure2d_legend": "horizontal row above unchanged Manhattan data",
+  "unchanged_svg_checks": {
+    "Figure1 axes_1": true,
+    "Figure1 axes_5": true,
+    "Figure1 axes_6": true,
+    "Figure1 axes_7": true,
+    "Figure1 axes_8": true,
+    "Figure1 axes_9": true,
+    "Figure1 f1e_axes_7": true,
+    "Figure1 f1e_axes_8": true,
+    "Figure1 f1e_axes_9": true,
+    "Figure1 f1e_axes_10": true,
+    "Figure2 axes_1": true,
+    "Figure2 axes_2": true,
+    "Figure2 axes_5": true,
+    "Figure2 axes_8": true,
+    "Figure2 Manhattan excluding legend": true
+  },
+  "visual_review": "Viewed Figure1 and Figure2 at native aspect plus enlarged regions: labels centered, unknown absent in b only, legend clear of Manhattan, circles/counts legible.",
+  "Figure2f_bottom_label_bbox_check": [
+    {
+      "label": "MAGMA",
+      "bbox": [
+        388.4296875,
+        449.57000732421875,
+        411.0976867675781,
+        456.2659912109375
+      ],
+      "max_corner_radius_pt": 19.155224326540193,
+      "circle_inner_radius_pt": 31.4
+    },
+    {
+      "label": "(Bonferroni)",
+      "bbox": [
+        384.01171875,
+        457.57000732421875,
+        415.6856689453125,
+        464.2659912109375
+      ],
+      "max_corner_radius_pt": 28.229974926601024,
+      "circle_inner_radius_pt": 31.4
+    }
+  ],
+  "Figure2f_bottom_label_adjustment": "Original single-line bbox corner radius 35.94pt exceeded circle radius32pt. Split MAGMA / (Bonferroni); only bottom count31 baseline moved450 to446pt, same exclusive region."
+}

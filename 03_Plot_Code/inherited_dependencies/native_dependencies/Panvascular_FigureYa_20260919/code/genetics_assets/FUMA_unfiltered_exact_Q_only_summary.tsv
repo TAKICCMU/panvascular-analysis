@@ -1,0 +1,3 @@
+scenario	Q_SNP_exclusion_rule	n_risk_loci	n_lead_SNPs	n_independent_significant_SNPs	n_MAGMA_genes_tested	n_MAGMA_Bonferroni_genes	minimum_locus_P	minimum_MAGMA_gene_P
+unfiltered	none	184	308	772	18389	352	8.304014193550001e-257	4.4973e-23
+exact_Q_only	delete only variants with Q_SNP P < 5e-8; retain their LD neighbourhoods	177	296	727	18389	344	1.6543866671100001e-186	4.4973e-23

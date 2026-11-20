@@ -1,0 +1,83 @@
+{
+  "execution": {
+    "mode": "approved_execution",
+    "run_full_analysis": true,
+    "cpu_only": true,
+    "total_threads": 40,
+    "max_workers": 1,
+    "per_worker_threads": 12,
+    "seed": 0,
+    "overwrite": false,
+    "block_rows": 4096,
+    "approval_receipt": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/approvals/magma_approval.json",
+    "enabled_modules": [
+      "cohort",
+      "magma"
+    ],
+    "resume": false
+  },
+  "atlas": {
+    "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.h5ad",
+    "manifest": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.acceptance_r1.manifest.json",
+    "expected_release_version": "L1L2_final_v1",
+    "expected_shape": [
+      1175115,
+      37336
+    ],
+    "sample_key": "sample_uid",
+    "level1_key": "level1_annotation",
+    "level2_key": "level2_annotation",
+    "input_sha256": "00fc74c1ddaa5e4b32d8664f134e0ec5a0c762f5e9a9fb45b96acbd40804a310",
+    "schema_contract": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_revision_20260913/configs/atlas_input_contract_v1.json",
+    "checksum": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.h5ad.sha256",
+    "release_compatibility_required": true
+  },
+  "outputs": {
+    "root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs",
+    "release_support": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/atlas_release/L1L2_final_v1_acceptance_r1"
+  },
+  "statistical_units": {
+    "cohort_design_file": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_revision_20260913/configs/cohort_design.tsv",
+    "comparison_field": "comparison_group"
+  },
+  "figures": {
+    "marker_panel": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_revision_20260913/configs/marker_panel.tsv",
+    "max_review_zip_mib": 35,
+    "l2_anchor_panel": null
+  },
+  "pseudobulk": {
+    "gene_symbol_column": "gene_symbol",
+    "approve_legacy_ql_se_approximation": false
+  },
+  "covarnet": {
+    "run_nmf": false,
+    "approve_named_state_frequency_rule": false,
+    "workers": 1,
+    "threads_per_worker": 12
+  },
+  "external": {
+    "gene_map": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/inputs/gene_map_MAGMA_READY.tsv",
+    "magma": {
+      "executable": "/home/anzhen_vhd/scRNAseq/magma",
+      "scenarios": [
+        {
+          "name": "primary_r0.1",
+          "gene_results": "/home/anzhen_vhd/\u66f4\u65b0\u7248MAGMA_scDRS/r0.1/magma.genes.raw",
+          "sha256": "2374e2284ac5712a4d3337430f701fea26227f314626ccc15292bb17feba5c48"
+        },
+        {
+          "name": "primary_r0.6",
+          "gene_results": "/home/anzhen_vhd/\u66f4\u65b0\u7248MAGMA_scDRS/r0.6/magma.genes.raw",
+          "sha256": "c5da21a9449ff00fe4dd2d2611ea5d1b0678f4507b80a297f9e684b09eee6be5"
+        },
+        {
+          "name": "leave_one_CAD_r0.1",
+          "gene_results": "/home/anzhen_vhd/\u66f4\u65b0\u7248MAGMA_scDRS/LOTr0.1/magma.genes.raw",
+          "sha256": "fa74455880e7fffa967a19264b8fcf71456d9947ac22461ac1e6f8de6b8192b0"
+        }
+      ],
+      "recovery_manifest": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/evidence/RECOVERY_INPUT_MANIFEST.json",
+      "recovery_manifest_sha256": "70ba5de2a29e732f75f8b5c1531cb02caf06ac8962aee290303f04c43871ccba"
+    }
+  }
+}

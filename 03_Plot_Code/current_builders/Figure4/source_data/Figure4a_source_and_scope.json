@@ -1,0 +1,116 @@
+{
+  "scope": "Only Figure 4a BioRender schematic; Figure 4b–f and adopted composites unchanged",
+  "checked_on": "2026-11-15 Asia/Shanghai",
+  "authoritative_manuscript": "/Users/taki/Desktop/投稿包_最新版_20260919/Manuscript.docx",
+  "manuscript_sha256": "b1cb0f98d060731463955de57d542a6050668b5b66feef8d2d9eec6577f61929",
+  "facts": {
+    "profiles": 223,
+    "retained_states": 89,
+    "studies": 25,
+    "candidate_modules": 14,
+    "structural_perturbation_types": 6,
+    "all_three_domains": [
+      "CM09"
+    ],
+    "other_candidate_or_rank_sensitive_modules": 13
+  },
+  "domains": [
+    "Structural stability",
+    "Context breadth",
+    "Within-study coherence"
+  ],
+  "perturbations": [
+    "Adjacent rank",
+    "Omit study",
+    "Omit tissue",
+    "Condition only",
+    "Hierarchical study/donor bootstrap",
+    "Frequency transformation"
+  ],
+  "limits": [
+    "Profiles are not unique donors.",
+    "Co-abundance patterns are not causal or signaling interactions.",
+    "Only CM09 meets all three adopted domains.",
+    "No independent validation is claimed."
+  ],
+  "source_table": "/Users/taki/Desktop/投稿包_最新版_20260919/Source_Data_Figures/Figure4/14_final_module_evidence_and_tiers.tsv",
+  "source_table_sha256": "3cf05a99e78b23a634c6fd53235300542428f09161f56bb8337dd23e4da0756e",
+  "protected_sha256": {
+    "/Users/taki/Desktop/投稿包_最新版_20260919/Figures/Figure4.pdf": "ba93a7a26136f439c9fb0ecdb4c39dd8f036beece6805e0fa040149510b22716",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/editable_svg/Figure4.svg": "e57f5d151b2deb79a73f3a9dc420ea8caaa3446337383b50c10d47a0aebe8e32",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4b.svg": "5be0e003364159e87291b52c48d5835f6084e540f245f45b3a1a0d0a25aca769",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4b.png": "ffde3a755de60ca12c3dc987677e9ce2ea511a55756547c83db892fe230e5e0f",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4b.pdf": "86fa0d3c3ddf992d27424bae84028f9bc059113bbaf181f14b5c035d4286cd0e",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4c.svg": "08578934e7dc96d89132dcc164c0f1851ff84d532576896e902fda828303897d",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4c.png": "dca2cf0e531ce1abfb5f5b06e7d84344922dae3a1fd8951926f545c3c708372f",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4c.pdf": "5967b40ebb101c88973799a410453b7850db7327dba94096c54190332b4bf8c9",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4d.svg": "fe8675433a111d0bf121dd1f1ef54f72d3219a96d27499bb8508f22d6716c1c4",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4d.png": "c8c2a0c6c098999b3928467f287612ba74ddfdcc4659568da8e589a888f24751",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4d.pdf": "d9d123a9c621a1bc7d0b1c52f76638c9861577f695e53513fbd203008e2083d9",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4e.svg": "b0d0ad4258c8317dcdb7a113af34e0c65b179bbb1a6a80047bdc22edd72dda1f",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4e.png": "e06c1ba3bf58d2e2d0232c409ec9b50fa0d7090af86b3e7174c0c73b82b2a972",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4e.pdf": "63029f950760033f5b41363ce0530137fcf907541c3a6f60a29ef296c71531b0",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4f.svg": "10e6912a56cac3d75c402376e8dc4643e191846ce0f30e0ad20d80b7b9dbc1d5",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4f.pdf": "3267386241985958e626ea7a0fe831ae262b3a93b66bc81a4662edba457e2fe7",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure4/Figure4f.png": "34b4ae60e90f7938a64c602dde8af4f75afe08b91feccaadf93120b14633d4ca",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4b.svg": "99a4f176f47e7f1c06ff02e2d61ea921f0ebe88023b47784c8bc030e262f89f8",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4b.png": "aecc6aa39b15bfe391eaf14303cd767a0dfb6bda448d06f936ae2597853f779c",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4b.pdf": "8c5b4d5cdf93bfcec8035ef59ceb303ea183f8a0b25d10a0e58c171a6b184470",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4c.svg": "31275c17c22fa1beb4e0cbe4932d9a9956e6f634fd7938697861a7a065fd33ac",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4c.png": "24ab6d803bb8b6b85c4ae0b4d36cdcf7cc5c37ed41aaa422ce96491ab4f1e18c",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4c.pdf": "8d073b42e10614cc763f0fe567f6316f1ed4de5c912bd38f9691700d6b1cffe6",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4d.svg": "e34a4420aafc181e5bb0005102b12386d3c574445ee09910cc8dc39ddbfbb0cc",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4d.png": "f7f774c816f9c1faaa67573ebc7a5d4ec1c1e176849f73a3d3524246daf2af7f",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4d.pdf": "c10cb76fe12e4c0026ed29710a171afb22b18332fb804b0f8ef1efbf13c98d9c",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4e.svg": "27c99bbfb89ed2311b6a2b8d008837111a8fea43bebecbb0826fe1f7f5dcc72e",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4e.png": "ac593533f0f8f686d8a78a374c4e9046ba01fc2221cccb6eb6d7d9ec41c6d76b",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4e.pdf": "3dc3575c6a7f53d61a0aac0ac38d623717e802bfd099f6ea54443fc0d20baa83",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4f.svg": "327fa44388e8084dc2c7480a96e086c187979b0a8acd29e62360b248e0570f24",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4f.pdf": "a1f56224c776e81c034c0390f28b9d3df0f7a059bd90acefef86e9524f298697",
+    "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/Figure4/Figure4f.png": "26baf7da6796d6970b504c174152963901b9098ddac2c3fd452873d74fc3f758"
+  },
+  "biorender_session_id": "0c5dd8f1-eb21-4c42-b946-1f1fecebd9de",
+  "biorender_job_id": "d0d4a77a-c487-45c3-873d-bd01c5fbc454",
+  "status": "BIORENDER_REVIEW_DRAFT_SAVED_AND_EXPORTED",
+  "current_biorender_url": "https://app.biorender.com/illustrations/35090749e5f05cc16b482ba2",
+  "current_biorender_figure_id": "35090749e5f05cc16b482ba2",
+  "current_session_id": "4a8069e3-5d66-4be7-b9e5-e358ee44f441",
+  "current_job_id": "92e6c262-b585-4a4f-8c0a-b2b5ed363d1b",
+  "first_draft_rejected_for": "Broken two-row flow and inappropriate plus sign in NMF motif",
+  "current_preview_kind": "BioRender-generated JPEG, re-uploaded unchanged to native canvas; PNG and PDF exported through native BioRender UI",
+  "completed_at": "2026-11-15T16:44:46.032118+08:00",
+  "native_editability": "Single raster image object; individual text and icons are not separately editable",
+  "canvas_inches": [
+    10.3,
+    3.4
+  ],
+  "native_export_dpi": 300,
+  "publication_license_requested": false,
+  "source_format_repair": "Downloaded generated preview had .png suffix but JPEG magic bytes. Byte-identical .jpg copy uploaded successfully; no local pixel edits.",
+  "initial_blank_export_rejected": true,
+  "protected_files_check": {
+    "count": 32,
+    "all_unchanged": true,
+    "checked_at": "2026-11-15T16:44:46.032118+08:00"
+  },
+  "source_table_unchanged": true,
+  "exports": {
+    "Figure4a_BioRender.png": {
+      "path": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure4整图排版/review/Figure4a_BioRender.png",
+      "bytes": 1863652,
+      "sha256": "727dd74fb72afa6ca33402cf6675714a1ff550d524e05d44290205d4773a9c68"
+    },
+    "Figure4a_BioRender.pdf": {
+      "path": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure4整图排版/review/Figure4a_BioRender.pdf",
+      "bytes": 1594622,
+      "sha256": "e1e70bff6ab4c6a2439a2c3ab50105210c48f936e672b082742a7663cacd1431"
+    }
+  },
+  "pdf_check": {
+    "pages": 1,
+    "width_pt": 741.8400268554688,
+    "height_pt": 244.8000030517578,
+    "nonblank": true,
+    "raster_source": true
+  }
+}

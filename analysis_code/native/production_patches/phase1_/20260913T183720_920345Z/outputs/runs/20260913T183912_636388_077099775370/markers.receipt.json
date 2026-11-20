@@ -1,0 +1,25 @@
+{
+  "status": "COMPLETE",
+  "result": {
+    "status": "COMPLETE",
+    "outputs": {
+      "L1": {
+        "states": 16,
+        "genes": 37336,
+        "reference_scopes": [
+          "global_rest"
+        ],
+        "method": "descriptive mean/detection, no cell-level disease P values"
+      },
+      "L2": {
+        "states": 128,
+        "genes": 37336,
+        "reference_scopes": [
+          "global_rest",
+          "within_parent_rest"
+        ],
+        "method": "descriptive mean/detection, no cell-level disease P values"
+      }
+    }
+  }
+}

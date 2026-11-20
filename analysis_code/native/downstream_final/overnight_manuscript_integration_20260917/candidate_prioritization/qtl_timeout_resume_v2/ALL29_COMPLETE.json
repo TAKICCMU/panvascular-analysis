@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE_VALIDATED",
+  "new_QTL_manifest_rows": 84,
+  "new_QTL_statuses": {
+    "DOWNLOADED": 21,
+    "NO_TARGET_GENE_QTL": 1,
+    "REUSED_SUCCESSFUL_V1": 61,
+    "REUSED": 1
+  },
+  "new_ABF_results": 166,
+  "existing_ABF_results": 252,
+  "all_ABF_results": 418,
+  "coverage_rows": 58,
+  "genes": 29,
+  "no_new_SuSiE": true,
+  "strong_primary_genes": [
+    "FHL3",
+    "ZNF589",
+    "LIPA",
+    "SWAP70"
+  ],
+  "strong_leave_CAD_genes": [
+    "SREBF1",
+    "LIPA"
+  ]
+}

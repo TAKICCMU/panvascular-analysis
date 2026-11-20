@@ -1,0 +1,769 @@
+proposed_background_id	clinical_group_CN	state	mean_donor_fraction	n_donors
+G1	健康/参照组	B cell | AICDA germinal-centre-like B cell	1.0385456207127539e-05	41
+G1	健康/参照组	B cell | BANK1 memory-like B cell	0.0007868698522230767	41
+G1	健康/参照组	B cell | MS4A1 B cell	0.001159183998048932	41
+G1	健康/参照组	B cell | MT2A stress-responsive B cell	0.00043998239353630283	41
+G1	健康/参照组	B cell | NR4A1 activated B cell	0.00046966636776206585	41
+G1	健康/参照组	B cell | TCL1A naive-like B cell	0.0002458104427403839	41
+G1	健康/参照组	Dendritic cell | CD1C cDC2 dendritic cell	0.0007487058526515372	41
+G1	健康/参照组	Dendritic cell | CLEC9A cDC1 dendritic cell	0.00012869146874557117	41
+G1	健康/参照组	Dendritic cell | FCER1A dendritic cell	0.00029748592864451854	41
+G1	健康/参照组	Dendritic cell | IL1B inflammatory dendritic cell	0.00136122813093704	41
+G1	健康/参照组	Dendritic cell | LAMP3 mature dendritic cell	5.8103692746254426e-05	41
+G1	健康/参照组	Dendritic cell | LILRA4 plasmacytoid dendritic cell	0.00018417390102572589	41
+G1	健康/参照组	Dendritic cell | SIGLEC6 AXL-associated dendritic cell	1.1437353406122318e-05	41
+G1	健康/参照组	Dendritic cell | Unknown	0.001140030791989274	41
+G1	健康/参照组	Endothelial cell | ACKR1 venous endothelial cell	0.01985709372642247	41
+G1	健康/参照组	Endothelial cell | ASPN matrix-associated endothelial cell	0.0031817414606545554	41
+G1	健康/参照组	Endothelial cell | CA4 capillary endothelial cell	0.005173956312296502	41
+G1	健康/参照组	Endothelial cell | NRG1 matrix-associated endothelial cell	0.009980272583035759	41
+G1	健康/参照组	Endothelial cell | OMD matrix-associated endothelial cell	0.006354706736653237	41
+G1	健康/参照组	Endothelial cell | PECAM1 endothelial cell	0.03743160243832212	41
+G1	健康/参照组	Endothelial cell | PROX1 lymphatic endothelial cell	0.0018436884222221327	41
+G1	健康/参照组	Endothelial cell | SEMA3G arterial endothelial cell	0.005353530725592515	41
+G1	健康/参照组	Endothelial cell | Unknown	0.0022800599364658784	41
+G1	健康/参照组	Endothelial cell | ZNF385D venous endothelial cell	0.008918768338279188	41
+G1	健康/参照组	Fibroblast | CDH19 matrix-associated fibroblast	0.034725785661872816	41
+G1	健康/参照组	Fibroblast | CLDN1 matrix-associated fibroblast	0.002174839585646792	41
+G1	健康/参照组	Fibroblast | CXCL12 chemokine-expressing fibroblast	0.014718374841201483	41
+G1	健康/参照组	Fibroblast | DCN fibroblast	0.057737765793643224	41
+G1	健康/参照组	Fibroblast | FAP activated ECM-remodelling fibroblast	0.014372384208856333	41
+G1	健康/参照组	Fibroblast | FOSB stress-responsive fibroblast	0.007722853537743375	41
+G1	健康/参照组	Fibroblast | ITGA8 contractile-program fibroblast	0.028791659836414532	41
+G1	健康/参照组	Fibroblast | ITGBL1 ECM-remodelling fibroblast	0.002865481520464993	41
+G1	健康/参照组	Fibroblast | LAMA2 tissue-associated fibroblast	0.03500280444545708	41
+G1	健康/参照组	Fibroblast | LTBP2 ECM-remodelling fibroblast	0.01863584227631075	41
+G1	健康/参照组	Fibroblast | PI16 adventitial-like fibroblast	0.024763906370764185	41
+G1	健康/参照组	Fibroblast | RSAD2 IFN-responsive fibroblast	0.0013643731096323465	41
+G1	健康/参照组	Fibroblast | S100B matrix-associated fibroblast	0.019046775085704834	41
+G1	健康/参照组	Fibroblast | Unknown	0.008081223083241239	41
+G1	健康/参照组	Fibromyocyte | ACTA2 contractile fibromyocyte	0.0020235210555638863	41
+G1	健康/参照组	Fibromyocyte | AEBP1 fibromyocyte	0.00427694989872618	41
+G1	健康/参照组	Fibromyocyte | CD9 ECM-remodelling fibromyocyte	0.0017393324781157333	41
+G1	健康/参照组	Fibromyocyte | DCN fibroblast-like fibromyocyte	0.0047557719894802016	41
+G1	健康/参照组	Fibromyocyte | FOSB stress-responsive fibromyocyte	0.005236063892600457	41
+G1	健康/参照组	Fibromyocyte | ITGA10 ECM-remodelling fibromyocyte	0.0017305736200443622	41
+G1	健康/参照组	Fibromyocyte | LAMA2 matrix-associated fibromyocyte	0.007040789439101606	41
+G1	健康/参照组	Fibromyocyte | MYOCD contractile fibromyocyte	0.002155961879220873	41
+G1	健康/参照组	Fibromyocyte | PRKG1 contractile fibromyocyte	0.011132080940806768	41
+G1	健康/参照组	Macrophage | C1QC complement-rich macrophage	0.0033734611843423837	41
+G1	健康/参照组	Macrophage | CCL20 inflammatory macrophage	0.004008929237813829	41
+G1	健康/参照组	Macrophage | CCL3 activated resident-like macrophage	0.006885639692515392	41
+G1	健康/参照组	Macrophage | CD68 macrophage	0.015463552256507803	41
+G1	健康/参照组	Macrophage | CD83 activated macrophage	0.0068805556514616025	41
+G1	健康/参照组	Macrophage | CXCL10 IFN-responsive macrophage	0.0007218349555464376	41
+G1	健康/参照组	Macrophage | CYP27A1 lipid-associated macrophage	0.0031683071223495758	41
+G1	健康/参照组	Macrophage | FCN1 monocyte-like macrophage	0.0013678571427486455	41
+G1	健康/参照组	Macrophage | HLA-DRA antigen-presenting macrophage	0.013102272338566553	41
+G1	健康/参照组	Macrophage | IL1B inflammatory macrophage	0.003325836791362082	41
+G1	健康/参照组	Macrophage | JUN stress-responsive macrophage	0.0016982266067000105	41
+G1	健康/参照组	Macrophage | KYNU inflammatory macrophage	0.00745434798904546	41
+G1	健康/参照组	Macrophage | LYVE1 resident-like macrophage	0.009258785151169827	41
+G1	健康/参照组	Macrophage | MKI67 proliferating macrophage	0.0025142366907744025	41
+G1	健康/参照组	Macrophage | MSR1 phagocytosis-associated macrophage	0.003485135102606748	41
+G1	健康/参照组	Macrophage | PDE4C-high macrophage	0.0018001639824931498	41
+G1	健康/参照组	Macrophage | SPP1 lipid-associated macrophage	0.002998968209648362	41
+G1	健康/参照组	Macrophage | Unknown	0.0011148667050099202	41
+G1	健康/参照组	Mast cell | NFKBIA activation-associated mast cell	0.0007376680929016337	41
+G1	健康/参照组	Mast cell | P2RY14 receptor-associated mast cell	0.0003537325075739729	41
+G1	健康/参照组	Mast cell | PRG2 granule-associated mast cell	5.971604052052889e-05	41
+G1	健康/参照组	Mast cell | TPSAB1 mast cell	0.003112924764981662	41
+G1	健康/参照组	Mast cell | Unknown	0.0010067234055450211	41
+G1	健康/参照组	Monocyte | CXCL10 IFN-responsive monocyte	0.00010896955786543589	41
+G1	健康/参照组	Monocyte | CXCL8 inflammatory monocyte	0.0006427742817802694	41
+G1	健康/参照组	Monocyte | FCGR3A-expressing monocyte	0.0004521565744598092	41
+G1	健康/参照组	Monocyte | FCN1 classical monocyte	0.0016804703461223505	41
+G1	健康/参照组	Monocyte | IL1B inflammatory monocyte	0.0033182890410106344	41
+G1	健康/参照组	Monocyte | JUN stress-responsive monocyte	6.872188226257724e-05	41
+G1	健康/参照组	Monocyte | S100A12 classical monocyte	0.0022249244346136837	41
+G1	健康/参照组	Monocyte | SERPINB2 inflammatory monocyte	0.0004733551541937514	41
+G1	健康/参照组	Monocyte | TXNIP-high monocyte	0.00233629167192528	41
+G1	健康/参照组	Natural killer cell | FGFBP2 cytotoxic NK cell	0.0019913004496781646	41
+G1	健康/参照组	Natural killer cell | GZMK chemokine-associated NK cell	0.0012857502867370059	41
+G1	健康/参照组	Natural killer cell | KLRD1 NK cell	0.0005317619428478584	41
+G1	健康/参照组	Natural killer cell | Unknown	0.00034539065365184543	41
+G1	健康/参照组	Natural killer cell | XCL1 chemokine-expressing NK cell	0.0024187418605793654	41
+G1	健康/参照组	Neutrophil | CSF3R neutrophil	0.00029280017154632236	41
+G1	健康/参照组	Neutrophil | CXCL8 inflammatory neutrophil	0.00024283246251190275	41
+G1	健康/参照组	Neutrophil | CXCR2-associated neutrophil	0.0001300766229509723	41
+G1	健康/参照组	Neutrophil | CXCR4-associated neutrophil	5.192728103563769e-06	41
+G1	健康/参照组	Neutrophil | S100A12 inflammatory neutrophil	0.00034655453678183735	41
+G1	健康/参照组	Neutrophil | Unknown	0.00026469062235837413	41
+G1	健康/参照组	Pericyte | CD36-high pericyte	0.00011204280137464803	41
+G1	健康/参照组	Pericyte | COL4A1 basement-membrane-associated pericyte	0.000372586635829809	41
+G1	健康/参照组	Pericyte | COX4I2 pericyte	0.00025528982274335827	41
+G1	健康/参照组	Pericyte | FN1 matrix-associated pericyte	0.00020196247882094888	41
+G1	健康/参照组	Pericyte | PDGFRA matrix-associated pericyte	0.00011218537363004296	41
+G1	健康/参照组	Pericyte | PI15-high pericyte	5.375192569002951e-05	41
+G1	健康/参照组	Pericyte | PRKG1 contractile-program pericyte	0.00033530600420190624	41
+G1	健康/参照组	Pericyte | RGS5 pericyte	0.00019584132939732136	41
+G1	健康/参照组	Pericyte | STEAP4-associated pericyte	0.0006000570581442839	41
+G1	健康/参照组	Plasma cell | DERL3 secretory plasma cell	0.0014348446406495976	41
+G1	健康/参照组	Plasma cell | MKI67 proliferation-associated plasma cell	4.327148296997994e-05	41
+G1	健康/参照组	Plasma cell | Unknown	4.308539682218501e-05	41
+G1	健康/参照组	Schwann cell | Not_assessed	0.0019177469608116647	41
+G1	健康/参照组	Smooth muscle cell | CCL21 chemokine-expressing SMC	0.005247648929958177	41
+G1	健康/参照组	Smooth muscle cell | CNN1 contractile SMC	0.01057667423261318	41
+G1	健康/参照组	Smooth muscle cell | COX4I2 contractile SMC	0.01761218878866438	41
+G1	健康/参照组	Smooth muscle cell | DLX5 contractile SMC	0.0007643887933647811	41
+G1	健康/参照组	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	0.020377893048537963	41
+G1	健康/参照组	Smooth muscle cell | IFIT1 IFN-responsive SMC	0.000580949447458538	41
+G1	健康/参照组	Smooth muscle cell | MYH11 SMC	0.04122181534833848	41
+G1	健康/参照组	Smooth muscle cell | MYH11 contractile SMC	0.008527999995202692	41
+G1	健康/参照组	Smooth muscle cell | PRKG1 contractile SMC	0.2125242090416961	41
+G1	健康/参照组	Smooth muscle cell | RGS6 contractile SMC	0.006066535074239646	41
+G1	健康/参照组	Smooth muscle cell | Unknown	0.046148919028296	41
+G1	健康/参照组	T cell | BACH2 memory-associated T cell	0.007338809462763673	41
+G1	健康/参照组	T cell | CD3D T cell	0.008798546826215482	41
+G1	健康/参照组	T cell | FGFBP2 cytotoxic T cell	0.002235961825718514	41
+G1	健康/参照组	T cell | FOXP3 regulatory T cell	0.0013915409129872	41
+G1	健康/参照组	T cell | GIMAP7 memory-associated T cell	0.006583483373876045	41
+G1	健康/参照组	T cell | GZMK cytotoxic-memory T cell	0.009585627812740518	41
+G1	健康/参照组	T cell | IFIT1 IFN-responsive T cell	0.00022906921737731947	41
+G1	健康/参照组	T cell | IL7R memory T cell	0.00725885636831662	41
+G1	健康/参照组	T cell | MKI67 proliferating T cell	0.0007461093934901521	41
+G1	健康/参照组	T cell | SLC4A10 innate-like T cell	0.0018998574397107422	41
+G1	健康/参照组	T cell | Unknown	0.0034151181517345867	41
+G1	健康/参照组	T cell | ZEB2 cytotoxic T cell	0.004133845249771328	41
+G1	健康/参照组	T cell | ZNF683 cytotoxic T cell	0.0027676349610825618	41
+G1	健康/参照组	Unknown | Unknown	0.03772126759937121	41
+G1	疾病组	B cell | AICDA germinal-centre-like B cell	7.883127467256611e-05	61
+G1	疾病组	B cell | BANK1 memory-like B cell	0.002760928699182722	61
+G1	疾病组	B cell | MS4A1 B cell	0.0029087908644566452	61
+G1	疾病组	B cell | MT2A stress-responsive B cell	0.0019905497400279685	61
+G1	疾病组	B cell | NR4A1 activated B cell	0.0007636441933241248	61
+G1	疾病组	B cell | TCL1A naive-like B cell	0.0018848926332087953	61
+G1	疾病组	Dendritic cell | CD1C cDC2 dendritic cell	0.004863364359632604	61
+G1	疾病组	Dendritic cell | CLEC9A cDC1 dendritic cell	0.0012296254070163252	61
+G1	疾病组	Dendritic cell | FCER1A dendritic cell	0.0005058016275125793	61
+G1	疾病组	Dendritic cell | IL1B inflammatory dendritic cell	6.139221474010669e-05	61
+G1	疾病组	Dendritic cell | LAMP3 mature dendritic cell	0.00019769350843558953	61
+G1	疾病组	Dendritic cell | LILRA4 plasmacytoid dendritic cell	0.0026114928881070926	61
+G1	疾病组	Dendritic cell | SIGLEC6 AXL-associated dendritic cell	0.00034128479561784474	61
+G1	疾病组	Dendritic cell | Unknown	0.0022831320820947913	61
+G1	疾病组	Endothelial cell | ACKR1 venous endothelial cell	0.015484641679534871	61
+G1	疾病组	Endothelial cell | ASPN matrix-associated endothelial cell	0.0027173527336612235	61
+G1	疾病组	Endothelial cell | CA4 capillary endothelial cell	0.012957512738505919	61
+G1	疾病组	Endothelial cell | NRG1 matrix-associated endothelial cell	0.013413842127015164	61
+G1	疾病组	Endothelial cell | OMD matrix-associated endothelial cell	0.010972382876610946	61
+G1	疾病组	Endothelial cell | PECAM1 endothelial cell	0.027267541674852597	61
+G1	疾病组	Endothelial cell | PROX1 lymphatic endothelial cell	0.0007694899659043236	61
+G1	疾病组	Endothelial cell | SEMA3G arterial endothelial cell	0.005103804367843809	61
+G1	疾病组	Endothelial cell | Unknown	0.00235903509623626	61
+G1	疾病组	Endothelial cell | ZNF385D venous endothelial cell	0.008920638397938368	61
+G1	疾病组	Fibroblast | CDH19 matrix-associated fibroblast	0.00811769821430786	61
+G1	疾病组	Fibroblast | CLDN1 matrix-associated fibroblast	0.0015122895524963076	61
+G1	疾病组	Fibroblast | CXCL12 chemokine-expressing fibroblast	0.0065853946852728945	61
+G1	疾病组	Fibroblast | DCN fibroblast	0.031497913606839296	61
+G1	疾病组	Fibroblast | FAP activated ECM-remodelling fibroblast	0.009908682273417	61
+G1	疾病组	Fibroblast | FOSB stress-responsive fibroblast	0.0041229002010025936	61
+G1	疾病组	Fibroblast | ITGA8 contractile-program fibroblast	0.02136747145903663	61
+G1	疾病组	Fibroblast | ITGBL1 ECM-remodelling fibroblast	0.0014514854887773118	61
+G1	疾病组	Fibroblast | LAMA2 tissue-associated fibroblast	0.01452700116774749	61
+G1	疾病组	Fibroblast | LTBP2 ECM-remodelling fibroblast	0.012420603201469144	61
+G1	疾病组	Fibroblast | PI16 adventitial-like fibroblast	0.008291830073285022	61
+G1	疾病组	Fibroblast | RSAD2 IFN-responsive fibroblast	0.0004687010627887838	61
+G1	疾病组	Fibroblast | S100B matrix-associated fibroblast	0.0013212217372590364	61
+G1	疾病组	Fibroblast | Unknown	0.0024215569950222474	61
+G1	疾病组	Fibromyocyte | ACTA2 contractile fibromyocyte	0.0042836579377098435	61
+G1	疾病组	Fibromyocyte | AEBP1 fibromyocyte	0.005443294874271953	61
+G1	疾病组	Fibromyocyte | CD9 ECM-remodelling fibromyocyte	0.0011087012565558154	61
+G1	疾病组	Fibromyocyte | DCN fibroblast-like fibromyocyte	0.0033769981810786694	61
+G1	疾病组	Fibromyocyte | FOSB stress-responsive fibromyocyte	0.0016659984954486237	61
+G1	疾病组	Fibromyocyte | ITGA10 ECM-remodelling fibromyocyte	0.0019065848688842944	61
+G1	疾病组	Fibromyocyte | LAMA2 matrix-associated fibromyocyte	0.0022473380154250724	61
+G1	疾病组	Fibromyocyte | MYOCD contractile fibromyocyte	0.0012742554567005964	61
+G1	疾病组	Fibromyocyte | PRKG1 contractile fibromyocyte	0.004791765278533327	61
+G1	疾病组	Macrophage | C1QC complement-rich macrophage	0.014845478243297478	61
+G1	疾病组	Macrophage | CCL20 inflammatory macrophage	0.008406959079743313	61
+G1	疾病组	Macrophage | CCL3 activated resident-like macrophage	0.009870973363680627	61
+G1	疾病组	Macrophage | CD68 macrophage	0.029548384142893392	61
+G1	疾病组	Macrophage | CD83 activated macrophage	0.010845384811118096	61
+G1	疾病组	Macrophage | CXCL10 IFN-responsive macrophage	0.0017237915580222236	61
+G1	疾病组	Macrophage | CYP27A1 lipid-associated macrophage	0.010554223410213675	61
+G1	疾病组	Macrophage | FCN1 monocyte-like macrophage	0.002706957799694056	61
+G1	疾病组	Macrophage | HLA-DRA antigen-presenting macrophage	0.019608178808301464	61
+G1	疾病组	Macrophage | IL1B inflammatory macrophage	0.0032518574245236284	61
+G1	疾病组	Macrophage | JUN stress-responsive macrophage	0.00292305406369794	61
+G1	疾病组	Macrophage | KYNU inflammatory macrophage	0.011560211750020831	61
+G1	疾病组	Macrophage | LYVE1 resident-like macrophage	0.008289836124206893	61
+G1	疾病组	Macrophage | MKI67 proliferating macrophage	0.005714143451345997	61
+G1	疾病组	Macrophage | MSR1 phagocytosis-associated macrophage	0.006844193305408714	61
+G1	疾病组	Macrophage | PDE4C-high macrophage	0.0014347615644105655	61
+G1	疾病组	Macrophage | SPP1 lipid-associated macrophage	0.009513679944273845	61
+G1	疾病组	Macrophage | Unknown	0.002699149073233902	61
+G1	疾病组	Mast cell | NFKBIA activation-associated mast cell	0.00247356444881798	61
+G1	疾病组	Mast cell | P2RY14 receptor-associated mast cell	0.0018930151015736562	61
+G1	疾病组	Mast cell | PRG2 granule-associated mast cell	0.00037480046813068645	61
+G1	疾病组	Mast cell | TPSAB1 mast cell	0.011459696649943741	61
+G1	疾病组	Mast cell | Unknown	0.0007268127828731725	61
+G1	疾病组	Monocyte | CXCL10 IFN-responsive monocyte	0.00027139255942177276	61
+G1	疾病组	Monocyte | CXCL8 inflammatory monocyte	0.0016554676538097649	61
+G1	疾病组	Monocyte | FCGR3A-expressing monocyte	0.001565709626223536	61
+G1	疾病组	Monocyte | FCN1 classical monocyte	0.0038783766391328623	61
+G1	疾病组	Monocyte | IL1B inflammatory monocyte	0.0035322622531657535	61
+G1	疾病组	Monocyte | JUN stress-responsive monocyte	0.00026255385083649306	61
+G1	疾病组	Monocyte | S100A12 classical monocyte	0.0055751178434433135	61
+G1	疾病组	Monocyte | SERPINB2 inflammatory monocyte	0.0014003093884766085	61
+G1	疾病组	Monocyte | TXNIP-high monocyte	0.007083363215414565	61
+G1	疾病组	Natural killer cell | FGFBP2 cytotoxic NK cell	0.014814179506084414	61
+G1	疾病组	Natural killer cell | GZMK chemokine-associated NK cell	0.001493584500625149	61
+G1	疾病组	Natural killer cell | KLRD1 NK cell	0.00692253073538664	61
+G1	疾病组	Natural killer cell | Unknown	0.0022805836366359493	61
+G1	疾病组	Natural killer cell | XCL1 chemokine-expressing NK cell	0.017767330963595254	61
+G1	疾病组	Neutrophil | CSF3R neutrophil	0.001883203609924045	61
+G1	疾病组	Neutrophil | CXCL8 inflammatory neutrophil	0.0040352847253452544	61
+G1	疾病组	Neutrophil | CXCR2-associated neutrophil	0.0013395604105813216	61
+G1	疾病组	Neutrophil | CXCR4-associated neutrophil	0.00014115664434929305	61
+G1	疾病组	Neutrophil | S100A12 inflammatory neutrophil	0.002285883898394104	61
+G1	疾病组	Neutrophil | Unknown	0.0008130013498006109	61
+G1	疾病组	Pericyte | CD36-high pericyte	0.00040330403113766943	61
+G1	疾病组	Pericyte | COL4A1 basement-membrane-associated pericyte	0.0006357889935839058	61
+G1	疾病组	Pericyte | COX4I2 pericyte	0.00038434250880958065	61
+G1	疾病组	Pericyte | FN1 matrix-associated pericyte	0.0005690601123485012	61
+G1	疾病组	Pericyte | PDGFRA matrix-associated pericyte	0.0007320118939787042	61
+G1	疾病组	Pericyte | PI15-high pericyte	1.2395468133007276e-05	61
+G1	疾病组	Pericyte | PRKG1 contractile-program pericyte	0.0010309189247252888	61
+G1	疾病组	Pericyte | RGS5 pericyte	0.0007559754742218434	61
+G1	疾病组	Pericyte | STEAP4-associated pericyte	5.513136007460052e-05	61
+G1	疾病组	Plasma cell | DERL3 secretory plasma cell	0.008459805461050919	61
+G1	疾病组	Plasma cell | MKI67 proliferation-associated plasma cell	0.0002059750991452561	61
+G1	疾病组	Plasma cell | Unknown	0.0011644466225976904	61
+G1	疾病组	Schwann cell | Not_assessed	0.003404442497951263	61
+G1	疾病组	Smooth muscle cell | CCL21 chemokine-expressing SMC	0.005619979963628809	61
+G1	疾病组	Smooth muscle cell | CNN1 contractile SMC	0.015488795552701879	61
+G1	疾病组	Smooth muscle cell | COX4I2 contractile SMC	0.010325365130049573	61
+G1	疾病组	Smooth muscle cell | DLX5 contractile SMC	0.004442847572820576	61
+G1	疾病组	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	0.022597267081488306	61
+G1	疾病组	Smooth muscle cell | IFIT1 IFN-responsive SMC	0.0003648734557629022	61
+G1	疾病组	Smooth muscle cell | MYH11 SMC	0.053395304314537456	61
+G1	疾病组	Smooth muscle cell | MYH11 contractile SMC	0.007262204804644767	61
+G1	疾病组	Smooth muscle cell | PRKG1 contractile SMC	0.0213766779953046	61
+G1	疾病组	Smooth muscle cell | RGS6 contractile SMC	0.0027371918200096595	61
+G1	疾病组	Smooth muscle cell | Unknown	0.01849738438201044	61
+G1	疾病组	T cell | BACH2 memory-associated T cell	0.049032920309182576	61
+G1	疾病组	T cell | CD3D T cell	0.03410770865260038	61
+G1	疾病组	T cell | FGFBP2 cytotoxic T cell	0.007289567621891067	61
+G1	疾病组	T cell | FOXP3 regulatory T cell	0.007447273783413973	61
+G1	疾病组	T cell | GIMAP7 memory-associated T cell	0.04040144622785121	61
+G1	疾病组	T cell | GZMK cytotoxic-memory T cell	0.03545396973063804	61
+G1	疾病组	T cell | IFIT1 IFN-responsive T cell	0.001435250685797946	61
+G1	疾病组	T cell | IL7R memory T cell	0.01939335243908013	61
+G1	疾病组	T cell | MKI67 proliferating T cell	0.004028864611102174	61
+G1	疾病组	T cell | SLC4A10 innate-like T cell	0.00695250975320618	61
+G1	疾病组	T cell | Unknown	0.003377813484240168	61
+G1	疾病组	T cell | ZEB2 cytotoxic T cell	0.033498781657196566	61
+G1	疾病组	T cell | ZNF683 cytotoxic T cell	0.008614965106439445	61
+G1	疾病组	Unknown | Unknown	0.040213115007107315	61
+G2	健康/参照组	B cell | AICDA germinal-centre-like B cell	0.0004513857677802551	27
+G2	健康/参照组	B cell | BANK1 memory-like B cell	0.0009240026331863882	27
+G2	健康/参照组	B cell | MS4A1 B cell	0.0029618547952783535	27
+G2	健康/参照组	B cell | MT2A stress-responsive B cell	0.00044722858247560484	27
+G2	健康/参照组	B cell | NR4A1 activated B cell	0.0017469834412746662	27
+G2	健康/参照组	B cell | TCL1A naive-like B cell	0.0031360911813487647	27
+G2	健康/参照组	Dendritic cell | CD1C cDC2 dendritic cell	0.001829866272248964	27
+G2	健康/参照组	Dendritic cell | CLEC9A cDC1 dendritic cell	0.0008069455486663546	27
+G2	健康/参照组	Dendritic cell | FCER1A dendritic cell	0.00014812613024467642	27
+G2	健康/参照组	Dendritic cell | IL1B inflammatory dendritic cell	0.0028560426613558026	27
+G2	健康/参照组	Dendritic cell | LAMP3 mature dendritic cell	0.00021279760594849204	27
+G2	健康/参照组	Dendritic cell | LILRA4 plasmacytoid dendritic cell	0.0007030599959528131	27
+G2	健康/参照组	Dendritic cell | SIGLEC6 AXL-associated dendritic cell	0.00011656269242836143	27
+G2	健康/参照组	Dendritic cell | Unknown	0.002200923376848536	27
+G2	健康/参照组	Endothelial cell | ACKR1 venous endothelial cell	0.01882674388777876	27
+G2	健康/参照组	Endothelial cell | ASPN matrix-associated endothelial cell	0.00018673198078388522	27
+G2	健康/参照组	Endothelial cell | CA4 capillary endothelial cell	0.006761169408373784	27
+G2	健康/参照组	Endothelial cell | NRG1 matrix-associated endothelial cell	0.001989927393012553	27
+G2	健康/参照组	Endothelial cell | OMD matrix-associated endothelial cell	0.0014362089313891895	27
+G2	健康/参照组	Endothelial cell | PECAM1 endothelial cell	0.01583765571351413	27
+G2	健康/参照组	Endothelial cell | PROX1 lymphatic endothelial cell	0.0022467666416252506	27
+G2	健康/参照组	Endothelial cell | SEMA3G arterial endothelial cell	0.008227124976895556	27
+G2	健康/参照组	Endothelial cell | Unknown	0.0014264945522950902	27
+G2	健康/参照组	Endothelial cell | ZNF385D venous endothelial cell	0.01029255856584291	27
+G2	健康/参照组	Fibroblast | CDH19 matrix-associated fibroblast	0.0005032803420630687	27
+G2	健康/参照组	Fibroblast | CLDN1 matrix-associated fibroblast	0.0025947100813946042	27
+G2	健康/参照组	Fibroblast | CXCL12 chemokine-expressing fibroblast	0.015060703036301496	27
+G2	健康/参照组	Fibroblast | DCN fibroblast	0.03394489817502739	27
+G2	健康/参照组	Fibroblast | FAP activated ECM-remodelling fibroblast	0.008803440786276763	27
+G2	健康/参照组	Fibroblast | FOSB stress-responsive fibroblast	0.0044325235319033025	27
+G2	健康/参照组	Fibroblast | ITGA8 contractile-program fibroblast	0.015128042583463348	27
+G2	健康/参照组	Fibroblast | ITGBL1 ECM-remodelling fibroblast	0.0032966233500734033	27
+G2	健康/参照组	Fibroblast | LAMA2 tissue-associated fibroblast	0.03513563475213708	27
+G2	健康/参照组	Fibroblast | LTBP2 ECM-remodelling fibroblast	0.011944817677704996	27
+G2	健康/参照组	Fibroblast | PI16 adventitial-like fibroblast	0.037565132633525976	27
+G2	健康/参照组	Fibroblast | RSAD2 IFN-responsive fibroblast	0.000684464115884692	27
+G2	健康/参照组	Fibroblast | S100B matrix-associated fibroblast	0.000255746106811435	27
+G2	健康/参照组	Fibroblast | Unknown	0.002052711988203256	27
+G2	健康/参照组	Fibromyocyte | ACTA2 contractile fibromyocyte	0.002380484632307234	27
+G2	健康/参照组	Fibromyocyte | AEBP1 fibromyocyte	0.0024049618762966344	27
+G2	健康/参照组	Fibromyocyte | CD9 ECM-remodelling fibromyocyte	0.001498503536324435	27
+G2	健康/参照组	Fibromyocyte | DCN fibroblast-like fibromyocyte	0.0019563682451338234	27
+G2	健康/参照组	Fibromyocyte | FOSB stress-responsive fibromyocyte	0.0016435792563349776	27
+G2	健康/参照组	Fibromyocyte | ITGA10 ECM-remodelling fibromyocyte	0.002000336177831619	27
+G2	健康/参照组	Fibromyocyte | LAMA2 matrix-associated fibromyocyte	0.0026668051451412536	27
+G2	健康/参照组	Fibromyocyte | MYOCD contractile fibromyocyte	0.0012991944927412734	27
+G2	健康/参照组	Fibromyocyte | PRKG1 contractile fibromyocyte	0.0031226854168279823	27
+G2	健康/参照组	Macrophage | C1QC complement-rich macrophage	0.013798965286714338	27
+G2	健康/参照组	Macrophage | CCL20 inflammatory macrophage	0.008491644994193977	27
+G2	健康/参照组	Macrophage | CCL3 activated resident-like macrophage	0.014077917117345158	27
+G2	健康/参照组	Macrophage | CD68 macrophage	0.030548637425508306	27
+G2	健康/参照组	Macrophage | CD83 activated macrophage	0.013613202684073835	27
+G2	健康/参照组	Macrophage | CXCL10 IFN-responsive macrophage	0.00241462569703339	27
+G2	健康/参照组	Macrophage | CYP27A1 lipid-associated macrophage	0.00859946729806324	27
+G2	健康/参照组	Macrophage | FCN1 monocyte-like macrophage	0.004351285129862873	27
+G2	健康/参照组	Macrophage | HLA-DRA antigen-presenting macrophage	0.027123080456070665	27
+G2	健康/参照组	Macrophage | IL1B inflammatory macrophage	0.007551810792958635	27
+G2	健康/参照组	Macrophage | JUN stress-responsive macrophage	0.0032967137844383742	27
+G2	健康/参照组	Macrophage | KYNU inflammatory macrophage	0.016769377170017478	27
+G2	健康/参照组	Macrophage | LYVE1 resident-like macrophage	0.016494946896733458	27
+G2	健康/参照组	Macrophage | MKI67 proliferating macrophage	0.0038000930302197534	27
+G2	健康/参照组	Macrophage | MSR1 phagocytosis-associated macrophage	0.008199727430147711	27
+G2	健康/参照组	Macrophage | PDE4C-high macrophage	0.003364693782140652	27
+G2	健康/参照组	Macrophage | SPP1 lipid-associated macrophage	0.00648238761125952	27
+G2	健康/参照组	Macrophage | Unknown	0.0020242948401089558	27
+G2	健康/参照组	Mast cell | NFKBIA activation-associated mast cell	0.0029078616901047037	27
+G2	健康/参照组	Mast cell | P2RY14 receptor-associated mast cell	0.0008972166310501858	27
+G2	健康/参照组	Mast cell | PRG2 granule-associated mast cell	0.00020664387409862698	27
+G2	健康/参照组	Mast cell | TPSAB1 mast cell	0.01055358567099377	27
+G2	健康/参照组	Mast cell | Unknown	0.008541874510128068	27
+G2	健康/参照组	Monocyte | CXCL10 IFN-responsive monocyte	0.00047189851406913915	27
+G2	健康/参照组	Monocyte | CXCL8 inflammatory monocyte	0.0016645266183059086	27
+G2	健康/参照组	Monocyte | FCGR3A-expressing monocyte	0.002017103672337458	27
+G2	健康/参照组	Monocyte | FCN1 classical monocyte	0.0041397071009620316	27
+G2	健康/参照组	Monocyte | IL1B inflammatory monocyte	0.006704538135608878	27
+G2	健康/参照组	Monocyte | JUN stress-responsive monocyte	0.0002942377375558122	27
+G2	健康/参照组	Monocyte | S100A12 classical monocyte	0.004259050249645228	27
+G2	健康/参照组	Monocyte | SERPINB2 inflammatory monocyte	0.0011585327690494262	27
+G2	健康/参照组	Monocyte | TXNIP-high monocyte	0.005533808207091511	27
+G2	健康/参照组	Natural killer cell | FGFBP2 cytotoxic NK cell	0.013124344960248394	27
+G2	健康/参照组	Natural killer cell | GZMK chemokine-associated NK cell	0.005492667260711608	27
+G2	健康/参照组	Natural killer cell | KLRD1 NK cell	0.0021728276365112005	27
+G2	健康/参照组	Natural killer cell | Unknown	0.0008355623251499909	27
+G2	健康/参照组	Natural killer cell | XCL1 chemokine-expressing NK cell	0.012825594775486407	27
+G2	健康/参照组	Neutrophil | CSF3R neutrophil	0.005606050743199631	27
+G2	健康/参照组	Neutrophil | CXCL8 inflammatory neutrophil	0.006825608088789083	27
+G2	健康/参照组	Neutrophil | CXCR2-associated neutrophil	0.0013596331888528874	27
+G2	健康/参照组	Neutrophil | CXCR4-associated neutrophil	9.437063458357833e-05	27
+G2	健康/参照组	Neutrophil | S100A12 inflammatory neutrophil	0.004588923190693344	27
+G2	健康/参照组	Neutrophil | Unknown	0.0017665778904582224	27
+G2	健康/参照组	Pericyte | CD36-high pericyte	0.0003222598764364645	27
+G2	健康/参照组	Pericyte | COL4A1 basement-membrane-associated pericyte	0.0004887792826086939	27
+G2	健康/参照组	Pericyte | COX4I2 pericyte	0.0006300229149047177	27
+G2	健康/参照组	Pericyte | FN1 matrix-associated pericyte	0.0002377136879713569	27
+G2	健康/参照组	Pericyte | PDGFRA matrix-associated pericyte	0.0008921541187459317	27
+G2	健康/参照组	Pericyte | PI15-high pericyte	0.00031741543366195783	27
+G2	健康/参照组	Pericyte | PRKG1 contractile-program pericyte	0.0007004420052869319	27
+G2	健康/参照组	Pericyte | RGS5 pericyte	0.00037358310170175756	27
+G2	健康/参照组	Pericyte | STEAP4-associated pericyte	0.0012013062240536776	27
+G2	健康/参照组	Plasma cell | DERL3 secretory plasma cell	0.004433064818466509	27
+G2	健康/参照组	Plasma cell | MKI67 proliferation-associated plasma cell	0.0010128768954054779	27
+G2	健康/参照组	Plasma cell | Unknown	0.003449587319926525	27
+G2	健康/参照组	Schwann cell | Not_assessed	0.0029193921154326186	27
+G2	健康/参照组	Smooth muscle cell | CCL21 chemokine-expressing SMC	0.007535637652638828	27
+G2	健康/参照组	Smooth muscle cell | CNN1 contractile SMC	0.021738592307720444	27
+G2	健康/参照组	Smooth muscle cell | COX4I2 contractile SMC	0.023609800100743344	27
+G2	健康/参照组	Smooth muscle cell | DLX5 contractile SMC	1.6362006112845485e-06	27
+G2	健康/参照组	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	0.02320474243605627	27
+G2	健康/参照组	Smooth muscle cell | IFIT1 IFN-responsive SMC	0.0022886747493838185	27
+G2	健康/参照组	Smooth muscle cell | MYH11 SMC	0.05534059794025789	27
+G2	健康/参照组	Smooth muscle cell | MYH11 contractile SMC	0.00985472755155243	27
+G2	健康/参照组	Smooth muscle cell | PRKG1 contractile SMC	0.017968203701970536	27
+G2	健康/参照组	Smooth muscle cell | RGS6 contractile SMC	0.0057251795426497346	27
+G2	健康/参照组	Smooth muscle cell | Unknown	0.02779003619053639	27
+G2	健康/参照组	T cell | BACH2 memory-associated T cell	0.01669706285361284	27
+G2	健康/参照组	T cell | CD3D T cell	0.015347573328601283	27
+G2	健康/参照组	T cell | FGFBP2 cytotoxic T cell	0.00715265876483468	27
+G2	健康/参照组	T cell | FOXP3 regulatory T cell	0.005205032487262266	27
+G2	健康/参照组	T cell | GIMAP7 memory-associated T cell	0.01954218270272609	27
+G2	健康/参照组	T cell | GZMK cytotoxic-memory T cell	0.03588319084330098	27
+G2	健康/参照组	T cell | IFIT1 IFN-responsive T cell	0.001585263869942628	27
+G2	健康/参照组	T cell | IL7R memory T cell	0.024514510457937736	27
+G2	健康/参照组	T cell | MKI67 proliferating T cell	0.004015577157481822	27
+G2	健康/参照组	T cell | SLC4A10 innate-like T cell	0.0021051627253148887	27
+G2	健康/参照组	T cell | Unknown	0.0034565532061828336	27
+G2	健康/参照组	T cell | ZEB2 cytotoxic T cell	0.009844579395934909	27
+G2	健康/参照组	T cell | ZNF683 cytotoxic T cell	0.010862013750220152	27
+G2	健康/参照组	Unknown | Unknown	0.060557694109088706	27
+G2	疾病组	B cell | AICDA germinal-centre-like B cell	0.0029209255333232007	41
+G2	疾病组	B cell | BANK1 memory-like B cell	0.010323345452217476	41
+G2	疾病组	B cell | MS4A1 B cell	0.009456473076090089	41
+G2	疾病组	B cell | MT2A stress-responsive B cell	0.005062741258393282	41
+G2	疾病组	B cell | NR4A1 activated B cell	0.003477345299980082	41
+G2	疾病组	B cell | TCL1A naive-like B cell	0.012332438842932815	41
+G2	疾病组	Dendritic cell | CD1C cDC2 dendritic cell	0.003633598746261234	41
+G2	疾病组	Dendritic cell | CLEC9A cDC1 dendritic cell	0.0015820143105861602	41
+G2	疾病组	Dendritic cell | FCER1A dendritic cell	0.0008775739453163694	41
+G2	疾病组	Dendritic cell | IL1B inflammatory dendritic cell	0.0019363978867928118	41
+G2	疾病组	Dendritic cell | LAMP3 mature dendritic cell	0.0006467535913398584	41
+G2	疾病组	Dendritic cell | LILRA4 plasmacytoid dendritic cell	0.0029071335103854432	41
+G2	疾病组	Dendritic cell | SIGLEC6 AXL-associated dendritic cell	0.0002213259900576814	41
+G2	疾病组	Dendritic cell | Unknown	0.0034503489831546816	41
+G2	疾病组	Endothelial cell | ACKR1 venous endothelial cell	0.010332440378987666	41
+G2	疾病组	Endothelial cell | ASPN matrix-associated endothelial cell	5.4062068237481887e-05	41
+G2	疾病组	Endothelial cell | CA4 capillary endothelial cell	0.006954849665820537	41
+G2	疾病组	Endothelial cell | NRG1 matrix-associated endothelial cell	0.0013683493725864546	41
+G2	疾病组	Endothelial cell | OMD matrix-associated endothelial cell	0.0012947591592973467	41
+G2	疾病组	Endothelial cell | PECAM1 endothelial cell	0.013078682580865872	41
+G2	疾病组	Endothelial cell | PROX1 lymphatic endothelial cell	0.0016535739922464523	41
+G2	疾病组	Endothelial cell | SEMA3G arterial endothelial cell	0.0034322922710853434	41
+G2	疾病组	Endothelial cell | Unknown	0.0008067826776662989	41
+G2	疾病组	Endothelial cell | ZNF385D venous endothelial cell	0.007947998669479145	41
+G2	疾病组	Fibroblast | CDH19 matrix-associated fibroblast	0.0008358443545723991	41
+G2	疾病组	Fibroblast | CLDN1 matrix-associated fibroblast	0.0023695552038501965	41
+G2	疾病组	Fibroblast | CXCL12 chemokine-expressing fibroblast	0.009035011801008472	41
+G2	疾病组	Fibroblast | DCN fibroblast	0.012778850894204448	41
+G2	疾病组	Fibroblast | FAP activated ECM-remodelling fibroblast	0.0075279076011737795	41
+G2	疾病组	Fibroblast | FOSB stress-responsive fibroblast	0.001939982655845593	41
+G2	疾病组	Fibroblast | ITGA8 contractile-program fibroblast	0.008625824475342278	41
+G2	疾病组	Fibroblast | ITGBL1 ECM-remodelling fibroblast	0.0012007394146438806	41
+G2	疾病组	Fibroblast | LAMA2 tissue-associated fibroblast	0.015316672573066212	41
+G2	疾病组	Fibroblast | LTBP2 ECM-remodelling fibroblast	0.005087546905754636	41
+G2	疾病组	Fibroblast | PI16 adventitial-like fibroblast	0.009396542510812273	41
+G2	疾病组	Fibroblast | RSAD2 IFN-responsive fibroblast	0.0004082370751654611	41
+G2	疾病组	Fibroblast | S100B matrix-associated fibroblast	0.0	41
+G2	疾病组	Fibroblast | Unknown	0.0010943195792919014	41
+G2	疾病组	Fibromyocyte | ACTA2 contractile fibromyocyte	0.0009090872051930867	41
+G2	疾病组	Fibromyocyte | AEBP1 fibromyocyte	0.0025105239749255927	41
+G2	疾病组	Fibromyocyte | CD9 ECM-remodelling fibromyocyte	0.00031314979829652587	41
+G2	疾病组	Fibromyocyte | DCN fibroblast-like fibromyocyte	0.00130970398396174	41
+G2	疾病组	Fibromyocyte | FOSB stress-responsive fibromyocyte	0.0005575489118062098	41
+G2	疾病组	Fibromyocyte | ITGA10 ECM-remodelling fibromyocyte	0.0009606992078453233	41
+G2	疾病组	Fibromyocyte | LAMA2 matrix-associated fibromyocyte	0.0008353774392214102	41
+G2	疾病组	Fibromyocyte | MYOCD contractile fibromyocyte	0.0005411761280465038	41
+G2	疾病组	Fibromyocyte | PRKG1 contractile fibromyocyte	0.001544516208938063	41
+G2	疾病组	Macrophage | C1QC complement-rich macrophage	0.012144215925693655	41
+G2	疾病组	Macrophage | CCL20 inflammatory macrophage	0.01805853300557622	41
+G2	疾病组	Macrophage | CCL3 activated resident-like macrophage	0.01308932002784823	41
+G2	疾病组	Macrophage | CD68 macrophage	0.042453810103933697	41
+G2	疾病组	Macrophage | CD83 activated macrophage	0.014045421764476042	41
+G2	疾病组	Macrophage | CXCL10 IFN-responsive macrophage	0.0025701723946441185	41
+G2	疾病组	Macrophage | CYP27A1 lipid-associated macrophage	0.008841864317116362	41
+G2	疾病组	Macrophage | FCN1 monocyte-like macrophage	0.0045616431814784275	41
+G2	疾病组	Macrophage | HLA-DRA antigen-presenting macrophage	0.03894138767444076	41
+G2	疾病组	Macrophage | IL1B inflammatory macrophage	0.01573557320193569	41
+G2	疾病组	Macrophage | JUN stress-responsive macrophage	0.0037706611107727788	41
+G2	疾病组	Macrophage | KYNU inflammatory macrophage	0.037197346434016794	41
+G2	疾病组	Macrophage | LYVE1 resident-like macrophage	0.01506034908152926	41
+G2	疾病组	Macrophage | MKI67 proliferating macrophage	0.005124455816133878	41
+G2	疾病组	Macrophage | MSR1 phagocytosis-associated macrophage	0.00849541756279802	41
+G2	疾病组	Macrophage | PDE4C-high macrophage	0.0006910926726167052	41
+G2	疾病组	Macrophage | SPP1 lipid-associated macrophage	0.008430098825224698	41
+G2	疾病组	Macrophage | Unknown	0.0005369613896931186	41
+G2	疾病组	Mast cell | NFKBIA activation-associated mast cell	0.001855950588634133	41
+G2	疾病组	Mast cell | P2RY14 receptor-associated mast cell	0.00047441456874440833	41
+G2	疾病组	Mast cell | PRG2 granule-associated mast cell	0.00017929071075589077	41
+G2	疾病组	Mast cell | TPSAB1 mast cell	0.005461228330018458	41
+G2	疾病组	Mast cell | Unknown	0.0017808643391002052	41
+G2	疾病组	Monocyte | CXCL10 IFN-responsive monocyte	0.00041997861159785276	41
+G2	疾病组	Monocyte | CXCL8 inflammatory monocyte	0.004042599927708228	41
+G2	疾病组	Monocyte | FCGR3A-expressing monocyte	0.0018323151572563834	41
+G2	疾病组	Monocyte | FCN1 classical monocyte	0.009615062035616434	41
+G2	疾病组	Monocyte | IL1B inflammatory monocyte	0.015188607766448509	41
+G2	疾病组	Monocyte | JUN stress-responsive monocyte	0.0003967273191799578	41
+G2	疾病组	Monocyte | S100A12 classical monocyte	0.008257274566777412	41
+G2	疾病组	Monocyte | SERPINB2 inflammatory monocyte	0.004846039936504297	41
+G2	疾病组	Monocyte | TXNIP-high monocyte	0.007738184566829673	41
+G2	疾病组	Natural killer cell | FGFBP2 cytotoxic NK cell	0.0188573547153094	41
+G2	疾病组	Natural killer cell | GZMK chemokine-associated NK cell	0.005999561632799373	41
+G2	疾病组	Natural killer cell | KLRD1 NK cell	0.004543338774431031	41
+G2	疾病组	Natural killer cell | Unknown	0.002210026616572731	41
+G2	疾病组	Natural killer cell | XCL1 chemokine-expressing NK cell	0.019149144013028134	41
+G2	疾病组	Neutrophil | CSF3R neutrophil	0.011042577901139508	41
+G2	疾病组	Neutrophil | CXCL8 inflammatory neutrophil	0.008793123243605117	41
+G2	疾病组	Neutrophil | CXCR2-associated neutrophil	0.0009922833902751677	41
+G2	疾病组	Neutrophil | CXCR4-associated neutrophil	0.0070876847330905175	41
+G2	疾病组	Neutrophil | S100A12 inflammatory neutrophil	0.003014276929600483	41
+G2	疾病组	Neutrophil | Unknown	0.0015246245690179394	41
+G2	疾病组	Pericyte | CD36-high pericyte	6.991837429268973e-05	41
+G2	疾病组	Pericyte | COL4A1 basement-membrane-associated pericyte	0.0004480636757379435	41
+G2	疾病组	Pericyte | COX4I2 pericyte	0.00021890826868520294	41
+G2	疾病组	Pericyte | FN1 matrix-associated pericyte	0.0004623404286818254	41
+G2	疾病组	Pericyte | PDGFRA matrix-associated pericyte	0.000290104533947265	41
+G2	疾病组	Pericyte | PI15-high pericyte	7.397099778349676e-05	41
+G2	疾病组	Pericyte | PRKG1 contractile-program pericyte	0.00045737574302428765	41
+G2	疾病组	Pericyte | RGS5 pericyte	0.00023502334570696783	41
+G2	疾病组	Pericyte | STEAP4-associated pericyte	0.00030288754983443824	41
+G2	疾病组	Plasma cell | DERL3 secretory plasma cell	0.004716283218558752	41
+G2	疾病组	Plasma cell | MKI67 proliferation-associated plasma cell	0.0006052903778199038	41
+G2	疾病组	Plasma cell | Unknown	0.0012940502494207435	41
+G2	疾病组	Schwann cell | Not_assessed	0.0016904559377864511	41
+G2	疾病组	Smooth muscle cell | CCL21 chemokine-expressing SMC	0.002163155538296772	41
+G2	疾病组	Smooth muscle cell | CNN1 contractile SMC	0.007905713430984595	41
+G2	疾病组	Smooth muscle cell | COX4I2 contractile SMC	0.007957858915452436	41
+G2	疾病组	Smooth muscle cell | DLX5 contractile SMC	2.311871459946827e-05	41
+G2	疾病组	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	0.01054202345801723	41
+G2	疾病组	Smooth muscle cell | IFIT1 IFN-responsive SMC	0.00036757079232822273	41
+G2	疾病组	Smooth muscle cell | MYH11 SMC	0.021820180664186995	41
+G2	疾病组	Smooth muscle cell | MYH11 contractile SMC	0.00395555129643591	41
+G2	疾病组	Smooth muscle cell | PRKG1 contractile SMC	0.006706935667260704	41
+G2	疾病组	Smooth muscle cell | RGS6 contractile SMC	0.0023137911911790404	41
+G2	疾病组	Smooth muscle cell | Unknown	0.016874947737056847	41
+G2	疾病组	T cell | BACH2 memory-associated T cell	0.04827854078830809	41
+G2	疾病组	T cell | CD3D T cell	0.03390648465655484	41
+G2	疾病组	T cell | FGFBP2 cytotoxic T cell	0.009166472448171183	41
+G2	疾病组	T cell | FOXP3 regulatory T cell	0.012676868037821386	41
+G2	疾病组	T cell | GIMAP7 memory-associated T cell	0.03406230581733494	41
+G2	疾病组	T cell | GZMK cytotoxic-memory T cell	0.04343553776023635	41
+G2	疾病组	T cell | IFIT1 IFN-responsive T cell	0.0013651382597285673	41
+G2	疾病组	T cell | IL7R memory T cell	0.03767780142449408	41
+G2	疾病组	T cell | MKI67 proliferating T cell	0.0036375185994905073	41
+G2	疾病组	T cell | SLC4A10 innate-like T cell	0.005290859641770363	41
+G2	疾病组	T cell | Unknown	0.0037508486141093838	41
+G2	疾病组	T cell | ZEB2 cytotoxic T cell	0.02781604817859374	41
+G2	疾病组	T cell | ZNF683 cytotoxic T cell	0.012907831420874111	41
+G2	疾病组	Unknown | Unknown	0.048630339645394816	41
+G3	健康/参照组	B cell | AICDA germinal-centre-like B cell	0.0	11
+G3	健康/参照组	B cell | BANK1 memory-like B cell	0.0003724915411495862	11
+G3	健康/参照组	B cell | MS4A1 B cell	0.0006506805639149755	11
+G3	健康/参照组	B cell | MT2A stress-responsive B cell	0.0003130162766110179	11
+G3	健康/参照组	B cell | NR4A1 activated B cell	0.0	11
+G3	健康/参照组	B cell | TCL1A naive-like B cell	0.00019060612384194179	11
+G3	健康/参照组	Dendritic cell | CD1C cDC2 dendritic cell	0.0019302401541121943	11
+G3	健康/参照组	Dendritic cell | CLEC9A cDC1 dendritic cell	0.0006745449940102253	11
+G3	健康/参照组	Dendritic cell | FCER1A dendritic cell	0.0001089114919459692	11
+G3	健康/参照组	Dendritic cell | IL1B inflammatory dendritic cell	0.00311915540225781	11
+G3	健康/参照组	Dendritic cell | LAMP3 mature dendritic cell	6.563693931521276e-05	11
+G3	健康/参照组	Dendritic cell | LILRA4 plasmacytoid dendritic cell	0.0004080455970654692	11
+G3	健康/参照组	Dendritic cell | SIGLEC6 AXL-associated dendritic cell	6.872960854134012e-05	11
+G3	健康/参照组	Dendritic cell | Unknown	0.001363999843510955	11
+G3	健康/参照组	Endothelial cell | ACKR1 venous endothelial cell	0.017624488110688535	11
+G3	健康/参照组	Endothelial cell | ASPN matrix-associated endothelial cell	6.006089250486263e-05	11
+G3	健康/参照组	Endothelial cell | CA4 capillary endothelial cell	0.011955057363254822	11
+G3	健康/参照组	Endothelial cell | NRG1 matrix-associated endothelial cell	0.005623600088965132	11
+G3	健康/参照组	Endothelial cell | OMD matrix-associated endothelial cell	0.005321507145615339	11
+G3	健康/参照组	Endothelial cell | PECAM1 endothelial cell	0.019332797680360683	11
+G3	健康/参照组	Endothelial cell | PROX1 lymphatic endothelial cell	0.003146464230590279	11
+G3	健康/参照组	Endothelial cell | SEMA3G arterial endothelial cell	0.008820903155491958	11
+G3	健康/参照组	Endothelial cell | Unknown	0.0016039765209008275	11
+G3	健康/参照组	Endothelial cell | ZNF385D venous endothelial cell	0.0056757732728454574	11
+G3	健康/参照组	Fibroblast | CDH19 matrix-associated fibroblast	0.00038208023174697467	11
+G3	健康/参照组	Fibroblast | CLDN1 matrix-associated fibroblast	0.001143816215909303	11
+G3	健康/参照组	Fibroblast | CXCL12 chemokine-expressing fibroblast	0.01644911776737106	11
+G3	健康/参照组	Fibroblast | DCN fibroblast	0.03963261160083455	11
+G3	健康/参照组	Fibroblast | FAP activated ECM-remodelling fibroblast	0.00952263309753842	11
+G3	健康/参照组	Fibroblast | FOSB stress-responsive fibroblast	0.002677891955968722	11
+G3	健康/参照组	Fibroblast | ITGA8 contractile-program fibroblast	0.016288735971212186	11
+G3	健康/参照组	Fibroblast | ITGBL1 ECM-remodelling fibroblast	0.005399922666494314	11
+G3	健康/参照组	Fibroblast | LAMA2 tissue-associated fibroblast	0.03577281091842626	11
+G3	健康/参照组	Fibroblast | LTBP2 ECM-remodelling fibroblast	0.015554927278603414	11
+G3	健康/参照组	Fibroblast | PI16 adventitial-like fibroblast	0.047706445700648574	11
+G3	健康/参照组	Fibroblast | RSAD2 IFN-responsive fibroblast	0.0004223130075547071	11
+G3	健康/参照组	Fibroblast | S100B matrix-associated fibroblast	0.0	11
+G3	健康/参照组	Fibroblast | Unknown	0.0017427268735078487	11
+G3	健康/参照组	Fibromyocyte | ACTA2 contractile fibromyocyte	0.0021827979973539306	11
+G3	健康/参照组	Fibromyocyte | AEBP1 fibromyocyte	0.0026028823220873303	11
+G3	健康/参照组	Fibromyocyte | CD9 ECM-remodelling fibromyocyte	0.0015142900010519445	11
+G3	健康/参照组	Fibromyocyte | DCN fibroblast-like fibromyocyte	0.0031050464865851183	11
+G3	健康/参照组	Fibromyocyte | FOSB stress-responsive fibromyocyte	6.931102897950501e-05	11
+G3	健康/参照组	Fibromyocyte | ITGA10 ECM-remodelling fibromyocyte	0.002148710032124369	11
+G3	健康/参照组	Fibromyocyte | LAMA2 matrix-associated fibromyocyte	0.003700926169400445	11
+G3	健康/参照组	Fibromyocyte | MYOCD contractile fibromyocyte	0.0007317183300352654	11
+G3	健康/参照组	Fibromyocyte | PRKG1 contractile fibromyocyte	0.004122710165962471	11
+G3	健康/参照组	Macrophage | C1QC complement-rich macrophage	0.013410801659009975	11
+G3	健康/参照组	Macrophage | CCL20 inflammatory macrophage	0.008497943898140532	11
+G3	健康/参照组	Macrophage | CCL3 activated resident-like macrophage	0.013242705233089761	11
+G3	健康/参照组	Macrophage | CD68 macrophage	0.04182439439182921	11
+G3	健康/参照组	Macrophage | CD83 activated macrophage	0.01555727794031057	11
+G3	健康/参照组	Macrophage | CXCL10 IFN-responsive macrophage	0.0012844892139566124	11
+G3	健康/参照组	Macrophage | CYP27A1 lipid-associated macrophage	0.01231989481454774	11
+G3	健康/参照组	Macrophage | FCN1 monocyte-like macrophage	0.005523083619425096	11
+G3	健康/参照组	Macrophage | HLA-DRA antigen-presenting macrophage	0.044699930935291864	11
+G3	健康/参照组	Macrophage | IL1B inflammatory macrophage	0.006260668709531071	11
+G3	健康/参照组	Macrophage | JUN stress-responsive macrophage	0.0029145048017843764	11
+G3	健康/参照组	Macrophage | KYNU inflammatory macrophage	0.013458692420056638	11
+G3	健康/参照组	Macrophage | LYVE1 resident-like macrophage	0.01988089905196549	11
+G3	健康/参照组	Macrophage | MKI67 proliferating macrophage	0.005520815175854379	11
+G3	健康/参照组	Macrophage | MSR1 phagocytosis-associated macrophage	0.011459442808783948	11
+G3	健康/参照组	Macrophage | PDE4C-high macrophage	0.004065163628929925	11
+G3	健康/参照组	Macrophage | SPP1 lipid-associated macrophage	0.007330926257346682	11
+G3	健康/参照组	Macrophage | Unknown	0.001241621224449497	11
+G3	健康/参照组	Mast cell | NFKBIA activation-associated mast cell	0.003098208804076166	11
+G3	健康/参照组	Mast cell | P2RY14 receptor-associated mast cell	0.0018208020139684272	11
+G3	健康/参照组	Mast cell | PRG2 granule-associated mast cell	0.0006652486922535939	11
+G3	健康/参照组	Mast cell | TPSAB1 mast cell	0.012659735991556958	11
+G3	健康/参照组	Mast cell | Unknown	0.0015268427202406384	11
+G3	健康/参照组	Monocyte | CXCL10 IFN-responsive monocyte	0.00015522947653729227	11
+G3	健康/参照组	Monocyte | CXCL8 inflammatory monocyte	0.005229800224795685	11
+G3	健康/参照组	Monocyte | FCGR3A-expressing monocyte	0.005853016670995499	11
+G3	健康/参照组	Monocyte | FCN1 classical monocyte	0.009788519806442443	11
+G3	健康/参照组	Monocyte | IL1B inflammatory monocyte	0.011459551993345864	11
+G3	健康/参照组	Monocyte | JUN stress-responsive monocyte	0.0003716469095089957	11
+G3	健康/参照组	Monocyte | S100A12 classical monocyte	0.010298177735677393	11
+G3	健康/参照组	Monocyte | SERPINB2 inflammatory monocyte	0.0017536683878805641	11
+G3	健康/参照组	Monocyte | TXNIP-high monocyte	0.003971938838273333	11
+G3	健康/参照组	Natural killer cell | FGFBP2 cytotoxic NK cell	0.014169442676504867	11
+G3	健康/参照组	Natural killer cell | GZMK chemokine-associated NK cell	0.002513010420957713	11
+G3	健康/参照组	Natural killer cell | KLRD1 NK cell	0.002688720148133589	11
+G3	健康/参照组	Natural killer cell | Unknown	0.0010560592849595735	11
+G3	健康/参照组	Natural killer cell | XCL1 chemokine-expressing NK cell	0.006883182322183506	11
+G3	健康/参照组	Neutrophil | CSF3R neutrophil	0.00010195260120328711	11
+G3	健康/参照组	Neutrophil | CXCL8 inflammatory neutrophil	2.3292106305173177e-05	11
+G3	健康/参照组	Neutrophil | CXCR2-associated neutrophil	5.0976300601643554e-05	11
+G3	健康/参照组	Neutrophil | CXCR4-associated neutrophil	0.0	11
+G3	健康/参照组	Neutrophil | S100A12 inflammatory neutrophil	0.00032351713743707973	11
+G3	健康/参照组	Neutrophil | Unknown	0.0005998106739380283	11
+G3	健康/参照组	Pericyte | CD36-high pericyte	0.0003415971574828816	11
+G3	健康/参照组	Pericyte | COL4A1 basement-membrane-associated pericyte	0.0003405458602865628	11
+G3	健康/参照组	Pericyte | COX4I2 pericyte	0.0003916582568440607	11
+G3	健康/参照组	Pericyte | FN1 matrix-associated pericyte	2.7811163273886255e-05	11
+G3	健康/参照组	Pericyte | PDGFRA matrix-associated pericyte	0.0005606668740924963	11
+G3	健康/参照组	Pericyte | PI15-high pericyte	8.376144739781103e-05	11
+G3	健康/参照组	Pericyte | PRKG1 contractile-program pericyte	0.00046225341718533075	11
+G3	健康/参照组	Pericyte | RGS5 pericyte	0.0013811707118873717	11
+G3	健康/参照组	Pericyte | STEAP4-associated pericyte	0.0012400924804683614	11
+G3	健康/参照组	Plasma cell | DERL3 secretory plasma cell	0.0016671921702233236	11
+G3	健康/参照组	Plasma cell | MKI67 proliferation-associated plasma cell	0.00013501263354959302	11
+G3	健康/参照组	Plasma cell | Unknown	0.00013512365777567506	11
+G3	健康/参照组	Schwann cell | Not_assessed	0.0017174469434412495	11
+G3	健康/参照组	Smooth muscle cell | CCL21 chemokine-expressing SMC	0.0034176065943221676	11
+G3	健康/参照组	Smooth muscle cell | CNN1 contractile SMC	0.03747113052683238	11
+G3	健康/参照组	Smooth muscle cell | COX4I2 contractile SMC	0.020491524613628267	11
+G3	健康/参照组	Smooth muscle cell | DLX5 contractile SMC	0.0	11
+G3	健康/参照组	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	0.03494910289664095	11
+G3	健康/参照组	Smooth muscle cell | IFIT1 IFN-responsive SMC	0.0002048946159650396	11
+G3	健康/参照组	Smooth muscle cell | MYH11 SMC	0.08427139249602146	11
+G3	健康/参照组	Smooth muscle cell | MYH11 contractile SMC	0.019093042175994265	11
+G3	健康/参照组	Smooth muscle cell | PRKG1 contractile SMC	0.023988101432841722	11
+G3	健康/参照组	Smooth muscle cell | RGS6 contractile SMC	0.006330356408420679	11
+G3	健康/参照组	Smooth muscle cell | Unknown	0.013455505813154094	11
+G3	健康/参照组	T cell | BACH2 memory-associated T cell	0.009471655496338514	11
+G3	健康/参照组	T cell | CD3D T cell	0.004608462061104685	11
+G3	健康/参照组	T cell | FGFBP2 cytotoxic T cell	0.008478370657034212	11
+G3	健康/参照组	T cell | FOXP3 regulatory T cell	0.0006276654075960219	11
+G3	健康/参照组	T cell | GIMAP7 memory-associated T cell	0.007960013232674904	11
+G3	健康/参照组	T cell | GZMK cytotoxic-memory T cell	0.015502244463863786	11
+G3	健康/参照组	T cell | IFIT1 IFN-responsive T cell	0.0003390752093634739	11
+G3	健康/参照组	T cell | IL7R memory T cell	0.009019956579079712	11
+G3	健康/参照组	T cell | MKI67 proliferating T cell	0.0023324962305142417	11
+G3	健康/参照组	T cell | SLC4A10 innate-like T cell	0.0009832501608172499	11
+G3	健康/参照组	T cell | Unknown	0.00232381106678333	11
+G3	健康/参照组	T cell | ZEB2 cytotoxic T cell	0.00759788203629215	11
+G3	健康/参照组	T cell | ZNF683 cytotoxic T cell	0.007897483007352081	11
+G3	健康/参照组	Unknown | Unknown	0.04383992350448402	11
+G3	疾病组	B cell | AICDA germinal-centre-like B cell	9.582827572989202e-05	11
+G3	疾病组	B cell | BANK1 memory-like B cell	0.0021275436340671273	11
+G3	疾病组	B cell | MS4A1 B cell	0.00471085921756691	11
+G3	疾病组	B cell | MT2A stress-responsive B cell	5.3773340892917486e-05	11
+G3	疾病组	B cell | NR4A1 activated B cell	5.696559633574332e-05	11
+G3	疾病组	B cell | TCL1A naive-like B cell	0.0015596757076205984	11
+G3	疾病组	Dendritic cell | CD1C cDC2 dendritic cell	0.006841717770938772	11
+G3	疾病组	Dendritic cell | CLEC9A cDC1 dendritic cell	0.0018437125312448217	11
+G3	疾病组	Dendritic cell | FCER1A dendritic cell	0.0004531431586251924	11
+G3	疾病组	Dendritic cell | IL1B inflammatory dendritic cell	2.6063386155129277e-05	11
+G3	疾病组	Dendritic cell | LAMP3 mature dendritic cell	0.0005355513662111451	11
+G3	疾病组	Dendritic cell | LILRA4 plasmacytoid dendritic cell	0.002042018413728795	11
+G3	疾病组	Dendritic cell | SIGLEC6 AXL-associated dendritic cell	0.0003876173519668085	11
+G3	疾病组	Dendritic cell | Unknown	0.0023931808313198467	11
+G3	疾病组	Endothelial cell | ACKR1 venous endothelial cell	0.012460423322133351	11
+G3	疾病组	Endothelial cell | ASPN matrix-associated endothelial cell	0.002542318530734927	11
+G3	疾病组	Endothelial cell | CA4 capillary endothelial cell	0.008418471604192583	11
+G3	疾病组	Endothelial cell | NRG1 matrix-associated endothelial cell	0.03426638528948763	11
+G3	疾病组	Endothelial cell | OMD matrix-associated endothelial cell	0.015910573806003605	11
+G3	疾病组	Endothelial cell | PECAM1 endothelial cell	0.05092119823354732	11
+G3	疾病组	Endothelial cell | PROX1 lymphatic endothelial cell	0.0002646244179477983	11
+G3	疾病组	Endothelial cell | SEMA3G arterial endothelial cell	0.015166476969377668	11
+G3	疾病组	Endothelial cell | Unknown	0.003727992017334425	11
+G3	疾病组	Endothelial cell | ZNF385D venous endothelial cell	0.01025602340954673	11
+G3	疾病组	Fibroblast | CDH19 matrix-associated fibroblast	0.0	11
+G3	疾病组	Fibroblast | CLDN1 matrix-associated fibroblast	5.0045675518225293e-05	11
+G3	疾病组	Fibroblast | CXCL12 chemokine-expressing fibroblast	0.0009528895851255085	11
+G3	疾病组	Fibroblast | DCN fibroblast	0.002403836355508587	11
+G3	疾病组	Fibroblast | FAP activated ECM-remodelling fibroblast	0.0015120148650695773	11
+G3	疾病组	Fibroblast | FOSB stress-responsive fibroblast	0.0019595539554250713	11
+G3	疾病组	Fibroblast | ITGA8 contractile-program fibroblast	0.004761705979190872	11
+G3	疾病组	Fibroblast | ITGBL1 ECM-remodelling fibroblast	0.00020182614510200238	11
+G3	疾病组	Fibroblast | LAMA2 tissue-associated fibroblast	0.002937176010820754	11
+G3	疾病组	Fibroblast | LTBP2 ECM-remodelling fibroblast	0.00217243593635548	11
+G3	疾病组	Fibroblast | PI16 adventitial-like fibroblast	0.0045614001266706655	11
+G3	疾病组	Fibroblast | RSAD2 IFN-responsive fibroblast	0.00018339307215292826	11
+G3	疾病组	Fibroblast | S100B matrix-associated fibroblast	0.0	11
+G3	疾病组	Fibroblast | Unknown	0.00017766539406895572	11
+G3	疾病组	Fibromyocyte | ACTA2 contractile fibromyocyte	0.0006841533928304297	11
+G3	疾病组	Fibromyocyte | AEBP1 fibromyocyte	0.0032080339371678593	11
+G3	疾病组	Fibromyocyte | CD9 ECM-remodelling fibromyocyte	0.00029779269825081113	11
+G3	疾病组	Fibromyocyte | DCN fibroblast-like fibromyocyte	0.0008010298840315195	11
+G3	疾病组	Fibromyocyte | FOSB stress-responsive fibromyocyte	0.00012040939193257074	11
+G3	疾病组	Fibromyocyte | ITGA10 ECM-remodelling fibromyocyte	0.00041673935873140115	11
+G3	疾病组	Fibromyocyte | LAMA2 matrix-associated fibromyocyte	0.0012705401655238385	11
+G3	疾病组	Fibromyocyte | MYOCD contractile fibromyocyte	0.0	11
+G3	疾病组	Fibromyocyte | PRKG1 contractile fibromyocyte	0.001255318853915735	11
+G3	疾病组	Macrophage | C1QC complement-rich macrophage	0.011395288472171748	11
+G3	疾病组	Macrophage | CCL20 inflammatory macrophage	0.009809828988418917	11
+G3	疾病组	Macrophage | CCL3 activated resident-like macrophage	0.008980316385491861	11
+G3	疾病组	Macrophage | CD68 macrophage	0.05021141187375009	11
+G3	疾病组	Macrophage | CD83 activated macrophage	0.008298706400119217	11
+G3	疾病组	Macrophage | CXCL10 IFN-responsive macrophage	0.0024855359485646874	11
+G3	疾病组	Macrophage | CYP27A1 lipid-associated macrophage	0.024111197112068602	11
+G3	疾病组	Macrophage | FCN1 monocyte-like macrophage	0.006615249876265441	11
+G3	疾病组	Macrophage | HLA-DRA antigen-presenting macrophage	0.02888085174770879	11
+G3	疾病组	Macrophage | IL1B inflammatory macrophage	0.004393096242954934	11
+G3	疾病组	Macrophage | JUN stress-responsive macrophage	0.0020947473090486735	11
+G3	疾病组	Macrophage | KYNU inflammatory macrophage	0.020313582577456073	11
+G3	疾病组	Macrophage | LYVE1 resident-like macrophage	0.016617794052643277	11
+G3	疾病组	Macrophage | MKI67 proliferating macrophage	0.005190528622579947	11
+G3	疾病组	Macrophage | MSR1 phagocytosis-associated macrophage	0.012863441652688627	11
+G3	疾病组	Macrophage | PDE4C-high macrophage	0.00025687555978303947	11
+G3	疾病组	Macrophage | SPP1 lipid-associated macrophage	0.009366901014028414	11
+G3	疾病组	Macrophage | Unknown	0.0006370745226793973	11
+G3	疾病组	Mast cell | NFKBIA activation-associated mast cell	0.003558984842380217	11
+G3	疾病组	Mast cell | P2RY14 receptor-associated mast cell	0.0017406983397764038	11
+G3	疾病组	Mast cell | PRG2 granule-associated mast cell	2.129517238442045e-05	11
+G3	疾病组	Mast cell | TPSAB1 mast cell	0.005868175228203784	11
+G3	疾病组	Mast cell | Unknown	0.000806277915543565	11
+G3	疾病组	Monocyte | CXCL10 IFN-responsive monocyte	0.00043092815883139944	11
+G3	疾病组	Monocyte | CXCL8 inflammatory monocyte	0.0023873098842899575	11
+G3	疾病组	Monocyte | FCGR3A-expressing monocyte	0.004584841671516461	11
+G3	疾病组	Monocyte | FCN1 classical monocyte	0.007637440927748915	11
+G3	疾病组	Monocyte | IL1B inflammatory monocyte	0.004139421878106179	11
+G3	疾病组	Monocyte | JUN stress-responsive monocyte	0.0005331679855086153	11
+G3	疾病组	Monocyte | S100A12 classical monocyte	0.006483168012715928	11
+G3	疾病组	Monocyte | SERPINB2 inflammatory monocyte	0.0007443869635525013	11
+G3	疾病组	Monocyte | TXNIP-high monocyte	0.008070825773850427	11
+G3	疾病组	Natural killer cell | FGFBP2 cytotoxic NK cell	0.012460652538953497	11
+G3	疾病组	Natural killer cell | GZMK chemokine-associated NK cell	0.003898474568994661	11
+G3	疾病组	Natural killer cell | KLRD1 NK cell	0.014703677858740908	11
+G3	疾病组	Natural killer cell | Unknown	0.0028966662547655593	11
+G3	疾病组	Natural killer cell | XCL1 chemokine-expressing NK cell	0.012456142097711191	11
+G3	疾病组	Neutrophil | CSF3R neutrophil	0.0	11
+G3	疾病组	Neutrophil | CXCL8 inflammatory neutrophil	0.0	11
+G3	疾病组	Neutrophil | CXCR2-associated neutrophil	0.0	11
+G3	疾病组	Neutrophil | CXCR4-associated neutrophil	0.0	11
+G3	疾病组	Neutrophil | S100A12 inflammatory neutrophil	0.0	11
+G3	疾病组	Neutrophil | Unknown	0.00031643501562619663	11
+G3	疾病组	Pericyte | CD36-high pericyte	0.0	11
+G3	疾病组	Pericyte | COL4A1 basement-membrane-associated pericyte	0.0004560656734569778	11
+G3	疾病组	Pericyte | COX4I2 pericyte	6.22053690864061e-05	11
+G3	疾病组	Pericyte | FN1 matrix-associated pericyte	0.00016266947734453616	11
+G3	疾病组	Pericyte | PDGFRA matrix-associated pericyte	0.0010641532380662815	11
+G3	疾病组	Pericyte | PI15-high pericyte	0.0	11
+G3	疾病组	Pericyte | PRKG1 contractile-program pericyte	0.0003915210883513062	11
+G3	疾病组	Pericyte | RGS5 pericyte	0.0005606312788294754	11
+G3	疾病组	Pericyte | STEAP4-associated pericyte	4.312575470070726e-05	11
+G3	疾病组	Plasma cell | DERL3 secretory plasma cell	0.0021573514105408496	11
+G3	疾病组	Plasma cell | MKI67 proliferation-associated plasma cell	4.876460544130494e-05	11
+G3	疾病组	Plasma cell | Unknown	0.0007712079957599703	11
+G3	疾病组	Schwann cell | Not_assessed	0.0016812749580854553	11
+G3	疾病组	Smooth muscle cell | CCL21 chemokine-expressing SMC	0.0012232540996295691	11
+G3	疾病组	Smooth muscle cell | CNN1 contractile SMC	0.005382371351360814	11
+G3	疾病组	Smooth muscle cell | COX4I2 contractile SMC	0.006723533281781679	11
+G3	疾病组	Smooth muscle cell | DLX5 contractile SMC	0.0	11
+G3	疾病组	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	0.004008061730401424	11
+G3	疾病组	Smooth muscle cell | IFIT1 IFN-responsive SMC	0.00015202189115232594	11
+G3	疾病组	Smooth muscle cell | MYH11 SMC	0.008476036712419623	11
+G3	疾病组	Smooth muscle cell | MYH11 contractile SMC	0.0030686154454365633	11
+G3	疾病组	Smooth muscle cell | PRKG1 contractile SMC	0.01470406294683248	11
+G3	疾病组	Smooth muscle cell | RGS6 contractile SMC	0.0033610366749365285	11
+G3	疾病组	Smooth muscle cell | Unknown	0.006079872760478385	11
+G3	疾病组	T cell | BACH2 memory-associated T cell	0.042720264231862135	11
+G3	疾病组	T cell | CD3D T cell	0.08384849369746518	11
+G3	疾病组	T cell | FGFBP2 cytotoxic T cell	0.012954244360115781	11
+G3	疾病组	T cell | FOXP3 regulatory T cell	0.01115810472255413	11
+G3	疾病组	T cell | GIMAP7 memory-associated T cell	0.07572660829317426	11
+G3	疾病组	T cell | GZMK cytotoxic-memory T cell	0.04979984386940999	11
+G3	疾病组	T cell | IFIT1 IFN-responsive T cell	0.001236683072483747	11
+G3	疾病组	T cell | IL7R memory T cell	0.0331587522058239	11
+G3	疾病组	T cell | MKI67 proliferating T cell	0.0033085797533315585	11
+G3	疾病组	T cell | SLC4A10 innate-like T cell	0.005503668651158219	11
+G3	疾病组	T cell | Unknown	0.0062387258047230795	11
+G3	疾病组	T cell | ZEB2 cytotoxic T cell	0.024844534991809067	11
+G3	疾病组	T cell | ZNF683 cytotoxic T cell	0.012249506602836824	11
+G3	疾病组	Unknown | Unknown	0.05342265358543442	11

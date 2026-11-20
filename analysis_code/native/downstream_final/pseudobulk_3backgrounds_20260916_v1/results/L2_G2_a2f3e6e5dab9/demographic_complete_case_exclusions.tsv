@@ -1,0 +1,4 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G2	Smooth muscle cell | COX4I2 contractile SMC	GSE198750	GSE198750::DONOR::patient_1	aorta	healthy	L2_43667a122655cdd9	402	PMID33626908__patient1_AO			scRNA-seq	GSE198750	True	reference
+G2	Smooth muscle cell | COX4I2 contractile SMC	GSE198750	GSE198750::DONOR::patient_2	aorta	healthy	L2_9a0481606cb92b3c	398	PMID33626908__patient2_AO			scRNA-seq	GSE198750	True	reference
+G2	Smooth muscle cell | COX4I2 contractile SMC	GSE198750	GSE198750::DONOR::patient_3	aorta	healthy	L2_b88e85f481f52c0e	725	PMID33626908__patient3_AO1;PMID33626908__patient3_AO2			scRNA-seq	GSE198750	True	reference

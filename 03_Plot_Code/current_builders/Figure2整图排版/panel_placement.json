@@ -1,0 +1,77 @@
+{
+  "page_width_mm": 183,
+  "page_height_mm": 210,
+  "status": "REVIEW_LAYOUT_NOT_170MM_PRODUCTION_SIZE",
+  "panels": [
+    {
+      "panel": "Figure2a",
+      "x_mm": 1.5,
+      "y_mm": 3.0,
+      "width_mm": 180,
+      "height_mm": 34.000000897160305,
+      "letter_x_mm": 1.5,
+      "letter_baseline_y_mm": 2.5,
+      "native_BioRender_letter_required": true
+    },
+    {
+      "panel": "Figure2b",
+      "x_mm": 1.5,
+      "y_mm": 42.0,
+      "width_mm": 78,
+      "height_mm": 61.317472117867254,
+      "letter_x_mm": 1.5,
+      "letter_baseline_y_mm": 41,
+      "native_BioRender_letter_required": true
+    },
+    {
+      "panel": "Figure2c",
+      "x_mm": 83,
+      "y_mm": 45.0,
+      "width_mm": 98.5,
+      "height_mm": 48.925920715787214,
+      "letter_x_mm": 83,
+      "letter_baseline_y_mm": 41,
+      "native_BioRender_letter_required": true
+    },
+    {
+      "panel": "Figure2d",
+      "x_mm": 1.5,
+      "y_mm": 109.0,
+      "width_mm": 180,
+      "height_mm": 47.251261071133655,
+      "letter_x_mm": 1.5,
+      "letter_baseline_y_mm": 108,
+      "native_BioRender_letter_required": true
+    },
+    {
+      "panel": "Figure2e",
+      "x_mm": 1.5,
+      "y_mm": 160.0,
+      "width_mm": 64,
+      "height_mm": 26.843148255050433,
+      "letter_x_mm": 1.5,
+      "letter_baseline_y_mm": 159,
+      "native_BioRender_letter_required": true
+    },
+    {
+      "panel": "Figure2f",
+      "x_mm": 68.0,
+      "y_mm": 160.0,
+      "width_mm": 39,
+      "height_mm": 34.17246026523588,
+      "letter_x_mm": 68.0,
+      "letter_baseline_y_mm": 159,
+      "native_BioRender_letter_required": true
+    },
+    {
+      "panel": "Figure2g",
+      "x_mm": 109.5,
+      "y_mm": 160.0,
+      "width_mm": 72,
+      "height_mm": 48.0,
+      "letter_x_mm": 109.5,
+      "letter_baseline_y_mm": 159,
+      "native_BioRender_letter_required": true
+    }
+  ]
+}

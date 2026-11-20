@@ -1,0 +1,83 @@
+{
+  "parameters": {
+    "theta": 1.0,
+    "lamb": null,
+    "sigma": 0.1,
+    "nclust": null,
+    "tau": 0,
+    "block_size": 0.05,
+    "max_iter_harmony": 20,
+    "max_iter_kmeans": 20,
+    "epsilon_cluster": 1e-05,
+    "epsilon_harmony": 0.0001,
+    "alpha": 0.2,
+    "verbose": true,
+    "random_state": 0,
+    "device": "cpu"
+  },
+  "implicit_defaults_provenance": "historical runner + same installed OmicVerse version; historic source hash not archived, cannot prove bitwise historical source identity",
+  "versions": {
+    "omicverse": "2.1.2rc1",
+    "numpy": "1.26.4",
+    "scipy": "1.12.0",
+    "torch": "2.10.0",
+    "anndata": "0.11.4"
+  },
+  "threads": 16,
+  "cuda_visible_devices": "",
+  "GPU_Harmony_used": false,
+  "source": "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/omicverse/external/harmony/harmony.py",
+  "implementation": "OmicVerse HarmonyCPU NumPy",
+  "historical_GPU_metadata": {
+    "method": "harmony",
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/embeddings/harmony__theta1.npy",
+    "sha256": "353fe4841c17497fa5db5a58e47c57eddd872b0a9451478456cf8e4b05ba1c3f",
+    "metadata": {
+      "status": "completed",
+      "method": "harmony",
+      "config_id": "theta1",
+      "parameters": {
+        "theta": 1.0,
+        "device": "cuda",
+        "backend": "omicverse",
+        "omicverse_global_mode": "cpu-gpu-mixed",
+        "max_iter_harmony": 20,
+        "input": "X_pca",
+        "pca_source": "omicverse_sidecar",
+        "pca_file": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/primary/omicverse_pca.npy",
+        "pca_sha256": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+        "pca_metadata": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/primary/omicverse_pca.metadata.json",
+        "pca_metadata_sha256": "81ba51b3afa0517d55d169eca01bcbe61df2732c5547b1ea2399f73c851e4682"
+      },
+      "input_shape": [
+        315949,
+        2000
+      ],
+      "embedding_shape": [
+        315949,
+        30
+      ],
+      "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "batch_key": "sample_uid",
+      "label_key": "studywise_marker_level1",
+      "n_batches": 247,
+      "n_labels": 15,
+      "seed": 0,
+      "elapsed_seconds": 26.052140474319458,
+      "environment": {
+        "python": "3.10.19",
+        "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+        "packages": {
+          "anndata": "0.11.4",
+          "numpy": "1.26.4",
+          "omicverse": "2.1.2rc1",
+          "pandas": "2.2.3",
+          "scanpy": "1.11.5",
+          "scipy": "1.12.0",
+          "torch": "2.10.0"
+        }
+      }
+    },
+    "retrained": false
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "status": "PASS",
+  "started_utc_epoch": 1789618652.01197,
+  "validation_code_sha256": "63bddedfca0deb6454d79f49082ef94624931e86681c7eba60092de5e431df0f",
+  "claim": "technical integrity and exclusion validation; not proof of scientific convergence",
+  "n_datasets": 7,
+  "n_sections": 49,
+  "n_spots": 45348,
+  "n_targets": 29,
+  "reference_excluded_features": 27,
+  "fallback_sections": [
+    "GSE243179::GSM7780296_Sample_1",
+    "GSE306288::GSM9759911_Patient_23V"
+  ],
+  "mean_quantile_policy": "Require q05<=q95. Mean is not a quantile; its location outside q05/q95 is counted descriptively, not assumed impossible.",
+  "reference_retrained": true,
+  "source_bytes_total": 1867276997,
+  "dataset_QC": [
+    {
+      "GSE": "GSE241346",
+      "n_sections": 2,
+      "n_spots": 1250,
+      "n_model_genes": 20383,
+      "n_factors": 128,
+      "quantile_order": "PASS",
+      "finite_nonnegative": "PASS",
+      "mean_outside_q05_q95_entries": 0,
+      "exact_original_spots": "PASS",
+      "original_source": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/spatial_gpu_data_v1/shared_gpu_r3"
+    },
+    {
+      "GSE": "GSE243179",
+      "n_sections": 2,
+      "n_spots": 2945,
+      "n_model_genes": 14584,
+      "n_factors": 128,
+      "quantile_order": "PASS",
+      "finite_nonnegative": "PASS",
+      "mean_outside_q05_q95_entries": 0,
+      "exact_original_spots": "PASS",
+      "original_source": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/spatial_gpu_data_v1/shared_gpu_r3"
+    },
+    {
+      "GSE": "GSE248608",
+      "n_sections": 6,
+      "n_spots": 6503,
+      "n_model_genes": 20383,
+      "n_factors": 128,
+      "quantile_order": "PASS",
+      "finite_nonnegative": "PASS",
+      "mean_outside_q05_q95_entries": 0,
+      "exact_original_spots": "PASS",
+      "original_source": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/spatial_gpu_data_v1/shared_gpu_r3"
+    },
+    {
+      "GSE": "GSE274572",
+      "n_sections": 4,
+      "n_spots": 7962,
+      "n_model_genes": 19388,
+      "n_factors": 128,
+      "quantile_order": "PASS",
+      "finite_nonnegative": "PASS",
+      "mean_outside_q05_q95_entries": 0,
+      "exact_original_spots": "PASS",
+      "original_source": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/spatial_gpu_resume_v2"
+    },
+    {
+      "GSE": "GSE293427",
+      "n_sections": 11,
+      "n_spots": 6056,
+      "n_model_genes": 20383,
+      "n_factors": 128,
+      "quantile_order": "PASS",
+      "finite_nonnegative": "PASS",
+      "mean_outside_q05_q95_entries": 0,
+      "exact_original_spots": "PASS",
+      "original_source": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/spatial_gpu_resume_v2"
+    },
+    {
+      "GSE": "GSE306288",
+      "n_sections": 8,
+      "n_spots": 5289,
+      "n_model_genes": 20383,
+      "n_factors": 128,
+      "quantile_order": "PASS",
+      "finite_nonnegative": "PASS",
+      "mean_outside_q05_q95_entries": 0,
+      "exact_original_spots": "PASS",
+      "original_source": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/spatial_gpu_resume_v2"
+    },
+    {
+      "GSE": "GSE314851",
+      "n_sections": 16,
+      "n_spots": 15343,
+      "n_model_genes": 14584,
+      "n_factors": 128,
+      "quantile_order": "PASS",
+      "finite_nonnegative": "PASS",
+      "mean_outside_q05_q95_entries": 1,
+      "exact_original_spots": "PASS",
+      "original_source": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/spatial_gpu_resume_v2"
+    }
+  ],
+  "finished_utc_epoch": 1789618685.236228
+}

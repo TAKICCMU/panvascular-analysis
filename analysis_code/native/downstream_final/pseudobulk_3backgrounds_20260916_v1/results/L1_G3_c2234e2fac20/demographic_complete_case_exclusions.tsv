@@ -1,0 +1,3 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G3	Endothelial cell	GSE198750	GSE198750::DONOR::patient_2	pulmonary artery	healthy	L1_40a33293bccac22d	190	PMID33626908__patient2_PA			scRNA-seq	GSE198750	True	reference
+G3	Endothelial cell	GSE198750	GSE198750::DONOR::patient_3	pulmonary artery	healthy	L1_0ba84cfd71bc31b9	654	PMID33626908__patient3_PA			scRNA-seq	GSE198750	True	reference

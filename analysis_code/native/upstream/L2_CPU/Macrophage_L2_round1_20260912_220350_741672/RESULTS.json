@@ -1,0 +1,24 @@
+{
+  "status": "PAUSED_FOR_MACROPHAGE_L2_ROUND1_REVIEW",
+  "analysis_file": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU/Macrophage_L2_round1_20260912_220350_741672/data/Macrophage_L2_round1_review.h5ad",
+  "analysis_sha256": "ae232a10031ff8d709cb5e83a2b63de0eb38db4c578d9ac276e00d8a8706b1b6",
+  "n_cells": 210967,
+  "n_genes": 37336,
+  "level1_key": "level1_annotation",
+  "level1_value": "Macrophage",
+  "level1_modified": false,
+  "level2_annotation_applied": false,
+  "level2_frozen": false,
+  "partition_counts": {
+    "r0p4": 8,
+    "r0p8": 17,
+    "r1p2": 21
+  },
+  "source_sha256": "8d36e05a8eab608d330a14531f7651a28b526817b5723a6da04aae98a09cda1b",
+  "source_verified_unchanged": true,
+  "elapsed_seconds": 8152.4720413684845,
+  "baseline_for_review_only": "r0p8",
+  "actual_harmony_class": "omicverse.external.harmony._harmony_cpu.HarmonyCPU",
+  "threads": 40,
+  "unknown_policy": "review-confirmed non-macrophage or unresolved identity -> L2 Unknown; never modify L1"
+}

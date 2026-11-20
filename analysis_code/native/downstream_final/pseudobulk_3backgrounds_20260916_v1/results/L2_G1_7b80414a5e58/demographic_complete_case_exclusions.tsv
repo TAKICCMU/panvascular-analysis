@@ -1,0 +1,2 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G1	Macrophage | SPP1 lipid-associated macrophage	GSE248610	GSE248609::DONOR::patient4	artery	healthy	L2_fd069893637aafe1	95	GSE248609__GSM7917904			scRNA-seq	GSE248610	True	reference

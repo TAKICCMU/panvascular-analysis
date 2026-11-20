@@ -1,0 +1,19 @@
+{
+  "syntax_checks": true,
+  "lineage_count": 13,
+  "target_cell_sum": 903398,
+  "excluded": [
+    "Macrophage",
+    "Schwann cell",
+    "Unknown"
+  ],
+  "synthetic_metadata_conflicts_missing_provisional_no_autofill": true,
+  "synthetic_counts_and_metadata_count_conservation": true,
+  "synthetic_sparse_raw_copy_hash_and_aggregation": true,
+  "real_subprocess_mock_worker_lifecycle": true,
+  "mock_failure_isolated_and_12_completed_tasks_skipped_on_resume": true,
+  "mock_source_file_unchanged_and_outer_packaging": true,
+  "actual_server_dataset_execution": false,
+  "scientific_end_to_end_execution": false,
+  "reason": "Server h5ad is not mounted here; local environment lacks Scanpy, OmicVerse, AnnData. No dataset analysis claimed."
+}

@@ -1,0 +1,21 @@
+{
+  "min_denominator": 100,
+  "min_donors_total": 8,
+  "min_donors_per_group_per_stratum": 3,
+  "stratum": [
+    "study",
+    "tissue",
+    "assay_type"
+  ],
+  "replicated_donor": "random_intercept",
+  "min_strata": 1,
+  "model_family": "beta-binomial logit",
+  "threshold_source": {
+    "min_denominator": "reviewed R",
+    "min_donors_total": "reviewed R",
+    "min_donors_per_group_per_stratum": "new explicit minimal replication protection"
+  },
+  "threads": 1,
+  "estimated_memory_GB": 2,
+  "production_started": false
+}

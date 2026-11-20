@@ -1,0 +1,42 @@
+{
+  "cells": 1175115,
+  "sample_mapped": 247,
+  "tissue_groups": 6,
+  "l1_labels": 16,
+  "line_crossings": 0,
+  "marker_rows": 14,
+  "marker_columns": 28,
+  "marker_cells": 392,
+  "marker_vmax": 4.839664209500222,
+  "all_expression_statistics_reused": true,
+  "e_svg_translation_only_mm": -34,
+  "new_panel": "g",
+  "visual_review": "ACTUAL_PDF_RENDER_REVIEWED",
+  "all_392_marker_values_exact_match": true,
+  "figure1_native_size_mm": [
+    183,
+    170
+  ],
+  "marker_state_gene_font_pt": 6,
+  "gene_label_vertical_shift_pt": -2.3,
+  "gene_label_bottom_bounds": [
+    [
+      "PECAM1",
+      [
+        107.33171844482422,
+        456.0818786621094,
+        114.02771759033203,
+        480.75390625
+      ]
+    ],
+    [
+      "FCGR3B",
+      [
+        284.49578857421875,
+        456.07806396484375,
+        291.1917724609375,
+        480.4140625
+      ]
+    ]
+  ]
+}

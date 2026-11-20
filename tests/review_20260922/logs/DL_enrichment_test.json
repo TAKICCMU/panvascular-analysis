@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "native_DL_matches_metafor": true,
+  "single_context_not_meta": true,
+  "standard_error": "inherited approximate abs(logFC)/sqrt(F), not exact QL SE"
+}

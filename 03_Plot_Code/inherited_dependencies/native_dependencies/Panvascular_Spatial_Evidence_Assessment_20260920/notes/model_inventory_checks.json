@@ -1,0 +1,22 @@
+{
+  "adopted_source": "/Users/taki/Desktop/\u6295\u7a3f\u5305_\u6700\u65b0\u7248_20260919/Source_Data_Figures/Figure5/target_meta_descriptive.tsv",
+  "all_24_rows_exact_numeric_match": true,
+  "matched_fields": [
+    "beta",
+    "se",
+    "p",
+    "CI_low",
+    "CI_high",
+    "FDR_BH_all_29_pairs_x_3_terms"
+  ],
+  "model_roster_rows": 196,
+  "section_term_rows_including_ineligible": 588,
+  "unit_term_rows_including_unavailable": 840,
+  "study_distribution_rows": 168,
+  "new_models_or_P_tests": false,
+  "candidate_order_source": "/Users/taki/Desktop/\u6295\u7a3f\u5305_\u6700\u65b0\u7248_20260919/Source_Data_Figures/Figure3/Fig3d_e_all29.tsv",
+  "candidate_rows_verified": {
+    "LIPA": 14,
+    "STAT3": 23
+  }
+}

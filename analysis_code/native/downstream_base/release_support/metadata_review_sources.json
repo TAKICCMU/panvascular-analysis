@@ -1,0 +1,360 @@
+{
+  "schema": "metadata_review_sources_acceptance_r1",
+  "files": [
+    {
+      "role": "imported_metadata_csv",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/inputs/metadata_h5ad_patch_v4.csv",
+      "sha256": "8706711d2fb3476a8463326b86d1db13c5dff096f03e14e2b5ffd9c8dccd5619",
+      "version": "v4_evidence_preserving_clean_user_donor_confirmed",
+      "scope": "all247samples;30 imported source columns",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "import_code",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/audit/executed_driver.py",
+      "sha256": "aab8be6b5d8dd1c0c82a5e7a61dbc638a826861b7ef80c1f9153ef70817fb69a",
+      "version": "20260913",
+      "scope": "load_metadata/overlay_metadata and saved RUN source-output chain",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "import_run",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/RUN.json",
+      "sha256": "427b01fac50ae70e051e43137e0eb7b1a51cf36de834d76e136db18c8d8c2eb3",
+      "version": "20260913",
+      "scope": "actual successful metadata import run; includes donor confirmation summary",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "bundle_checksums",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_followup_metadata_v4_code/BUNDLE_CHECKSUMS.json",
+      "sha256": "c32269c4303e0df4f3b82b61cacbd96a4b63f2ef791a5c519d7ce7391770aacf",
+      "version": "20260913",
+      "scope": "current user-confirmed bundle; exact copied run inputs match",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "sample_metadata_snapshot",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/atlas_release/L1L2_final_v1/sample_metadata.csv",
+      "sha256": "2904313cb847aba03acc55bea67a8f8e9fb439b676d9746c05c7ed3627664341",
+      "version": "L1L2_final_v1",
+      "scope": "actual release metadata from final obs",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "metadata_provenance",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/audit/metadata_provenance_v4.csv",
+      "sha256": "fbf724ab15d40847e644d3d5436307f3ca6e487564b3b4a76b3061a3a235b320",
+      "version": "20260913",
+      "scope": "all247samples;field/sample source classes and limits",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "user_confirmation",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/audit/donor_update_user_confirmation_20260913.csv",
+      "sha256": "4225efca25f58c17926cd28033ad15f8dc386d793ff21ae6714a71d24dd24d49",
+      "version": "20260913",
+      "scope": "GSE166676/GSE184073;8samples;24donor/biosample field updates",
+      "evidence_type": "user_confirmation_not_independent_public_verification"
+    },
+    {
+      "role": "import_invariance",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/audit/protected_source_datasets.json",
+      "sha256": "c693831ac9973e1be7bafab731bb58764a699b1c081be692464803fed84e0c75",
+      "version": "20260913",
+      "scope": "raw/log1p/coordinates hashes recorded before import",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "import_column_inventory",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/audit/removed_observation_columns.json",
+      "sha256": "a64b11dd5f72ebaf3c184b32adeaf8dd4d2549703fd9eb00b38990d2b28d82e5",
+      "version": "20260913",
+      "scope": "removed prior audit/provisional columns archived externally",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "before_import_obs",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/audit/obs_before_metadata_update.tsv.gz",
+      "sha256": "4497dc2c97530836b766075cb55f87909de6dfe58b3ab4d44cb9e6af91af3a10",
+      "version": "20260913",
+      "scope": "historical observation snapshot; not reconstructed from final",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "historical_web_locators",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989/audit/web_verification_sources.json",
+      "sha256": "55f3189edb339c1229e363aaed277bea356ea863b048dd2c529606a5390c2803",
+      "version": "20260913",
+      "scope": "prior recorded GSE237230 checks; URL locators not new page hashes",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "audit_A",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/METADATA_AUDIT_REPORT_CN.md",
+      "sha256": "b14916c10d8c2d9b0fae789b6d67ea0b632f8cb0bc57f11cedbf2c1da6fa7d54",
+      "version": "20260913",
+      "scope": "metadata provenance/impact audit; proposals not themselves applied",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "audit_A",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/GSE213128_sample_donor_evidence.csv",
+      "sha256": "a8f7710012f357845849c17fd726903541f596265bc259e5034674f27f9cda11",
+      "version": "20260913",
+      "scope": "5aortic valve samples; GSA Individual explicit mappings",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "audit_A",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/GSE213128_mapping_review.md",
+      "sha256": "2c5a773509d370b11b1405892166e515a97422a671093a9c7705758f8702402b",
+      "version": "20260913",
+      "scope": "GEO/GSA name mismatch and limitations retained",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/GSE213128_family.soft.txt",
+      "sha256": "7c5fe29bced348550fa48029f54c307240da2098fda5134b0ed1a806c1bf0553",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274922.html",
+      "sha256": "614cf0c9e66b03087516cfb49142a7eee845e6d65aae440864a31288f1b8a7d8",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274922.txt",
+      "sha256": "c67d6ccc7c0f99ba2bf7e7d366a8c6eb8f0abd77e2fda18e53055d93ae357485",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274923.html",
+      "sha256": "7123a500d5e0223cce2555b614db53553b995b2b01b03c509eb71fa4b14414ec",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274923.txt",
+      "sha256": "c4675038fe926bbf3cbdc3c2c8bef5f25e87497e86d0344c6208fb5d8b61a91a",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274924.html",
+      "sha256": "29ba8a3e1cf614d163bfcc67c13a57eba007b2e476f7a1b39c1f8c8a20c696e3",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274924.txt",
+      "sha256": "3690f306fec0c3a24ef3dfc8d216119274f757b32251a7334d0a79eda3c30350",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274926.html",
+      "sha256": "924ac9171b0d810982ed76f98d6ac7b69a15cec34ace72f3b7aaf9976db25dde",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274926.txt",
+      "sha256": "b7502de1f0db56f090e6b877cc5ed6ef123d1ef5832f21c191f201b484405a0b",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274927.html",
+      "sha256": "663f243c2c35b46c9c2d8c9eb5329bd89e66df082e96c6b64429c9a0799e8fed",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRI274927.txt",
+      "sha256": "c4f26e1e56b9cb4e75ef19b9e85f05fc0b876ffb7428ca5d2ac7b092b194b754",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439934.html",
+      "sha256": "2565e267acc050fda803a639e1f4656779feb6753c67d528608ed27c9c8490ba",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439934.txt",
+      "sha256": "523816c6620d0d9ea0b05b71cbe8063acb5f5bfe9c7648ec9e57d9bfbf9404ad",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439935.html",
+      "sha256": "0744cdd1c5c030cf9cbe01f8e18602b666424ae50ba146633fdd07f3b4d257c1",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439935.txt",
+      "sha256": "3ba3347771483181e020aa34c3ecf435dafea4e2c9f6c563977d14dbdb3695e6",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439936.html",
+      "sha256": "f757cf8239c2a2b4d1bc682d7935d900f7f6f5f9c21e71ccba435b2199c60d90",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439936.txt",
+      "sha256": "84245ccba9409581ccfc968e155d39664fb22528470c2bb10d401d30fec806f8",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439937.html",
+      "sha256": "df91dbdde1fd313086059682bdbf121fe1a69f7fa8bce7a65ab6864635285241",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439937.txt",
+      "sha256": "ce26af00e9164a23951525006066fd471797113e904f916bebb726dae9eb01c1",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439938.html",
+      "sha256": "48efbc46064c54b82d22f64d40a13b51247d730504b6e48872972fbcb349fe75",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "public_GSA_evidence",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_provenance_impact_audit_20260913_013529/evidence/public/HRS439938.txt",
+      "sha256": "ade31fa16bb249172dd5a185942392a89d8f5efb373dcd9911e25d867d7af5b2",
+      "version": "20260913",
+      "scope": "GSE213128 saved original sample/Individual/GEO evidence",
+      "evidence_type": "saved_public_record"
+    },
+    {
+      "role": "audit_B",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/source_B_metadata_curated_v2.csv",
+      "sha256": "253b63f373b374d51775f11eb6cd8a547adaabb38c3cf4831e296ce628633d89",
+      "version": "20260913",
+      "scope": "inherited247sample curation; donor/tissue/clinical fields; not independently revalidated now",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "audit_B",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_release_compat_20260914/evidence/audit_B/SAMPLE_METADATA_COMPLETENESS_AND_DUPLICATION_REPORT.md",
+      "sha256": "8a79697423f0f96dfe5ab118670ca26c1a94d4149c947e0b4f6f2a51ff93f1e7",
+      "version": "20260913",
+      "scope": "original auditB report copied byte-identically from local audit deliverable",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "audit_B",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_release_compat_20260914/evidence/audit_B/SHA256SUMS.txt",
+      "sha256": "b87219d4a5e337000e286baaf0c267732765e10f543d1d1a63f2bb3deca0fcb2",
+      "version": "20260913",
+      "scope": "original auditB checksum list",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "merge_record",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_changes_v2_to_v3.csv",
+      "sha256": "291f9d73cdde04a417e0194bf92702e829597119a6664d24586cce5c6aefa2b5",
+      "version": "20260913",
+      "scope": "historical merged A/B correction and predecessor-v3 policy; NOT claimed final imported CSV",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "merge_record",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/metadata_import_contract.json",
+      "sha256": "3c398cd429b96fafedceec636b2ac45a927f2759c5bc557b806e6bf4e987195b",
+      "version": "20260913",
+      "scope": "historical merged A/B correction and predecessor-v3 policy; NOT claimed final imported CSV",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "merge_record",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/sample_study_clinical_metadata_curated_v3.csv",
+      "sha256": "5463eb58de5629370f12cdd438bf960860e545973ee9af8def8271d6bee012c0",
+      "version": "20260913",
+      "scope": "historical merged A/B correction and predecessor-v3 policy; NOT claimed final imported CSV",
+      "evidence_type": "saved_provenance_record"
+    },
+    {
+      "role": "finalization_record",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_finalization_20260914_004746_128873/FREEZE_STATUS.json",
+      "sha256": "c55a7f07ed703d28cef6fd50f62e5d8a34a01b72e7d0a52a574718dbbd39aa5a",
+      "version": "20260914",
+      "scope": "unchanged metadata and protected datasets through final L2 commit",
+      "evidence_type": "release_completion"
+    },
+    {
+      "role": "final_invariance",
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/atlas_release/L1L2_final_v1/validation_report.json",
+      "sha256": "63f626f140db93d7617227e74e0e3187c48272ab31fefbbcecc10668f021d11d",
+      "version": "20260914",
+      "scope": "final L1 and metadata unchanged from imported working object",
+      "evidence_type": "release_validation"
+    }
+  ],
+  "import_link_validation": {
+    "status": "PASS",
+    "bundle_member": "inputs/metadata_h5ad_patch_v4.csv",
+    "import_run": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_targeted_followup_metadata_v4_20260913_154850_913989",
+    "executed_code_lines": "250-263 load exact bundle CSV, copy inputs, archive old obs; RUN.json records output and user confirmation",
+    "csv_sha256": "8706711d2fb3476a8463326b86d1db13c5dff096f03e14e2b5ffd9c8dccd5619",
+    "chain": "bundle CSV == copied run CSV -> recorded successful imported working H5AD -> finalization metadata_unchanged -> actual final sample_metadata -> final obs (native preflight)",
+    "evidence_limitation": "Historical import RUN records final paths and invariance, not a separate timestamped CSV digest; bundle checksum plus copied run CSV and exact semantic comparison are the retained evidence. No new independent web verification."
+  },
+  "user_confirmations_are_public_verification": false,
+  "web_policy": "Only existing saved files receive SHA; online URLs are locators only."
+}

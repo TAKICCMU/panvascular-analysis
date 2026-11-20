@@ -1,0 +1,8 @@
+{
+  "phase": "nine_method_scores_completed",
+  "updated_unix": 1788873301.21446,
+  "nine_method_metric_evaluation_complete": true,
+  "changed_previously_selected_configurations": {},
+  "parameter_policy": "Previously pilot-frozen settings retained; unified pilot re-selection differences explicitly recorded",
+  "result": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/primary/unified/unified_scib_configuration_ranking.tsv"
+}

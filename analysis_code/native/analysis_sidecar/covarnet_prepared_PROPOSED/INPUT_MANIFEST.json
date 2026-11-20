@@ -1,0 +1,50 @@
+{
+  "status": "BLOCKED",
+  "phase": "INPUTS_BLOCKED",
+  "blocking_reasons": [
+    "REVIEW_COVARNET_NODE_ELIGIBILITY"
+  ],
+  "parameters": {
+    "min_profile_cells": 100,
+    "min_node_cells": 500,
+    "min_node_profiles": 10,
+    "min_node_studies": 3,
+    "rank_min": 2,
+    "rank_max": 25,
+    "seed": 20260806,
+    "rank_nrun": 50,
+    "final_nrun": 200,
+    "stability_nrun": 30,
+    "n_bootstrap": 30,
+    "parent_null_permutations": 2000,
+    "parent_null_seed": 20260826,
+    "threads_per_worker": 4,
+    "workers": 1,
+    "approve_named_state_frequency_rule": false
+  },
+  "eligibility_basis": "named_state_frequency_rule_PROPOSED",
+  "n_cells": 969986,
+  "n_profiles": 177,
+  "n_states": 103,
+  "n_variable_states": 103,
+  "unknown_donor_policy": "biological_sample_placeholder_not_inferred_person",
+  "source_identity": {
+    "atlas_sha256": "00fc74c1ddaa5e4b32d8664f134e0ec5a0c762f5e9a9fb45b96acbd40804a310",
+    "core_selection": "sample_profile_decisions.tsv; proposed only",
+    "frozen_sources_unchanged": true
+  },
+  "code_sha256": "2b7b7ab87b1c5417066475163b200025e59108571cf0b6885da5473d19f39d83",
+  "files": {
+    "CoVarNet_state_identity_map.tsv": "408f04e86472b2aa7b15f4200a352c8e7ac3699659f3b079dd12e44c93144bd7",
+    "CoVarNet_node_counts.tsv": "eedeb2b0c04d46c65442223aaeb2469803356a27286b4ea7706479b6f6bc3449",
+    "CoVarNet_node_proportion_of_all_atlas_cells.tsv": "0018f31db2df15bd33befbea7aec0404fbfa369a95b227002eb3c0f62339064e",
+    "CoVarNet_node_proportion_among_stable_nodes_sensitivity.tsv": "c824b418d9df839f3442cb81b1f36807ad6016d10a6d622ce5a632cbcd0e29ce",
+    "CoVarNet_proportion_within_full_parent.tsv": "b56fdbfb42fd1dcb4e87d28f3422f50a34e1462d75982e2205af5a3d5924eaac",
+    "CoVarNet_full_parent_counts.tsv": "4af0729a7aef2d61313c774b14578e34115d5d376b2bb84b053065661937be72",
+    "CoVarNet_sample_metadata.tsv": "2f9d5b39b2030ffd8a3135fb02c906992cc47e06303d29519edcef996f3540be",
+    "all_profile_count_ledger.tsv": "2f9d5b39b2030ffd8a3135fb02c906992cc47e06303d29519edcef996f3540be",
+    "CoVarNet_node_replication_audit.tsv": "994a3fc3978d56456fd57545b74d458a4fa7433b9c7e50b1c1e11575ce55b5d3",
+    "CoVarNet_node_parent_map.tsv": "bfb22e973f01760efb67a25ac03560173a09fd1aa03bcb4967c01f03f684b9b0",
+    "sample_to_covarnet_profile.tsv": "67abbd8c4f8be48694a484cca31e318eaf0c6d4adf1343a2c38afc9657fc6c4b"
+  }
+}

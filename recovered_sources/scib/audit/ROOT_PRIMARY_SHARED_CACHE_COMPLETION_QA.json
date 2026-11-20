@@ -1,0 +1,21 @@
+{
+  "status": "root_verified_primary_shared_cache",
+  "n_primary_cells": 315949,
+  "n_reannotation_rows": 250843,
+  "n_reannotation_nonmissing": 250843,
+  "n_group_nonmissing": 250843,
+  "n_UNASSIGNED_group_for_native_graph": 65106,
+  "all_primary_cells_preserved_for_native_graph": true,
+  "input_PCA_reannotation_hashes_verified": true,
+  "obs_hash_convention": "per cell UTF8 then NUL, matching native helper nh",
+  "outputs_sha256": {
+    "selected_harmonization_thresholds.npz": "d6b2c68e1e0866c3b0dc9fd024ab6917a31b7137af597c8c118811e01d71de7f",
+    "cellhint_primary_relation.tsv": "56f71b59a2566cc65357823714844409d852edd01e2e81d015aad0a02b797b81",
+    "SHARED_HARMONIZATION_COMPLETE.json": "ad7d544907b8c6c93f7bee64765b9f5bb461625b6a61c6774b1b386673f15089",
+    "CACHE_EQUIVALENCE_SMOKE.json": "afef4f6ef9df44086817abbce02a9799b7822fedba0fe4795518a1142fc8c554",
+    "cellhint_primary_reannotation.tsv.gz": "a1277b61b34ff80660b5e7e033de83b01bf832336f5e8ccfb03c0e628d716f1d"
+  },
+  "nine_method_benchmark_complete": false,
+  "native_primary_graph_not_yet_complete": true,
+  "time_unix": 1788870147.9493208
+}

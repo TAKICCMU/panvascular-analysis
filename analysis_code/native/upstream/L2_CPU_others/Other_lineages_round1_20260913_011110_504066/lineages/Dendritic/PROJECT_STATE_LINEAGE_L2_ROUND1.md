@@ -1,0 +1,31 @@
+# New Dendritic cell L2 Round1 branch
+
+{
+  "status": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW",
+  "lineage": "Dendritic cell",
+  "uid_prefix": "DCL2_R1",
+  "analysis_file": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU_others/Other_lineages_round1_20260913_011110_504066/lineages/Dendritic/data/lineage_L2_round1_review.h5ad",
+  "analysis_sha256": "4480f8c88c559b2405feb3cb32709fa5b1050e3359761e64a9ca114ffb33f744",
+  "n_cells": 10556,
+  "n_genes": 37336,
+  "level1_key": "level1_annotation",
+  "level1_value": "Dendritic cell",
+  "level1_modified": false,
+  "level2_annotation_applied": false,
+  "level2_frozen": false,
+  "partition_counts": {
+    "r0p4": 7,
+    "r0p8": 11,
+    "r1p2": 15
+  },
+  "source_sha256": "8d36e05a8eab608d330a14531f7651a28b526817b5723a6da04aae98a09cda1b",
+  "source_stat_unchanged": true,
+  "batch_full_source_hash_check": "performed_by_scheduler",
+  "elapsed_seconds": 315.44114542007446,
+  "baseline_for_review_only": "r0p8",
+  "actual_harmony_class": "omicverse.external.harmony._harmony_cpu.HarmonyCPU",
+  "threads": 20,
+  "unknown_policy": "review-confirmed off-lineage or unresolved identity -> L2 Unknown; never modify L1"
+}
+
+Frozen mother/old PROJECT_STATE are not edited. No L2 labels applied.

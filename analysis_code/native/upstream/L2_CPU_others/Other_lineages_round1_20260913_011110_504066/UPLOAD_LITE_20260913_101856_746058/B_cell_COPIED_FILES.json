@@ -1,0 +1,674 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 19339,
+    "sha256": "359b4832295e44b2ae8c3f45ca9cf46740923e8c3647cc3b8092a470ae04319a",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 5929,
+    "sha256": "300fa9f50f352d79e28faa051ef62c68b51b6255fa19986c303b8ae677a9c3d7",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 6273,
+    "sha256": "9bd105038164b163002df876e6cdcbdde06275cdd70e00203245617daa33ca2a",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 184,
+    "sha256": "34940645d26cc2b411ea1df7db265152fd414dded0029a45e111ff261ace55a4",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 19923,
+    "sha256": "0c3b28adc91cc935e7f7ca53e50c45d558f6d134301dd37863f96223335163f3",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 135138,
+    "sha256": "bdce5d75bfc62fdf68211afc05a53a505b2e89cbc5b9244d1a78452754e14be9",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 153375,
+    "sha256": "c0549f9ccab39651e29ea54769ef2c3c1ca93b722404ab296b6287ba3141133e",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 4659,
+    "sha256": "0278eb90f6a9ecf8f2982a54b2a1f490bc6824b51b84cd384d1688ee6b78f403",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 4695,
+    "sha256": "91ae0e1b848e32f2263a4d9d37516e8970975c5e8fb9a6cd4acd543a8b9a7aa3",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 1680,
+    "sha256": "2e4b08fd76f8f94fe1f84afec247d16cbdd9952491b3d76fef8cf5c2fcd0ebbb",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 1698,
+    "sha256": "79b9a4b101a54a810474776b56071afaa0cc57fd573ab1d25aa944e5fe5bce04",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 109143,
+    "sha256": "5c7fff3cc1b0c8142dcbd07e0a4096e85eddd7ab4b7112d284116a1abd1bac0f",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 19240,
+    "sha256": "1f004ba9dee393fd8aa80fe6c0900b46a9f402d074b8c10740bc02fba7322b10",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 209,
+    "sha256": "ed7bbedca442e5380a646629f4fd1bb8bbc0137727606ac145ad5bc0a1135516",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 209,
+    "sha256": "ed7bbedca442e5380a646629f4fd1bb8bbc0137727606ac145ad5bc0a1135516",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 313,
+    "sha256": "5c4936aa4c44a3148f0a19866887c63aef766d78f3e1cce8fdaae7d703217fae",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 6518,
+    "sha256": "2432e4292f702c365e860a7df71f7b88cc7775a0df2a2648eb8e9839cd3135ae",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 6995,
+    "sha256": "7fd5ff86821be40d88252eaab143221869a002a84fe345292939e47d4e51ba23",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 858,
+    "sha256": "93c0a5d884da5d06628b2f088b6b9de8859a49b2da107f5b03df4be7a68872db",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 502,
+    "sha256": "8b5d770dd50b3c291add4bbd5a4222da3cd059b040bc1414a6a2536e7eecfa8b",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 5752,
+    "sha256": "307f177c0fefbdeabac9f089e95a41da108a220b6cbe70b4cc12b19287a3228c",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 26855,
+    "sha256": "0ba9ab3ec36b197e8fc6bbeed9e9c41a51fe1118860e800ae1c52a91e70d5337",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 36632,
+    "sha256": "1640551272f0bd0041c523e3c5817422296325f538f07b4652bc30beafa38c10",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 149420,
+    "sha256": "74683b1ed93ce6454830ec692eb6ac0ab1adea5bd821146f07a54530c0075668",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 4016,
+    "sha256": "01811f719d7dd1a86e2a78654f7070ca2487137a59c10bf4cfdaffbf46920890",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 18411,
+    "sha256": "66eae1cad3d447dd356b7d427b36af78854149e08c7435140efaf51361f7ff29",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 71316,
+    "sha256": "d133e9e635d40f4cd569023435092a27946b5174165e090b4f618d6fefb3f8eb",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 18546,
+    "sha256": "70b9dc7bbc94518c4943481d1ef2b4a5f0fa4ddda1a735a696daecaead319deb",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 18184,
+    "sha256": "19e768fcfeaa30c590b9f7c577328cab9b9ed1670d7d96925445ab3bba9088fe",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 5132,
+    "sha256": "5ad686ac2ec6a78e8d761d372b5c7c490f3a13bcdc8ffaad55b3342af84a610d",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 5160,
+    "sha256": "7653631f67dfadf84468964d94a70df4bdc02d197c160e1d91f12fe896c587ae",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 4093,
+    "sha256": "03346f4a556e7291f4916b40a4ce2fa4b90a0b29395144977d573bf2c5c69b18",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 4154,
+    "sha256": "e533dee706433a8ab2f9bb7e7eaf90955499123f82b6f791939ce7af7de83e7c",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 138748,
+    "sha256": "d64596a8b89ed160c2c550c750628bf39914f5bdc7e2fa19d35327a04b8cab3e",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 24751,
+    "sha256": "fa4f9eb6fc7efa38132730db6ecfd2d299c143436af59d4afff915cdd80593a5",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 252,
+    "sha256": "4d8d160de393785b729b874f384e337fc019d2ff08142bebf267c17643ca4bfa",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 252,
+    "sha256": "4d8d160de393785b729b874f384e337fc019d2ff08142bebf267c17643ca4bfa",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 370,
+    "sha256": "b20bc7841860cf5bcc7e500e6d3f7af24468ee8a8531bf434a20b2e9d7d58911",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 7104,
+    "sha256": "b008f9e9a8fc0884258ee393e03e3ee9d31300bf5c899d283bfda3e532836fde",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 7687,
+    "sha256": "e98dbf1900e3cf954d8a4da2f5522e851b23f1c77093b1f32f656744763c33c7",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 993,
+    "sha256": "db436f202523dd0253c19ea50afd145c3e862aa462acf22f88072eeb21bb9b95",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 587,
+    "sha256": "1a3d17348de220941112973880a29bb728e270353f6e4e8e664048d2eddff11f",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 7022,
+    "sha256": "dbc255ce008e87251e31cd314903607ae5dac83c54e1ad0cd05169e13cb78468",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 31497,
+    "sha256": "d3e2dff447909f59e5992e1829f435de634f4077665512abb6fa6502973ec3f9",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 39701,
+    "sha256": "a10d874af5ffee4612ca034bec25f02cbb71545f0c61529e9e6c15b50dd36ac0",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 170378,
+    "sha256": "59b6659115a978ff1e0f3a0448e735e000dd5125da958067323f9e95ff718cba",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 4896,
+    "sha256": "253dee39621ca8a453dc3a40034475acdf13b3d9408408449142df1e3d685705",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 22853,
+    "sha256": "e9503b3aec93305b9d728384d2aa7704878cee34464ca9203ae74efb95781323",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 89097,
+    "sha256": "9794e6ac41efbed455a676e841e5cf8a37d50dcfbfd5cb2c7cae30dd4805a96e",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 22942,
+    "sha256": "60059b3f630c13c0e64116cddaab261d83b20763f4cd8d94eb460c87fe47a0c4",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 22587,
+    "sha256": "8e332afd0569352abb95d9836fe03221a3a11bf1e13fe95f2deb1e0157d6fe8a",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 454,
+    "sha256": "21a793fff095bfc4e7cb55720cec7e1c104ff7354155ec53f32ed611bbab7a5f",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 633,
+    "sha256": "9f27d88ffc9b0cccdef4bf7761e6c1fce81a5d4fe089268d851d50aa78ac322e",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 7434,
+    "sha256": "8c061db5b9e45b8d0398f2409af961548b8d04b308c4213a600a81b1818f0c30",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 7629,
+    "sha256": "ec3fc0065495e6d9dcd505bcb5adb140c275d53e5ebcb352d152277a89028d78",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 7703,
+    "sha256": "b44f640975d5212489005528951ff4ca832b2d15392dbab8b821d6583a47587d",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 7867,
+    "sha256": "40f6ffe8a9a24fb2cf9174562829de9aec828f860ab1c70e81f87587389213b4",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 1484,
+    "sha256": "a9606da6b695236658c2450ee2e11215c994243e5f4d9b8834133ed281ecb8ae",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 1523,
+    "sha256": "c9275e41f545bb9cf3d0def9125a864743c2b825246ae13db6377f48aad8c030",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 181744,
+    "sha256": "f8b557c17c76b00794cc04811fe01e7a76cc1f275504ecb61669a17fe6c25fd8",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 33645,
+    "sha256": "5b32881ca65c331c2e2eb52655c9fa4f19a8545b8e696e031d101fb466fa8663",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 315,
+    "sha256": "8bb12fd8b3241825e24c3ed8a24e9a27197e729105eae8e56eee6bc8aa1fd6e7",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 315,
+    "sha256": "8bb12fd8b3241825e24c3ed8a24e9a27197e729105eae8e56eee6bc8aa1fd6e7",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 449,
+    "sha256": "77d8564661cb3c648e22c1682d881f17d3768d9f425aff202738a45c659b6145",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 7984,
+    "sha256": "cb407a65911482390c25bf15a21b233c126f1cc05f8421c65dad2c8941f5a78e",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 8720,
+    "sha256": "cb04a861729fadf540556a13d4ba05e1f450bf39b404ffe51eaf2c22f919ece1",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 1183,
+    "sha256": "c4f379ce47118bebcb19678240e7d72b9da3e440e4481ebc8a596fc1b9d3d7de",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 703,
+    "sha256": "b0f01b809db8f003c231196089552bc739b6818127fcf8d331ef59f423b1a40c",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 8891,
+    "sha256": "3dcf50d168fb1909c2f87d07ce4a2f2675eaff1617b526025ba7d524a6271c5d",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 35704,
+    "sha256": "79cfd23c080f3c5ce6833718a148ace9cb669677a493a742ab21a660901487a1",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 43479,
+    "sha256": "c8219dfbb81e6c3c1b4996a1679ba27aeed895e4205ac7b3d0974a9b094cdd4b",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 188914,
+    "sha256": "47747ab8fe9729d5baab4ccd1544aee1f8d226361ce3d9a27103825fef6ea0fb",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 6110,
+    "sha256": "67518d4631809e01ab5308ba894f54aad7bca817a2d05034a4a1e4f5b1c89a69",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 28002,
+    "sha256": "a4874b179be25d70ec2919d2f62bb88a6e47257ff3f6f52ae20c82147041c566",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 112372,
+    "sha256": "8bafcf0aae0870700111f0afe0d9ccfb54947dccef949151c7c4ba157fb92ff9",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 28645,
+    "sha256": "01969d4b72b37b9b077a122ff7ba4b1ee71932900be6c725c40970ddb9b11ff8",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 27858,
+    "sha256": "cb7fe0323a103960a3b69575e2abf5a23eaef30f13cfb302287a9ce6e3e8dbeb",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1260,
+    "sha256": "19178d62d0563bd42df6b5dbfebfc8969418bea06bb3038798d58b34fa2722ea",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1157,
+    "sha256": "a4563298a9c59932e73872af04254e1629a47c76aab167e2335faceeb5746c53",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 1990,
+    "sha256": "199064d207a1615b2191bd3e439fea8560aec04e7fd1645f2da841f4d7af45c7",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 365932,
+    "sha256": "9ea80969b920278e53020cfe14a85dac7e2d89def0a51b0d9aea666738eed24d",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 359929,
+    "sha256": "372bc0d1f95900ae56223ffd2db22744b0580b5e580633d508c2704c70039d27",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 359443,
+    "sha256": "82edc6b9e8637dcf652a8c68a20aa126a1e3f176cfeda8c04b27d1e06310b01a",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 218475,
+    "sha256": "2e54c74e621c37e3b8390e797776325bef300ae130dda2d110f261ed3e68c269",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 292768,
+    "sha256": "573e5e120d1c4f66d93b1094f5949f3dfe571a5d023aec56efed3c52e495ae56",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 306711,
+    "sha256": "95eb4031a04c34773ac5dbf20edf4707265adc6ef513f20331d9fda33ef1f2c1",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 330332,
+    "sha256": "df8788ab6094f760cd771aa4acd589cd782a9c29e0514da8481d75ca7f94ee95",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 332643,
+    "sha256": "68fdd238ce451561eb0ce87db10af9fd17f6c9b380aa005738c2d7cf01fcf7eb",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 406801,
+    "sha256": "eb67ef27b384a8ed3aab9db7c56a53bd494ba53f66a8e72fdb01b50018e08882",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 334442,
+    "sha256": "ff50d8140890f7c4d4edacd9999a45689402ed899993ac84fe4a81f5add5ec89",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 361042,
+    "sha256": "0463364a7f4755b086ed3e40ba726addd845e83b5cd3ce35db42eadc300eb47e",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 321563,
+    "sha256": "ad7b88177d3c598ef62104915b6358b854066133720005449c5ed74f4f6489e1",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 232335,
+    "sha256": "c0199ac1a0f8255268db3e3b0ba30b5dcda159ae0755ff162b7e7ab0fc62bd14",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_02.png",
+    "bytes": 152237,
+    "sha256": "41d828585dcdddfc78788c73afd87c6497de3d3f3d11d7cf39a820e7b2fc7c49",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 324366,
+    "sha256": "4d6f6c31dd17f01db5483931f8cd90722d90529c64f2ad55addb190735e299c0",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 305108,
+    "sha256": "fbaa92a1a82bd3feac8ffa03886d0aca09f937f7f4668e5748a894f14cc8b649",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 275528,
+    "sha256": "b6d3825a2912a3af424f8cf3bbf0b472b15615280b6156ce875a42d72693b359",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 227411,
+    "sha256": "5c0791ecec7bbe51ca2ecd88ba2430c85c1f19ec4a6b937c37817d3e0a1b3e4a",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 368558,
+    "sha256": "efc21ef99cbd678ccafa528478228230fbd7346379aa0c7c453e379f8a5fcabd",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 335945,
+    "sha256": "5c18011077f85f011b613446092029216d1247a0e711dba73fcbf8af8a67bb80",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 333918,
+    "sha256": "1c8d2f3a34f00910bd136490a7cc66a6c29f1f85a5ff20eac92ef7505713d2b8",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 341200,
+    "sha256": "71a6cc9c3f8b53edc120f109c38544a9b87bb2dce8fec9e119fb596072e38daf",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 137483,
+    "sha256": "d03b5e8fb312a7611188a3b62e10b9de818ef38561fcb78624139952dcca4933",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 431030,
+    "sha256": "660ee05ac77da45cb6a35833940d16d8dad90301d236280b51e63d8a707ca577",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 370255,
+    "sha256": "d0a96b1f2ba2b2e8f8c542090e70eb1e8919b18402f630a9feae260fe3db543c",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2755,
+    "sha256": "2d2136e0c0486333f87999d28c56c661727b9d5077a17a54a5b68328e3467daf",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 19483,
+    "sha256": "b2fa6403ef34f691605f3b56a653478697e7b1d2903a6ef2fd9fe66711c96abb",
+    "bundle": "B_cell_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 5021,
+    "sha256": "d8ee341af1dc90767d08903de8e44b406765f463314bd256734a6b928114bab7",
+    "bundle": "B_cell_review_lite_01.zip"
+  }
+]

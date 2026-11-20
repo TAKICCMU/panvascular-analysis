@@ -1,0 +1,11 @@
+{
+  "status": "PAUSED_FOR_OTHER_L2_REVIEW",
+  "updated_at": "2026-09-13T05:16:12.915714",
+  "run": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU_others/Other_lineages_round1_20260913_011110_504066",
+  "completed": 13,
+  "n_requested": 13,
+  "failed": 0,
+  "L1_modified": false,
+  "Macrophage_modified": false,
+  "level2_annotation_applied": false
+}

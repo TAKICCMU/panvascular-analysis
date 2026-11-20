@@ -1,0 +1,26 @@
+[
+  {
+    "server_full_table": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/phase1_/20260913T183720_920345Z/outputs/runs/20260913T183912_636388_077099775370/markers/L1_all_gene_marker_evidence.tsv.gz",
+    "sha256": "b041a1b4bdd529663fbdea71b60e4357b29f4c3a84ebf2697f0bd579bcad9d50",
+    "bytes": 29600478,
+    "rows": 597376,
+    "display_subset": "L1_all_gene_marker_evidence_display_top30.tsv.gz",
+    "display_rule": "descriptive_rank <=30 including ties; display only, no model selection or annotation changes"
+  },
+  {
+    "server_full_table": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/phase1_/20260913T183720_920345Z/outputs/runs/20260913T183912_636388_077099775370/markers/L2_all_gene_marker_evidence.tsv.gz",
+    "sha256": "27d975920805233acfb8f4b562955ac94b05c3ba297adf96df1603f2102cae8d",
+    "bytes": 222665622,
+    "rows": 4779008,
+    "display_subset": "L2_all_gene_marker_evidence_display_top30.tsv.gz",
+    "display_rule": "descriptive_rank <=30 including ties; display only, no model selection or annotation changes"
+  },
+  {
+    "server_full_table": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/phase1_/20260913T183720_920345Z/outputs/runs/20260913T183912_636388_077099775370/markers/L2_within_parent_marker_evidence.tsv.gz",
+    "sha256": "f8d240ff056bf4218ed6a1f6d544ad217375c72f63c4da8cd0b37deb7ce3a4e6",
+    "bytes": 198009369,
+    "rows": 4779008,
+    "display_subset": "L2_within_parent_marker_evidence_display_top30.tsv.gz",
+    "display_rule": "descriptive_rank <=30 including ties; display only, no model selection or annotation changes"
+  }
+]

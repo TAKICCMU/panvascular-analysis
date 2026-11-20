@@ -1,0 +1,18 @@
+[
+  {
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/04_annotation/level1_marker_evidence/level1_marker_program_contract.tsv",
+    "sha256": "0d34c4acb9cd8e1f023af71f686cbd8bd132fcfa2d467fae885111c6690efafc"
+  },
+  {
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/04_annotation/level1_marker_evidence/level1_marker_evidence_manifest.json",
+    "sha256": "e53356d15d5d2a70de35d7556a511f8c3e6540568f0f2c5b8c35e27ca2868211"
+  },
+  {
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/inputs/marker_gene_idf_weights.tsv",
+    "sha256": "cd37fee8335322f4666e4a8b449c1f5414936da6616cd24da6166cb95e1fcad4"
+  },
+  {
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/code/46_build_studywise_preannotation_and_sampleonly_benchmark.py",
+    "sha256": "14a86a90c088347262ae64835f1622330cace7152ceae5171b6c2f931d3029a9"
+  }
+]

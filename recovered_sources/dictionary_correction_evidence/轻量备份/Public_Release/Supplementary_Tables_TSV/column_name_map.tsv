@@ -1,0 +1,1027 @@
+Worksheet	Block	Original column	Display column	Definition	Change reason
+Table 01	Main data	Canonical study accession	Canonical study accession	Recorded Canonical study accession; preserved as an identifier, not recoded into another unit.	Retained accurate name
+Table 01	Main data	Technical samples, n	Technical samples (n)	Technical samples represented by this row.	Semantic clarification
+Table 01	Main data	Biological samples, n	Biological samples (n)	Biological samples represented by this row.	Semantic clarification
+Table 01	Main data	Resolved donor identifiers, n	Resolved donor identifiers (n)	Resolved donor identifiers represented by this row.	Semantic clarification
+Table 01	Main data	Cells, n	Cells (n)	Cells represented by this row.	Semantic clarification
+Table 01	Main data	Tissue	Tissue	Recorded tissue for one canonical study.	Retained accurate name
+Table 01	Main data	Condition	Condition	Recorded condition for one canonical study.	Retained accurate name
+Table 01	Main data	Type	Type	Recorded type for one canonical study.	Retained accurate name
+Table 01	Main data	Publication	Publication	Recorded publication for one canonical study.	Retained accurate name
+Table 01	Main data	DOI	DOI	Recorded dOI for one canonical study.	Retained accurate name
+Table 01	Main data	PMID	PMID	Recorded PMID; preserved as an identifier, not recoded into another unit.	Retained accurate name
+Table 01	Main data	Journal or repository	Journal or repository	Recorded journal or repository for one canonical study.	Retained accurate name
+Table 01	Main data	Year	Year	Recorded year for one canonical study.	Retained accurate name
+Table 02	Main data	sample uid	Sample ID	Original technical sample identifier.	Semantic clarification
+Table 02	Main data	study	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 02	Main data	analysis sample uid	Analysis sample ID	Recorded Analysis sample ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 02	Main data	biological sample uid	Specimen ID	Biological specimen identifier, distinct from a technical library and from donor identity.	Semantic clarification
+Table 02	Main data	donor uid	Donor ID	Recorded donor identifier; NR/blank is not a new independent donor.	Semantic clarification
+Table 02	Main data	tissue	Tissue	Recorded tissue for one technical sample identifier.	Semantic clarification
+Table 02	Main data	tissue detail	Tissue detail	Recorded tissue detail for one technical sample identifier.	Semantic clarification
+Table 02	Main data	n cells	Cells (n)	Cells represented by this row.	Semantic clarification
+Table 02	Main data	replicate relationship	Replicate relationship	Recorded replicate relationship for one technical sample identifier.	Semantic clarification
+Table 02	Main data	evidence source	Evidence source	Recorded evidence source for one technical sample identifier.	Semantic clarification
+Table 02	Main data	decision	Decision	Recorded decision for one technical sample identifier.	Semantic clarification
+Table 02	Main data	same donor samples are independent donors	Treat same-donor samples as independent	Recorded treat same-donor samples as independent for one technical sample identifier.	Semantic clarification
+Table 02	Main data	automatic cross specimen pooling	Automatic specimen pooling	Recorded automatic specimen pooling for one technical sample identifier.	Semantic clarification
+Table 02	Main data	inferential design approved	Design approval record	Recorded design approval record for one technical sample identifier.	Semantic clarification
+Table 02	Main data	old biological sample uid	Previous specimen ID	Recorded Previous specimen ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 02	Main data	old donor uid	Previous donor ID	Recorded Previous donor ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 02	Main data	original clinical group	Original clinical group	Recorded original clinical group for one technical sample identifier.	Semantic clarification
+Table 02	Main data	covarnet group	Covarnet group	Recorded covarnet group for one technical sample identifier.	Semantic clarification
+Table 02	Main data	group evidence	Group evidence	Recorded group evidence for one technical sample identifier.	Semantic clarification
+Table 02	Main data	covarnet include	Covarnet include	Recorded covarnet include for one technical sample identifier.	Semantic clarification
+Table 02	Main data	group review required	Grouping-review flag	Recorded grouping-review flag for one technical sample identifier.	Semantic clarification
+Table 02	Main data	source diagnosis	Source diagnosis	Recorded source diagnosis for one technical sample identifier.	Semantic clarification
+Table 02	Main data	pooling	Pooling	Recorded pooling for one technical sample identifier.	Semantic clarification
+Table 02	Main data	analysis approved	Analysis approval record	Recorded analysis approval record for one technical sample identifier.	Semantic clarification
+Table 02	Main data	group binary	Group binary	Recorded group binary for one technical sample identifier.	Semantic clarification
+Table 02	Main data	sample name	Sample name	Recorded sample name for one technical sample identifier.	Semantic clarification
+Table 02	Main data	age	Age	Recorded age for one technical sample identifier.	Semantic clarification
+Table 02	Main data	sex	Sex	Recorded sex for one technical sample identifier.	Semantic clarification
+Table 02	Main data	assay type	Assay type	Recorded assay type for one technical sample identifier.	Semantic clarification
+Table 02	Main data	vascular bed	Vascular bed	Recorded vascular bed for one technical sample identifier.	Semantic clarification
+Table 02	Main data	cohort disease context	Cohort disease context	Recorded cohort disease context for one technical sample identifier.	Semantic clarification
+Table 02	Main data	donor disease context	Donor disease context	Recorded donor disease context for one technical sample identifier.	Semantic clarification
+Table 02	Main data	tissue disease status	Tissue disease status	Recorded tissue disease status for one technical sample identifier.	Semantic clarification
+Table 02	Main data	donor resolved	Donor resolved	Recorded donor resolved for one technical sample identifier.	Semantic clarification
+Table 02	Main data	donor block	Donor block	Recorded donor block for one technical sample identifier.	Semantic clarification
+Table 02	Main data	analysis profile uid	Profile ID	Retained analysis profile identifier; not interchangeable with donor count.	Semantic clarification
+Table 02	Main data	healthy definition	Healthy definition	Recorded healthy definition for one technical sample identifier.	Semantic clarification
+Table 03	Main data	level1 annotation	L1 category	Final Level 1 annotation. Unknown is a valid annotation, not missing data.	Semantic clarification
+Table 03	Main data	level2 annotation	L2 state	Final Level 2 annotation within the stated parent lineage.	Semantic clarification
+Table 03	Main data	state	State	Recorded state for one named L2 state.	Semantic clarification
+Table 03	Main data	state id	State ID	Recorded State ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 03	Main data	parent qualified	Parent-qualified state	Recorded parent-qualified state for one named L2 state.	Semantic clarification
+Table 03	Main data	safe label	Safe state label	Recorded safe state label for one named L2 state.	Semantic clarification
+Table 03	Main data	spatial label	Spatial factor label	Recorded spatial factor label for one named L2 state.	Semantic clarification
+Table 03	Main data	spatial reference state original	Reference state name	Recorded reference state name for one named L2 state.	Semantic clarification
+Table 03	Main data	spatial reference state safe	Reference safe label	Recorded reference safe label for one named L2 state.	Semantic clarification
+Table 03	Main data	n cells	Cells (n)	Cells represented by this row.	Semantic clarification
+Table 03	Main data	samples	Samples (n)	Samples represented by this row.	Semantic clarification
+Table 03	Main data	studies	Studies (n)	Studies represented by this row.	Semantic clarification
+Table 03	Main data	donors	Donors (n)	Donors represented by this row.	Semantic clarification
+Table 03	Main data	tissues	Tissues (n)	Tissues represented by this row.	Semantic clarification
+Table 03	Main data	selected genes	Marker genes	Recorded marker genes for one named L2 state.	Semantic clarification
+Table 04	Main data	Phenotype	Phenotype	Recorded phenotype for one GWAS phenotype.	Retained accurate name
+Table 04	Main data	Cases, n	Cases (n)	Cases represented by this row.	Semantic clarification
+Table 04	Main data	Controls, n	Controls (n)	Controls represented by this row.	Semantic clarification
+Table 04	Main data	Total sample size	Total sample size	Recorded total sample size for one GWAS phenotype.	Retained accurate name
+Table 04	Main data	Source	Source	Recorded source for one GWAS phenotype.	Retained accurate name
+Table 04	Main data	PMID	PMID	Recorded PMID; preserved as an identifier, not recoded into another unit.	Retained accurate name
+Table 04	Main data	DOI	DOI	Recorded dOI for one GWAS phenotype.	Retained accurate name
+Table 04	Main data	Ancestry	Ancestry	Recorded ancestry for one GWAS phenotype.	Retained accurate name
+Table 05	Main data	annotation level	Annotation level	Recorded annotation level for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Semantic clarification
+Table 05	Main data	scenario	GWAS scenario	Recorded gWAS scenario for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Semantic clarification
+Table 05	Main data	weighting	Weighting	Recorded weighting for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Semantic clarification
+Table 05	Main data	VARIABLE	MAGMA variable ID	Recorded MAGMA variable ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 05	Main data	TYPE	TYPE	Recorded tYPE for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Retained accurate name
+Table 05	Main data	MODEL	MODEL	Recorded mODEL for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Retained accurate name
+Table 05	Main data	NGENES	MAGMA genes (n)	MAGMA genes represented by this row.	Semantic clarification
+Table 05	Main data	BETA	MAGMA β	Recorded mAGMA β for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Semantic clarification
+Table 05	Main data	BETA STD	MAGMA standardised β	Recorded mAGMA standardised β for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Semantic clarification
+Table 05	Main data	SE	MAGMA SE	Standard error on the corresponding effect/estimate scale; not a confidence interval.	Semantic clarification
+Table 05	Main data	P	MAGMA P	Original P for MAGMA in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 05	Main data	variable	Mapped variable ID	Recorded Mapped variable ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 05	Main data	group	Group	Recorded group for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Semantic clarification
+Table 05	Main data	FDR BH	MAGMA BH FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 05	Main data	BH family	BH family	Recorded bH family for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Retained accurate name
+Table 05	Main data	n tests in family	Family tests (n)	Family tests represented by this row.	Semantic clarification
+Table 05	Main data	n cell	Cells (n)	Cells represented by this row.	Semantic clarification
+Table 05	Main data	scDRS Z	ScDRS Z	Recorded scDRS Z for one cell group, GWAS scenario and weighting scheme; scDRS values can recur across MAGMA weightings.	Semantic clarification
+Table 05	Main data	scDRS P	ScDRS P	Original P for ScDRS in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 05	Main data	scDRS FDR	ScDRS FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 06	Main data	Row phenotype	Row phenotype	Recorded row phenotype for one ordered phenotype pair.	Retained accurate name
+Table 06	Main data	Column phenotype	Column phenotype	Recorded column phenotype for one ordered phenotype pair.	Retained accurate name
+Table 06	Main data	Genetic correlation	Genetic correlation	Recorded genetic correlation for one ordered phenotype pair.	Retained accurate name
+Table 07	Main data	Phenotype	Phenotype	Recorded phenotype for one phenotype, with two loading columns.	Retained accurate name
+Table 07	Main data	Exploratory factor 1 loading	Exploratory factor 1 loading	Recorded exploratory factor 1 loading for one phenotype, with two loading columns.	Retained accurate name
+Table 07	Main data	Exploratory factor 2 loading	Exploratory factor 2 loading	Recorded exploratory factor 2 loading for one phenotype, with two loading columns.	Retained accurate name
+Table 08	Main data	Latent factor	Latent factor	Recorded latent factor for one model parameter.	Retained accurate name
+Table 08	Main data	Latent factor description	Latent factor description	Recorded latent factor description for one model parameter.	Retained accurate name
+Table 08	Main data	Parameter	Parameter	Recorded parameter for one model parameter.	Retained accurate name
+Table 08	Main data	Observed phenotype	Observed phenotype	Recorded observed phenotype for one model parameter.	Retained accurate name
+Table 08	Main data	Unstandardised estimate	Unstandardised estimate	Recorded unstandardised estimate for one model parameter.	Retained accurate name
+Table 08	Main data	Unstandardised standard error	Unstandardised standard error	Standard error on the corresponding effect/estimate scale; not a confidence interval.	Retained accurate name
+Table 08	Main data	Standardised estimate (genotype scale)	Standardised estimate (genotype scale)	Recorded standardised estimate (genotype scale) for one model parameter.	Retained accurate name
+Table 08	Main data	Standard error (genotype scale)	Standard error (genotype scale)	Standard error on the corresponding effect/estimate scale; not a confidence interval.	Retained accurate name
+Table 08	Main data	Fully standardised estimate	Fully standardised estimate	Recorded fully standardised estimate for one model parameter.	Retained accurate name
+Table 08	Main data	P value	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 09	Main data	Latent factor	Latent factor	Recorded latent factor for one recorded parameter and omission analysis. Fixed model symbols are retained; AORTIC denotes Aortic and ATHERO denotes Atherosclerotic.	Retained accurate name
+Table 09	Main data	Parameter	Parameter	Recorded parameter for one recorded parameter and omission analysis.	Retained accurate name
+Table 09	Main data	Observed phenotype	Observed phenotype	Recorded observed phenotype for one recorded parameter and omission analysis.	Retained accurate name
+Table 09	Main data	Unstandardised estimate	Unstandardised estimate	Recorded unstandardised estimate for one recorded parameter and omission analysis.	Retained accurate name
+Table 09	Main data	Unstandardised standard error	Unstandardised standard error	Standard error on the corresponding effect/estimate scale; not a confidence interval.	Retained accurate name
+Table 09	Main data	Standardised estimate (genotype scale)	Standardised estimate (genotype scale)	Recorded standardised estimate (genotype scale) for one recorded parameter and omission analysis.	Retained accurate name
+Table 09	Main data	Standard error (genotype scale)	Standard error (genotype scale)	Standard error on the corresponding effect/estimate scale; not a confidence interval.	Retained accurate name
+Table 09	Main data	Fully standardised estimate	Fully standardised estimate	Recorded fully standardised estimate for one recorded parameter and omission analysis.	Retained accurate name
+Table 09	Main data	P value	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 09	Main data	Analysis	Analysis	Recorded analysis for one recorded parameter and omission analysis.	Retained accurate name
+Table 09	Main data	Omitted phenotype abbreviation	Omitted phenotype abbreviation	Recorded omitted phenotype abbreviation for one recorded parameter and omission analysis.	Retained accurate name
+Table 09	Main data	Omitted phenotype	Omitted phenotype	Recorded omitted phenotype for one recorded parameter and omission analysis.	Retained accurate name
+Table 09	Main data	Model	Model	Recorded model for one recorded parameter and omission analysis.	Retained accurate name
+Table 10	Main data	Lead variant	Lead variant	Recorded lead variant for one assessed lead variant.	Retained accurate name
+Table 10	Main data	Chromosome	Chromosome	Recorded chromosome for one assessed lead variant.	Retained accurate name
+Table 10	Main data	Position (GRCh37)	Position (GRCh37)	Recorded position (GRCh37) for one assessed lead variant.	Retained accurate name
+Table 10	Main data	P value	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 10	Main data	Regional or nearest genes	Regional or nearest genes	Recorded regional or nearest genes for one assessed lead variant.	Retained accurate name
+Table 10	Main data	VEP consequence	VEP consequence	Recorded vEP consequence for one assessed lead variant.	Retained accurate name
+Table 10	Main data	VEP impact	VEP impact	Recorded vEP impact for one assessed lead variant.	Retained accurate name
+Table 10	Main data	CADD	CADD	Recorded cADD for one assessed lead variant.	Retained accurate name
+Table 10	Main data	Primary posterior inclusion probability (PIP)	Primary posterior inclusion probability (PIP)	Recorded primary posterior inclusion probability (PIP) for one assessed lead variant.	Retained accurate name
+Table 10	Main data	Included in accepted credible set	Included in accepted credible set	Recorded included in accepted credible set for one assessed lead variant.	Retained accurate name
+Table 10	Main data	Prior evidence context	Prior evidence context	Recorded prior evidence context for one assessed lead variant.	Retained accurate name
+Table 10	Main data	Conservative interpretation	Conservative interpretation	Recorded conservative interpretation for one assessed lead variant.	Retained accurate name
+Table 10	Main data	Novelty definition	Novelty definition	Recorded novelty definition for one assessed lead variant.	Retained accurate name
+Table 11	Main data	Genomic locus	Genomic locus	Recorded genomic locus for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Unique variant identifier	Unique variant identifier	Recorded unique variant identifier for one genomic risk locus.	Retained accurate name
+Table 11	Main data	dbSNP identifier	DbSNP identifier	Recorded dbSNP identifier for one genomic risk locus.	Semantic clarification
+Table 11	Main data	Chromosome	Chromosome	Recorded chromosome for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Position (GRCh37)	Position (GRCh37)	Recorded position (GRCh37) for one genomic risk locus.	Retained accurate name
+Table 11	Main data	P value	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 11	Main data	Start	Start	Recorded start for one genomic risk locus.	Retained accurate name
+Table 11	Main data	End	End	Recorded end for one genomic risk locus.	Retained accurate name
+Table 11	Main data	SNPs in locus, n	SNPs in locus (n)	SNPs in locus represented by this row.	Semantic clarification
+Table 11	Main data	GWAS SNPs, n	GWAS SNPs (n)	GWAS SNPs represented by this row.	Semantic clarification
+Table 11	Main data	Independent significant SNPs, n	Independent significant SNPs (n)	Independent significant SNPs represented by this row.	Semantic clarification
+Table 11	Main data	Independent significant SNPs	Independent significant SNPs	Recorded independent significant SNPs for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Lead SNPs, n	Lead SNPs (n)	Lead SNPs represented by this row.	Semantic clarification
+Table 11	Main data	Lead SNPs	Lead SNPs	Recorded lead SNPs for one genomic risk locus.	Retained accurate name
+Table 11	Main data	No. current catalog GWS matches	No. current catalog GWS matches	Recorded no. current catalog GWS matches for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Component disease known	Component disease known	Recorded component disease known for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Broad vascular known	Broad vascular known	Recorded broad vascular known for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Cardiovascular metabolic known	Cardiovascular metabolic known	Recorded cardiovascular metabolic known for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Strongest prior p	Strongest prior p	Recorded strongest prior p for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Max proxy r²	Max proxy r²	Recorded max proxy r² for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Prior catalog SNPs	Prior catalog SNPs	Recorded prior catalog SNPs for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Prior traits	Prior traits	Recorded prior traits for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Prior mapped traits	Prior mapped traits	Recorded prior mapped traits for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Prior pmids	Prior pmids	Recorded prior pmids for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Prior study accessions	Prior study accessions	Recorded Prior study accessions; preserved as an identifier, not recoded into another unit.	Retained accurate name
+Table 11	Main data	Mapped genes	Mapped genes	Recorded mapped genes for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Candidate novel vs component diseases	Candidate novel vs component diseases	Recorded candidate novel vs component diseases for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Candidate novel vs broad vascular traits	Candidate novel vs broad vascular traits	Recorded candidate novel vs broad vascular traits for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Candidate novel vs cardiovascular metabolic traits	Candidate novel vs cardiovascular metabolic traits	Recorded candidate novel vs cardiovascular metabolic traits for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Candidate globally novel in catalog	Candidate globally novel in catalog	Recorded candidate globally novel in catalog for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Novelty status	Novelty status	Recorded novelty status for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Publication novelty class	Publication novelty class	Recorded publication novelty class for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Linkage-disequilibrium reference	Linkage-disequilibrium reference	Recorded linkage-disequilibrium reference for one genomic risk locus.	Retained accurate name
+Table 11	Main data	Linkage-disequilibrium matching rule	Linkage-disequilibrium matching rule	Recorded linkage-disequilibrium matching rule for one genomic risk locus.	Retained accurate name
+Table 11	Main data	GWAS Catalog significance rule	GWAS Catalog significance rule	Recorded gWAS Catalog significance rule for one genomic risk locus.	Retained accurate name
+Table 12	Main data	gene symbol	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 12	Main data	cell state	Cell state	Recorded cell state for one prioritised gene–cell-population pair.	Semantic clarification
+Table 12	Main data	QTL status	QTL status	Recorded qTL status for one prioritised gene–cell-population pair.	Retained accurate name
+Table 12	Main data	primary FUMA eqtl mapping rows	Primary FUMA eQTL rows (n)	Primary FUMA eQTL rows represented by this row.	Semantic clarification
+Table 12	Main data	leave CAD FUMA eqtl mapping rows	Leave-CAD FUMA eQTL rows (n)	Leave-CAD FUMA eQTL rows represented by this row.	Semantic clarification
+Table 12	Main data	primary recomputed n contexts tested	Primary tested contexts (n)	Primary tested contexts represented by this row.	Semantic clarification
+Table 12	Main data	primary recomputed n strong	Primary strong contexts (n)	Primary strong contexts represented by this row.	Semantic clarification
+Table 12	Main data	primary recomputed maximum PP.H4	Primary maximum PP.H4	Recorded primary maximum PP.H4 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 12	Main data	primary recomputed best context	Primary best context	Recorded primary best context for one prioritised gene–cell-population pair.	Semantic clarification
+Table 12	Main data	primary recomputed best classification	Primary best evidence class	Recorded primary best evidence class for one prioritised gene–cell-population pair.	Semantic clarification
+Table 12	Main data	leave one CAD recomputed n contexts tested	Leave-CAD tested contexts (n)	Leave-CAD tested contexts represented by this row.	Semantic clarification
+Table 12	Main data	leave one CAD recomputed n strong	Leave-CAD strong contexts (n)	Leave-CAD strong contexts represented by this row.	Semantic clarification
+Table 12	Main data	leave one CAD recomputed maximum PP.H4	Leave-CAD maximum PP.H4	Recorded leave-CAD maximum PP.H4 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 12	Main data	leave one CAD recomputed best context	Leave-CAD best context	Recorded leave-CAD best context for one prioritised gene–cell-population pair.	Semantic clarification
+Table 12	Main data	leave one CAD recomputed best classification	Leave-CAD best evidence class	Recorded leave-CAD best evidence class for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	gene symbol	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 13	Main data	annotation level	Annotation level	Recorded annotation level for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	cell state	Cell state	Recorded cell state for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	n disease contexts	Disease contexts (n)	Disease contexts represented by this row.	Semantic clarification
+Table 13	Main data	n GWAS aligned contexts	GWAS-aligned contexts (n)	GWAS-aligned contexts represented by this row.	Semantic clarification
+Table 13	Main data	disease contexts	Disease contexts	Recorded disease contexts for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	meta logFC	Meta log2FC	REML random-effects meta-analysis log2 disease-versus-reference fold change.	Semantic clarification
+Table 13	Main data	meta SE	Meta SE	Standard error of the REML meta-analysis log2 fold change.	Semantic clarification
+Table 13	Main data	meta Z	Meta Z	Recorded meta Z for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	meta P	Meta P	Original P for Meta in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 13	Main data	meta CI low	Meta 95% CI lower	Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 13	Main data	meta CI high	Meta 95% CI upper	Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 13	Main data	I2	I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 13	Main data	direction consistency	Direction agreement	Fraction of contributing effects with the recorded consensus direction; the qualifying units are defined by this table.	Semantic clarification
+Table 13	Main data	consensus direction	Consensus direction	Recorded consensus direction for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	n context FDR lt 0.05	Significant contexts (n)	Significant contexts represented by this row.	Semantic clarification
+Table 13	Main data	median context logFC	Median context log2FC	Recorded median context log2FC for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	gene id	Ensembl gene ID	Stable source gene identifier; not a row number or expression value.	Semantic clarification
+Table 13	Main data	target set meta FDR	Target-set BH FDR	BH-adjusted meta-analysis P within cell state over the prespecified priority-gene set; distinct from all-gene FDR.	Semantic clarification
+Table 13	Main data	SYMBOL	SYMBOL	Recorded sYMBOL for one prioritised gene–cell-population pair.	Retained accurate name
+Table 13	Main data	Bonferroni 0.05  leave one CAD r0.1	Bonferroni 0.05 leave one CAD r0.1	Recorded bonferroni 0.05 leave one CAD r0.1 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	Bonferroni 0.05  primary r0.1	Bonferroni 0.05 primary r0.1	Recorded bonferroni 0.05 primary r0.1 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	Bonferroni 0.05  primary r0.6	Bonferroni 0.05 primary r0.6	Recorded bonferroni 0.05 primary r0.6 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	FDR BH  leave one CAD r0.1	FDR BH leave one CAD r0.1	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 13	Main data	FDR BH  primary r0.1	FDR BH primary r0.1	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 13	Main data	FDR BH  primary r0.6	FDR BH primary r0.6	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 13	Main data	P  leave one CAD r0.1	P leave one CAD r0.1	Recorded p leave one CAD r0.1 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	P  primary r0.1	P primary r0.1	Recorded p primary r0.1 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	P  primary r0.6	P primary r0.6	Recorded p primary r0.6 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	primary Bonferroni	Primary Bonferroni	Recorded primary Bonferroni for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	primary FDR	Primary FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 13	Main data	retained leave one CAD nominal	Retained leave one CAD nominal	Recorded retained leave one CAD nominal for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	retained leave one CAD FDR	Retained leave one CAD FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 13	Main data	Tier	Tier	Recorded tier for one prioritised gene–cell-population pair.	Retained accurate name
+Table 13	Main data	strict three context shared	Strict three context shared	Recorded strict three context shared, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 13	Main data	n manifest contexts	N manifest contexts	Recorded n manifest contexts for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	n existing ge100 qtl contexts	N existing ge100 qtl contexts	Recorded n existing ge100 qtl contexts for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	n existing coloc rows	N existing coloc rows	Recorded n existing coloc rows for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	QTL status	QTL status	Recorded qTL status for one prioritised gene–cell-population pair.	Retained accurate name
+Table 13	Main data	max historical ABF H4	Max historical ABF H4	Recorded max historical ABF H4 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	regulatory interpretation	Regulatory interpretation	Recorded regulatory interpretation for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	primary FUMA eqtl mapping rows	Primary FUMA eQTL rows (n)	Primary FUMA eQTL rows represented by this row.	Semantic clarification
+Table 13	Main data	primary FUMA eqtl tissues	Primary FUMA eQTL tissues	Recorded primary FUMA eQTL tissues for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	leave CAD FUMA eqtl mapping rows	Leave-CAD FUMA eQTL rows (n)	Leave-CAD FUMA eQTL rows represented by this row.	Semantic clarification
+Table 13	Main data	leave CAD FUMA eqtl tissues	Leave-CAD FUMA eQTL tissues	Recorded leave-CAD FUMA eQTL tissues for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	primary recomputed n contexts tested	Primary tested contexts (n)	Primary tested contexts represented by this row.	Semantic clarification
+Table 13	Main data	primary recomputed n strong	Primary strong contexts (n)	Primary strong contexts represented by this row.	Semantic clarification
+Table 13	Main data	primary recomputed maximum PP.H4	Primary maximum PP.H4	Recorded primary maximum PP.H4 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	primary recomputed best context	Primary best context	Recorded primary best context for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	primary recomputed best classification	Primary best evidence class	Recorded primary best evidence class for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	leave one CAD recomputed n contexts tested	Leave-CAD tested contexts (n)	Leave-CAD tested contexts represented by this row.	Semantic clarification
+Table 13	Main data	leave one CAD recomputed n strong	Leave-CAD strong contexts (n)	Leave-CAD strong contexts represented by this row.	Semantic clarification
+Table 13	Main data	leave one CAD recomputed maximum PP.H4	Leave-CAD maximum PP.H4	Recorded leave-CAD maximum PP.H4 for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	leave one CAD recomputed best context	Leave-CAD best context	Recorded leave-CAD best context for one prioritised gene–cell-population pair.	Semantic clarification
+Table 13	Main data	leave one CAD recomputed best classification	Leave-CAD best evidence class	Recorded leave-CAD best evidence class for one prioritised gene–cell-population pair.	Semantic clarification
+Table 14	Main data	module	Module	Recorded module for one CoVarNet module.	Semantic clarification
+Table 14	Main data	cell depth downsample	Cell depth downsample	Recorded cell depth downsample for one CoVarNet module.	Semantic clarification
+Table 14	Main data	condition only	Condition only	Recorded condition only for one CoVarNet module.	Semantic clarification
+Table 14	Main data	hierarchical study bootstrap	Hierarchical study bootstrap	Recorded hierarchical study bootstrap for one CoVarNet module.	Semantic clarification
+Table 14	Main data	leave one tissue	Leave one tissue	Recorded leave one tissue for one CoVarNet module.	Semantic clarification
+Table 14	Main data	transformation	Transformation	Recorded transformation for one CoVarNet module.	Semantic clarification
+Table 14	Main data	adjacent rank median	Adjacent rank median	Recorded adjacent rank median for one CoVarNet module.	Semantic clarification
+Table 14	Main data	leave one study	Leave one study	Recorded leave one study for one CoVarNet module.	Semantic clarification
+Table 14	Main data	adjacent rank median pass	Adjacent rank median pass	Recorded adjacent rank median pass for one CoVarNet module.	Semantic clarification
+Table 14	Main data	leave one study pass	Leave one study pass	Recorded leave one study pass for one CoVarNet module.	Semantic clarification
+Table 14	Main data	leave one tissue pass	Leave one tissue pass	Recorded leave one tissue pass for one CoVarNet module.	Semantic clarification
+Table 14	Main data	condition only pass	Condition only pass	Recorded condition only pass for one CoVarNet module.	Semantic clarification
+Table 14	Main data	hierarchical study bootstrap pass	Hierarchical study bootstrap pass	Recorded hierarchical study bootstrap pass for one CoVarNet module.	Semantic clarification
+Table 14	Main data	transformation pass	Transformation pass	Recorded transformation pass for one CoVarNet module.	Semantic clarification
+Table 14	Main data	stable structure	Stable structure	Recorded stable structure for one CoVarNet module.	Semantic clarification
+Table 14	Main data	failed gates	Failed gates	Recorded failed gates for one CoVarNet module.	Semantic clarification
+Table 14	Main data	top study	Top study	Recorded top study for one CoVarNet module.	Semantic clarification
+Table 14	Main data	top study share	Top study share	Recorded top study share, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 14	Main data	effective n studies	Effective n studies	Recorded effective n studies for one CoVarNet module.	Semantic clarification
+Table 14	Main data	n studies gt 1pct	N studies gt 1pct	Recorded n studies gt 1pct for one CoVarNet module.	Semantic clarification
+Table 14	Main data	top tissue	Top tissue	Recorded top tissue for one CoVarNet module.	Semantic clarification
+Table 14	Main data	top tissue share	Top tissue share	Recorded top tissue share, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 14	Main data	effective n tissues	Effective n tissues	Recorded effective n tissues for one CoVarNet module.	Semantic clarification
+Table 14	Main data	n tissues gt 1pct	N tissues gt 1pct	Recorded n tissues gt 1pct for one CoVarNet module.	Semantic clarification
+Table 14	Main data	n top5 pairs meta analyzed	N top5 pairs meta analyzed	Recorded n top5 pairs meta analyzed for one CoVarNet module.	Semantic clarification
+Table 14	Main data	median pooled rho	Median pooled rho	Recorded median pooled rho for one CoVarNet module.	Semantic clarification
+Table 14	Main data	minimum pooled rho	Minimum pooled rho	Recorded minimum pooled rho for one CoVarNet module.	Semantic clarification
+Table 14	Main data	positive pair fraction	Positive pair fraction	Fraction of evaluated top-five-node pairs with positive pooled correlation.	Semantic clarification
+Table 14	Main data	positive FDR pair fraction	Positive FDR pair fraction	Recorded positive fdr pair fraction, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 14	Main data	median direction consistency	Median direction consistency	Median fraction of contributing studies with positive within-study correlation across the top-five-node pairs.	Semantic clarification
+Table 14	Main data	median I2 percent	Median I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 14	Main data	broad context	Broad context	Recorded broad context for one CoVarNet module.	Semantic clarification
+Table 14	Main data	coherent within study	Coherent within study	Recorded coherent within study for one CoVarNet module.	Semantic clarification
+Table 14	Main data	module tier	Module tier	Recorded module tier for one CoVarNet module.	Semantic clarification
+Table 14	Main data	分级	Module tier (Chinese)	Recorded module tier (Chinese) for one CoVarNet module.	Semantic clarification
+Table 15	Main data	cell state	Cell state	Recorded cell state for one eligible cell state; columns are module weights.	Semantic clarification
+Table 15	Main data	CM01	CM01	Recorded cM01 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM02	CM02	Recorded cM02 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM03	CM03	Recorded cM03 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM04	CM04	Recorded cM04 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM05	CM05	Recorded cM05 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM06	CM06	Recorded cM06 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM07	CM07	Recorded cM07 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM08	CM08	Recorded cM08 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM09	CM09	Recorded cM09 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM10	CM10	Recorded cM10 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM11	CM11	Recorded cM11 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM12	CM12	Recorded cM12 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM13	CM13	Recorded cM13 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 15	Main data	CM14	CM14	Recorded cM14 for one eligible cell state; columns are module weights.	Retained accurate name
+Table 16	Main data	module	Module	Recorded module for one CoVarNet module.	Semantic clarification
+Table 16	Main data	adjacent rank median pass	Adjacent rank median pass	Recorded adjacent rank median pass for one CoVarNet module.	Semantic clarification
+Table 16	Main data	leave one study pass	Leave one study pass	Recorded leave one study pass for one CoVarNet module.	Semantic clarification
+Table 16	Main data	leave one tissue pass	Leave one tissue pass	Recorded leave one tissue pass for one CoVarNet module.	Semantic clarification
+Table 16	Main data	condition only pass	Condition only pass	Recorded condition only pass for one CoVarNet module.	Semantic clarification
+Table 16	Main data	hierarchical study bootstrap pass	Hierarchical study bootstrap pass	Recorded hierarchical study bootstrap pass for one CoVarNet module.	Semantic clarification
+Table 16	Main data	transformation pass	Transformation pass	Recorded transformation pass for one CoVarNet module.	Semantic clarification
+Table 16	Main data	stable structure	Stable structure	Recorded stable structure for one CoVarNet module.	Semantic clarification
+Table 16	Main data	failed gates	Failed gates	Recorded failed gates for one CoVarNet module.	Semantic clarification
+Table 16	Main data	broad context	Broad context	Recorded broad context for one CoVarNet module.	Semantic clarification
+Table 16	Main data	coherent within study	Coherent within study	Recorded coherent within study for one CoVarNet module.	Semantic clarification
+Table 16	Main data	module tier	Module tier	Recorded module tier for one CoVarNet module.	Semantic clarification
+Table 17	Main data	GSE	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 17	Main data	section id	Section ID	Recorded Section ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 17	Main data	biological unit id	Analysis unit ID	Recorded grouping used to combine section estimates before between-unit meta-analysis; the grouping is retained as approved.	Semantic clarification
+Table 17	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 17	Main data	module	Module	Recorded module for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	QC fallback	QC fallback	Recorded qC fallback for one section, module and posterior setting.	Retained accurate name
+Table 17	Main data	n spots	Spots (n)	Spots represented by this row.	Semantic clarification
+Table 17	Main data	within spot coherence	Within spot coherence	Recorded within spot coherence for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	spatial lag coherence	Spatial lag coherence	Recorded spatial lag coherence for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	rho  fibrous cap core	ρ: fibrous-cap core	Recorded ρ: fibrous-cap core for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	rho  fibrous cap nonstructural sensitivity	ρ: fibrous-cap nonstructural sensitivity	Recorded ρ: fibrous-cap nonstructural sensitivity for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	rho  calcification	ρ: calcification	Recorded ρ: calcification for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	rho  lipid foam	ρ: lipid foam	Recorded ρ: lipid foam for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	rho  inflammation	ρ: inflammation	Recorded ρ: inflammation for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	rho  endothelial activation	ρ: endothelial activation	Recorded ρ: endothelial activation for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	legacy fallback  within  p	Fallback within-spot P	Original P for Fallback within-spot in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 17	Main data	legacy fallback  within  nullmean	Fallback within-spot null mean	Recorded fallback within-spot null mean for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	legacy fallback  lag  p	Fallback lag P	Original P for Fallback lag in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 17	Main data	legacy fallback  lag  nullmean	Fallback lag null mean	Recorded fallback lag null mean for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	strict parent  within  p	Parent-matched within-spot P	Original P for Parent-matched within-spot in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 17	Main data	strict parent  within  nullmean	Parent-matched within-spot null mean	Recorded parent-matched within-spot null mean for one section, module and posterior setting.	Semantic clarification
+Table 17	Main data	strict parent  lag  p	Parent-matched lag P	Original P for Parent-matched lag in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 17	Main data	strict parent  lag  nullmean	Parent-matched lag null mean	Recorded parent-matched lag null mean for one section, module and posterior setting.	Semantic clarification
+Table 18	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 18	Main data	module	Module	Recorded module for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	GSE	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 18	Main data	QC fallback	Median QC-fallback indicator	Median of the recorded section-to-unit-to-dataset summary; P medians are descriptive, not a combined significance test.	Semantic clarification
+Table 18	Main data	n spots	Median spots per unit	Median of the recorded section-to-unit-to-dataset summary; P medians are descriptive, not a combined significance test.	Semantic clarification
+Table 18	Main data	within spot coherence	Within spot coherence	Recorded within spot coherence for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	spatial lag coherence	Spatial lag coherence	Recorded spatial lag coherence for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	rho  fibrous cap core	ρ: fibrous-cap core	Recorded ρ: fibrous-cap core for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	rho  fibrous cap nonstructural sensitivity	ρ: fibrous-cap nonstructural sensitivity	Recorded ρ: fibrous-cap nonstructural sensitivity for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	rho  calcification	ρ: calcification	Recorded ρ: calcification for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	rho  lipid foam	ρ: lipid foam	Recorded ρ: lipid foam for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	rho  inflammation	ρ: inflammation	Recorded ρ: inflammation for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	rho  endothelial activation	ρ: endothelial activation	Recorded ρ: endothelial activation for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	legacy fallback  within  p	Median Fallback within-spot P (descriptive)	Median of the recorded section-to-unit-to-dataset summary; P medians are descriptive, not a combined significance test.	Semantic clarification
+Table 18	Main data	legacy fallback  within  nullmean	Fallback within-spot null mean	Recorded fallback within-spot null mean for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	legacy fallback  lag  p	Median Fallback lag P (descriptive)	Median of the recorded section-to-unit-to-dataset summary; P medians are descriptive, not a combined significance test.	Semantic clarification
+Table 18	Main data	legacy fallback  lag  nullmean	Fallback lag null mean	Recorded fallback lag null mean for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	strict parent  within  p	Median Parent-matched within-spot P (descriptive)	Median of the recorded section-to-unit-to-dataset summary; P medians are descriptive, not a combined significance test.	Semantic clarification
+Table 18	Main data	strict parent  within  nullmean	Parent-matched within-spot null mean	Recorded parent-matched within-spot null mean for one dataset, module and posterior setting.	Semantic clarification
+Table 18	Main data	strict parent  lag  p	Median Parent-matched lag P (descriptive)	Median of the recorded section-to-unit-to-dataset summary; P medians are descriptive, not a combined significance test.	Semantic clarification
+Table 18	Main data	strict parent  lag  nullmean	Parent-matched lag null mean	Recorded parent-matched lag null mean for one dataset, module and posterior setting.	Semantic clarification
+Table 19	Main data	Pathway or gene set	Pathway	Recorded pathway for one pathway and enrichment analysis; GSEA- and ORA-specific fields are not interchangeable.	Semantic clarification
+Table 19	Main data	P value	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 19	Main data	Adjusted P value	Adjusted P	Original adjusted P for the stated enrichment analysis; adjustment families follow the Methods.	Semantic clarification
+Table 19	Main data	log2 error estimate	log2 error estimate	Recorded log2 error estimate for one pathway and enrichment analysis; GSEA- and ORA-specific fields are not interchangeable.	Retained accurate name
+Table 19	Main data	Enrichment score	ES	Recorded eS for one pathway and enrichment analysis; GSEA- and ORA-specific fields are not interchangeable.	Semantic clarification
+Table 19	Main data	Normalised enrichment score	NES	Normalised enrichment score from the indicated preranked GSEA; positive and negative values preserve direction.	Semantic clarification
+Table 19	Main data	Gene-set size	Gene-set size (n)	Number of pathway genes represented in the ranked GSEA input.	Semantic clarification
+Table 19	Main data	Database	Database	Recorded database for one pathway and enrichment analysis; GSEA- and ORA-specific fields are not interchangeable.	Retained accurate name
+Table 19	Main data	Analysis identifier	Analysis ID	Recorded Analysis ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 19	Main data	Annotation level	Annotation level	Recorded annotation level for one pathway and enrichment analysis; GSEA- and ORA-specific fields are not interchangeable.	Retained accurate name
+Table 19	Main data	Cell state	Cell state	Recorded cell state for one pathway and enrichment analysis; GSEA- and ORA-specific fields are not interchangeable.	Retained accurate name
+Table 19	Main data	Ranked genes, n	Ranked genes (n)	Ranked genes represented by this row.	Semantic clarification
+Table 19	Main data	Analysis	Analysis	Recorded analysis for one pathway and enrichment analysis; GSEA- and ORA-specific fields are not interchangeable.	Retained accurate name
+Table 19	Main data	Overlapping genes	Overlap (n)	Number of selected genes overlapping the tested pathway.	Semantic clarification
+Table 19	Main data	Pathway genes, n	Pathway genes (n)	Pathway genes represented by this row.	Semantic clarification
+Table 19	Main data	Odds ratio	OR	MAGMA ORA odds ratio with 0.5 continuity correction.	Semantic clarification
+Table 19	Main data	Direction	Direction	Recorded direction for one pathway and enrichment analysis; GSEA- and ORA-specific fields are not interchangeable.	Retained accurate name
+Table 19	Main data	Selected genes, n	Selected genes (n)	Selected genes represented by this row.	Semantic clarification
+Table 19	Main data	Background genes, n	Background genes (n)	Background genes represented by this row.	Semantic clarification
+Table 20	Main data	level	Annotation level	Recorded annotation level for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	cell state	Cell state	Recorded cell state for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	analysis id	Analysis ID	Recorded Analysis ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 20	Main data	record type	Record type	Recorded record type for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	role	Role	Recorded role for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	n GSEA	N GSEA	N GSEA represented by this row.	Semantic clarification
+Table 20	Main data	GSEA FDR05	GSEA FDR05	Number of GSEA pathways meeting native adjusted P <0.05 for the indexed analysis.	Retained accurate name
+Table 20	Main data	native NA	Native NA	Count of unavailable native enrichment outputs for this analysis index; not a zero P value.	Semantic clarification
+Table 20	Main data	n ORA	N ORA	N ORA represented by this row.	Semantic clarification
+Table 20	Main data	ORA FDR05 overlap3	ORA FDR05 overlap3	Number of ORA pathways meeting native adjusted P <0.05 and recorded overlap ≥3 for the indexed analysis.	Retained accurate name
+Table 20	Main data	pathway	Pathway	Recorded pathway for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	pval	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 20	Main data	padj	Adjusted P	Original adjusted P for the stated enrichment analysis; adjustment families follow the Methods.	Semantic clarification
+Table 20	Main data	log2err	log2 error estimate	Recorded log2 error estimate for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	ES	ES	Recorded eS for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Retained accurate name
+Table 20	Main data	NES	NES	Normalised enrichment score from the indicated preranked GSEA; positive and negative values preserve direction.	Retained accurate name
+Table 20	Main data	size	Gene-set size (n)	Number of pathway genes represented in the ranked GSEA input.	Semantic clarification
+Table 20	Main data	leadingEdge	Leading-edge genes	GSEA leading-edge subset supplied by fgsea, not the full pathway membership.	Semantic clarification
+Table 20	Main data	database	Database	Recorded database for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	n ranked genes	Ranked genes (n)	Ranked genes represented by this row.	Semantic clarification
+Table 20	Main data	analysis kind	Analysis kind	Recorded analysis kind for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	pathway size	Pathway genes (n)	Pathway genes represented by this row.	Semantic clarification
+Table 20	Main data	overlap	Overlap (n)	Number of selected genes overlapping the tested pathway.	Semantic clarification
+Table 20	Main data	direction	Direction	Recorded direction for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 20	Main data	n background genes	Background genes (n)	Background genes represented by this row.	Semantic clarification
+Table 20	Main data	n selected genes	Selected genes (n)	Selected genes represented by this row.	Semantic clarification
+Table 20	Main data	display overlap ge3	Display overlap ge3	Recorded display overlap ge3 for index rows: one analysis; result rows: one pathway and analysis, distinguished by Record type.	Semantic clarification
+Table 21	Main data	GSE	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 21	Main data	sample id	Sample ID	Original technical sample identifier.	Semantic clarification
+Table 21	Main data	section id	Section ID	Recorded Section ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 21	Main data	biological unit id	Analysis unit ID	Recorded grouping used to combine section estimates before between-unit meta-analysis; the grouping is retained as approved.	Semantic clarification
+Table 21	Main data	section label	Section label	Recorded section label for one spatial section.	Semantic clarification
+Table 21	Main data	sex	Sex	Recorded sex for one spatial section.	Semantic clarification
+Table 21	Main data	age	Age	Recorded age for one spatial section.	Semantic clarification
+Table 21	Main data	metadata status	Metadata status	Source metadata status retained from model execution. It does not supersede author confirmation of the current analysis-unit grouping.	Semantic clarification
+Table 21	Main data	condition	Condition	Recorded condition for one spatial section.	Semantic clarification
+Table 21	Main data	tissue	Tissue	Recorded tissue for one spatial section.	Semantic clarification
+Table 21	Main data	dataset role	Dataset role	Recorded dataset role for one spatial section.	Semantic clarification
+Table 21	Main data	include mapping	Include mapping	Recorded include mapping for one spatial section.	Semantic clarification
+Table 21	Main data	include within section	Include within section	Recorded include within section for one spatial section.	Semantic clarification
+Table 21	Main data	include group contrast	Include group contrast	Recorded include group contrast for one spatial section.	Semantic clarification
+Table 21	Main data	matrix	Matrix	Recorded matrix for one spatial section.	Semantic clarification
+Table 21	Main data	barcodes	Barcodes	Recorded barcodes for one spatial section.	Semantic clarification
+Table 21	Main data	features	Features	Recorded features for one spatial section.	Semantic clarification
+Table 21	Main data	positions	Positions	Recorded positions for one spatial section.	Semantic clarification
+Table 21	Main data	scalefactors	Scalefactors	Recorded scalefactors for one spatial section.	Semantic clarification
+Table 21	Main data	hires image	Hires image	Recorded hires image for one spatial section.	Semantic clarification
+Table 21	Main data	metadata note	Metadata note	Recorded metadata note for one spatial section.	Semantic clarification
+Table 22	Main data	GEO accession	GEO accession	Recorded GEO accession; preserved as an identifier, not recoded into another unit.	Retained accurate name
+Table 22	Main data	Tissue or disease context	Tissue or disease context	Recorded tissue or disease context for one spatial dataset.	Retained accurate name
+Table 22	Main data	Sections, n	Sections (n)	Sections represented by this row.	Semantic clarification
+Table 22	Main data	Biological units, n	Analysis units (n)	Analysis units represented by this row.	Semantic clarification
+Table 22	Main data	Reusable section-level label	Reusable section-level label	Recorded reusable section-level label for one spatial dataset.	Retained accurate name
+Table 22	Main data	Author-reported regional information	Author-reported regional information	Recorded author-reported regional information for one spatial dataset.	Retained accurate name
+Table 22	Main data	Machine-readable spot-level region of interest	Machine-readable spot-level region of interest	Recorded machine-readable spot-level region of interest for one spatial dataset.	Retained accurate name
+Table 22	Main data	Role in this study	Role in this study	Recorded role in this study for one spatial dataset.	Retained accurate name
+Table 23	Main data	Gene symbol (source column)	Gene symbol (source column)	Recorded gene symbol (source column) for one source gene–cluster result.	Retained accurate name
+Table 23	Main data	P value	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 23	Main data	Average log2 fold change	Average log2 fold change	Recorded average log2 fold change for one source gene–cluster result.	Retained accurate name
+Table 23	Main data	Cells expressing in cluster (%)	Within-cluster detected fraction	Source fraction of cells with detectable expression within the source cluster; includes zero-expression cells in the denominator.	Semantic clarification
+Table 23	Main data	Cells expressing outside cluster (%)	Outside-cluster detected fraction	Source fraction of cells with detectable expression outside the source cluster.	Semantic clarification
+Table 23	Main data	Adjusted P value	Adjusted P	Original adjusted P for the stated enrichment analysis; adjustment families follow the Methods.	Semantic clarification
+Table 23	Main data	Cluster	Cluster	Recorded cluster for one source gene–cluster result.	Retained accurate name
+Table 23	Main data	Gene symbol (harmonised)	Gene symbol (harmonised)	Recorded gene symbol (harmonised) for one source gene–cluster result.	Retained accurate name
+Table 24	Main data	Software or resource	Software or resource	Recorded software or resource for one software or resource record.	Retained accurate name
+Table 24	Main data	Version	Version	Recorded version for one software or resource record.	Retained accurate name
+Table 24	Main data	Recorded scope	Recorded scope	Recorded recorded scope for one software or resource record.	Retained accurate name
+Table 25	Main data	Phenotype	Phenotype	Recorded phenotype for one ordered phenotype pair.	Retained accurate name
+Table 25	Main data	Column phenotype	Column phenotype	Recorded column phenotype for one ordered phenotype pair.	Retained accurate name
+Table 25	Main data	LDSC intercept	LDSC intercept	Recorded lDSC intercept for one ordered phenotype pair.	Retained accurate name
+Table 26	Main data	level1 annotation	L1 category	Final Level 1 annotation. Unknown is a valid annotation, not missing data.	Semantic clarification
+Table 26	Main data	level2 annotation	L2 state	Final Level 2 annotation within the stated parent lineage.	Semantic clarification
+Table 26	Main data	record type	Record type	Recorded record type for one marker–group result or programme summary; missing fields depend on Record type.	Semantic clarification
+Table 26	Main data	gene id	Gene identifier	Gene symbol or source gene identifier present in the marker export; not uniformly an Ensembl ID.	Semantic clarification
+Table 26	Main data	mean log1p	Mean log1p expression	Mean full-library log1p(CP10k) expression in the indicated group, including zero-expression cells.	Semantic clarification
+Table 26	Main data	detection fraction	Detected fraction	Within-group fraction of cells with raw counts >0. Missing measurement is not converted to zero.	Semantic clarification
+Table 26	Main data	mean log1p rest	Other-cell mean log1p	Recorded other-cell mean log1p for one marker–group result or programme summary; missing fields depend on Record type.	Semantic clarification
+Table 26	Main data	detection fraction rest	Other-cell detected fraction	Recorded other-cell detected fraction, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 26	Main data	mean difference	Mean expression difference	Recorded mean expression difference for one marker–group result or programme summary; missing fields depend on Record type.	Semantic clarification
+Table 26	Main data	n cells	Cells (n)	Cells represented by this row.	Semantic clarification
+Table 26	Main data	rest n cells	Other cells (n)	Other cells represented by this row.	Semantic clarification
+Table 26	Main data	reference scope	Reference scope	Recorded reference scope for one marker–group result or programme summary; missing fields depend on Record type.	Semantic clarification
+Table 26	Main data	descriptive rank	Descriptive rank	Recorded descriptive rank for one marker–group result or programme summary; missing fields depend on Record type.	Semantic clarification
+Table 26	Main data	cohort	Cohort	Recorded cohort for one marker–group result or programme summary; missing fields depend on Record type.	Semantic clarification
+Table 26	Main data	canonical program	Canonical programme	Recorded canonical programme for one marker–group result or programme summary; missing fields depend on Record type.	Semantic clarification
+Table 26	Main data	mean gene zscore	Mean gene Z score	Canonical programme summary on the recorded gene-standardised scale; not raw mean expression or Figure 1g min–max colour.	Semantic clarification
+Table 27	Main data	method	Method	Recorded method for one integration representation.	Semantic clarification
+Table 27	Main data	bras	BRAS	Batch-removal adjusted silhouette metric on its original scIB scale.	Semantic clarification
+Table 27	Main data	clisi knn	cLISI	Recorded cLISI for one integration representation.	Semantic clarification
+Table 27	Main data	graph connectivity	Graph connectivity	Recorded graph connectivity for one integration representation.	Semantic clarification
+Table 27	Main data	ilisi knn	iLISI	Recorded iLISI for one integration representation.	Semantic clarification
+Table 27	Main data	isolated labels	Isolated-label score	Recorded isolated-label score for one integration representation.	Semantic clarification
+Table 27	Main data	kbet per label	kBET	Recorded kBET for one integration representation.	Semantic clarification
+Table 27	Main data	nmi ari cluster labels kmeans ari	KMeans ARI	Recorded kMeans ARI for one integration representation.	Semantic clarification
+Table 27	Main data	nmi ari cluster labels kmeans nmi	KMeans NMI	Recorded kMeans NMI for one integration representation.	Semantic clarification
+Table 27	Main data	pcr comparison	PCR comparison	Recorded pCR comparison for one integration representation.	Semantic clarification
+Table 27	Main data	silhouette label	Cell-type ASW	Recorded cell-type ASW for one integration representation.	Semantic clarification
+Table 27	Main data	Batch correction	Batch score	Recorded batch score for one integration representation.	Semantic clarification
+Table 27	Main data	Bio conservation	Biology score	Recorded biology score for one integration representation.	Semantic clarification
+Table 27	Main data	Total	Overall score	0.6 × biology score + 0.4 × batch score on the implemented metric scales.	Semantic clarification
+Table 27	Main data	rank	Rank	Recorded rank for one integration representation.	Semantic clarification
+Table 28	Main data	sample uid	Sample ID	Original technical sample identifier.	Semantic clarification
+Table 28	Main data	study	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 28	Main data	n cells	Cells (n)	Cells represented by this row.	Semantic clarification
+Table 28	Main data	biological sample uid	Specimen ID	Biological specimen identifier, distinct from a technical library and from donor identity.	Semantic clarification
+Table 28	Main data	donor uid	Donor ID	Recorded donor identifier; NR/blank is not a new independent donor.	Semantic clarification
+Table 28	Main data	tissue	Tissue	Recorded tissue for one technical sample identifier.	Semantic clarification
+Table 29	Main data	level1 annotation	L1 category	Final Level 1 annotation. Unknown is a valid annotation, not missing data.	Semantic clarification
+Table 29	Main data	level2 annotation	L2 state	Final Level 2 annotation within the stated parent lineage.	Semantic clarification
+Table 29	Main data	state	State	Recorded state for one named L2 state.	Semantic clarification
+Table 29	Main data	state id	State ID	Recorded State ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 29	Main data	parent qualified	Parent-qualified state	Recorded parent-qualified state for one named L2 state.	Semantic clarification
+Table 29	Main data	safe label	Safe state label	Recorded safe state label for one named L2 state.	Semantic clarification
+Table 29	Main data	spatial label	Spatial factor label	Recorded spatial factor label for one named L2 state.	Semantic clarification
+Table 29	Main data	spatial reference state original	Reference state name	Recorded reference state name for one named L2 state.	Semantic clarification
+Table 29	Main data	spatial reference state safe	Reference safe label	Recorded reference safe label for one named L2 state.	Semantic clarification
+Table 29	Main data	n cells	Cells (n)	Cells represented by this row.	Semantic clarification
+Table 29	Main data	samples	Samples (n)	Samples represented by this row.	Semantic clarification
+Table 29	Main data	studies	Studies (n)	Studies represented by this row.	Semantic clarification
+Table 29	Main data	donors	Donors (n)	Donors represented by this row.	Semantic clarification
+Table 29	Main data	tissues	Tissues (n)	Tissues represented by this row.	Semantic clarification
+Table 30	Main data	study	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 30	Main data	L1 lineage	L1 lineage	Recorded l1 lineage for one study–L1 combination.	Retained accurate name
+Table 30	Main data	Mean fraction across samples	Mean fraction across samples	Recorded mean fraction across samples, with its analysis-specific denominator; no conversion to percent.	Retained accurate name
+Table 31	Main data	level1 annotation	L1 category	Final Level 1 annotation. Unknown is a valid annotation, not missing data.	Semantic clarification
+Table 31	Main data	state	State	Recorded state for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	sample uid	Sample ID	Original technical sample identifier.	Semantic clarification
+Table 31	Main data	n cells x	Unknown cells (n)	Unknown cells represented by this row.	Semantic clarification
+Table 31	Main data	study	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 31	Main data	analysis sample uid	Analysis sample ID	Recorded Analysis sample ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 31	Main data	biological sample uid	Specimen ID	Biological specimen identifier, distinct from a technical library and from donor identity.	Semantic clarification
+Table 31	Main data	donor uid	Donor ID	Recorded donor identifier; NR/blank is not a new independent donor.	Semantic clarification
+Table 31	Main data	tissue	Tissue	Recorded tissue for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	tissue detail	Tissue detail	Recorded tissue detail for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	n cells y	Total sample cells (n)	Total sample cells represented by this row.	Semantic clarification
+Table 31	Main data	replicate relationship	Replicate relationship	Recorded replicate relationship for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	evidence source	Evidence source	Recorded evidence source for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	decision	Decision	Recorded decision for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	same donor samples are independent donors	Treat same-donor samples as independent	Recorded treat same-donor samples as independent for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	automatic cross specimen pooling	Automatic specimen pooling	Recorded automatic specimen pooling for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	inferential design approved	Design approval record	Recorded design approval record for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	old biological sample uid	Previous specimen ID	Recorded Previous specimen ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 31	Main data	old donor uid	Previous donor ID	Recorded Previous donor ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 31	Main data	original clinical group	Original clinical group	Recorded original clinical group for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	covarnet group	Covarnet group	Recorded covarnet group for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	group evidence	Group evidence	Recorded group evidence for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	covarnet include	Covarnet include	Recorded covarnet include for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	group review required	Grouping-review flag	Recorded grouping-review flag for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	source diagnosis	Source diagnosis	Recorded source diagnosis for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	pooling	Pooling	Recorded pooling for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	analysis approved	Analysis approval record	Recorded analysis approval record for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	group binary	Group binary	Recorded group binary for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	sample name	Sample name	Recorded sample name for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	age	Age	Recorded age for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	sex	Sex	Recorded sex for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	assay type	Assay type	Recorded assay type for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	vascular bed	Vascular bed	Recorded vascular bed for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	cohort disease context	Cohort disease context	Recorded cohort disease context for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	donor disease context	Donor disease context	Recorded donor disease context for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	tissue disease status	Tissue disease status	Recorded tissue disease status for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	donor resolved	Donor resolved	Recorded donor resolved for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	donor block	Donor block	Recorded donor block for one sample's Unknown-cell group.	Semantic clarification
+Table 31	Main data	analysis profile uid	Profile ID	Retained analysis profile identifier; not interchangeable with donor count.	Semantic clarification
+Table 31	Main data	healthy definition	Healthy definition	Recorded healthy definition for one sample's Unknown-cell group.	Semantic clarification
+Table 32	Main data	gene	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 32	Main data	cell context	Cell context	Recorded cell context for one of 29 gene–cell-population pairs and one of three model terms.	Semantic clarification
+Table 32	Main data	k	Units (n)	Number of contributing analysis units in the spatial meta-analysis, not number of spots or gene–unit estimates.	Semantic clarification
+Table 32	Main data	beta	β	Conditional spatial log-link coefficient for the stated model term.	Semantic clarification
+Table 32	Main data	se	SE	Standard error of the conditional spatial coefficient; not a confidence interval.	Semantic clarification
+Table 32	Main data	z	Z	Recorded z for one of 29 gene–cell-population pairs and one of three model terms.	Semantic clarification
+Table 32	Main data	p	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 32	Main data	tau2	τ²	Estimated between-unit effect variance.	Semantic clarification
+Table 32	Main data	I2	I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 32	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 32	Main data	pathology	Expression programme	Molecular expression signature used in the spatial model; not an independently assigned histopathological region.	Semantic clarification
+Table 32	Main data	term	Model term	cell_abundance: conditional abundance coefficient; pathology: expression-programme coefficient; interaction: abundance × programme coefficient.	Semantic clarification
+Table 32	Main data	sensitivity	Section set	all_sections or the recorded exclusion of QC-fallback sections; not an expression-based exclusion.	Semantic clarification
+Table 32	Main data	n datasets	Datasets (n)	Datasets represented by this row.	Semantic clarification
+Table 32	Main data	CI low	95% CI lower	Lower endpoint of the recorded 95% confidence interval.	Semantic clarification
+Table 32	Main data	CI high	95% CI upper	Upper endpoint of the recorded 95% confidence interval.	Semantic clarification
+Table 32	Main data	FDR BH all 29 pairs x 3 terms	BH FDR (87 tests)	BH-adjusted P across 29 candidate pairs × 3 model terms within the stated posterior/QC setting. Non-estimable terms retain their recorded P=1 accounting.	Semantic clarification
+Table 33	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 33	Main data	module	Module	Recorded module for one module, coherence metric, null method and posterior setting.	Semantic clarification
+Table 33	Main data	null method	Null method	Recorded null method for one module, coherence metric, null method and posterior setting.	Semantic clarification
+Table 33	Main data	metric	Metric	Recorded metric for one module, coherence metric, null method and posterior setting.	Semantic clarification
+Table 33	Main data	observed median	Observed median	Recorded observed median for one module, coherence metric, null method and posterior setting.	Semantic clarification
+Table 33	Main data	null median	Null median	Recorded null median for one module, coherence metric, null method and posterior setting.	Semantic clarification
+Table 33	Main data	observed minus null	Observed minus null	Recorded observed minus null for one module, coherence metric, null method and posterior setting.	Semantic clarification
+Table 33	Main data	P	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Retained accurate name
+Table 33	Main data	datasets	Datasets (n)	Datasets represented by this row.	Semantic clarification
+Table 33	Main data	biological units	Analysis units (n)	Analysis units represented by this row.	Semantic clarification
+Table 33	Main data	draws	Draws	Recorded draws for one module, coherence metric, null method and posterior setting.	Semantic clarification
+Table 33	Main data	FDR BH 28	BH FDR (28 tests)	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 34	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 34	Main data	module	Module	Recorded module for one module–programme pair and posterior setting.	Semantic clarification
+Table 34	Main data	program	Program	Recorded program for one module–programme pair and posterior setting.	Semantic clarification
+Table 34	Main data	n datasets	Datasets (n)	Datasets represented by this row.	Semantic clarification
+Table 34	Main data	positive datasets	Positive datasets	Recorded positive datasets for one module–programme pair and posterior setting.	Semantic clarification
+Table 34	Main data	median rho	Median rho	Recorded median rho for one module–programme pair and posterior setting.	Semantic clarification
+Table 34	Main data	min rho	Min rho	Recorded min rho for one module–programme pair and posterior setting.	Semantic clarification
+Table 34	Main data	max rho	Max rho	Recorded max rho for one module–programme pair and posterior setting.	Semantic clarification
+Table 34	Main data	P direction positive	P direction positive	Recorded p direction positive for one module–programme pair and posterior setting.	Retained accurate name
+Table 34	Main data	FDR BH 84	BH FDR (84 tests)	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 35	Main data	level	Annotation level	Recorded annotation level for one fitted state–comparison model.	Semantic clarification
+Table 35	Main data	state	State	Recorded state for one fitted state–comparison model.	Semantic clarification
+Table 35	Main data	model id	Model id	Recorded model id for one fitted state–comparison model.	Semantic clarification
+Table 35	Main data	estimate	Estimate	Recorded estimate for one fitted state–comparison model.	Semantic clarification
+Table 35	Main data	SE	SE	Standard error on the corresponding effect/estimate scale; not a confidence interval.	Retained accurate name
+Table 35	Main data	z	Z	Recorded z for one fitted state–comparison model.	Semantic clarification
+Table 35	Main data	P	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Retained accurate name
+Table 35	Main data	term	Model term	Disease-versus-reference coefficient in the stated beta-binomial proportion model.	Semantic clarification
+Table 35	Main data	FDR family	FDR family	Recorded fDR family for one fitted state–comparison model.	Retained accurate name
+Table 35	Main data	inference status	Inference status	Recorded inference status for one fitted state–comparison model.	Semantic clarification
+Table 35	Main data	FDR BH	BH FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 36	Main data	tissue	Tissue	Recorded tissue for one tissue category; columns are L1 fractions.	Semantic clarification
+Table 36	Main data	B cell	B cell	Recorded b cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Dendritic cell	Dendritic cell	Recorded dendritic cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Endothelial cell	Endothelial cell	Recorded endothelial cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Fibroblast	Fibroblast	Recorded fibroblast for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Fibromyocyte	Fibromyocyte	Recorded fibromyocyte for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Macrophage	Macrophage	Recorded macrophage for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Mast cell	Mast cell	Recorded mast cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Monocyte	Monocyte	Recorded monocyte for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Natural killer cell	Natural killer cell	Recorded natural killer cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Neutrophil	Neutrophil	Recorded neutrophil for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Pericyte	Pericyte	Recorded pericyte for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Plasma cell	Plasma cell	Recorded plasma cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Schwann cell	Schwann cell	Recorded schwann cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Smooth muscle cell	Smooth muscle cell	Recorded smooth muscle cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	T cell	T cell	Recorded t cell for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 36	Main data	Unknown	Unknown	Recorded unknown for one tissue category; columns are L1 fractions.	Retained accurate name
+Table 37	Main data	pathway	Pathway	Recorded pathway for one recurrent pathway and database.	Semantic clarification
+Table 37	Main data	database	Database	Recorded database for one recurrent pathway and database.	Semantic clarification
+Table 37	Main data	significant analysis units	Significant analysis units	Recorded significant analysis units for one recurrent pathway and database.	Semantic clarification
+Table 37	Main data	median NES	Median NES	Recorded median NES for one recurrent pathway and database.	Semantic clarification
+Table 37	Main data	minimum native FDR	Minimum native FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 38	Main data	method LIANA	LIANA method	LIANA: Recorded method for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	disease context	Disease context	Recorded disease context for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	threshold scheme	Eligibility scheme	Recorded eligibility scheme for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	interaction key	Interaction ID	Recorded Interaction ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 38	Main data	source	Sender state	Recorded sender state for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	target	Receiver state	Recorded receiver state for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	ligand	Ligand	Recorded ligand for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	receptor	Receptor	Recorded receptor for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	signaling category LIANA	LIANA Signalling category	LIANA: Recorded signalling category for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	pooled effect disease minus control LIANA	LIANA Effect (disease − control)	LIANA: Recorded effect (disease − control) for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	pooled se LIANA	LIANA Pooled SE	LIANA: Standard error on the corresponding effect/estimate scale; not a confidence interval.	Semantic clarification
+Table 38	Main data	ci low LIANA	LIANA 95% CI lower	LIANA: Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 38	Main data	ci high LIANA	LIANA 95% CI upper	LIANA: Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 38	Main data	pooled p LIANA	LIANA Pooled P	Original P for LIANAooled in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 38	Main data	n cohorts LIANA	LIANA Cohorts (n)	LIANA Cohorts represented by this row.	Semantic clarification
+Table 38	Main data	n studies LIANA	LIANA Studies (n)	LIANA Studies represented by this row.	Semantic clarification
+Table 38	Main data	n tissues LIANA	LIANA Tissues (n)	LIANA Tissues represented by this row.	Semantic clarification
+Table 38	Main data	direction consistency LIANA	LIANA Direction agreement	LIANA: Fraction of contributing effects with the recorded consensus direction; the qualifying units are defined by this table.	Semantic clarification
+Table 38	Main data	top cohort abs effect share LIANA	LIANA Largest cohort effect share	Recorded liana largest cohort effect share, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 38	Main data	I2 LIANA	LIANA I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 38	Main data	tau2 LIANA	LIANA τ²	Estimated between-unit effect variance.	Semantic clarification
+Table 38	Main data	cohort effects LIANA	LIANA Cohort contributions	LIANA: Recorded cohort contributions for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	FDR BH LIANA	LIANA BH FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 38	Main data	context meta supported LIANA	LIANA Context support	LIANA: Recorded context support for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	evidence class LIANA	LIANA evidence class	LIANA: Recorded evidence class for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	method CellChat	CellChat method	CellChat: Recorded method for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	signaling category CellChat	CellChat Signalling category	CellChat: Recorded signalling category for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	pooled effect disease minus control CellChat	CellChat Effect (disease − control)	CellChat: Recorded effect (disease − control) for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	pooled se CellChat	CellChat Pooled SE	CellChat: Standard error on the corresponding effect/estimate scale; not a confidence interval.	Semantic clarification
+Table 38	Main data	ci low CellChat	CellChat 95% CI lower	CellChat: Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 38	Main data	ci high CellChat	CellChat 95% CI upper	CellChat: Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 38	Main data	pooled p CellChat	CellChat Pooled P	Original P for CellChatooled in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 38	Main data	n cohorts CellChat	CellChat Cohorts (n)	CellChat Cohorts represented by this row.	Semantic clarification
+Table 38	Main data	n studies CellChat	CellChat Studies (n)	CellChat Studies represented by this row.	Semantic clarification
+Table 38	Main data	n tissues CellChat	CellChat Tissues (n)	CellChat Tissues represented by this row.	Semantic clarification
+Table 38	Main data	direction consistency CellChat	CellChat Direction agreement	CellChat: Fraction of contributing effects with the recorded consensus direction; the qualifying units are defined by this table.	Semantic clarification
+Table 38	Main data	top cohort abs effect share CellChat	CellChat Largest cohort effect share	Recorded cellchat largest cohort effect share, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 38	Main data	I2 CellChat	CellChat I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 38	Main data	tau2 CellChat	CellChat τ²	Estimated between-unit effect variance.	Semantic clarification
+Table 38	Main data	cohort effects CellChat	CellChat Cohort contributions	CellChat: Recorded cohort contributions for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	FDR BH CellChat	CellChat BH FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 38	Main data	context meta supported CellChat	CellChat Context support	CellChat: Recorded context support for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 38	Main data	evidence class CellChat	CellChat evidence class	CellChat: Recorded evidence class for one disease-context interaction with paired method-specific results.	Semantic clarification
+Table 39	Main data	background	Background	Recorded background for one tissue–disease-background combination.	Semantic clarification
+Table 39	Main data	tissue	Tissue	Recorded tissue for one tissue–disease-background combination.	Semantic clarification
+Table 39	Main data	both measured	Both measured	Recorded both measured for one tissue–disease-background combination.	Semantic clarification
+Table 39	Main data	same direction	Same direction	Recorded same direction for one tissue–disease-background combination.	Semantic clarification
+Table 39	Main data	both supported same direction	Both supported same direction	Recorded both supported same direction for one tissue–disease-background combination.	Semantic clarification
+Table 40	Main data	gene	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 40	Main data	scenario	GWAS scenario	Recorded gWAS scenario for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	gene id	Ensembl gene ID	Stable source gene identifier; not a row number or expression value.	Semantic clarification
+Table 40	Main data	nominated lineage	Nominated lineage	Recorded nominated lineage for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	context	Context	Recorded context for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	qtl source	QTL source	Recorded qTL source for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	qtl sample size	QTL sample size	Recorded qTL sample size for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	n overlap	Shared variants (n)	Shared variants represented by this row.	Semantic clarification
+Table 40	Main data	gwas effective N	GWAS effective N	Recorded gWAS effective N for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	min gwas p	Minimum GWAS P	Original P for Minimum GWAS in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 40	Main data	min eqtl p	Minimum eQTL P	Original P for Minimum eQTL in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 40	Main data	PP.H0	PP.H0	Colocalisation hypothesis posterior; H0 neither, H1 GWAS only, H2 QTL only, H3 distinct signals, H4 shared signal.	Retained accurate name
+Table 40	Main data	PP.H1	PP.H1	Colocalisation hypothesis posterior; H0 neither, H1 GWAS only, H2 QTL only, H3 distinct signals, H4 shared signal.	Retained accurate name
+Table 40	Main data	PP.H2	PP.H2	Colocalisation hypothesis posterior; H0 neither, H1 GWAS only, H2 QTL only, H3 distinct signals, H4 shared signal.	Retained accurate name
+Table 40	Main data	PP.H3	PP.H3	Colocalisation hypothesis posterior; H0 neither, H1 GWAS only, H2 QTL only, H3 distinct signals, H4 shared signal.	Retained accurate name
+Table 40	Main data	PP.H4	PP.H4	Colocalisation hypothesis posterior; H0 neither, H1 GWAS only, H2 QTL only, H3 distinct signals, H4 shared signal.	Retained accurate name
+Table 40	Main data	H4 given H3H4	PP.H4 / (PP.H3+PP.H4)	Posterior probability of a shared signal conditional on either a distinct or shared two-trait signal.	Semantic clarification
+Table 40	Main data	top shared snp	Top shared variant	Recorded top shared variant, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 40	Main data	top shared SNP PP.H4	Top-variant SNP.PP.H4	Variant-level posterior conditional on H4; not the region-level PP.H4.	Semantic clarification
+Table 40	Main data	top gwas beta	Top gwas beta	Recorded top gwas beta for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	top eqtl beta aligned	Top eqtl beta aligned	Recorded top eqtl beta aligned for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	top direction interpretable	Top direction interpretable	Recorded top direction interpretable for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	top effect direction	Top effect direction	Recorded top effect direction for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	classification	Evidence class	Recorded evidence class for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	primary prior p12	Primary prior p12	Recorded primary prior p12 for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 40	Main data	method	Method	Recorded method for one gene, GWAS scenario and QTL context.	Semantic clarification
+Table 41	Main data	gene	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 41	Main data	scenario	GWAS scenario	Recorded gWAS scenario for one gene and GWAS scenario.	Semantic clarification
+Table 41	Main data	n contexts requested	Requested contexts (n)	Requested contexts represented by this row.	Semantic clarification
+Table 41	Main data	n contexts with qtl	Available QTL contexts (n)	Available QTL contexts represented by this row.	Semantic clarification
+Table 41	Main data	n contexts no qtl	Missing QTL contexts (n)	Missing QTL contexts represented by this row.	Semantic clarification
+Table 41	Main data	n remote failures	Retrieval failures (n)	Retrieval failures represented by this row.	Semantic clarification
+Table 41	Main data	n contexts tested	Tested contexts (n)	Tested contexts represented by this row.	Semantic clarification
+Table 41	Main data	n strong	Strong contexts (n)	Strong contexts represented by this row.	Semantic clarification
+Table 41	Main data	n suggestive	Suggestive contexts (n)	Suggestive contexts represented by this row.	Semantic clarification
+Table 41	Main data	n distinct H3	Distinct-signal contexts (n)	Distinct-signal contexts represented by this row.	Semantic clarification
+Table 41	Main data	maximum PP.H4	Maximum PP.H4	Recorded maximum PP.H4 for one gene and GWAS scenario.	Semantic clarification
+Table 41	Main data	maximum H4 given H3H4	Maximum H4 given H3H4	Recorded maximum H4 given H3H4 for one gene and GWAS scenario.	Semantic clarification
+Table 41	Main data	best context	Best context	Recorded best context for one gene and GWAS scenario.	Semantic clarification
+Table 41	Main data	best qtl source	Best qtl source	Recorded best qtl source for one gene and GWAS scenario.	Semantic clarification
+Table 41	Main data	best classification	Best classification	Recorded best classification for one gene and GWAS scenario.	Semantic clarification
+Table 42	Main data	Gene	Gene	Reported gene symbol; original gene identities are unchanged.	Retained accurate name
+Table 42	Main data	Level	Level	Recorded level for one candidate pair and GWAS scenario.	Retained accurate name
+Table 42	Main data	State	State	Recorded state for one candidate pair and GWAS scenario.	Retained accurate name
+Table 42	Main data	Scenario	GWAS scenario	Recorded gWAS scenario for one candidate pair and GWAS scenario.	Semantic clarification
+Table 42	Main data	P	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Retained accurate name
+Table 42	Main data	FDR	FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Retained accurate name
+Table 42	Main data	Bonferroni significant	Bonferroni significant	Recorded bonferroni significant for one candidate pair and GWAS scenario.	Retained accurate name
+Table 43	Main data	gene symbol	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 43	Main data	annotation level	Annotation level	Recorded annotation level for one evaluable priority-gene–cell-population pair.	Semantic clarification
+Table 43	Main data	cell state	Cell state	Recorded cell state for one evaluable priority-gene–cell-population pair.	Semantic clarification
+Table 43	Main data	n disease contexts	Disease contexts (n)	Disease contexts represented by this row.	Semantic clarification
+Table 43	Main data	n GWAS aligned contexts	GWAS-aligned contexts (n)	GWAS-aligned contexts represented by this row.	Semantic clarification
+Table 43	Main data	disease contexts	Disease contexts	Recorded disease contexts for one evaluable priority-gene–cell-population pair.	Semantic clarification
+Table 43	Main data	meta logFC	Meta log2FC	REML random-effects meta-analysis log2 disease-versus-reference fold change.	Semantic clarification
+Table 43	Main data	meta SE	Meta SE	Standard error of the REML meta-analysis log2 fold change.	Semantic clarification
+Table 43	Main data	meta Z	Meta Z	Recorded meta Z for one evaluable priority-gene–cell-population pair.	Semantic clarification
+Table 43	Main data	meta P	Meta P	Original P for Meta in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 43	Main data	meta CI low	Meta 95% CI lower	Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 43	Main data	meta CI high	Meta 95% CI upper	Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 43	Main data	I2	I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 43	Main data	direction consistency	Direction agreement	Fraction of contributing effects with the recorded consensus direction; the qualifying units are defined by this table.	Semantic clarification
+Table 43	Main data	consensus direction	Consensus direction	Recorded consensus direction for one evaluable priority-gene–cell-population pair.	Semantic clarification
+Table 43	Main data	n context FDR lt 0.05	Significant contexts (n)	Significant contexts represented by this row.	Semantic clarification
+Table 43	Main data	median context logFC	Median context log2FC	Recorded median context log2FC for one evaluable priority-gene–cell-population pair.	Semantic clarification
+Table 43	Main data	gene id	Ensembl gene ID	Stable source gene identifier; not a row number or expression value.	Semantic clarification
+Table 43	Main data	target set meta FDR	Target-set BH FDR	BH-adjusted meta-analysis P within cell state over the prespecified priority-gene set; distinct from all-gene FDR.	Semantic clarification
+Table 44	Main data	rank label	Rank label	Recorded rank label for one tested NMF rank.	Semantic clarification
+Table 44	Main data	method	Method	Recorded method for one tested NMF rank.	Semantic clarification
+Table 44	Main data	seed	Seed	Recorded seed for one tested NMF rank.	Semantic clarification
+Table 44	Main data	rng	Rng	Recorded rng for one tested NMF rank.	Semantic clarification
+Table 44	Main data	metric	Metric	Recorded metric for one tested NMF rank.	Semantic clarification
+Table 44	Main data	rank	Rank	Recorded rank for one tested NMF rank.	Semantic clarification
+Table 44	Main data	sparseness.basis	Sparseness.basis	Recorded sparseness.basis for one tested NMF rank.	Semantic clarification
+Table 44	Main data	sparseness.coef	Sparseness.coef	Recorded sparseness.coef for one tested NMF rank.	Semantic clarification
+Table 44	Main data	rss	Rss	Recorded rss for one tested NMF rank.	Semantic clarification
+Table 44	Main data	evar	Evar	Recorded evar for one tested NMF rank.	Semantic clarification
+Table 44	Main data	silhouette.coef	Silhouette.coef	Recorded silhouette.coef for one tested NMF rank.	Semantic clarification
+Table 44	Main data	silhouette.basis	Silhouette.basis	Recorded silhouette.basis for one tested NMF rank.	Semantic clarification
+Table 44	Main data	residuals	Residuals	Recorded residuals for one tested NMF rank.	Semantic clarification
+Table 44	Main data	niter	Niter	Recorded niter for one tested NMF rank.	Semantic clarification
+Table 44	Main data	cpu	Cpu	Recorded cpu for one tested NMF rank.	Semantic clarification
+Table 44	Main data	cpu.all	Cpu.all	Recorded cpu.all for one tested NMF rank.	Semantic clarification
+Table 44	Main data	nrun	Nrun	Recorded nrun for one tested NMF rank.	Semantic clarification
+Table 44	Main data	cophenetic	Cophenetic	Recorded cophenetic for one tested NMF rank.	Semantic clarification
+Table 44	Main data	dispersion	Dispersion	Recorded dispersion for one tested NMF rank.	Semantic clarification
+Table 44	Main data	silhouette.consensus	Silhouette.consensus	Recorded silhouette.consensus for one tested NMF rank.	Semantic clarification
+Table 44	Main data	scaled cophenetic	Scaled cophenetic	Recorded scaled cophenetic for one tested NMF rank.	Semantic clarification
+Table 44	Main data	scaled dispersion	Scaled dispersion	Recorded scaled dispersion for one tested NMF rank.	Semantic clarification
+Table 44	Main data	scaled silhouette consensus	Scaled silhouette consensus	Recorded scaled silhouette consensus for one tested NMF rank.	Semantic clarification
+Table 44	Main data	composite stability quality	Composite stability quality	Recorded composite stability quality for one tested NMF rank.	Semantic clarification
+Table 44	Main data	rss elbow rank	Rss elbow rank	Recorded rss elbow rank for one tested NMF rank.	Semantic clarification
+Table 44	Main data	within rss elbow window	Within rss elbow window	Recorded within rss elbow window for one tested NMF rank.	Semantic clarification
+Table 44	Main data	stable by cophenetic	Stable by cophenetic	Recorded stable by cophenetic for one tested NMF rank.	Semantic clarification
+Table 44	Main data	automatic candidate	Automatic candidate	Recorded automatic candidate for one tested NMF rank.	Semantic clarification
+Table 44	Main data	selected automatically	Selected automatically	Recorded selected automatically for one tested NMF rank.	Semantic clarification
+Table 44	Main data	selected for primary analysis	Selected for primary analysis	Recorded selected for primary analysis for one tested NMF rank.	Semantic clarification
+Table 44	Main data	selection mode	Selection mode	Recorded selection mode for one tested NMF rank.	Semantic clarification
+Table 45	Main data	reference module	Reference module	Recorded reference module for one reference-module match in a study-omission refit.	Semantic clarification
+Table 45	Main data	run type	Run type	Recorded run type for one reference-module match in a study-omission refit.	Semantic clarification
+Table 45	Main data	omitted or bootstrap	Omitted or bootstrap	Recorded omitted or bootstrap for one reference-module match in a study-omission refit.	Semantic clarification
+Table 45	Main data	matching mode	Matching mode	Recorded matching mode for one reference-module match in a study-omission refit.	Semantic clarification
+Table 45	Main data	matched module	Matched module	Recorded matched module for one reference-module match in a study-omission refit.	Semantic clarification
+Table 45	Main data	cosine similarity	Cosine similarity	Recorded cosine similarity for one reference-module match in a study-omission refit.	Semantic clarification
+Table 45	Main data	top node jaccard	Top node jaccard	Recorded top node jaccard for one reference-module match in a study-omission refit.	Semantic clarification
+Table 45	Main data	n reference modules matching candidate	N reference modules matching candidate	Recorded n reference modules matching candidate for one reference-module match in a study-omission refit.	Semantic clarification
+Table 45	Main data	duplicate match	Duplicate match	Recorded duplicate match for one reference-module match in a study-omission refit.	Semantic clarification
+Table 46	Main data	Analysis scenario	Analysis scenario	Recorded analysis scenario for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Gene symbol	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 46	Main data	Context	Context	Recorded context for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Primary approximate-Bayes-factor PP.H4	Primary approximate-Bayes-factor PP.H4	Recorded primary approximate-Bayes-factor PP.H4 for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Primary approximate-Bayes-factor classification	Primary approximate-Bayes-factor classification	Recorded primary approximate-Bayes-factor classification for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Variants, n	Variants (n)	Variants represented by this row.	Semantic clarification
+Table 46	Main data	GWAS credible sets, n	GWAS credible sets (n)	GWAS credible sets represented by this row.	Semantic clarification
+Table 46	Main data	QTL credible sets, n	QTL credible sets (n)	QTL credible sets represented by this row.	Semantic clarification
+Table 46	Main data	Maximum SuSiE PP.H4	Maximum SuSiE PP.H4	Recorded maximum SuSiE PP.H4 for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Best GWAS signal	Best GWAS signal	Recorded best GWAS signal for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Best QTL signal	Best QTL signal	Recorded best QTL signal for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Analysis status	Analysis status	Recorded analysis status for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Error or exclusion reason	Error or exclusion reason	Recorded error or exclusion reason for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Conservative interpretation	Conservative interpretation	Recorded conservative interpretation for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 46	Main data	Current scope note	Current scope note	Recorded current scope note for one historical gene–QTL-context sensitivity test.	Retained accurate name
+Table 47	Main data	Analysis	Analysis	Recorded analysis for one analysis-specific unit/count definition.	Retained accurate name
+Table 47	Main data	Unit	Unit	Recorded unit for one analysis-specific unit/count definition.	Retained accurate name
+Table 47	Main data	Count	Count	Recorded count for one analysis-specific unit/count definition.	Retained accurate name
+Table 47	Main data	Scope	Scope	Analysis-specific scope of the associated count or result.	Retained accurate name
+Table 48	Main data	gene	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 48	Main data	cell context	Cell context	Recorded cell context for one candidate pair, model term and posterior/QC setting.	Semantic clarification
+Table 48	Main data	k	Units (n)	Number of contributing analysis units in the spatial meta-analysis, not number of spots or gene–unit estimates.	Semantic clarification
+Table 48	Main data	beta	β	Conditional spatial log-link coefficient for the stated model term.	Semantic clarification
+Table 48	Main data	se	SE	Standard error of the conditional spatial coefficient; not a confidence interval.	Semantic clarification
+Table 48	Main data	z	Z	Recorded z for one candidate pair, model term and posterior/QC setting.	Semantic clarification
+Table 48	Main data	p	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 48	Main data	tau2	τ²	Estimated between-unit effect variance.	Semantic clarification
+Table 48	Main data	I2	I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 48	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 48	Main data	pathology	Expression programme	Molecular expression signature used in the spatial model; not an independently assigned histopathological region.	Semantic clarification
+Table 48	Main data	term	Model term	cell_abundance: conditional abundance coefficient; pathology: expression-programme coefficient; interaction: abundance × programme coefficient.	Semantic clarification
+Table 48	Main data	sensitivity	Section set	all_sections or the recorded exclusion of QC-fallback sections; not an expression-based exclusion.	Semantic clarification
+Table 48	Main data	n datasets	Datasets (n)	Datasets represented by this row.	Semantic clarification
+Table 48	Main data	CI low	95% CI lower	Lower endpoint of the recorded 95% confidence interval.	Semantic clarification
+Table 48	Main data	CI high	95% CI upper	Upper endpoint of the recorded 95% confidence interval.	Semantic clarification
+Table 48	Main data	FDR BH all 29 pairs x 3 terms	BH FDR (87 tests)	BH-adjusted P across 29 candidate pairs × 3 model terms within the stated posterior/QC setting. Non-estimable terms retain their recorded P=1 accounting.	Semantic clarification
+Table 49	Main data	method	Method	Recorded method for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	disease context	Disease context	Recorded disease context for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	threshold scheme	Eligibility scheme	Recorded eligibility scheme for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	interaction key	Interaction ID	Recorded Interaction ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 49	Main data	source	Sender state	Recorded sender state for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	target	Receiver state	Recorded receiver state for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	ligand	Ligand	Recorded ligand for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	receptor	Receptor	Recorded receptor for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	pooled effect disease minus control	Effect (disease − control)	Recorded effect (disease − control) for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	n cohorts	Cohorts (n)	Cohorts represented by this row.	Semantic clarification
+Table 49	Main data	direction consistency	Direction agreement	Fraction of contributing effects with the recorded consensus direction; the qualifying units are defined by this table.	Semantic clarification
+Table 49	Main data	top cohort abs effect share	Largest cohort effect share	Recorded largest cohort effect share, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 49	Main data	cohort effects	Cohort contributions	Recorded cohort contributions for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 49	Main data	FDR BH	BH FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 49	Main data	context meta supported	Context support	Recorded context support for one method–context interaction, not one independent cohort.	Semantic clarification
+Table 50	Main data	Analysis	Analysis	Recorded analysis for one relationship between analysis/evidence sources.	Retained accurate name
+Table 50	Main data	Shared evidence	Shared evidence	Recorded shared evidence, with its analysis-specific denominator; no conversion to percent.	Retained accurate name
+Table 50	Main data	Interpretation boundary	Interpretation boundary	Recorded interpretation boundary for one relationship between analysis/evidence sources.	Retained accurate name
+Table 51	Main data	Analysis	Analysis	Recorded analysis for one multiple-testing family definition.	Retained accurate name
+Table 51	Main data	Multiplicity family	Multiplicity family	Recorded multiplicity family for one multiple-testing family definition.	Retained accurate name
+Table 51	Main data	Correction	Correction	Recorded correction for one multiple-testing family definition.	Retained accurate name
+Table 51	Main data	Unit / boundary	Unit / boundary	Recorded unit / boundary for one multiple-testing family definition.	Retained accurate name
+Table 52	Main data	annotation level	Annotation level	Recorded annotation level for one scenario–method–level–weighting summary.	Semantic clarification
+Table 52	Main data	scenario	GWAS scenario	Recorded gWAS scenario for one scenario–method–level–weighting summary.	Semantic clarification
+Table 52	Main data	weighting	Weighting	Recorded weighting for one scenario–method–level–weighting summary.	Semantic clarification
+Table 52	Main data	n tests	Tests (n)	Tests represented by this row.	Semantic clarification
+Table 52	Main data	FDR05	FDR <0.05 (n)	FDR <0.05 represented by this row.	Semantic clarification
+Table 52	Main data	method	Method	Recorded method for one scenario–method–level–weighting summary.	Semantic clarification
+Table 53	Main data	gene	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 53	Main data	cell context	Cell context	Recorded cell context for one candidate pair, model term and posterior/QC setting.	Semantic clarification
+Table 53	Main data	k old	Original-reference Units (n)	Original-reference Units represented by this row.	Semantic clarification
+Table 53	Main data	beta old	Original-reference β	Original-reference model. Conditional spatial log-link coefficient for the stated model term.	Semantic clarification
+Table 53	Main data	se old	Original-reference SE	Original-reference model. Standard error of the conditional spatial coefficient; not a confidence interval.	Semantic clarification
+Table 53	Main data	z old	Original-reference Z	Original-reference model. Recorded z for one candidate pair, model term and posterior/QC setting.	Semantic clarification
+Table 53	Main data	p old	Original-reference P	Original P for Original-reference in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 53	Main data	tau2 old	Original-reference τ²	Estimated between-unit effect variance.	Semantic clarification
+Table 53	Main data	I2 old	Original-reference I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 53	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 53	Main data	pathology	Expression programme	Molecular expression signature used in the spatial model; not an independently assigned histopathological region.	Semantic clarification
+Table 53	Main data	term	Model term	cell_abundance: conditional abundance coefficient; pathology: expression-programme coefficient; interaction: abundance × programme coefficient.	Semantic clarification
+Table 53	Main data	sensitivity	Section set	all_sections or the recorded exclusion of QC-fallback sections; not an expression-based exclusion.	Semantic clarification
+Table 53	Main data	n datasets old	Original-reference Datasets (n)	Original-reference Datasets represented by this row.	Semantic clarification
+Table 53	Main data	CI low old	Original-reference 95% CI lower	Original-reference model. Lower endpoint of the recorded 95% confidence interval.	Semantic clarification
+Table 53	Main data	CI high old	Original-reference 95% CI upper	Original-reference model. Upper endpoint of the recorded 95% confidence interval.	Semantic clarification
+Table 53	Main data	FDR BH all 29 pairs x 3 terms old	Original-reference BH FDR (87 tests)	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 53	Main data	k excluded	Target-excluded Units (n)	Target-excluded Units represented by this row.	Semantic clarification
+Table 53	Main data	beta excluded	Target-excluded β	Target-excluded model. Conditional spatial log-link coefficient for the stated model term.	Semantic clarification
+Table 53	Main data	se excluded	Target-excluded SE	Target-excluded model. Standard error of the conditional spatial coefficient; not a confidence interval.	Semantic clarification
+Table 53	Main data	z excluded	Target-excluded Z	Target-excluded model. Recorded z for one candidate pair, model term and posterior/QC setting.	Semantic clarification
+Table 53	Main data	p excluded	Target-excluded P	Original P for Target-excluded in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 53	Main data	tau2 excluded	Target-excluded τ²	Estimated between-unit effect variance.	Semantic clarification
+Table 53	Main data	I2 excluded	Target-excluded I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 53	Main data	n datasets excluded	Target-excluded Datasets (n)	Target-excluded Datasets represented by this row.	Semantic clarification
+Table 53	Main data	CI low excluded	Target-excluded 95% CI lower	Target-excluded model. Lower endpoint of the recorded 95% confidence interval.	Semantic clarification
+Table 53	Main data	CI high excluded	Target-excluded 95% CI upper	Target-excluded model. Upper endpoint of the recorded 95% confidence interval.	Semantic clarification
+Table 53	Main data	FDR BH all 29 pairs x 3 terms excluded	Target-excluded BH FDR (87 tests)	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 53	Main data	merge	Merge	Recorded merge for one candidate pair, model term and posterior/QC setting.	Semantic clarification
+Table 53	Main data	beta difference	Beta difference	Recorded beta difference for one candidate pair, model term and posterior/QC setting.	Semantic clarification
+Table 53	Main data	sign changed	Sign changed	Recorded sign changed for one candidate pair, model term and posterior/QC setting.	Semantic clarification
+Table 53	Main data	FDR05 old	Original-reference FDR <0.05	Boolean indicator of BH FDR <0.05 for the stated reference implementation, not a count.	Semantic clarification
+Table 53	Main data	FDR05 excluded	Target-excluded FDR <0.05	Boolean indicator of BH FDR <0.05 for the stated reference implementation, not a count.	Semantic clarification
+Table 54	Main data	GSE	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 54	Main data	n sections	Sections (n)	Sections represented by this row.	Semantic clarification
+Table 54	Main data	n spots	Spots (n)	Spots represented by this row.	Semantic clarification
+Table 54	Main data	n model genes	N model genes	Recorded n model genes for one spatial dataset.	Semantic clarification
+Table 54	Main data	n factors	N factors	Recorded n factors for one spatial dataset.	Semantic clarification
+Table 54	Main data	quantile order	Quantile-order check	Recorded quantile-order check for one spatial dataset.	Semantic clarification
+Table 54	Main data	finite nonnegative	Finite/nonnegative check	Recorded finite/nonnegative check for one spatial dataset.	Semantic clarification
+Table 54	Main data	mean outside q05 q95 entries	Mean outside q05–q95 (n)	Mean outside q05–q95 represented by this row.	Semantic clarification
+Table 54	Main data	exact original spots	Spot-identity check	Recorded spot-identity check for one spatial dataset.	Semantic clarification
+Table 54	Main data	original source	Source path	Recorded source path for one spatial dataset.	Semantic clarification
+Table 55	Main data	module	Module	Recorded module for one module and evaluated statistic.	Semantic clarification
+Table 55	Main data	metric	Metric	Recorded metric for one module and evaluated statistic.	Semantic clarification
+Table 55	Main data	observed	Observed	Recorded observed for one module and evaluated statistic.	Semantic clarification
+Table 55	Main data	empirical P	Empirical P	Original P for Empirical in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 55	Main data	n finite null	N finite null	Recorded n finite null for one module and evaluated statistic.	Semantic clarification
+Table 55	Main data	FDR	FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Retained accurate name
+Table 56	Main data	GEO accession	GEO accession	Recorded GEO accession; preserved as an identifier, not recoded into another unit.	Retained accurate name
+Table 56	Main data	Source-overlap category	Source-overlap category	Recorded source-overlap category for one spatial source-overlap record.	Retained accurate name
+Table 56	Main data	Related atlas accession	Related atlas accession	Recorded Related atlas accession; preserved as an identifier, not recoded into another unit.	Retained accurate name
+Table 56	Main data	Donor-overlap status	Donor-overlap status	Recorded donor-overlap status for one spatial source-overlap record.	Retained accurate name
+Table 56	Main data	Analysis group	Analysis group	Recorded analysis group for one spatial source-overlap record.	Retained accurate name
+Table 56	Main data	No. datasets	No. datasets	Recorded no. datasets for one spatial source-overlap record.	Retained accurate name
+Table 56	Main data	No. sections	No. sections	Recorded no. sections for one spatial source-overlap record.	Retained accurate name
+Table 56	Main data	Biological units, n	Analysis units (n)	Analysis units represented by this row.	Semantic clarification
+Table 57	Main data	gene	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 57	Main data	cell context	Cell context	Recorded cell context for one candidate pair, model term, analysis unit and posterior/QC setting.	Semantic clarification
+Table 57	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 57	Main data	pathology	Expression programme	Molecular expression signature used in the spatial model; not an independently assigned histopathological region.	Semantic clarification
+Table 57	Main data	term	Model term	cell_abundance: conditional abundance coefficient; pathology: expression-programme coefficient; interaction: abundance × programme coefficient.	Semantic clarification
+Table 57	Main data	GSE	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 57	Main data	biological unit id	Analysis unit ID	Recorded grouping used to combine section estimates before between-unit meta-analysis; the grouping is retained as approved.	Semantic clarification
+Table 57	Main data	sensitivity	Section set	all_sections or the recorded exclusion of QC-fallback sections; not an expression-based exclusion.	Semantic clarification
+Table 57	Main data	beta	β	Conditional spatial log-link coefficient for the stated model term.	Semantic clarification
+Table 57	Main data	se	SE	Standard error of the conditional spatial coefficient; not a confidence interval.	Semantic clarification
+Table 57	Main data	n sections	Sections (n)	Sections represented by this row.	Semantic clarification
+Table 57	Main data	serial section covariance unavailable	Section covariance unmodelled	Recorded flag that within-unit section residual covariance was not explicitly estimated. It is not a grouping-error flag.	Semantic clarification
+Table 58	Main data	gene	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 58	Main data	cell context	Cell context	Recorded cell context for one candidate pair, model term, section and posterior setting.	Semantic clarification
+Table 58	Main data	GSE	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 58	Main data	section id	Section ID	Recorded Section ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 58	Main data	biological unit id	Analysis unit ID	Recorded grouping used to combine section estimates before between-unit meta-analysis; the grouping is retained as approved.	Semantic clarification
+Table 58	Main data	metadata status	Metadata status	Source metadata status retained from model execution. It does not supersede author confirmation of the current analysis-unit grouping.	Semantic clarification
+Table 58	Main data	QC fallback	QC fallback	Recorded qC fallback for one candidate pair, model term, section and posterior setting.	Retained accurate name
+Table 58	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 58	Main data	pathology	Expression programme	Molecular expression signature used in the spatial model; not an independently assigned histopathological region.	Semantic clarification
+Table 58	Main data	expected direction	Expected direction	Recorded expected direction for one candidate pair, model term, section and posterior setting.	Semantic clarification
+Table 58	Main data	target removed from program	Target removed from program	Recorded target removed from program for one candidate pair, model term, section and posterior setting.	Semantic clarification
+Table 58	Main data	n program genes	N program genes	Recorded n program genes for one candidate pair, model term, section and posterior setting.	Semantic clarification
+Table 58	Main data	n spots	Spots (n)	Spots represented by this row.	Semantic clarification
+Table 58	Main data	n positive spots	Positive spots (n)	Positive spots represented by this row.	Semantic clarification
+Table 58	Main data	gene present in source	Gene present in source	Recorded gene present in source for one candidate pair, model term, section and posterior setting.	Semantic clarification
+Table 58	Main data	model status	Model status	Recorded model status for one candidate pair, model term, section and posterior setting.	Semantic clarification
+Table 58	Main data	term	Model term	cell_abundance: conditional abundance coefficient; pathology: expression-programme coefficient; interaction: abundance × programme coefficient.	Semantic clarification
+Table 58	Main data	beta	β	Conditional spatial log-link coefficient for the stated model term.	Semantic clarification
+Table 58	Main data	se	SE	Standard error of the conditional spatial coefficient; not a confidence interval.	Semantic clarification
+Table 58	Main data	z	Z	Recorded z for one candidate pair, model term, section and posterior setting.	Semantic clarification
+Table 58	Main data	p	P	Original P for P in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 58	Main data	model	Model	Recorded model for one candidate pair, model term, section and posterior setting.	Semantic clarification
+Table 59	Main data	gene	Gene	Reported gene symbol; original gene identities are unchanged.	Semantic clarification
+Table 59	Main data	cell context	Cell context	Recorded cell context for one candidate pair, section and posterior setting.	Semantic clarification
+Table 59	Main data	GSE	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 59	Main data	section id	Section ID	Recorded Section ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 59	Main data	biological unit id	Analysis unit ID	Recorded grouping used to combine section estimates before between-unit meta-analysis; the grouping is retained as approved.	Semantic clarification
+Table 59	Main data	metadata status	Metadata status	Source metadata status retained from model execution. It does not supersede author confirmation of the current analysis-unit grouping.	Semantic clarification
+Table 59	Main data	QC fallback	QC fallback	Recorded qC fallback for one candidate pair, section and posterior setting.	Retained accurate name
+Table 59	Main data	posterior	Posterior summary	cell2location posterior summary used for abundance: q05 or posterior mean.	Semantic clarification
+Table 59	Main data	pathology	Expression programme	Molecular expression signature used in the spatial model; not an independently assigned histopathological region.	Semantic clarification
+Table 59	Main data	expected direction	Expected direction	Recorded expected direction for one candidate pair, section and posterior setting.	Semantic clarification
+Table 59	Main data	target removed from program	Target removed from program	Recorded target removed from program for one candidate pair, section and posterior setting.	Semantic clarification
+Table 59	Main data	n program genes	N program genes	Recorded n program genes for one candidate pair, section and posterior setting.	Semantic clarification
+Table 59	Main data	n spots	Spots (n)	Spots represented by this row.	Semantic clarification
+Table 59	Main data	n positive spots	Positive spots (n)	Positive spots represented by this row.	Semantic clarification
+Table 59	Main data	gene present in source	Gene present in source	Recorded gene present in source for one candidate pair, section and posterior setting.	Semantic clarification
+Table 59	Main data	model status	Model status	Recorded model status for one candidate pair, section and posterior setting.	Semantic clarification
+Table 60	Main data	level	Annotation level	Recorded annotation level for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	state	State	Recorded state for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	model id	Model id	Recorded model id for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	background	Background	Recorded background for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	denominator	Denominator	Recorded denominator for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	n samples	Samples (n)	Samples represented by this row.	Semantic clarification
+Table 60	Main data	n donors	Donors (n)	Donors represented by this row.	Semantic clarification
+Table 60	Main data	status	Status	Recorded status for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	reason	Reason	Recorded reason for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	formula	Formula	Recorded formula for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	scope kind	Scope kind	Recorded scope kind for one planned state–disease-background–denominator model.	Semantic clarification
+Table 60	Main data	exit code	Exit code	Recorded exit code for one planned state–disease-background–denominator model.	Semantic clarification
+Table 61	Main data	covarnet sample uid	CoVarNet profile ID	Recorded CoVarNet profile ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 61	Main data	study canonical	Study ID	Source-study accession or its canonical identifier.	Semantic clarification
+Table 61	Main data	analysis sample uid	Analysis sample ID	Recorded Analysis sample ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 61	Main data	biological sample uid	Specimen ID	Biological specimen identifier, distinct from a technical library and from donor identity.	Semantic clarification
+Table 61	Main data	donor uid	Donor ID	Recorded donor identifier; NR/blank is not a new independent donor.	Semantic clarification
+Table 61	Main data	tissue v2	Tissue	Recorded tissue for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	tissue detail	Tissue detail	Recorded tissue detail for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	n cells	Cells (n)	Cells represented by this row.	Semantic clarification
+Table 61	Main data	replicate relationship	Replicate relationship	Recorded replicate relationship for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	evidence source	Evidence source	Recorded evidence source for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	decision	Decision	Recorded decision for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	same donor samples are independent donors	Treat same-donor samples as independent	Recorded treat same-donor samples as independent for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	automatic cross specimen pooling	Automatic specimen pooling	Recorded automatic specimen pooling for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	inferential design approved	Design approval record	Recorded design approval record for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	old biological sample uid	Previous specimen ID	Recorded Previous specimen ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 61	Main data	old donor uid	Previous donor ID	Recorded Previous donor ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 61	Main data	original clinical group	Original clinical group	Recorded original clinical group for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	covarnet group	Covarnet group	Recorded covarnet group for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	group evidence	Group evidence	Recorded group evidence for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	covarnet include	Covarnet include	Recorded covarnet include for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	group review required	Grouping-review flag	Recorded grouping-review flag for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	source diagnosis	Source diagnosis	Recorded source diagnosis for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	pooling	Pooling	Recorded pooling for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	analysis approved	Analysis approval record	Recorded analysis approval record for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	condition v2	Condition	Recorded condition for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	sample name	Sample name	Recorded sample name for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	age	Age	Recorded age for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	sex	Sex	Recorded sex for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	assay type	Assay type	Recorded assay type for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	vascular bed	Vascular bed	Recorded vascular bed for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	cohort disease context	Cohort disease context	Recorded cohort disease context for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	donor disease context	Donor disease context	Recorded donor disease context for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	tissue disease status	Tissue disease status	Recorded tissue disease status for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	donor resolved	Donor resolved	Recorded donor resolved for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	covarnet donor key	CoVarNet donor key	Recorded coVarNet donor key for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	analysis profile uid	Profile ID	Retained analysis profile identifier; not interchangeable with donor count.	Semantic clarification
+Table 61	Main data	n total atlas cells	Total atlas cells (n)	Total atlas cells represented by this row.	Semantic clarification
+Table 61	Main data	n technical samples	Technical samples (n)	Technical samples represented by this row.	Semantic clarification
+Table 61	Main data	background	Background	Recorded background for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	group	Group	Recorded group for one CoVarNet disease-association profile.	Semantic clarification
+Table 61	Main data	donor	Association donor ID	Recorded Association donor ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 61	Main data	association scope eligible	Association scope eligible	Recorded association scope eligible for one CoVarNet disease-association profile.	Semantic clarification
+Table 62	Main data	method	Method	Recorded method for one method–context interaction.	Semantic clarification
+Table 62	Main data	disease context	Disease context	Recorded disease context for one method–context interaction.	Semantic clarification
+Table 62	Main data	threshold scheme	Eligibility scheme	Recorded eligibility scheme for one method–context interaction.	Semantic clarification
+Table 62	Main data	interaction key	Interaction ID	Recorded Interaction ID; preserved as an identifier, not recoded into another unit.	Semantic clarification
+Table 62	Main data	source	Sender state	Recorded sender state for one method–context interaction.	Semantic clarification
+Table 62	Main data	target	Receiver state	Recorded receiver state for one method–context interaction.	Semantic clarification
+Table 62	Main data	ligand	Ligand	Recorded ligand for one method–context interaction.	Semantic clarification
+Table 62	Main data	receptor	Receptor	Recorded receptor for one method–context interaction.	Semantic clarification
+Table 62	Main data	signaling category	Signalling category	Recorded signalling category for one method–context interaction.	Semantic clarification
+Table 62	Main data	pooled effect disease minus control	Effect (disease − control)	Recorded effect (disease − control) for one method–context interaction.	Semantic clarification
+Table 62	Main data	pooled se	Pooled SE	Standard error on the corresponding effect/estimate scale; not a confidence interval.	Semantic clarification
+Table 62	Main data	ci low	95% CI lower	Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 62	Main data	ci high	95% CI upper	Recorded confidence bound on the corresponding effect scale; no bounds were reconstructed.	Semantic clarification
+Table 62	Main data	pooled p	Pooled P	Original P for Pooled in the stated model; source numeric underflow zeros and eligibility flags are retained.	Semantic clarification
+Table 62	Main data	n cohorts	Cohorts (n)	Cohorts represented by this row.	Semantic clarification
+Table 62	Main data	n studies	Studies (n)	Studies represented by this row.	Semantic clarification
+Table 62	Main data	n tissues	Tissues (n)	Tissues represented by this row.	Semantic clarification
+Table 62	Main data	direction consistency	Direction agreement	Fraction of contributing effects with the recorded consensus direction; the qualifying units are defined by this table.	Semantic clarification
+Table 62	Main data	top cohort abs effect share	Largest cohort effect share	Recorded largest cohort effect share, with its analysis-specific denominator; no conversion to percent.	Semantic clarification
+Table 62	Main data	I2	I² (%)	Between-unit heterogeneity statistic on its original percentage scale.	Semantic clarification
+Table 62	Main data	tau2	τ²	Estimated between-unit effect variance.	Semantic clarification
+Table 62	Main data	cohort effects	Cohort contributions	Recorded cohort contributions for one method–context interaction.	Semantic clarification
+Table 62	Main data	FDR BH	BH FDR	Original adjusted P for the stated testing family; no correction has been recomputed.	Semantic clarification
+Table 62	Main data	context meta supported	Context support	Recorded context support for one method–context interaction.	Semantic clarification
+Table 62	Main data	evidence class	Evidence class	Recorded evidence class for one method–context interaction.	Semantic clarification
+Table 62	Main data	tissue	Tissue	Recorded tissue for one method–context interaction.	Semantic clarification
+Table 63	Main data	reference module	Reference module	Recorded reference module for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 63	Main data	run type	Run type	Recorded run type for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 63	Main data	omitted or bootstrap	Omitted or bootstrap	Recorded omitted or bootstrap for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 63	Main data	matching mode	Matching mode	Recorded matching mode for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 63	Main data	matched module	Matched module	Recorded matched module for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 63	Main data	cosine similarity	Cosine similarity	Recorded cosine similarity for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 63	Main data	top node jaccard	Top node jaccard	Recorded top node jaccard for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 63	Main data	n reference modules matching candidate	N reference modules matching candidate	Recorded n reference modules matching candidate for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 63	Main data	duplicate match	Duplicate match	Recorded duplicate match for one reference-module match in a perturbation/refit.	Semantic clarification
+Table 64	Main data	Model	Model	Recorded model for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	Prespecified role	Prespecified role	Recorded prespecified role for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	Chi-square	Chi-square	Recorded chi-square for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	Degrees of freedom	Degrees of freedom	Recorded degrees of freedom for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	Raw software P value	Raw software P value	Recorded raw software P value for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	P-value interpretation	P-value interpretation	Recorded p-value interpretation for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	Akaike information criterion	Akaike information criterion	Recorded akaike information criterion for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	Comparative fit index	Comparative fit index	Recorded comparative fit index for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	Standardised root mean square residual	Standardised root mean square residual	Recorded standardised root mean square residual for one confirmatory genetic model.	Retained accurate name
+Table 64	Main data	Stable model ID	Stable model ID	Recorded Stable model ID; preserved as an identifier, not recoded into another unit.	Retained accurate name

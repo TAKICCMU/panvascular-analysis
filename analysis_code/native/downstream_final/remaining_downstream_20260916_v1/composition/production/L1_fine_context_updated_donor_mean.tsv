@@ -1,0 +1,353 @@
+diagnosis_subtype_preserved	clinical_group_CN	state	mean_donor_fraction	n_donors
+abdominal aortic aneurysm	健康/参照组	B cell	0.043849527876944426	5
+abdominal aortic aneurysm	健康/参照组	Dendritic cell	0.01209194350001708	5
+abdominal aortic aneurysm	健康/参照组	Endothelial cell	0.03257108380568029	5
+abdominal aortic aneurysm	健康/参照组	Fibroblast	0.04423324199468601	5
+abdominal aortic aneurysm	健康/参照组	Fibromyocyte	0.0018195900670082775	5
+abdominal aortic aneurysm	健康/参照组	Macrophage	0.14072196235150405	5
+abdominal aortic aneurysm	健康/参照组	Mast cell	0.00900347670853764	5
+abdominal aortic aneurysm	健康/参照组	Monocyte	0.023612205379318796	5
+abdominal aortic aneurysm	健康/参照组	Natural killer cell	0.08702981430161827	5
+abdominal aortic aneurysm	健康/参照组	Neutrophil	0.012663048823683137	5
+abdominal aortic aneurysm	健康/参照组	Pericyte	0.0004321297818883119	5
+abdominal aortic aneurysm	健康/参照组	Plasma cell	0.023363403562114065	5
+abdominal aortic aneurysm	健康/参照组	Schwann cell	0.0027627906976744184	5
+abdominal aortic aneurysm	健康/参照组	Smooth muscle cell	0.14260162838494475	5
+abdominal aortic aneurysm	健康/参照组	T cell	0.3418021178907199	5
+abdominal aortic aneurysm	健康/参照组	Unknown	0.0814420348736606	5
+abdominal aortic aneurysm	疾病组	B cell	0.12861152067552906	13
+abdominal aortic aneurysm	疾病组	Dendritic cell	0.019786838617090317	13
+abdominal aortic aneurysm	疾病组	Endothelial cell	0.05882647855342186	13
+abdominal aortic aneurysm	疾病组	Fibroblast	0.0370083196944151	13
+abdominal aortic aneurysm	疾病组	Fibromyocyte	0.007072704938024475	13
+abdominal aortic aneurysm	疾病组	Macrophage	0.1294850713541689	13
+abdominal aortic aneurysm	疾病组	Mast cell	0.0059134929764126385	13
+abdominal aortic aneurysm	疾病组	Monocyte	0.04681683820574477	13
+abdominal aortic aneurysm	疾病组	Natural killer cell	0.05899673429843714	13
+abdominal aortic aneurysm	疾病组	Neutrophil	0.015521441793306138	13
+abdominal aortic aneurysm	疾病组	Pericyte	0.0013354295182588147	13
+abdominal aortic aneurysm	疾病组	Plasma cell	0.009262496806625047	13
+abdominal aortic aneurysm	疾病组	Schwann cell	0.001496240829757037	13
+abdominal aortic aneurysm	疾病组	Smooth muscle cell	0.06921179046243778	13
+abdominal aortic aneurysm	疾病组	T cell	0.35225172852869235	13
+abdominal aortic aneurysm	疾病组	Unknown	0.05840287274767855	13
+aortic dissection	健康/参照组	B cell	0.0035161583851683683	11
+aortic dissection	健康/参照组	Dendritic cell	0.007665974730730357	11
+aortic dissection	健康/参照组	Endothelial cell	0.04156772365869545	11
+aortic dissection	健康/参照组	Fibroblast	0.23767885597638758	11
+aortic dissection	健康/参照组	Fibromyocyte	0.016319839231530794	11
+aortic dissection	健康/参照组	Macrophage	0.1871422725696149	11
+aortic dissection	健康/参照组	Mast cell	0.031084861035442366	11
+aortic dissection	健康/参照组	Monocyte	0.039992914555778795	11
+aortic dissection	健康/参照组	Natural killer cell	0.026811230123747257	11
+aortic dissection	健康/参照组	Neutrophil	0.041227697464244845	11
+aortic dissection	健康/参照组	Pericyte	0.0020401686928604515	11
+aortic dissection	健康/参照组	Plasma cell	0.008407107888455187	11
+aortic dissection	健康/参照组	Schwann cell	0.002533937114834355	11
+aortic dissection	健康/参照组	Smooth muscle cell	0.12077523579109659	11
+aortic dissection	健康/参照组	T cell	0.18008941414100538	11
+aortic dissection	健康/参照组	Unknown	0.05314660864040734	11
+aortic dissection	疾病组	B cell	0.003759143699591857	20
+aortic dissection	疾病组	Dendritic cell	0.011744957914415153	20
+aortic dissection	疾病组	Endothelial cell	0.05326039159802508	20
+aortic dissection	疾病组	Fibroblast	0.11831699591805526	20
+aortic dissection	疾病组	Fibromyocyte	0.01217847576815807	20
+aortic dissection	疾病组	Macrophage	0.33280007136913103	20
+aortic dissection	疾病组	Mast cell	0.013511058043811724	20
+aortic dissection	疾病组	Monocyte	0.0696773138192396	20
+aortic dissection	疾病组	Natural killer cell	0.03795017153402734	20
+aortic dissection	疾病组	Neutrophil	0.05488456247310558	20
+aortic dissection	疾病组	Pericyte	0.0030537447236729273	20
+aortic dissection	疾病组	Plasma cell	0.004473231585182487	20
+aortic dissection	疾病组	Schwann cell	0.0023833616039724667	20
+aortic dissection	疾病组	Smooth muscle cell	0.09067842653459911	20
+aortic dissection	疾病组	T cell	0.14771139814774045	20
+aortic dissection	疾病组	Unknown	0.04361669526727184	20
+aortic valve ageing (non-CAVD)	健康/参照组	B cell	0.0	6
+aortic valve ageing (non-CAVD)	健康/参照组	Dendritic cell	0.006596235994251475	6
+aortic valve ageing (non-CAVD)	健康/参照组	Endothelial cell	0.07005520976729507	6
+aortic valve ageing (non-CAVD)	健康/参照组	Fibroblast	0.5410972193045496	6
+aortic valve ageing (non-CAVD)	健康/参照组	Fibromyocyte	0.052067436382662924	6
+aortic valve ageing (non-CAVD)	健康/参照组	Macrophage	0.07171814484814926	6
+aortic valve ageing (non-CAVD)	健康/参照组	Mast cell	0.00190541958411697	6
+aortic valve ageing (non-CAVD)	健康/参照组	Monocyte	0.00547976832391622	6
+aortic valve ageing (non-CAVD)	健康/参照组	Natural killer cell	0.0014740208581171255	6
+aortic valve ageing (non-CAVD)	健康/参照组	Neutrophil	0.00012178982434108574	6
+aortic valve ageing (non-CAVD)	健康/参照组	Pericyte	0.00015447208887669141	6
+aortic valve ageing (non-CAVD)	健康/参照组	Plasma cell	0.00010799952362778623	6
+aortic valve ageing (non-CAVD)	健康/参照组	Schwann cell	0.0011611039426075668	6
+aortic valve ageing (non-CAVD)	健康/参照组	Smooth muscle cell	0.16339149563523087	6
+aortic valve ageing (non-CAVD)	健康/参照组	T cell	0.04739839866947223	6
+aortic valve ageing (non-CAVD)	健康/参照组	Unknown	0.03727128525278518	6
+calcific aortic valve disease	健康/参照组	B cell	0.0	3
+calcific aortic valve disease	健康/参照组	Dendritic cell	0.006183152096105888	3
+calcific aortic valve disease	健康/参照组	Endothelial cell	0.20700495240056851	3
+calcific aortic valve disease	健康/参照组	Fibroblast	0.3344819869938686	3
+calcific aortic valve disease	健康/参照组	Fibromyocyte	0.020969230260201987	3
+calcific aortic valve disease	健康/参照组	Macrophage	0.08671447211687722	3
+calcific aortic valve disease	健康/参照组	Mast cell	0.0023551646114790543	3
+calcific aortic valve disease	健康/参照组	Monocyte	0.010204930506617164	3
+calcific aortic valve disease	健康/参照组	Natural killer cell	0.002484224672623042	3
+calcific aortic valve disease	健康/参照组	Neutrophil	0.0012274533582614393	3
+calcific aortic valve disease	健康/参照组	Pericyte	2.1562412402699614e-05	3
+calcific aortic valve disease	健康/参照组	Plasma cell	0.0003448411118002718	3
+calcific aortic valve disease	健康/参照组	Schwann cell	0.002218419978131036	3
+calcific aortic valve disease	健康/参照组	Smooth muscle cell	0.23906072491243402	3
+calcific aortic valve disease	健康/参照组	T cell	0.04844381706332398	3
+calcific aortic valve disease	健康/参照组	Unknown	0.03828506750530509	3
+calcific aortic valve disease	疾病组	B cell	0.0007473864760510085	10
+calcific aortic valve disease	疾病组	Dendritic cell	0.0017676024185075262	10
+calcific aortic valve disease	疾病组	Endothelial cell	0.12114381731456296	10
+calcific aortic valve disease	疾病组	Fibroblast	0.38404013849707325	10
+calcific aortic valve disease	疾病组	Fibromyocyte	0.028603543209469135	10
+calcific aortic valve disease	疾病组	Macrophage	0.10918953317078572	10
+calcific aortic valve disease	疾病组	Mast cell	0.0010331189127296306	10
+calcific aortic valve disease	疾病组	Monocyte	0.01109820630682525	10
+calcific aortic valve disease	疾病组	Natural killer cell	0.0023399900566089355	10
+calcific aortic valve disease	疾病组	Neutrophil	0.0008955520174051353	10
+calcific aortic valve disease	疾病组	Pericyte	0.00116083466244126	10
+calcific aortic valve disease	疾病组	Plasma cell	0.00039353069338899456	10
+calcific aortic valve disease	疾病组	Schwann cell	0.0012304642281429617	10
+calcific aortic valve disease	疾病组	Smooth muscle cell	0.23586805594796184	10
+calcific aortic valve disease	疾病组	T cell	0.028323741021255698	10
+calcific aortic valve disease	疾病组	Unknown	0.07216448506679066	10
+carotid atherosclerosis	健康/参照组	B cell	0.019262966804990934	3
+carotid atherosclerosis	健康/参照组	Dendritic cell	0.004753576011026933	3
+carotid atherosclerosis	健康/参照组	Endothelial cell	0.2821446593040165	3
+carotid atherosclerosis	健康/参照组	Fibroblast	0.1501761047893103	3
+carotid atherosclerosis	健康/参照组	Fibromyocyte	0.012988545405423976	3
+carotid atherosclerosis	健康/参照组	Macrophage	0.058105760977667564	3
+carotid atherosclerosis	健康/参照组	Mast cell	0.008245946810768541	3
+carotid atherosclerosis	健康/参照组	Monocyte	0.038524960726767025	3
+carotid atherosclerosis	健康/参照组	Natural killer cell	0.03338300591988426	3
+carotid atherosclerosis	健康/参照组	Neutrophil	0.0043448467653665465	3
+carotid atherosclerosis	健康/参照组	Pericyte	0.0036543425032073474	3
+carotid atherosclerosis	健康/参照组	Plasma cell	0.008665599737361066	3
+carotid atherosclerosis	健康/参照组	Schwann cell	0.00010578652279699566	3
+carotid atherosclerosis	健康/参照组	Smooth muscle cell	0.1559317001305506	3
+carotid atherosclerosis	健康/参照组	T cell	0.19103108226344034	3
+carotid atherosclerosis	健康/参照组	Unknown	0.028681115327421052	3
+carotid atherosclerosis	疾病组	B cell	0.005236163579268354	38
+carotid atherosclerosis	疾病组	Dendritic cell	0.016369694037665073	38
+carotid atherosclerosis	疾病组	Endothelial cell	0.09652792015213035	38
+carotid atherosclerosis	疾病组	Fibroblast	0.04875967479248945	38
+carotid atherosclerosis	疾病组	Fibromyocyte	0.030017168923122187	38
+carotid atherosclerosis	疾病组	Macrophage	0.1830426956939644	38
+carotid atherosclerosis	疾病组	Mast cell	0.023699162096251638	38
+carotid atherosclerosis	疾病组	Monocyte	0.029747568358316986	38
+carotid atherosclerosis	疾病组	Natural killer cell	0.055219596664807795	38
+carotid atherosclerosis	疾病组	Neutrophil	0.016143270915562963	38
+carotid atherosclerosis	疾病组	Pericyte	0.0049961495829491985	38
+carotid atherosclerosis	疾病组	Plasma cell	0.009339917573122362	38
+carotid atherosclerosis	疾病组	Schwann cell	7.880994217533863e-05	38
+carotid atherosclerosis	疾病组	Smooth muscle cell	0.13647465424776126	38
+carotid atherosclerosis	疾病组	T cell	0.31343569305403357	38
+carotid atherosclerosis	疾病组	Unknown	0.030911860386379077	38
+chronic thromboembolic pulmonary hypertension	疾病组	B cell	0.015962359261432284	5
+chronic thromboembolic pulmonary hypertension	疾病组	Dendritic cell	0.00914837536607716	5
+chronic thromboembolic pulmonary hypertension	疾病组	Endothelial cell	0.22405348813993595	5
+chronic thromboembolic pulmonary hypertension	疾病组	Fibroblast	0.0033367430088664814	5
+chronic thromboembolic pulmonary hypertension	疾病组	Fibromyocyte	0.005957762982628918	5
+chronic thromboembolic pulmonary hypertension	疾病组	Macrophage	0.17579506515891777	5
+chronic thromboembolic pulmonary hypertension	疾病组	Mast cell	0.0035588767443267195	5
+chronic thromboembolic pulmonary hypertension	疾病组	Monocyte	0.03782269647092771	5
+chronic thromboembolic pulmonary hypertension	疾病组	Natural killer cell	0.05423702873734898	5
+chronic thromboembolic pulmonary hypertension	疾病组	Neutrophil	0.0002508058693241846	5
+chronic thromboembolic pulmonary hypertension	疾病组	Pericyte	0.0	5
+chronic thromboembolic pulmonary hypertension	疾病组	Plasma cell	0.0029090652604517116	5
+chronic thromboembolic pulmonary hypertension	疾病组	Schwann cell	0.0004651162790697674	5
+chronic thromboembolic pulmonary hypertension	疾病组	Smooth muscle cell	0.02278840898823781	5
+chronic thromboembolic pulmonary hypertension	疾病组	T cell	0.39254339253255954	5
+chronic thromboembolic pulmonary hypertension	疾病组	Unknown	0.05117081519989499	5
+coronary artery disease	健康/参照组	B cell	0.00355635846952	12
+coronary artery disease	健康/参照组	Dendritic cell	9.802635632108525e-05	12
+coronary artery disease	健康/参照组	Endothelial cell	0.08043803338915782	12
+coronary artery disease	健康/参照组	Fibroblast	0.06263006231330959	12
+coronary artery disease	健康/参照组	Fibromyocyte	0.0503564414393573	12
+coronary artery disease	健康/参照组	Macrophage	0.01224156858990192	12
+coronary artery disease	健康/参照组	Mast cell	0.0014827554193776417	12
+coronary artery disease	健康/参照组	Monocyte	0.0005687657736105956	12
+coronary artery disease	健康/参照组	Natural killer cell	0.00040937416419716113	12
+coronary artery disease	健康/参照组	Neutrophil	0.0005873948967235714	12
+coronary artery disease	健康/参照组	Pericyte	9.015710311759266e-05	12
+coronary artery disease	健康/参照组	Plasma cell	0.00010123096857790735	12
+coronary artery disease	健康/参照组	Schwann cell	0.0002704559708183702	12
+coronary artery disease	健康/参照组	Smooth muscle cell	0.7402994012266119	12
+coronary artery disease	健康/参照组	T cell	0.01690988729009916	12
+coronary artery disease	健康/参照组	Unknown	0.02996008662929846	12
+coronary atherosclerosis	疾病组	B cell	0.02188581741258881	10
+coronary atherosclerosis	疾病组	Dendritic cell	0.007746786710996642	10
+coronary atherosclerosis	疾病组	Endothelial cell	0.10814249773747635	10
+coronary atherosclerosis	疾病组	Fibroblast	0.15823920334955188	10
+coronary atherosclerosis	疾病组	Fibromyocyte	0.013241328854921991	10
+coronary atherosclerosis	疾病组	Macrophage	0.1611929824350969	10
+coronary atherosclerosis	疾病组	Mast cell	0.008662806364853778	10
+coronary atherosclerosis	疾病组	Monocyte	0.02841941404865587	10
+coronary atherosclerosis	疾病组	Natural killer cell	0.04036466201515504	10
+coronary atherosclerosis	疾病组	Neutrophil	0.0017392930203489396	10
+coronary atherosclerosis	疾病组	Pericyte	0.007174366128750486	10
+coronary atherosclerosis	疾病组	Plasma cell	0.023820533532693276	10
+coronary atherosclerosis	疾病组	Schwann cell	0.019201563707114455	10
+coronary atherosclerosis	疾病组	Smooth muscle cell	0.17717247582715714	10
+coronary atherosclerosis	疾病组	T cell	0.17794116293361534	10
+coronary atherosclerosis	疾病组	Unknown	0.045055105921023096	10
+diabetic macroangiopathy	健康/参照组	B cell	0.0072500887324331055	3
+diabetic macroangiopathy	健康/参照组	Dendritic cell	0.006093784815728756	3
+diabetic macroangiopathy	健康/参照组	Endothelial cell	0.0711146461884496	3
+diabetic macroangiopathy	健康/参照组	Fibroblast	0.1343071818604132	3
+diabetic macroangiopathy	健康/参照组	Fibromyocyte	0.021119783732482855	3
+diabetic macroangiopathy	健康/参照组	Macrophage	0.13440794537566494	3
+diabetic macroangiopathy	健康/参照组	Mast cell	0.008235729600366292	3
+diabetic macroangiopathy	健康/参照组	Monocyte	0.023580941703999544	3
+diabetic macroangiopathy	健康/参照组	Natural killer cell	0.027171027217203558	3
+diabetic macroangiopathy	健康/参照组	Neutrophil	0.0032584135593048675	3
+diabetic macroangiopathy	健康/参照组	Pericyte	0.0058189014372917935	3
+diabetic macroangiopathy	健康/参照组	Plasma cell	0.0015297711192949679	3
+diabetic macroangiopathy	健康/参照组	Schwann cell	0.0	3
+diabetic macroangiopathy	健康/参照组	Smooth muscle cell	0.24600037549141782	3
+diabetic macroangiopathy	健康/参照组	T cell	0.2655202492997615	3
+diabetic macroangiopathy	健康/参照组	Unknown	0.044591159866187176	3
+diabetic macroangiopathy	疾病组	B cell	0.06944654226621548	3
+diabetic macroangiopathy	疾病组	Dendritic cell	0.006842911715419502	3
+diabetic macroangiopathy	疾病组	Endothelial cell	0.045672208280988676	3
+diabetic macroangiopathy	疾病组	Fibroblast	0.09641289075372272	3
+diabetic macroangiopathy	疾病组	Fibromyocyte	0.010971038839515208	3
+diabetic macroangiopathy	疾病组	Macrophage	0.04045556685793742	3
+diabetic macroangiopathy	疾病组	Mast cell	0.011691281366099033	3
+diabetic macroangiopathy	疾病组	Monocyte	0.00437131121818275	3
+diabetic macroangiopathy	疾病组	Natural killer cell	0.038193191967211874	3
+diabetic macroangiopathy	疾病组	Neutrophil	0.00019692792437967703	3
+diabetic macroangiopathy	疾病组	Pericyte	0.0020363209079373927	3
+diabetic macroangiopathy	疾病组	Plasma cell	0.000862116036984459	3
+diabetic macroangiopathy	疾病组	Schwann cell	0.00011864507326333274	3
+diabetic macroangiopathy	疾病组	Smooth muscle cell	0.19071307909479318	3
+diabetic macroangiopathy	疾病组	T cell	0.44663149740634794	3
+diabetic macroangiopathy	疾病组	Unknown	0.035384470291001266	3
+pulmonary arterial hypertension	健康/参照组	B cell	0.0032428525813575546	3
+pulmonary arterial hypertension	健康/参照组	Dendritic cell	0.00669227439086599	3
+pulmonary arterial hypertension	健康/参照组	Endothelial cell	0.101371337884342	3
+pulmonary arterial hypertension	健康/参照组	Fibroblast	0.10721601106432692	3
+pulmonary arterial hypertension	健康/参照组	Fibromyocyte	0.01317297307377776	3
+pulmonary arterial hypertension	健康/参照组	Macrophage	0.17660716993393696	3
+pulmonary arterial hypertension	健康/参照组	Mast cell	0.01084405134856369	3
+pulmonary arterial hypertension	健康/参照组	Monocyte	0.09451813336205343	3
+pulmonary arterial hypertension	健康/参照组	Natural killer cell	0.04360358958410051	3
+pulmonary arterial hypertension	健康/参照组	Neutrophil	0.0010566660293444914	3
+pulmonary arterial hypertension	健康/参照组	Pericyte	0.004578831635487785	3
+pulmonary arterial hypertension	健康/参照组	Plasma cell	0.0010755234496631803	3
+pulmonary arterial hypertension	健康/参照组	Schwann cell	0.002366564345219845	3
+pulmonary arterial hypertension	健康/参照组	Smooth muscle cell	0.25446256196335737	3
+pulmonary arterial hypertension	健康/参照组	T cell	0.12383568231732178	3
+pulmonary arterial hypertension	健康/参照组	Unknown	0.05535577703628073	3
+pulmonary arterial hypertension	疾病组	B cell	0.0017681841192153578	3
+pulmonary arterial hypertension	疾病组	Dendritic cell	0.027112395417617688	3
+pulmonary arterial hypertension	疾病组	Endothelial cell	0.06903198147822699	3
+pulmonary arterial hypertension	疾病组	Fibroblast	0.050470247324697376	3
+pulmonary arterial hypertension	疾病组	Fibromyocyte	0.012927576584274632	3
+pulmonary arterial hypertension	疾病组	Macrophage	0.2318434401138653	3
+pulmonary arterial hypertension	疾病组	Mast cell	0.02575011171388851	3
+pulmonary arterial hypertension	疾病组	Monocyte	0.027408690780903647	3
+pulmonary arterial hypertension	疾病组	Natural killer cell	0.04350895035038701	3
+pulmonary arterial hypertension	疾病组	Neutrophil	0.0002735354895045293	3
+pulmonary arterial hypertension	疾病组	Pericyte	0.008468479727418368	3
+pulmonary arterial hypertension	疾病组	Plasma cell	0.0027746434883211975	3
+pulmonary arterial hypertension	疾病组	Schwann cell	0.003216768091449588	3
+pulmonary arterial hypertension	疾病组	Smooth muscle cell	0.07892717733431637	3
+pulmonary arterial hypertension	疾病组	T cell	0.36567087092526696	3
+pulmonary arterial hypertension	疾病组	Unknown	0.0508469470606465	3
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	B cell	0.003225965601184729	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Dendritic cell	0.007683328647745642	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Endothelial cell	0.08323660397510493	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Fibroblast	0.27221289857329617	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Fibromyocyte	0.005555282766720976	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Macrophage	0.17542945784254294	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Mast cell	0.006892442852138907	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Monocyte	0.07324389974178291	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Natural killer cell	0.057987126215982274	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Neutrophil	0.0004086754349461716	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Pericyte	0.0025070921516230395	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Plasma cell	0.0014568290965972087	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Schwann cell	0.00155952530367745	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Smooth muscle cell	0.12412401092400141	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	T cell	0.1417235782952328	2
+pulmonary hypertension associated with pulmonary fibrosis	健康/参照组	Unknown	0.042753282577422454	2
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	B cell	0.0031782516098458565	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Dendritic cell	0.01089132994295225	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Endothelial cell	0.12197199282300188	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Fibroblast	0.024172972364223454	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Fibromyocyte	0.00667421661341911	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Macrophage	0.2910803552688181	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Mast cell	0.01230167587262439	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Monocyte	0.03792894970665824	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Natural killer cell	0.03628658392430601	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Neutrophil	0.0004687164522512172	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Pericyte	0.0015795504986458285	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Plasma cell	0.003293769120647074	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Schwann cell	0.002172712956414135	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Smooth muscle cell	0.07808131963152838	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	T cell	0.31016617912854266	3
+pulmonary hypertension associated with pulmonary fibrosis	疾病组	Unknown	0.059751424086121364	3
+reference aortic valve	健康/参照组	B cell	0.0	5
+reference aortic valve	健康/参照组	Dendritic cell	0.003287151758802626	5
+reference aortic valve	健康/参照组	Endothelial cell	0.02158414040880475	5
+reference aortic valve	健康/参照组	Fibroblast	0.5949983711657764	5
+reference aortic valve	健康/参照组	Fibromyocyte	0.03509661315385784	5
+reference aortic valve	健康/参照组	Macrophage	0.09220988634479757	5
+reference aortic valve	健康/参照组	Mast cell	0.0046593838438539455	5
+reference aortic valve	健康/参照组	Monocyte	0.011673585432126838	5
+reference aortic valve	健康/参照组	Natural killer cell	0.001739506538018746	5
+reference aortic valve	健康/参照组	Neutrophil	0.0015391807771374874	5
+reference aortic valve	健康/参照组	Pericyte	0.0003874360616719657	5
+reference aortic valve	健康/参照组	Plasma cell	0.00015732011151980705	5
+reference aortic valve	健康/参照组	Schwann cell	0.002067441528563775	5
+reference aortic valve	健康/参照组	Smooth muscle cell	0.17561767918638596	5
+reference aortic valve	健康/参照组	T cell	0.022906375995900265	5
+reference aortic valve	健康/参照组	Unknown	0.03207592769278208	5
+reference arterial tissue	健康/参照组	B cell	0.00031296458397699626	9
+reference arterial tissue	健康/参照组	Dendritic cell	0.00711503815700278	9
+reference arterial tissue	健康/参照组	Endothelial cell	0.11296460890487493	9
+reference arterial tissue	健康/参照组	Fibroblast	0.20905763529236715	9
+reference arterial tissue	健康/参照组	Fibromyocyte	0.03741585723271594	9
+reference arterial tissue	健康/参照组	Macrophage	0.20356558285753737	9
+reference arterial tissue	健康/参照组	Mast cell	0.01724886536795839	9
+reference arterial tissue	健康/参照组	Monocyte	0.014370155348468975	9
+reference arterial tissue	健康/参照组	Natural killer cell	0.009493204344583214	9
+reference arterial tissue	健康/参照组	Neutrophil	0.0020906817245653765	9
+reference arterial tissue	健康/参照组	Pericyte	0.00936932626330731	9
+reference arterial tissue	健康/参照组	Plasma cell	0.002720129114296573	9
+reference arterial tissue	健康/参照组	Schwann cell	0.004190060928210367	9
+reference arterial tissue	健康/参照组	Smooth muscle cell	0.28301457572353095	9
+reference arterial tissue	健康/参照组	T cell	0.02948320675672241	9
+reference arterial tissue	健康/参照组	Unknown	0.057588107399881266	9
+thoracic aortic aneurysm	健康/参照组	B cell	0.0009448230642857492	2
+thoracic aortic aneurysm	健康/参照组	Dendritic cell	0.00844353730055428	2
+thoracic aortic aneurysm	健康/参照组	Endothelial cell	0.02920953561382726	2
+thoracic aortic aneurysm	健康/参照组	Fibroblast	0.12270040242576696	2
+thoracic aortic aneurysm	健康/参照组	Fibromyocyte	0.01179718691957822	2
+thoracic aortic aneurysm	健康/参照组	Macrophage	0.2871143927538987	2
+thoracic aortic aneurysm	健康/参照组	Mast cell	0.02398634896724532	2
+thoracic aortic aneurysm	健康/参照组	Monocyte	0.01599907498135338	2
+thoracic aortic aneurysm	健康/参照组	Natural killer cell	0.0357302163008029	2
+thoracic aortic aneurysm	健康/参照组	Neutrophil	0.0014771048744460858	2
+thoracic aortic aneurysm	健康/参照组	Pericyte	0.001460499631942515	2
+thoracic aortic aneurysm	健康/参照组	Plasma cell	0.003426621281035046	2
+thoracic aortic aneurysm	健康/参照组	Schwann cell	0.0011078286558345643	2
+thoracic aortic aneurysm	健康/参照组	Smooth muscle cell	0.3598541907366512	2
+thoracic aortic aneurysm	健康/参照组	T cell	0.07007991234869425	2
+thoracic aortic aneurysm	健康/参照组	Unknown	0.026668324144083537	2
+thoracic aortic aneurysm	疾病组	B cell	0.004921425650837496	8
+thoracic aortic aneurysm	疾病组	Dendritic cell	0.01666662065114833	8
+thoracic aortic aneurysm	疾病组	Endothelial cell	0.011740421391523852	8
+thoracic aortic aneurysm	疾病组	Fibroblast	0.03160629530568639	8
+thoracic aortic aneurysm	疾病组	Fibromyocyte	0.00665480220376664	8
+thoracic aortic aneurysm	疾病组	Macrophage	0.23754674363753128	8
+thoracic aortic aneurysm	疾病组	Mast cell	0.006590640057222264	8
+thoracic aortic aneurysm	疾病组	Monocyte	0.017955401543149348	8
+thoracic aortic aneurysm	疾病组	Natural killer cell	0.0693969349096922	8
+thoracic aortic aneurysm	疾病组	Neutrophil	0.003895926082598319	8
+thoracic aortic aneurysm	疾病组	Pericyte	0.0033083539268294574	8
+thoracic aortic aneurysm	疾病组	Plasma cell	0.0076704359359999995	8
+thoracic aortic aneurysm	疾病组	Schwann cell	0.0002737913228692105	8
+thoracic aortic aneurysm	疾病组	Smooth muscle cell	0.07406786711675671	8
+thoracic aortic aneurysm	疾病组	T cell	0.46242025596489733	8
+thoracic aortic aneurysm	疾病组	Unknown	0.04528408429949118	8

@@ -1,0 +1,8 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G1	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	GSE198750	GSE198750::DONOR::patient_1	coronary artery	healthy	L2_17c2b474fcb3e947	1611	PMID33626908__patient1_CA			scRNA-seq	GSE198750	True	reference
+G1	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	GSE198750	GSE198750::DONOR::patient_2	coronary artery	healthy	L2_6b1cf526c0422f92	3255	PMID33626908__patient2_CA1;PMID33626908__patient2_CA2			scRNA-seq	GSE198750	True	reference
+G1	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	GSE198750	GSE198750::DONOR::patient_3	coronary artery	healthy	L2_d58a57b50531a40d	1361	PMID33626908__patient3_CA1;PMID33626908__patient3_CA2			scRNA-seq	GSE198750	True	reference
+G1	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	GSE224273	GSE224273::DONOR::Sample4	carotid artery	disease	L2_e04364687f03a6db	31	GSE224273__GSM7018583			scRNA-seq	GSE224273	True	case
+G1	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	GSE248610	GSE248609::DONOR::patient1	artery	disease	L2_05df41476a18b1bc	197	GSE248609__GSM7917900			scRNA-seq	GSE248610	True	case
+G1	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	GSE248610	GSE248609::DONOR::patient1	artery	healthy	L2_46a1d46a0697d7b5	285	GSE248609__GSM7917903			scRNA-seq	GSE248610	True	reference
+G1	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	GSE248610	GSE248609::DONOR::patient4	artery	healthy	L2_8fc68f967ca3839f	102	GSE248609__GSM7917904			scRNA-seq	GSE248610	True	reference

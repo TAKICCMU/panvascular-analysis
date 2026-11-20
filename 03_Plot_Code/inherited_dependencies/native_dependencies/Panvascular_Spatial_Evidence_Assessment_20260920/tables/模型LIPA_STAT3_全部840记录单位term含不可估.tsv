@@ -1,0 +1,841 @@
+GSE	biological_unit_id	metadata_status	gene	posterior	sensitivity	term	cell_context	pathology	beta	se	n_sections	serial_section_covariance_unavailable	available_original_unit_estimate
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.22437421582163755	0.049034493519145093	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.42893415983010513	0.13838490947029583	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.038532456944574148	0.053003876219690167	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.22437421582163755	0.049034493519145093	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.42893415983010513	0.13838490947029583	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.038532456944574148	0.053003876219690167	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.1998984791656348	0.063598102584627933	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.44300820498076704	0.13398524201939896	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.051252149447106071	0.073477755645764017	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.1998984791656348	0.063598102584627933	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.44300820498076704	0.13398524201939896	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.051252149447106071	0.073477755645764017	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.1074998386623881	0.064957601976545043	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.16435472716898233	0.14273231079820428	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.13175779665351084	0.078282335905398487	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.1074998386623881	0.064957601976545043	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.16435472716898233	0.14273231079820428	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.13175779665351084	0.078282335905398487	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.12509069255515845	0.071272434207777957	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.18692299826127962	0.14509830959523817	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.13639631975211802	0.080394511763554749	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.12509069255515845	0.071272434207777957	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.18692299826127962	0.14509830959523817	1	False	True
+GSE241346	GSE241346::GSM7727539	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.13639631975211802	0.080394511763554749	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.2425304659185131	0.088927765523046529	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.24288740559639538	0.11637266478951168	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.0069747211018370073	0.083159740229013956	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.2425304659185131	0.088927765523046529	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.24288740559639538	0.11637266478951168	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.0069747211018370073	0.083159740229013956	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.2423272636922503	0.094842341567879809	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.27656738448540197	0.11328011655256774	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.065822072902203044	0.082305776156822427	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.2423272636922503	0.094842341567879809	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.27656738448540197	0.11328011655256774	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.065822072902203044	0.082305776156822427	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.031446443338430899	0.084513228336373328	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.01754957478359491	0.081455234564160053	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.057442204862910823	0.052785670324634257	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.031446443338430899	0.084513228336373328	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.01754957478359491	0.081455234564160053	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.057442204862910823	0.052785670324634257	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.024872861733871467	0.09300478806948502	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.018771165123002573	0.083424944173930912	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.077834377113536302	0.055765784033518701	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.024872861733871467	0.09300478806948502	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.018771165123002573	0.083424944173930912	1	False	True
+GSE241346	GSE241346::GSM7727540	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.077834377113536302	0.055765784033518701	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.23576998775041311	0.068417691051698121	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.25402796039578096	0.21706303791461135	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.036636986017058289	0.081029398614052353	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.27520390612023521	0.079448646771048126	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.26252535287206541	0.21718436336195762	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.051841098555755104	0.094204440745746326	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.11098022387083895	0.052820006631460317	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.025319116005743578	0.08052406357946626	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.014829912602444213	0.052833064846095748	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	cell_abundance							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	pathology							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	interaction							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.11956759853726932	0.057768850741453492	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.031343198352929688	0.080238007872477854	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.024446792270659063	0.057242034145415406	1	False	True
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	cell_abundance							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	pathology							False
+GSE243179	GSE243179::GSM7780296	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	interaction							False
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.2686410220960771	0.14466939762358891	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.018528859342288095	0.16420509598804603	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.25091816290668684	0.12654337631543172	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.2686410220960771	0.14466939762358891	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.018528859342288095	0.16420509598804603	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.25091816290668684	0.12654337631543172	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.26335995643650822	0.14933755653429368	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.027542712752795163	0.17737937173255697	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.2078272365078255	0.1286441502644721	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.26335995643650822	0.14933755653429368	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.027542712752795163	0.17737937173255697	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.2078272365078255	0.1286441502644721	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.068447645744278363	0.10808883503747649	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.016865338256356655	0.12592732240333038	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.10267020109181835	0.12102336994854662	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.068447645744278363	0.10808883503747649	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.016865338256356655	0.12592732240333038	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.10267020109181835	0.12102336994854662	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.057823006233950112	0.10362999534485925	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.0058312682095829124	0.12526952624994195	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.087664122274315567	0.11211238874888006	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.057823006233950112	0.10362999534485925	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.0058312682095829124	0.12526952624994195	1	False	True
+GSE243179	GSE243179::GSM7780297	confirmed_unique_donor	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.087664122274315567	0.11211238874888006	1	False	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.0064204399983234968	0.053704357832448327	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.051777338472474052	0.042956631203914811	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.14814166988963548	0.046830799934676419	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.0064204399983234968	0.053704357832448327	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.051777338472474052	0.042956631203914811	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.14814166988963548	0.046830799934676419	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.11289151923380711	0.051658274279797529	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.11352400114756062	0.042216112609960194	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.13469816605028295	0.046761918337574732	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.11289151923380711	0.051658274279797529	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.11352400114756062	0.042216112609960194	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.13469816605028295	0.046761918337574732	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.0037783918140266476	0.028832791433255567	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.08983454174213644	0.033192516309181908	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.0087528708152931432	0.030571418572277933	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.0037783918140266476	0.028832791433255567	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.08983454174213644	0.033192516309181908	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.0087528708152931432	0.030571418572277933	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.026938077500900992	0.029513505465223442	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.077814012680946273	0.033672313473430755	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.016491663260987451	0.030709128737369959	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.026938077500900992	0.029513505465223442	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.077814012680946273	0.033672313473430755	2	True	True
+GSE248608	GSE248608::P1	confirmed_pairing_paper_methods	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.016491663260987451	0.030709128737369959	2	True	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.69025861052127391	0.083453439198653639	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.13456799248329407	0.040178182994529563	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.17821165315950491	0.054543882792960859	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.69025861052127391	0.083453439198653639	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.13456799248329407	0.040178182994529563	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.17821165315950491	0.054543882792960859	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.59869306569495639	0.064016112469422973	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.15071007693259078	0.036712659181130806	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.11706890015153569	0.047971758521802514	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.59869306569495639	0.064016112469422973	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.15071007693259078	0.036712659181130806	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.11706890015153569	0.047971758521802514	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.15565733484423086	0.039423383217582209	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.037017643702562671	0.053036292767487683	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.051420422902996601	0.030317568249802456	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.15565733484423086	0.039423383217582209	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.037017643702562671	0.053036292767487683	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.051420422902996601	0.030317568249802456	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.16421564750533912	0.039817848505259962	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.050262875993195927	0.054889618640499474	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.050724949955711765	0.031984846408067744	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.16421564750533912	0.039817848505259962	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.050262875993195927	0.054889618640499474	1	False	True
+GSE248608	GSE248608::P2	confirmed_unique_donor_paper_methods	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.050724949955711765	0.031984846408067744	1	False	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.02212824091110081	0.13860002517720291	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.067956633210881606	0.13046193289258748	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.019220867130410633	0.040950935053903896	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.02212824091110081	0.13860002517720291	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.067956633210881606	0.13046193289258748	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.019220867130410633	0.040950935053903896	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.048457032968684817	0.1231273510587757	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.046474099957873931	0.12844933493420185	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.010245215886537392	0.051005520395152645	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.048457032968684817	0.1231273510587757	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.046474099957873931	0.12844933493420185	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.010245215886537392	0.051005520395152645	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.051710933087499092	0.076891050535942002	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.10512852396221918	0.063748183172122996	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.019422340487234846	0.019658855392265827	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.051710933087499092	0.076891050535942002	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.10512852396221918	0.063748183172122996	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.019422340487234846	0.019658855392265827	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.13130466513120612	0.077837264133224324	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.092855435067266387	0.063358099072912302	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.039117405542580044	0.024307479816932542	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.13130466513120612	0.077837264133224324	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.092855435067266387	0.063358099072912302	2	True	True
+GSE248608	GSE248608::P3	confirmed_pairing_paper_methods	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.039117405542580044	0.024307479816932542	2	True	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.24095537816064089	0.046733354571009272	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.043602724454395392	0.11192943697522725	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.21705260419954397	0.099866244706337537	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.24095537816064089	0.046733354571009272	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.043602724454395392	0.11192943697522725	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.21705260419954397	0.099866244706337537	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.26408077429948612	0.050543281463560963	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.034029003811505726	0.11183196814543059	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.20515959399690009	0.094614265723822713	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.26408077429948612	0.050543281463560963	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.034029003811505726	0.11183196814543059	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.20515959399690009	0.094614265723822713	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.00096505128815924102	0.051091312241986056	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.032044330916699462	0.083965490534369372	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.046045355873856719	0.068656227343003431	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.00096505128815924102	0.051091312241986056	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.032044330916699462	0.083965490534369372	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.046045355873856719	0.068656227343003431	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.0032511905714630307	0.053748722590832597	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.02875064808532321	0.084323428100386122	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.03999332326679228	0.068715785572503005	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.0032511905714630307	0.053748722590832597	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.02875064808532321	0.084323428100386122	1	False	True
+GSE248608	GSE248608::P4	confirmed_unique_donor_paper_methods	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.03999332326679228	0.068715785572503005	1	False	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.1576835727416501	0.037241931239680927	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.023507347725395075	0.02902868081288228	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.089481132745702616	0.029157230513354625	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.1576835727416501	0.037241931239680927	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.023507347725395075	0.02902868081288228	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.089481132745702616	0.029157230513354625	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.21590189646979574	0.038455382053546344	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.035392932786977013	0.028696171625339412	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.094576773047516785	0.028723630439888508	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.21590189646979574	0.038455382053546344	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.035392932786977013	0.028696171625339412	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.094576773047516785	0.028723630439888508	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.029919155696657374	0.033888722497252867	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.039037687897360104	0.036709801218331277	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.0041560846017829325	0.031913201070401721	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.029919155696657374	0.033888722497252867	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.039037687897360104	0.036709801218331277	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.0041560846017829325	0.031913201070401721	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.024553273901177484	0.035161378979070373	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.037415107700689232	0.036680677136768813	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.010268252955558485	0.033312668566926433	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.024553273901177484	0.035161378979070373	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.037415107700689232	0.036680677136768813	4	True	True
+GSE274572	GSE274572::54yo_male_aortic_plaque	confirmed_serial_sections_one_donor	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.010268252955558485	0.033312668566926433	4	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	q05	all_sections	cell_abundance							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	q05	all_sections	pathology							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	q05	all_sections	interaction							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	mean	all_sections	cell_abundance							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	mean	all_sections	pathology							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	mean	all_sections	interaction							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.15166405466143129	0.11148169434347398	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.17514857034491835	0.13642205422674261	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.066507572994350464	0.062957186517878475	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.15166405466143129	0.11148169434347398	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.17514857034491835	0.13642205422674261	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.066507572994350464	0.062957186517878475	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.14844923401857732	0.11676592798486059	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.17432151327639714	0.13672003489259935	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.073308906380850608	0.067761523553716382	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.14844923401857732	0.11676592798486059	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.17432151327639714	0.13672003489259935	2	True	True
+GSE293427	GSE293427::ND_6	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.073308906380850608	0.067761523553716382	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.22980779064674875	0.074023138109841083	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.2229588978325229	0.09695335130863815	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.12645093972267679	0.075808876424543772	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.22980779064674875	0.074023138109841083	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.2229588978325229	0.09695335130863815	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.12645093972267679	0.075808876424543772	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.22015353506595361	0.08480814583158075	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.22062726749052114	0.094349473873222789	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.11376392502599918	0.07717665075655461	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.22015353506595361	0.08480814583158075	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.22062726749052114	0.094349473873222789	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.11376392502599918	0.07717665075655461	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.018700784885837384	0.052420939437451915	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.055543953063711189	0.050855248530310634	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.053545501414204222	0.044086200705424752	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.018700784885837384	0.052420939437451915	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.055543953063711189	0.050855248530310634	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.053545501414204222	0.044086200705424752	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.03094459120904933	0.051459045996203379	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.053343281503367743	0.051150277432558122	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.054438093866212206	0.042625667634156525	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.03094459120904933	0.051459045996203379	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.053343281503367743	0.051150277432558122	2	True	True
+GSE293427	GSE293427::ND_7	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.054438093866212206	0.042625667634156525	2	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.5378826278195179	0.048877002170980018	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.016183606142947522	0.081789240787935175	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.10994121680330581	0.045559210370602711	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.5378826278195179	0.048877002170980018	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.016183606142947522	0.081789240787935175	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.10994121680330581	0.045559210370602711	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.56576933472717494	0.050950304182253575	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.041109976634203654	0.083576641962217368	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.10164720241955164	0.047624825689411183	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.56576933472717494	0.050950304182253575	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.041109976634203654	0.083576641962217368	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.10164720241955164	0.047624825689411183	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.062151720861518357	0.076753012785679559	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.045476619431937489	0.063678175104763923	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.012225813887227883	0.049271718169755646	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.062151720861518357	0.076753012785679559	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.045476619431937489	0.063678175104763923	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.012225813887227883	0.049271718169755646	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.061346875578111401	0.07711429528846736	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.048362922891726778	0.064473527380340553	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.010835756473618407	0.049584870443009306	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.061346875578111401	0.07711429528846736	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.048362922891726778	0.064473527380340553	4	True	True
+GSE293427	GSE293427::T2D_6	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.010835756473618407	0.049584870443009306	4	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.28957771149294453	0.090553713748893302	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.0052690749612236548	0.099731009083987437	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.05982089176967751	0.069411509231018423	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.28957771149294453	0.090553713748893302	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.0052690749612236548	0.099731009083987437	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.05982089176967751	0.069411509231018423	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.30377356063827987	0.093696967464194592	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.0050408260590394157	0.10130943373041491	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.054201496124054067	0.07206572188975463	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.30377356063827987	0.093696967464194592	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.0050408260590394157	0.10130943373041491	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.054201496124054067	0.07206572188975463	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.20699314319943887	0.12380790915178411	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.20807531093270706	0.076432890661799091	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.056257414237247901	0.069278943902709736	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.20699314319943887	0.12380790915178411	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.20807531093270706	0.076432890661799091	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.056257414237247901	0.069278943902709736	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.20780428524718006	0.11869806005683101	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.20813601207288498	0.076075703471379846	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.055808389530153844	0.066712844453397285	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.20780428524718006	0.11869806005683101	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.20813601207288498	0.076075703471379846	2	True	True
+GSE293427	GSE293427::T2D_7	confirmed_replicate_structure	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.055808389530153844	0.066712844453397285	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.052940114830832871	0.077693932892125436	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.095357332398700728	0.094801393831454556	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.040317760517782769	0.062677241928260588	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.052940114830832871	0.077693932892125436	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.095357332398700728	0.094801393831454556	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.040317760517782769	0.062677241928260588	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.056128638571088581	0.07954997971597777	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.093374534210787064	0.095773844309082812	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.039456007700481348	0.063788615130808968	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.056128638571088581	0.07954997971597777	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.093374534210787064	0.095773844309082812	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.039456007700481348	0.063788615130808968	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.052253934769215339	0.042359409393691295	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.0018661108770550276	0.068663580383203554	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.020912132420331121	0.030043917837906664	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.052253934769215339	0.042359409393691295	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.0018661108770550276	0.068663580383203554	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.020912132420331121	0.030043917837906664	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.052518790435637466	0.043230689838996701	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.0014582651446430055	0.068903038565164401	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.021027937289358867	0.030662940739417652	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.052518790435637466	0.043230689838996701	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.0014582651446430055	0.068903038565164401	2	True	True
+GSE306288	GSE306288::patient_1	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.021027937289358867	0.030662940739417652	2	True	True
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	q05	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	q05	all_sections	pathology							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	q05	all_sections	interaction							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	mean	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	mean	all_sections	pathology							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	mean	all_sections	interaction							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	q05	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	q05	all_sections	pathology							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	q05	all_sections	interaction							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	mean	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	mean	all_sections	pathology							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	mean	all_sections	interaction							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_18	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	q05	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	q05	all_sections	pathology							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	q05	all_sections	interaction							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	mean	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	mean	all_sections	pathology							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	mean	all_sections	interaction							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.25186701036782577	0.16372118058291649	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.14739034637589388	0.19352914084307191	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.028250669382601346	0.17366513696818014	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.25186701036782577	0.16372118058291649	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.14739034637589388	0.19352914084307191	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.028250669382601346	0.17366513696818014	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.27138670692397449	0.16660859136349992	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.1457246421102667	0.19434241998314725	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.050928022470529521	0.17504144333763713	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.27138670692397449	0.16660859136349992	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.1457246421102667	0.19434241998314725	1	False	True
+GSE306288	GSE306288::patient_20	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.050928022470529521	0.17504144333763713	1	False	True
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	q05	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	q05	all_sections	pathology							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	q05	all_sections	interaction							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	mean	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	mean	all_sections	pathology							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	mean	all_sections	interaction							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	q05	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	q05	all_sections	pathology							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	q05	all_sections	interaction							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	mean	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	mean	all_sections	pathology							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	mean	all_sections	interaction							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_23	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	q05	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	q05	all_sections	pathology							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	q05	all_sections	interaction							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	mean	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	mean	all_sections	pathology							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	mean	all_sections	interaction							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	q05	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	q05	all_sections	pathology							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	q05	all_sections	interaction							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	mean	all_sections	cell_abundance							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	mean	all_sections	pathology							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	mean	all_sections	interaction							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	cell_abundance							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	pathology							False
+GSE306288	GSE306288::patient_29	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	interaction							False
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.11302542850567707	0.10587793744638649	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.13551998154073541	0.085089731229596385	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.0061107666205585187	0.069692347206727193	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.11302542850567707	0.10587793744638649	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.13551998154073541	0.085089731229596385	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.0061107666205585187	0.069692347206727193	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.09777937650301656	0.099903011710373676	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.13412610071321829	0.086298614236528362	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.0061216064333914659	0.06800821025586179	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.09777937650301656	0.099903011710373676	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.13412610071321829	0.086298614236528362	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.0061216064333914659	0.06800821025586179	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.16331711246149749	0.04555854840047753	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.04976526249720889	0.055333114681717699	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.07919207980249908	0.048220467833761965	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.16331711246149749	0.04555854840047753	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.04976526249720889	0.055333114681717699	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.07919207980249908	0.048220467833761965	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.16431035883773085	0.044360879779926685	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.061885210076440204	0.055774104986810638	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.068281619101364044	0.047888927707437197	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.16431035883773085	0.044360879779926685	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.061885210076440204	0.055774104986810638	2	True	True
+GSE306288	GSE306288::patient_6	confirmed_patient_and_section	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.068281619101364044	0.047888927707437197	2	True	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.246166711784467	0.096454422654589353	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.054840137842624342	0.12940026082052833	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.17488185551083346	0.11162267488803898	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.246166711784467	0.096454422654589353	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.054840137842624342	0.12940026082052833	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.17488185551083346	0.11162267488803898	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.25642523754992996	0.098402135020640033	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.060490378254213606	0.13145601252144326	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.17754951711293029	0.1110075103639714	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.25642523754992996	0.098402135020640033	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.060490378254213606	0.13145601252144326	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.17754951711293029	0.1110075103639714	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.033305686106730778	0.029543544349966512	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.03185370736675714	0.031641902588199086	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.0061331140854518134	0.021716524905187228	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.033305686106730778	0.029543544349966512	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.03185370736675714	0.031641902588199086	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.0061331140854518134	0.021716524905187228	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.033657858469855743	0.029241475610544118	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.031841576555637664	0.031546741365890515	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.0078946333379868693	0.021827419488556359	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.033657858469855743	0.029241475610544118	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.031841576555637664	0.031546741365890515	1	False	True
+GSE314851	GSE314851::D1118	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.0078946333379868693	0.021827419488556359	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.095061377994131127	0.11908503988365997	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.0044938931595355294	0.097121324506675183	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.13375417751897609	0.10712222823728557	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.095061377994131127	0.11908503988365997	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.0044938931595355294	0.097121324506675183	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.13375417751897609	0.10712222823728557	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.11211359870032253	0.11710050989433819	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.0023518662545792407	0.09631324689427849	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.13571521813706758	0.10435733200354796	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.11211359870032253	0.11710050989433819	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.0023518662545792407	0.09631324689427849	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.13571521813706758	0.10435733200354796	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.017584870614250507	0.024066810875735464	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.019291942769116076	0.025896362765621513	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.040296409779317033	0.021615156481925052	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.017584870614250507	0.024066810875735464	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.019291942769116076	0.025896362765621513	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.040296409779317033	0.021615156481925052	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.015486046489275276	0.024347013825462945	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.020109955317394346	0.025877774253092983	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.040454851400721824	0.021275117833484809	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.015486046489275276	0.024347013825462945	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.020109955317394346	0.025877774253092983	1	False	True
+GSE314851	GSE314851::LCA	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.040454851400721824	0.021275117833484809	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.13512229560443711	0.17979498510111735	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.58752077747753695	0.17457234337245389	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.22525775056240482	0.12600333517651288	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.13512229560443711	0.17979498510111735	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.58752077747753695	0.17457234337245389	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.22525775056240482	0.12600333517651288	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.1920239732092312	0.19536635521454579	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.53794121967208297	0.16840132442025527	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.28301611342150479	0.13586225180905773	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.1920239732092312	0.19536635521454579	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.53794121967208297	0.16840132442025527	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.28301611342150479	0.13586225180905773	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.088705158321173469	0.037913882214920334	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.1165138150942876	0.041817099235738564	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.063091110042875015	0.039842495085262768	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.088705158321173469	0.037913882214920334	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.1165138150942876	0.041817099235738564	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.063091110042875015	0.039842495085262768	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.097662174448347835	0.037360832002757367	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.12160609031115764	0.042231542707991752	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.072027827142961798	0.038851267571755839	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.097662174448347835	0.037360832002757367	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.12160609031115764	0.042231542707991752	1	False	True
+GSE314851	GSE314851::T1071	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.072027827142961798	0.038851267571755839	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.27449784157939677	0.13753800678649641	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.054385585902261509	0.094566287212130284	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.0038271532890129531	0.13204520801503003	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.27449784157939677	0.13753800678649641	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.054385585902261509	0.094566287212130284	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.0038271532890129531	0.13204520801503003	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.38457556862852776	0.18415772125064941	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.039997754749059117	0.096618230883882592	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.039142655088797017	0.16883027727719835	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.38457556862852776	0.18415772125064941	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.039997754749059117	0.096618230883882592	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.039142655088797017	0.16883027727719835	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.038166070974889568	0.034663527401703524	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.027179624713432014	0.030866177052044769	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.019985729486429685	0.035718748499082222	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.038166070974889568	0.034663527401703524	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.027179624713432014	0.030866177052044769	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.019985729486429685	0.035718748499082222	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.049438574769178331	0.034350503172548091	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.026998006729860243	0.030738298098227198	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.026553241563173749	0.03591775073098414	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.049438574769178331	0.034350503172548091	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.026998006729860243	0.030738298098227198	1	False	True
+GSE314851	GSE314851::T1077	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.026553241563173749	0.03591775073098414	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.14669371266804898	0.062800632285373498	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.017000689440009296	0.075270548005974047	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.05874501265831699	0.078409688380976922	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.14669371266804898	0.062800632285373498	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.017000689440009296	0.075270548005974047	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.05874501265831699	0.078409688380976922	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.15470071449635028	0.062646550415351707	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.014454709021371278	0.074355494900616576	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.069852532300145112	0.078177895055053626	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.15470071449635028	0.062646550415351707	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.014454709021371278	0.074355494900616576	1	False	True
+GSE314851	GSE314851::T1079	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.069852532300145112	0.078177895055053626	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.18488371598430309	0.1432163071908743	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.25331054593414121	0.19424210843351003	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.18204577528834207	0.14463586425919547	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.18488371598430309	0.1432163071908743	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.25331054593414121	0.19424210843351003	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.18204577528834207	0.14463586425919547	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.18273496506872272	0.14804110700382453	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.2494470187203521	0.19298137636738624	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.20319163205800281	0.15008481610923827	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.18273496506872272	0.14804110700382453	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.2494470187203521	0.19298137636738624	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.20319163205800281	0.15008481610923827	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.12360936613452016	0.061132770668029128	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.017327157846338419	0.053063469647635329	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.0076043639633765576	0.043098051166953297	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.12360936613452016	0.061132770668029128	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.017327157846338419	0.053063469647635329	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.0076043639633765576	0.043098051166953297	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.12963383144638635	0.060116061208522587	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.018352232977751817	0.052995473576994988	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.011609179293157757	0.042910152141937191	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.12963383144638635	0.060116061208522587	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.018352232977751817	0.052995473576994988	1	False	True
+GSE314851	GSE314851::T1099	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.011609179293157757	0.042910152141937191	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.94213148615089182	0.32056693264406699	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.080673061276197819	0.11257921132515827	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.62535541585914545	0.1765025695037987	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.94213148615089182	0.32056693264406699	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.080673061276197819	0.11257921132515827	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.62535541585914545	0.1765025695037987	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.81926457940808717	0.16719792257907223	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.17426192784807951	0.087240796597573195	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.37643399661830679	0.091121469946892741	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.81926457940808717	0.16719792257907223	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.17426192784807951	0.087240796597573195	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.37643399661830679	0.091121469946892741	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.0029798643522528185	0.018178611599810452	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.11149936271228433	0.038676032802758768	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.033302406285925228	0.031168323588890542	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.0029798643522528185	0.018178611599810452	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.11149936271228433	0.038676032802758768	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.033302406285925228	0.031168323588890542	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.014782830253126628	0.025090122320093458	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.10861032587918219	0.040796722260994879	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.036926174053936459	0.029355938108608773	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.014782830253126628	0.025090122320093458	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.10861032587918219	0.040796722260994879	1	False	True
+GSE314851	GSE314851::T1111	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.036926174053936459	0.029355938108608773	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.090151801979747981	0.070577021157812961	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.082005726420145156	0.10824791233734617	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.15869415524873612	0.067968188359570539	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.090151801979747981	0.070577021157812961	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.082005726420145156	0.10824791233734617	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.15869415524873612	0.067968188359570539	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.095369922826606307	0.070182547592494787	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.07721440434861615	0.10973163869374984	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.17919582721698482	0.071140435677298941	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.095369922826606307	0.070182547592494787	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.07721440434861615	0.10973163869374984	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.17919582721698482	0.071140435677298941	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.079370005642865865	0.032358059182409145	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.1143608476553892	0.035401576627141863	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.011267797098835061	0.02386926935439667	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.079370005642865865	0.032358059182409145	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.1143608476553892	0.035401576627141863	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.011267797098835061	0.02386926935439667	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.086315835428466603	0.032077990888719259	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.11679343669181254	0.035584088905948441	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.01198811616710653	0.023297638560387669	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.086315835428466603	0.032077990888719259	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.11679343669181254	0.035584088905948441	1	False	True
+GSE314851	GSE314851::T1153	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.01198811616710653	0.023297638560387669	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.2950988132386323	0.093320895196809805	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.26253730391790098	0.15368870367854728	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.081021455242806864	0.098380138827879729	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.2950988132386323	0.093320895196809805	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.26253730391790098	0.15368870367854728	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.081021455242806864	0.098380138827879729	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.30527248841648802	0.099883836494474187	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.25975354538024936	0.15440711458058345	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.086867912767150196	0.10782569351499023	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.30527248841648802	0.099883836494474187	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.25975354538024936	0.15440711458058345	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.086867912767150196	0.10782569351499023	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.091143826625199861	0.034389554198051557	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.033055107892237715	0.046864866239867763	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.042062134170344059	0.040379356844501404	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.091143826625199861	0.034389554198051557	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.033055107892237715	0.046864866239867763	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.042062134170344059	0.040379356844501404	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.097943101460112814	0.035118400832006437	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.032630829916406139	0.046917225553103216	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.047195785758637643	0.040758610306463654	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.097943101460112814	0.035118400832006437	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.032630829916406139	0.046917225553103216	1	False	True
+GSE314851	GSE314851::T1161	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.047195785758637643	0.040758610306463654	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.20969027169447113	0.10582624666080322	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.4511855272180747	0.25389672936002977	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.012451566686593016	0.13193384990709053	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.20969027169447113	0.10582624666080322	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.4511855272180747	0.25389672936002977	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.012451566686593016	0.13193384990709053	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.23975212451283223	0.11603870498283826	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.45639948447261403	0.25846809811311716	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.0054737686708442417	0.14279350450823985	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.23975212451283223	0.11603870498283826	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.45639948447261403	0.25846809811311716	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.0054737686708442417	0.14279350450823985	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.085478533977530247	0.058531427551169538	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.0003928715644814866	0.058925767695261991	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.03188859799478462	0.05347524771085152	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.085478533977530247	0.058531427551169538	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.0003928715644814866	0.058925767695261991	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.03188859799478462	0.05347524771085152	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.091721084616977991	0.057902041801795326	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.00027661172595276368	0.058920141067064669	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.035480941977301061	0.052970126681337153	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.091721084616977991	0.057902041801795326	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.00027661172595276368	0.058920141067064669	1	False	True
+GSE314851	GSE314851::T1163	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.035480941977301061	0.052970126681337153	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.059979744479898539	0.059617174918244725	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.066708537359918593	0.07584670724360805	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.17570128554201492	0.078970749403223905	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.059979744479898539	0.059617174918244725	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.066708537359918593	0.07584670724360805	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.17570128554201492	0.078970749403223905	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.068161958860542396	0.057948466075062224	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.065750899385337708	0.069442948390017634	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.16822718360648906	0.069755082250205186	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.068161958860542396	0.057948466075062224	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.065750899385337708	0.069442948390017634	1	False	True
+GSE314851	GSE314851::T1167	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.16822718360648906	0.069755082250205186	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.26145243066648199	0.093875683099375801	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.11593640985297538	0.13448948060620947	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.074711748436034786	0.14032479272002218	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.26145243066648199	0.093875683099375801	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.11593640985297538	0.13448948060620947	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.074711748436034786	0.14032479272002218	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.26779255498594495	0.095452542696500817	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.1164660170373637	0.13403046694477982	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.075705836367004203	0.14196095781851362	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.26779255498594495	0.095452542696500817	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.1164660170373637	0.13403046694477982	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.075705836367004203	0.14196095781851362	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.092594949090370804	0.031947784004424093	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.075693064662615772	0.042145801571832876	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.048642519228018981	0.035082524514414147	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.092594949090370804	0.031947784004424093	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.075693064662615772	0.042145801571832876	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.048642519228018981	0.035082524514414147	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.095101807154936935	0.032923505718195363	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.075874881358532098	0.042067791509711246	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.048997701043539371	0.035728298000196085	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.095101807154936935	0.032923505718195363	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.075874881358532098	0.042067791509711246	1	False	True
+GSE314851	GSE314851::T1170	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.048997701043539371	0.035728298000196085	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.061987751948985474	0.068241777491306346	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.21629448218660885	0.095139271879858461	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.039311820799589156	0.061515212141593952	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.061987751948985474	0.068241777491306346	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.21629448218660885	0.095139271879858461	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.039311820799589156	0.061515212141593952	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.069479915289421157	0.067557242960672712	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.21872924196084578	0.095062149853416156	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	-0.037352835157017192	0.061996019682065556	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.069479915289421157	0.067557242960672712	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.21872924196084578	0.095062149853416156	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	-0.037352835157017192	0.061996019682065556	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.030078473262428788	0.025945933220795952	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.024304399578914854	0.037116775064611994	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.040407806274168956	0.023720590295060708	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.030078473262428788	0.025945933220795952	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.024304399578914854	0.037116775064611994	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.040407806274168956	0.023720590295060708	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.031644834276562415	0.025948592887315037	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.024654049237977815	0.037190865681740758	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.040662982602709077	0.023251179753468312	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.031644834276562415	0.025948592887315037	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.024654049237977815	0.037190865681740758	1	False	True
+GSE314851	GSE314851::T1171	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.040662982602709077	0.023251179753468312	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.16592012099304809	0.1090023824647491	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.12037132177268187	0.19782241264946368	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.030200931895601423	0.09402433702508449	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.16592012099304809	0.1090023824647491	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.12037132177268187	0.19782241264946368	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.030200931895601423	0.09402433702508449	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.1672222199412752	0.10665528515038364	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.13347906465038714	0.19859146690590398	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.023936129702005371	0.10296165478204591	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.1672222199412752	0.10665528515038364	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.13347906465038714	0.19859146690590398	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.023936129702005371	0.10296165478204591	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.17151094967104649	0.040217890669792464	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.069208711013653612	0.05086279414491221	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.017770832376475053	0.026458928545101592	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.17151094967104649	0.040217890669792464	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.069208711013653612	0.05086279414491221	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.017770832376475053	0.026458928545101592	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.17931821511285395	0.039657674488350954	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.068904074573850976	0.050177401474684503	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.02070865732040264	0.027896282386771477	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.17931821511285395	0.039657674488350954	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.068904074573850976	0.050177401474684503	1	False	True
+GSE314851	GSE314851::T1183	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.02070865732040264	0.027896282386771477	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction							False
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.031123138608518279	0.047529528886551944	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.020469356854367897	0.054060435923987786	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.020291972745075125	0.048839474942293473	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.031123138608518279	0.047529528886551944	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.020469356854367897	0.054060435923987786	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.020291972745075125	0.048839474942293473	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.016752357912915607	0.047260278123953704	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.021382955573724272	0.054015261439214694	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.017907549380527143	0.048489229303949895	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.016752357912915607	0.047260278123953704	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.021382955573724272	0.054015261439214694	1	False	True
+GSE314851	GSE314851::T1186	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.017907549380527143	0.048489229303949895	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.0018650089134493873	0.1845196484968914	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	0.17656955231811586	0.24252273753704251	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.11687583826767008	0.19244863605566778	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.0018650089134493873	0.1845196484968914	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.17656955231811586	0.24252273753704251	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.11687583826767008	0.19244863605566778	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	-0.0080092162764666547	0.19400680089472463	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	0.18611340411210159	0.24015127910029557	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.11172330485696466	0.20341389599175982	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	-0.0080092162764666547	0.19400680089472463	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	0.18611340411210159	0.24015127910029557	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	LIPA	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.11172330485696466	0.20341389599175982	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.12085144710825439	0.040264212072832928	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.05244374231763832	0.039200027046586136	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	q05	all_sections	interaction	Fibroblast	fibrous_cap_core	0.027777213380506545	0.028268101311514693	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.12085144710825439	0.040264212072832928	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.05244374231763832	0.039200027046586136	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	q05	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.027777213380506545	0.028268101311514693	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	cell_abundance	Fibroblast	fibrous_cap_core	0.13302578455016137	0.040117118474307892	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	pathology	Fibroblast	fibrous_cap_core	-0.056053227812794856	0.039813983632487254	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	mean	all_sections	interaction	Fibroblast	fibrous_cap_core	0.025391984338085458	0.028510990526910741	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	cell_abundance	Fibroblast	fibrous_cap_core	0.13302578455016137	0.040117118474307892	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	pathology	Fibroblast	fibrous_cap_core	-0.056053227812794856	0.039813983632487254	1	False	True
+GSE314851	GSE314851::T1190	unique_library_identifier_moderate_confidence	STAT3	mean	exclude_QC_fallback	interaction	Fibroblast	fibrous_cap_core	0.025391984338085458	0.028510990526910741	1	False	True

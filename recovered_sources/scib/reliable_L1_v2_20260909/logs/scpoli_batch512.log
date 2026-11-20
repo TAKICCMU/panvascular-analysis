@@ -1,0 +1,29 @@
+/home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/pyproj/__init__.py:89: UserWarning: pyproj unable to set database path.
+  _pyproj_global_context_initialize()
+WARNING:root:In order to use the mouse gastrulation seqFISH datsets, please install squidpy (see https://github.com/scverse/squidpy).
+/home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'pyg-lib'. Disabling its usage. Stacktrace: Could not load this library: /home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/libpyg.so
+  import torch_geometric.typing
+/home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-scatter'. Disabling its usage. Stacktrace: Could not load this library: /home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/torch_scatter/_version_cuda.so
+  import torch_geometric.typing
+/home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-cluster'. Disabling its usage. Stacktrace: Could not load this library: /home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/torch_cluster/_version_cuda.so
+  import torch_geometric.typing
+/home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-sparse'. Disabling its usage. Stacktrace: Could not load this library: /home/anzhen_vhd/miniconda3/envs/rapids/lib/python3.11/site-packages/torch_sparse/_version_cuda.so
+  import torch_geometric.typing
+WARNING:root:In order to use sagenet models, please install pytorch geometric (see https://pytorch-geometric.readthedocs.io) and 
+ captum (see https://github.com/pytorch/captum).
+WARNING:root:mvTCR is not installed. To use mvTCR models, please install it first using "pip install mvtcr"
+WARNING:root:multigrate is not installed. To use multigrate models, please install it first using "pip install multigrate".
+Embedding dictionary:
+ 	Num conditions: [247]
+ 	Embedding dim: [10]
+Encoder Architecture:
+	Input Layer in, out and cond: 2000 45 10
+	Mean/Var Layer in/out: 45 10
+Decoder Architecture:
+	First Layer in, out and cond:  10 45 10
+	Output Layer in/out:  45 2000 
+
+INFO:scarches.trainers.scpoli.trainer:GPU available: True, GPU used: True
+Initializing dataloaders
+Starting training
+ |--------------------| 2.0%  - val_loss: 1933.32 - val_cvae_loss: 1933.32 |--------------------| 4.0%  - val_loss: 1820.53 - val_cvae_loss: 1820.53 |█-------------------| 6.0%  - val_loss: 1778.01 - val_cvae_loss: 1778.01

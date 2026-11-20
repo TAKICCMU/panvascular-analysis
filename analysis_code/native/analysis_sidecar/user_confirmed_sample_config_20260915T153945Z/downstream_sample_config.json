@@ -1,0 +1,16 @@
+{
+  "version": "user_confirmed_sample_sidecar_v1",
+  "source_audit": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/covarnet_pseudobulk_launch_review_20260915/full_review_v1/all247_sample_aggregation_audit_source_updated.tsv",
+  "source_sha256": "08c9c523e4da4f4c8586fce85b5044e2f6447bcaea7df8832ce9940fca90dcec",
+  "sample_registry": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/covarnet_pseudobulk_launch_review_20260915/user_confirmed_sample_config_20260915T153945Z/sample_registry_247.tsv",
+  "sample_registry_sha256": "21b80404b99a05a29e88289e82ebc0e4af9242ffafcab2f365a231b2670ee01c",
+  "overrides": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/covarnet_pseudobulk_launch_review_20260915/user_confirmed_sample_config_20260915T153945Z/user_confirmed_overrides_41.tsv",
+  "key": "sample_uid",
+  "counts_aggregation_source": "sample-level raw-count summaries; existing biological-level aggregates are not interchangeable with this updated grouping",
+  "apply_to_frozen_obs": false,
+  "modify_running_jobs": false,
+  "allow_cross_specimen_pooling": false,
+  "allow_formal_models": false,
+  "status": "SAMPLE_RELATIONSHIPS_UPDATED_DESIGN_REVIEW_PENDING",
+  "GSE131778_evidence": "User confirms seven independent donors; historical three-donor crosswalk preserved, not independently verified in this turn. Do not present as new GEO validation. Donor-level age/sex inheritance needs separate design audit."
+}

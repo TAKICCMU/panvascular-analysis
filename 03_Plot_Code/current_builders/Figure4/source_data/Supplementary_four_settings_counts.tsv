@@ -1,0 +1,5 @@
+posterior	section_set	positive	inverse	not_significant
+mean	all_sections	6	3	20
+mean	exclude_QC_fallback	7	4	18
+q05	all_sections	6	4	19
+q05	exclude_QC_fallback	6	4	19

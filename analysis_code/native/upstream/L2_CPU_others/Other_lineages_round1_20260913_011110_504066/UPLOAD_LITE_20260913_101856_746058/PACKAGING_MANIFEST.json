@@ -1,0 +1,190 @@
+{
+  "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU_others/Other_lineages_round1_20260913_011110_504066",
+  "output": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU_others/Other_lineages_round1_20260913_011110_504066/UPLOAD_LITE_20260913_101856_746058",
+  "no_analysis_rerun": true,
+  "no_h5ad_changes": true,
+  "max_target_MiB": 35,
+  "branches": [
+    {
+      "lineage": "B_cell",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Dendritic",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Endothelial",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Fibroblast",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Fibromyocyte",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Mast",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Monocyte",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "NK_cell",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Neutrophil",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Pericyte",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "Plasma",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "SMC",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    },
+    {
+      "lineage": "T_cell",
+      "status": "COMPACTED",
+      "reason": "PAUSED_FOR_LINEAGE_L2_ROUND1_REVIEW"
+    }
+  ],
+  "bundles": [
+    {
+      "lineage": "B_cell",
+      "bundle": "B_cell_review_lite_01.zip",
+      "bytes": 8610747,
+      "megabytes": 8.21,
+      "n_files": 112,
+      "sha256": "e49453680897b26210cdd0ef88cad17b84f29c67455756d32af623266d5cb2f3"
+    },
+    {
+      "lineage": "Dendritic",
+      "bundle": "Dendritic_review_lite_01.zip",
+      "bytes": 7695837,
+      "megabytes": 7.34,
+      "n_files": 112,
+      "sha256": "5281c16bf1d5e131c1941089650fd136a5e7511ba24e10d186318b9310c9990c"
+    },
+    {
+      "lineage": "Endothelial",
+      "bundle": "Endothelial_review_lite_01.zip",
+      "bytes": 28738468,
+      "megabytes": 27.41,
+      "n_files": 118,
+      "sha256": "dc6c9162cb9da4132e28264cd3c0f315ce9d3dc5df02d85ad3d63c4cb45260c2"
+    },
+    {
+      "lineage": "Fibroblast",
+      "bundle": "Fibroblast_review_lite_01.zip",
+      "bytes": 20685772,
+      "megabytes": 19.73,
+      "n_files": 115,
+      "sha256": "26c86a572b8a0bb3d985a979fcb1f9ac209f3c5132921eab46f70c5f303f8a8b"
+    },
+    {
+      "lineage": "Fibromyocyte",
+      "bundle": "Fibromyocyte_review_lite_01.zip",
+      "bytes": 17975640,
+      "megabytes": 17.14,
+      "n_files": 115,
+      "sha256": "50ac65827a1485f710fc425c0ff258acf6fc85e39ee44ae24c1582a34d99c40f"
+    },
+    {
+      "lineage": "Mast",
+      "bundle": "Mast_review_lite_01.zip",
+      "bytes": 12115524,
+      "megabytes": 11.55,
+      "n_files": 115,
+      "sha256": "9239b9169811b758ed1300214d93f27fb6daab55e4d67efdb841711c944705b4"
+    },
+    {
+      "lineage": "Monocyte",
+      "bundle": "Monocyte_review_lite_01.zip",
+      "bytes": 17216414,
+      "megabytes": 16.42,
+      "n_files": 112,
+      "sha256": "15bbb7e8c33b3a04c88a975729491226a568ca397f6159941611637107a95759"
+    },
+    {
+      "lineage": "NK_cell",
+      "bundle": "NK_cell_review_lite_01.zip",
+      "bytes": 14286316,
+      "megabytes": 13.62,
+      "n_files": 109,
+      "sha256": "600ded53049ddc6e124714737d35b4987911d214febe82bab6bbb1c0bf76d273"
+    },
+    {
+      "lineage": "Neutrophil",
+      "bundle": "Neutrophil_review_lite_01.zip",
+      "bytes": 9586951,
+      "megabytes": 9.14,
+      "n_files": 112,
+      "sha256": "8a40b055bc60f361e0aab1c0408029501da579e99e5ca830e4a34943ec904554"
+    },
+    {
+      "lineage": "Pericyte",
+      "bundle": "Pericyte_review_lite_01.zip",
+      "bytes": 7683205,
+      "megabytes": 7.33,
+      "n_files": 106,
+      "sha256": "7e3e42ff72c63138aa8e188ead85dc3740789ac536fdb338c84957541a946e13"
+    },
+    {
+      "lineage": "Plasma",
+      "bundle": "Plasma_review_lite_01.zip",
+      "bytes": 7878619,
+      "megabytes": 7.51,
+      "n_files": 109,
+      "sha256": "7b50ff04f364c722f4941c159ce833265ed903f2f579a93632caabc7fbd576ef"
+    },
+    {
+      "lineage": "SMC",
+      "bundle": "SMC_review_lite_01.zip",
+      "bytes": 26228073,
+      "megabytes": 25.01,
+      "n_files": 127,
+      "sha256": "ca7ac471868e78641bec3a00e17cd48ce3c517277e34bc36ce37130073c9b098"
+    },
+    {
+      "lineage": "T_cell",
+      "bundle": "T_cell_review_lite_01.zip",
+      "bytes": 30031758,
+      "megabytes": 28.64,
+      "n_files": 101,
+      "sha256": "402b5099f7392036917bee9d026e1cbfbe6699f9a9653fc724fec242e1738b03"
+    },
+    {
+      "lineage": "T_cell",
+      "bundle": "T_cell_review_lite_02.zip",
+      "bytes": 4173698,
+      "megabytes": 3.98,
+      "n_files": 14,
+      "sha256": "d44f65e3fb634a9520b15c64099d8630bbb26b0f8f2c9ba58af9e044349a6298"
+    }
+  ],
+  "all_selected_numeric_and_PNG_payloads_copied_byte_for_byte": true,
+  "source_originals_retained": true
+}

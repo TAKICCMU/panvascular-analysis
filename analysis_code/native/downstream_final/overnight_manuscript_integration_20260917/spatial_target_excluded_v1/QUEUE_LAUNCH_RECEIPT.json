@@ -1,0 +1,18 @@
+{
+  "status": "SUBMITTED_NOT_COMPLETE",
+  "created": 1789580388.2370431,
+  "queue": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/QUEUE.json",
+  "job_id": "spatial_target_excluded_reference_mapping",
+  "bound_files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/launch.sh": "3d92af603661ee184ebdcad8f660984ff6cfb02c3d9cacd32dedce0bc7801492",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/code/spatial_target_excluded.py": "a08aa882af19b84f4dc7bbc32c09f947ab8433ad7d2a33af9c82f8d4e64e8de6",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/code/exclusion.py": "38eb434792d329eb69d3e7a12cdd757fdc791293ad2a5555e3f64c4846b53ba4",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/configs/PRODUCTION_RECEIPT.json": "57f266ec117513e52dcc59ee23fe7d757dfdea0a9434c8c6fc71c0446fb1e328",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/configs/config.json": "205676bccfacac590912fdf65e976db00e47e95ba8b8bf759ac8481f1df2dd3c",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/smoke/PASS.json": "458af402042aec6f4f824c276cae160ef271bf65988382f6220bb9095443f334"
+  },
+  "queue_sha_at_submission": "5ac961d57d3b74cbaecc346821630f8eda75010def124400578f2d264646120d",
+  "native_cpu_threads": 4,
+  "admission_thread_reservation": 12,
+  "authorization": "2026-09-17 user authorized candidate integration followed by spatial analysis; independent target-exclusion sensitivity avoids direct circularity"
+}

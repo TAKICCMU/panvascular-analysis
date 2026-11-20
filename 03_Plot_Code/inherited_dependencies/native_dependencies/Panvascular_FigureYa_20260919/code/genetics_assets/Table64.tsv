@@ -1,0 +1,5 @@
+Model	Prespecified role	Chi-square	Degrees of freedom	Raw software P value	P-value interpretation	Akaike information criterion	Comparative fit index	Standardised root mean square residual	Stable model ID
+Single common factor	One-factor comparator	91.1873283734271	20	4.59269825140605e-11	Finite archived software output	123.187328373427	0.887513309874037	0.175338956133769	single_common_factor
+Correlated two-factor model	Primary disease-axis model	18.2240748322703	20	0.572650092304133	Finite archived software output	50.2240748322703	1.0	0.0628358255207431	correlated_two_factor
+Orthogonal bifactor model	Shared-component GWAS model	10.7286559768575	13	0.633537222653908	Finite archived software output	56.7286559768575	1.0	0.0462008574597387	orthogonal_bifactor
+Equal-loading higher-order model	Prespecified negative-control model	30858.6082318007	21	0.0	Numerical underflow in the archived software output; not an exact probability of zero	30888.6082318007	-47.7280610279407	1.83776309955092	equal_loading_higher_order_negative_control

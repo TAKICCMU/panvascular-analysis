@@ -1,0 +1,54 @@
+{
+  "code_version": "Other_L2_CPU_Round1_1.0",
+  "created_at": "2026-09-13T01:11:10.509932",
+  "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_level1_frozen_v1.h5ad",
+  "source_manifest": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_level1_frozen_v1.manifest.json",
+  "threads_per_worker": 20,
+  "total_threads": 40,
+  "max_workers": 2,
+  "min_available_memory_gb": 48.0,
+  "min_free_disk_gb": 12,
+  "lineages": [
+    "Fibroblast",
+    "Smooth muscle cell",
+    "Endothelial cell",
+    "T cell",
+    "Fibromyocyte",
+    "Monocyte",
+    "Natural killer cell",
+    "Dendritic cell",
+    "B cell",
+    "Plasma cell",
+    "Mast cell",
+    "Neutrophil",
+    "Pericyte"
+  ],
+  "n_expected": 903398,
+  "excluded": [
+    "Macrophage",
+    "Schwann cell",
+    "Unknown"
+  ],
+  "protected_macrophage_files": [
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU/Macrophage_L2_round1_20260912_220350_741672/task.json",
+      "sha256": "0e954b8929fceed4927e66040f64ea17874a0601b33dcc70adcd2b25ee5daf5e"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU/Macrophage_L2_round1_20260912_220350_741672/RESULTS.json",
+      "sha256": "9ed8428d709d1474993193e0d3b65b996266f3534eaf67309a4461223544f95b"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU/Macrophage_L2_round1_20260912_220350_741672/tables/cell_cluster_mapping.tsv.gz",
+      "sha256": "0b8493d9cf1a6615ff5254bf75b7bdeaaacf965bf85156c07ba9ee9c37a28ab3"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU/Macrophage_L2_round1_20260912_220350_741672/tables/all_resolution_review_candidates.tsv",
+      "sha256": "fc89153ee65b54fcb284bed9af44dab3f131033af2bebf223f3f305ae73b9647"
+    }
+  ],
+  "python": "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python",
+  "core_sha256": "f52d0bb2fb6540067f9a25f05f679c4f07e659ed2574669bc2aabf44c9eb09c8",
+  "plans_sha256": "7d297f7ba3635464dff8d262c73258af3f199fbd06d9e72b1b5ffe1c496937f4",
+  "defaults_sha256": "4ac38d9493ee2f5e46bf7cbdccd2b2b1a5a6993cfe9ce4cb80297e243942959d"
+}

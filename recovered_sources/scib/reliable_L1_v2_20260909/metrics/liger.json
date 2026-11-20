@@ -1,0 +1,19 @@
+{
+  "metrics": {
+    "bras": 0.5730602145195007,
+    "clisi_knn": 0.9920605421066284,
+    "graph_connectivity": 0.6026884773702256,
+    "ilisi_knn": 0.03407303988933563,
+    "isolated_labels": 0.5750178694725037,
+    "kbet_per_label": 0.5190529114595132,
+    "nmi_ari_cluster_labels_kmeans_ari": 0.36692824360987253,
+    "nmi_ari_cluster_labels_kmeans_nmi": 0.5094650605135556,
+    "pcr_comparison": 0.6888851670912762,
+    "silhouette_label": 0.5374554395675659
+  },
+  "provenance": {
+    "config_sha256": "6c1fd3eb8d5839a0bbd5b4ddc5bc346f8bbbf9a35390969cbbf854b8f8269e9f",
+    "embedding_sha256": "a0239ae96054fb77cab28465916d7d29ceac95f1ce137a4b2838f80ca4472697"
+  },
+  "seconds": 143.19930505752563
+}

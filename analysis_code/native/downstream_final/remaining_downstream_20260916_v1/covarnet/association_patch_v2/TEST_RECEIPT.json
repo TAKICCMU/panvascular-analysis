@@ -1,0 +1,16 @@
+{
+  "status": "PASS_SPARSE_DONOR_FIXTURE",
+  "files": {
+    "association_patch_v2.R": "96941801e3b15723a7637ef48879c9ad93d9e9cc96d5ae8ad1fd50d0f30b7b57",
+    "run_patch.py": "ac2e213c5441e5b3603dff1a33912aec50c7c96aae96c76ee0d3fb2ed4b25047",
+    "test_patch.R": "b03efd537bc8712bcdb224bbc358e68d0b676bbc68fc659f9e1514f9dc288e1d",
+    "test/TEST_PASS.txt": "b886f7cada327c30becc599c6313ad6b3a72ed40ca2cc180e354cb7c9b72631c",
+    "test/results/within_study_tissue_donor_spearman.tsv": "c3b835313ffd2512999482f41ab7e527bbff653ca504b8c6cabe6e7e66fac0c6",
+    "test/results/ASSOCIATIONS_COMPLETED.txt": "adce7ab9847b30ed365adfabae1d6539223ce48fd530f0a0f68df0e0b9f30c97",
+    "test/results/within_tissue_spearman_meta.tsv": "7a61e53b12d5c805059089a9a66d9e4a32e56f3a788b617413d61cc27cb135ed",
+    "test/results/PATCH_METHODS.txt": "9c46487b44d62d5b09e2df79ab173f47e753a885dde2a8c9f2149e4565824650",
+    "test/results/spearman_stratum_eligibility.tsv": "c6b7d48bae563062f12ff80349119590a5dd596ad05c07fec83c53ffebed0985",
+    "test/results/sessionInfo.txt": "f28f529e7ba28ec1c5b800ba857ad8fc00bc358904cd598c7566e4559b037fd5",
+    "test/previous/aligned_latest_metadata.tsv": "559a374a8c27c514a93175e0c05146dd962d58425227dcdc64eb008d07d5a7bc"
+  }
+}

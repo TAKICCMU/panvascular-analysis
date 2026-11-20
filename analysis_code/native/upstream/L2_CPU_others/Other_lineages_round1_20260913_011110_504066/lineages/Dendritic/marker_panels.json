@@ -1,0 +1,191 @@
+{
+  "state": {
+    "DC APC core": [
+      "HLA-DRA",
+      "HLA-DRB1",
+      "CD74",
+      "CST3",
+      "FLT3"
+    ],
+    "cDC1-associated": [
+      "CLEC9A",
+      "XCR1",
+      "CADM1",
+      "BATF3",
+      "DNASE1L3"
+    ],
+    "cDC2-associated": [
+      "CD1C",
+      "FCER1A",
+      "CLEC10A",
+      "CD1E"
+    ],
+    "pDC-associated": [
+      "LILRA4",
+      "CLEC4C",
+      "IL3RA",
+      "GZMB",
+      "TCF4",
+      "IRF7"
+    ],
+    "Mature-DC-associated": [
+      "LAMP3",
+      "CCR7",
+      "FSCN1",
+      "CCL19",
+      "CCL22"
+    ],
+    "AXL-associated check": [
+      "AXL",
+      "SIGLEC6",
+      "CD5",
+      "CD2"
+    ],
+    "Monocyte-associated boundary": [
+      "CD14",
+      "FCN1",
+      "S100A8",
+      "S100A9",
+      "VCAN"
+    ],
+    "IFN-response": [
+      "ISG15",
+      "MX1",
+      "IFIT1",
+      "IFIT3",
+      "IFI6",
+      "STAT1"
+    ],
+    "Proliferation": [
+      "MKI67",
+      "TOP2A",
+      "UBE2C",
+      "BIRC5"
+    ],
+    "Stress check": [
+      "FOS",
+      "JUN",
+      "HSPA1A",
+      "HSPA1B",
+      "DNAJB1"
+    ]
+  },
+  "boundary": {
+    "Macrophage check": [
+      "LST1",
+      "TYROBP",
+      "FCER1G",
+      "CD68",
+      "CSF1R",
+      "C1QC",
+      "MERTK"
+    ],
+    "Monocyte boundary": [
+      "FCN1",
+      "VCAN",
+      "S100A8",
+      "S100A9",
+      "S100A12",
+      "CCR2"
+    ],
+    "cDC2 check": [
+      "CD1C",
+      "FCER1A",
+      "CLEC10A"
+    ],
+    "cDC1 check": [
+      "CLEC9A",
+      "XCR1",
+      "CADM1",
+      "BATF3"
+    ],
+    "pDC check": [
+      "LILRA4",
+      "CLEC4C",
+      "IL3RA",
+      "GZMB"
+    ],
+    "Mature DC check": [
+      "LAMP3",
+      "CCR7",
+      "FSCN1",
+      "CCL22"
+    ],
+    "Neutrophil check": [
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2"
+    ],
+    "T check": [
+      "CD3D",
+      "CD3E",
+      "CD3G",
+      "TRAC",
+      "TRBC1",
+      "TRBC2"
+    ],
+    "NK check": [
+      "KLRD1",
+      "GNLY",
+      "NKG7",
+      "XCL1"
+    ],
+    "B check": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "CD22"
+    ],
+    "Plasma check": [
+      "MZB1",
+      "JCHAIN",
+      "SDC1",
+      "XBP1"
+    ],
+    "Mast check": [
+      "TPSAB1",
+      "TPSB2",
+      "KIT",
+      "HDC"
+    ],
+    "Fibroblast check": [
+      "DCN",
+      "LUM",
+      "COL1A1",
+      "COL1A2",
+      "PDGFRA"
+    ],
+    "SMC check": [
+      "MYH11",
+      "CNN1",
+      "LMOD1",
+      "TAGLN",
+      "ACTA2"
+    ],
+    "Pericyte check": [
+      "RGS5",
+      "ABCC9",
+      "KCNJ8",
+      "CSPG4",
+      "PDGFRB"
+    ],
+    "Endothelial check": [
+      "PECAM1",
+      "VWF",
+      "CDH5",
+      "CLDN5"
+    ],
+    "Schwann check": [
+      "SOX10",
+      "MPZ",
+      "PLP1"
+    ],
+    "Epithelial check": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19"
+    ]
+  },
+  "use": "REVIEW_ONLY_NO_AUTOMATIC_LABELS"
+}

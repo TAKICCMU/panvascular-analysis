@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETE_MAGMA_EXISTING_RESULT_REVIEW",
+  "pid": 147108,
+  "families": 12,
+  "rows": 708,
+  "cpu_threads": 1,
+  "seconds": 3.50822114944458,
+  "output": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1/magma_completed_review_v1",
+  "output_manifest_sha256": "18df9dd6f81f1f030d637e0d21c5779ab33b643115df09ef641dac60f9d14bb6",
+  "no_new_scientific_tests": true
+}

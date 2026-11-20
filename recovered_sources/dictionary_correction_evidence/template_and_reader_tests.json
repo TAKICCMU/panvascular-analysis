@@ -1,0 +1,13 @@
+{
+  "reviewed_definition_cases": 1026,
+  "unknown_field_fails_closed": true,
+  "reader_tables": [
+    13,
+    20,
+    39,
+    40,
+    50
+  ],
+  "formatting_script_executed": false,
+  "scientific_data_conversion_executed": false
+}

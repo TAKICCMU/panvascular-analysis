@@ -1,0 +1,21 @@
+--- historical
++++ CPU_branch
+@@ -17,7 +17,7 @@
+ import sys
+ import time
+ 
+-METHODS = ('pca', 'harmony', 'scvi', 'scanorama', 'liger', 'scalex', 'scanvi', 'scpoli')
++METHODS = ('harmony_cpu',)
+ BIO = ('isolated_labels', 'nmi_ari_cluster_labels_kmeans_nmi',
+        'nmi_ari_cluster_labels_kmeans_ari', 'silhouette_label', 'clisi_knn')
+ BATCH = ('bras', 'ilisi_knn', 'kbet_per_label', 'graph_connectivity', 'pcr_comparison')
+@@ -134,6 +134,9 @@
+     if len(pre) != len(obs) or not np.isfinite(pre).all():
+         raise ValueError('PCA invalid or wrong cell count')
+     config = {'membership_sha256': membership, 'pca_sha256': sha(prefile), 'versions': versions, 'seed': args.seed, 'neighbors': [15, 50, 90], 'neighbor_random_state': 0, 'batch_key': args.batch_key, 'n_primary': len(obs), 'n_evaluated': int(mask.sum()), 'coverage': float(mask.mean()), 'unknown_policy': 'All metrics on identical trusted subset; Unknown never a type', 'k_sensitivity': 'Not executed; official metric-specific defaults retained', 'min_max_scale_main': False, 'weights': {'biology': 0.6, 'batch': 0.4}}
++    historical = json.loads((root / 'audit' / 'original_evaluation_manifest.json').read_text())
++    if config != historical:
++        raise RuntimeError('Frozen evaluation configuration/version mismatch; stopping')
+     runhash = digest(config)
+     manifest = out / 'evaluation_manifest.json'
+     if manifest.exists() and json.loads(manifest.read_text()) != config:

@@ -1,0 +1,22 @@
+{
+  "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma",
+  "output": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1/magma_completed_review_v1",
+  "atlas_sha256": "00fc74c1ddaa5e4b32d8664f134e0ec5a0c762f5e9a9fb45b96acbd40804a310",
+  "scenarios": [
+    "primary_r0.1",
+    "primary_r0.6",
+    "leave_one_CAD_r0.1"
+  ],
+  "levels": [
+    "L1",
+    "L2"
+  ],
+  "weights": [
+    "cell_weighted",
+    "study_balanced"
+  ],
+  "project_roots": [
+    "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1"
+  ]
+}

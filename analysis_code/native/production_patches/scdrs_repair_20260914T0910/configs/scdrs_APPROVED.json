@@ -1,0 +1,57 @@
+{
+  "atlas": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.h5ad",
+  "atlas_sha256": "00fc74c1ddaa5e4b32d8664f134e0ec5a0c762f5e9a9fb45b96acbd40804a310",
+  "atlas_stat": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/execution_control_20260914/AUTHENTICATED_ATLAS_STAT.json",
+  "manifest": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.acceptance_r1.manifest.json",
+  "gene_map": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/inputs/gene_map_scDRS_READY.tsv",
+  "covariates": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/inputs/scDRS_raw_verified.cov.gz",
+  "smoke_validation": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/FINAL_SMOKE_VALIDATION.json",
+  "graph_policy": "frozen_global_n30",
+  "n_ctrl": 1000,
+  "native_threads": 12,
+  "controller_threads": 1,
+  "scdrs_executable": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/bin/scdrs",
+  "scenarios": [
+    {
+      "name": "primary_r0.1",
+      "geneset": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_primary_r0_1.gs",
+      "sha256": "7f6d55f3bb19ca959dd6627f7c95622a80fbaacd08de0cb84e47d0b544310904"
+    },
+    {
+      "name": "primary_r0.6",
+      "geneset": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_primary_r0_6.gs",
+      "sha256": "13799767d841a83962642abc34de0b40de0700c29c83155f4ed3935628e5a939"
+    },
+    {
+      "name": "leave_one_CAD_r0.1",
+      "geneset": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_leave_one_CAD_r0_1.gs",
+      "sha256": "595200f57e5f33ec1324e746d41d37a03ea235a5b647155f4328af5807ef1120"
+    }
+  ],
+  "disk_reservations": {
+    "GPU": {
+      "paths": [
+        "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/spatial_gpu_20260913T183753Z/outputs",
+        "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/spatial_gpu_20260913T183753Z/smoke"
+      ],
+      "allocation_gib": 16,
+      "baseline_bytes": 0
+    },
+    "MAGMA": {
+      "paths": [
+        "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs"
+      ],
+      "allocation_gib": 4,
+      "baseline_bytes": 0
+    },
+    "scDRS": {
+      "paths": [
+        "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs"
+      ],
+      "allocation_gib": 32,
+      "baseline_bytes": 0
+    }
+  },
+  "reservation_baseline_UTC": "2026-09-14T01:33:51.674018+00:00",
+  "resource_ledger": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/execution_control_20260914/RESOURCE_LEDGER_traits_repair_v2.json"
+}

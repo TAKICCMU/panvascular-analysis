@@ -1,0 +1,11 @@
+Latent factor	Parameter	Observed phenotype	Unstandardised estimate	Unstandardised standard error	Standardised estimate (genotype scale)	Standard error (genotype scale)	Fully standardised estimate	P value	Analysis	Omitted phenotype abbreviation	Omitted phenotype	Model
+AORTIC	~~	ATHERO	0.320853987386424	0.039407392934746	0.320853420009842	0.0394073073506314	0.320853420009842	3.8888324911378e-16	full			correlated_two_factor
+AORTIC	~~	ATHERO	0.326293685174089	0.041071599789823	0.326293236933168	0.0410715122911001	0.326293236933168	1.9496181732856603e-15	leave_one_AD	AD	aortic dissection	correlated_two_factor
+AORTIC	~~	ATHERO	0.326722914542316	0.0413138320758864	0.326721733372193	0.0413137162448476	0.326721733372193	2.6089006986444306e-15	leave_one_Stroke	Stroke	stroke	correlated_two_factor
+AORTIC	~~	ATHERO	0.269355175437041	0.105742456987602	0.269355010434148	0.105742331248339	0.269355010434148	0.0108567668042471	leave_one_AAA	AAA	abdominal aortic aneurysm	correlated_two_factor
+AORTIC	~~	ATHERO	0.332449357130815	0.040367010040459	0.33244856425366	0.0403669255117957	0.33244856425366	1.7855610463500799e-16	leave_one_CAVS	CAVS	calcific aortic valve stenosis	correlated_two_factor
+AORTIC	~~	ATHERO	0.260161311525286	0.0500264298199247	0.260160896309846	0.050026352469309	0.260160896309846	1.98777421145048e-07	leave_one_CAD	CAD	coronary artery disease	correlated_two_factor
+AORTIC	~~	ATHERO	0.322683417890457	0.0400038742318216	0.32268305046924	0.0400037993494748	0.32268305046924	7.24581507102837e-16	leave_one_TAA	TAA	thoracic aortic aneurysm	correlated_two_factor
+AORTIC	~~	ATHERO	0.323605899388064	0.0400637384634187	0.323605448686769	0.0400636539771606	0.323605448686769	6.62291780806356e-16	leave_one_PAD	PAD	peripheral artery disease	correlated_two_factor
+AORTIC	~~	ATHERO	0.328589319044094	0.0400137324740287	0.328588750283165	0.0400136581482528	0.328588750283165	2.17690667242137e-16	leave_one_CA	CA	carotid atherosclerosis	correlated_two_factor
+Aortic-systemic factor correlations from the full and leave-one-trait correlated two-factor models, with standard errors and confidence intervals.												

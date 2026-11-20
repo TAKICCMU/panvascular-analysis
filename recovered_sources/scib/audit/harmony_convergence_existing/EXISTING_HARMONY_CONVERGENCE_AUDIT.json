@@ -1,0 +1,61 @@
+{
+  "scope": "Existing benchmark logs only; no recomputation or cache modification",
+  "evidence": [
+    {
+      "split": "pilot",
+      "theta": 1,
+      "source_log": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/pilot/logs/harmony_theta1.log",
+      "log_sha256": "3acfc837e9968e524905c032fea805ddd5b0f5a5c87f34641d8b2a60444b7b5b",
+      "native_convergence_reported": true,
+      "actual_iteration": 17,
+      "stopped_before_convergence": false
+    },
+    {
+      "split": "pilot",
+      "theta": 2,
+      "source_log": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/pilot/logs/harmony_theta2.log",
+      "log_sha256": "42f1999b6f08ae83a800a068f0a88fee6c5084370c08eff38ce6ea534c427c6c",
+      "native_convergence_reported": true,
+      "actual_iteration": 19,
+      "stopped_before_convergence": false
+    },
+    {
+      "split": "pilot",
+      "theta": 4,
+      "source_log": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/pilot/logs/harmony_theta4.log",
+      "log_sha256": "f441ed4d2ebb6e9db697b46b64c9893ba7f7fdeee75b261f868cfe8e66dc6c02",
+      "native_convergence_reported": true,
+      "actual_iteration": 17,
+      "stopped_before_convergence": false
+    },
+    {
+      "split": "primary",
+      "theta": 1,
+      "source_log": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/logs/harmony_theta1.precompute.log",
+      "log_sha256": "a0b5bce2ad929235110f994509a665475e197893e16293bf46d7274a23b639ea",
+      "native_convergence_reported": true,
+      "actual_iteration": 15,
+      "stopped_before_convergence": false
+    },
+    {
+      "split": "primary",
+      "theta": 2,
+      "source_log": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/logs/harmony_theta2.precompute.log",
+      "log_sha256": "24e1dc0002a87cfc9312aeb87a58b8b2725541d437e1be0177ff851bf5301c2b",
+      "native_convergence_reported": true,
+      "actual_iteration": 19,
+      "stopped_before_convergence": false
+    },
+    {
+      "split": "primary",
+      "theta": 4,
+      "source_log": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/logs/harmony_theta4.precompute.log",
+      "log_sha256": "0e2cf3dec26395e665b97c7c3e4fe7b5cb516a111582ac9191a117a1ccbff64a",
+      "native_convergence_reported": true,
+      "actual_iteration": 17,
+      "stopped_before_convergence": false
+    }
+  ],
+  "native_criterion_caveat": "Native Harmony uses signed relative objective improvement threshold; no saved objective trajectory in these existing benchmark caches",
+  "full_atlas_not_equivalent_to_subsets": true
+}

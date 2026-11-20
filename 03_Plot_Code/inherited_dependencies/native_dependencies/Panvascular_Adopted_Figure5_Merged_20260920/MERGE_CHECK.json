@@ -1,0 +1,148 @@
+{
+  "merged_file": "/Users/taki/Desktop/Panvascular_Adopted_Figure5_Merged_20260920/全部图件_15页_Figure5采用版.pdf",
+  "merged_sha256": "5088b8def95d5e62acb625e65bc6f62bbaed04138e18ca662d80c57fc4f175b8",
+  "pages": [
+    {
+      "page": 1,
+      "figure": "Figure1",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 2,
+      "figure": "Figure2",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 3,
+      "figure": "Figure3",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 4,
+      "figure": "Figure4",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 5,
+      "figure": "Figure5",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 6,
+      "figure": "ExtendedData_Figure1",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 7,
+      "figure": "ExtendedData_Figure2",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 8,
+      "figure": "ExtendedData_Figure3",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 9,
+      "figure": "ExtendedData_Figure4",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 10,
+      "figure": "ExtendedData_Figure5",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 11,
+      "figure": "ExtendedData_Figure6",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 12,
+      "figure": "ExtendedData_Figure7",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 13,
+      "figure": "ExtendedData_Figure8",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 14,
+      "figure": "ExtendedData_Figure9",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    },
+    {
+      "page": 15,
+      "figure": "ExtendedData_Figure10",
+      "geometry_rotation_identical": true,
+      "text_identical": true,
+      "render_pixels_identical": true
+    }
+  ],
+  "Figure5_adopted": true,
+  "other14_new_author_approval": false,
+  "native_page_insert_only": true,
+  "science_rerun": false,
+  "DOCX_modified": false,
+  "ORA": "PENDING",
+  "donor_identity": "PENDING",
+  "counts": {
+    "gene_unit_estimates": 60,
+    "distinct_recorded_unit_IDs": 34
+  },
+  "preserved_assets_byte_identical": [
+    "Source_Data/Figure5/all29_original_section_models.tsv",
+    "Source_Data/Figure5/P86_Table32_10_8_1_significant_entries.tsv",
+    "Source_Data/Figure5/Figure5b_pooled_FDR_I2_original.tsv",
+    "Source_Data/Figure5/Former_5b_detection_matrix.pdf",
+    "Source_Data/Figure5/Former_5b_detection_fraction.tsv",
+    "Source_Data/Figure5/Figure5b_60_gene_unit_estimates.tsv",
+    "Source_Data/Figure5/Former_5b_detection_matrix.svg",
+    "Source_Data/Figure5/Fig5c_all29.tsv",
+    "Source_Data/Figure5/README.md",
+    "Source_Data/Figure5/Figure5b_34_recorded_unit_IDs.tsv",
+    "Source_Data/Figure5/CA1_display_parameters_unchanged.json",
+    "Source_Data/Figure5/module_coherence_meta.tsv",
+    "Source_Data/Figure5/all29_original_meta.tsv",
+    "Source_Data/Figure5/all29_original_unit_models.tsv",
+    "Source_Data/Figure5/module_dataset_stats.tsv",
+    "Source_Data/Figure5/CA1_original_H_and_E.png",
+    "Source_Data/Figure5/module_program_direction_meta.tsv",
+    "Source_Data/Figure5/CA1_existing_spot_values.tsv",
+    "Source_Data/Figure5/P86_Table32_all87_original_entries.tsv",
+    "Source_Data/Figure5/Figure5b_point_mapping.tsv",
+    "companion/Focus_FN1.svg",
+    "companion/Focus_SCARB1.svg",
+    "companion/Figure5_focus_prototype.pdf"
+  ],
+  "status": "MERGE_COMPLETE_FIGURE5_ADOPTED_NO_FURTHER_REDESIGN"
+}

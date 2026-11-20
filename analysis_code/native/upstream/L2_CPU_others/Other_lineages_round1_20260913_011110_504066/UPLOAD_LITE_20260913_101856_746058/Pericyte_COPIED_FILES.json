@@ -1,0 +1,638 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 19147,
+    "sha256": "b7110a52a3380e72f110148f5be64a59da0c9e980379e46c248378e246c9ee4f",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 8644,
+    "sha256": "fed07c46ba0042d0e77720c4f4e10c4be72139179f11c767d06a2e16d2970129",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 8669,
+    "sha256": "43c9da629af3a66d07aa4fece1bd24d3ca90ee16fd8f371a0bec2d92cb3811d2",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 278,
+    "sha256": "7a452d38c1199b838e36ee2b267cfdd9ddafdc1ee6f5bc6d2ee71246c1acb75b",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 20083,
+    "sha256": "c5e598e59f81a5a6f2a8bed5f085e1c1e329a4ddb52bf785ac05d8b10a8a07e8",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 123776,
+    "sha256": "f9508a33a2dc9e9d272c90055f4c54f9349bc2a31766814690189e59168782e8",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 80995,
+    "sha256": "e020dbbed617267ade6635fe014d84a8a0890b1fa682eee4e655b46196ff0e50",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 3733,
+    "sha256": "674650cb2e63ece70eccc812795713d318f69cc01d1145e2a7657f18be6fd2ca",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 3740,
+    "sha256": "2c11fc4c7097151f7bbf53e3048e45e6faa2449ed47dfd2fd0457ad02ccb0e23",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 87450,
+    "sha256": "1936a647801dc0f70cb2e2e099347d6fcb6116cc20dbb08b3b9bdbc70eed321f",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 15747,
+    "sha256": "eda1a935e1ccdfc288685733fa71ae3c5872e5673f8f603e7563d31142ce8026",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 181,
+    "sha256": "5e0c3f0a33c6da2c5c52da63777ee4d8e480417f8d2d1b31975affd43809f6f4",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 181,
+    "sha256": "5e0c3f0a33c6da2c5c52da63777ee4d8e480417f8d2d1b31975affd43809f6f4",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 272,
+    "sha256": "8281ddbdcdef1fdf58408771e2f8cf0e1c8876e3520683a1210b1110d3b014f8",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 5750,
+    "sha256": "0ec1a3dfe5e98722026ca64d6f8968da279d456ad857ddcd2a23964bc5d20e09",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 8715,
+    "sha256": "c8eb8a33599ac1e6de720c5aa838faf9977b03f99de3c8a28e321b6da863e0a4",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 740,
+    "sha256": "3e35bb22977a77a57ebc51421e27b64d1aeb381cd5564c72d3f3d2d777494ce5",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 502,
+    "sha256": "680cb802263ee1088a50073568a360f2d6848596106436639bee38695fa2ce82",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 4985,
+    "sha256": "3b7e054b33fcb89691da79de8823f167e7de70d2ceeca9288222cd47c7737945",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 39247,
+    "sha256": "bcb864927f1b33a138266c5d24f919d41f1ad41a1b947ee42a6fee74f793fe92",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 35041,
+    "sha256": "bdfba5ba8025efb71a875dbe4a817b88d7a4cafcf43501b0c5d6b0a79c6970b1",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 205512,
+    "sha256": "044d022874e18fd908231505a2a02789fc668726fa23cc58ce14dcba1e2cbc5a",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 3718,
+    "sha256": "7a9453ebd76921cc90ab3eab4613c64774f0471127ad10817819d58dad97c4e4",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 13130,
+    "sha256": "7f1c2eb27052e7352ea7143c395faa9024f1997a6abaf7a677e52138d22ee847",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 52042,
+    "sha256": "8920d303a666fb2fee77724957af66bbee6b08fb73155be7525c3ff4a6c317a1",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 13134,
+    "sha256": "3c2d2139e35057ef5c0c1627fc927fdc6333ed9768354d85989aff3f9c6e8619",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 12907,
+    "sha256": "1a9799232a747cce099a02bb29a8a5a7570db7097a1f451aeed892e687926378",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 5882,
+    "sha256": "bf82f89698da6acd2c2e0b1001be08fe8a62fd21750b46700f3a26b077275bb1",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 6061,
+    "sha256": "2638f5f70087cca3cda49d7b3a9dfd79ecfdb373011d84ece3dfc55bfbbc8149",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 4121,
+    "sha256": "572fbc6505926536fcfb496bd0f02a341276e0a72defda5d27cbf6ebc90a3aa6",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 4165,
+    "sha256": "809fc23453032ff2d2fcd56a17ba755d069261d2d1a536f47ba8e10861e1cb69",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 144788,
+    "sha256": "ed2158e503275672cf6fd84589a8bddba42358721aa9d0801bf8d13ecf6b7e7a",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 27271,
+    "sha256": "0bb35da7c3bfd37bcf47fdc3aac24e81ce0a3af6741bd470dd57292e89f23c9c",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 279,
+    "sha256": "c6e35f085f5a8c8d7f0246a62da2a58856748ea89c470600e4d68867403591ae",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 279,
+    "sha256": "c6e35f085f5a8c8d7f0246a62da2a58856748ea89c470600e4d68867403591ae",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 383,
+    "sha256": "4c9667532c712239a55d12c536e9787fd44263a4101a64616415ab7f2c4872c4",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 6875,
+    "sha256": "6e7e6cbb6d6edfa50870162792c8894beff6a4a779a3c82b19f985e99ea12064",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 10333,
+    "sha256": "6faf897d9ffdffe0476e163ff316636d32f27db9d8e6890daac77029bb8c035f",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 1015,
+    "sha256": "a188cac53409383afe53ea262080ceb5c94a013c3525da6f626c36f958037ac7",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 682,
+    "sha256": "1bd02a85c9225b2bd42d7f7c939196bf5bfcdca04b2a93ab5384a84c1f5e810b",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 7659,
+    "sha256": "bd4efa9e14b60cdeff97d3ea064711a662b6d7956ec344e5dc70484f43d14d7e",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 53613,
+    "sha256": "806796b79ce613d4c72019d68b335075ab0eba417295e55c2715133a0e92cad3",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 40197,
+    "sha256": "38ffd7d0f01f8a706e0e44814960156bb5ff99af83efbd1536b8d8ad5b649db2",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 252583,
+    "sha256": "603dbc34d6461eedb775981d3baae6b54fdfb1018d932883531205fdd730ee39",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 5603,
+    "sha256": "40cc06536ff324e13c4f5557d3784d2bde07da76e11d1f39df86654ba698a465",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 20048,
+    "sha256": "1e6d8773b832c594bf5563f8cd1337228d1eef43cd7f1016ed9aa9c005876dfb",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 82832,
+    "sha256": "0e9edbf20bedbdf5830e3cf75536d7679edfc65039c4324cc7a4926cf12f4edc",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 20233,
+    "sha256": "49aed105d61cad2dac460a9cf39c1025bc31d55eb1653c8e14467b1770bcad3d",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 19844,
+    "sha256": "ffe6d00601227b55fc583c448b211d54b37a715099e5ec032c5be2ae397c1e2d",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 433,
+    "sha256": "93dfaa2b38dfbdad0402574a4d0dd406120a773ff2ddf8d08d04b83ee3710fd0",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 663,
+    "sha256": "daeb3773df122bb4a9d224cf155d0a685ef1fafd1b9333a12f7740de267b824d",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 7194,
+    "sha256": "20441550ab5ab196629bbe3c370a90f34f11b2c2d6644453b4c2df846f2a04a2",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 7251,
+    "sha256": "eca738f9cb3abee08c3f2c3c4a7a8e837be55701cd537a99c2a2d21d7c7cb617",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 7109,
+    "sha256": "747118ee68e57ac15fe1d7952cb255b4668ccb8cd085e22e3146b581dde1e1f2",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 7119,
+    "sha256": "14fc78c4b2c2974e7334df81b521d0fafdc17c3e6a16bb93fac5cce4a83220ba",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 173790,
+    "sha256": "98050c7d4143b1aa9ab6e8bf3808d4a03a9334ddc3a1eb44a14f986fd393ea55",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 33105,
+    "sha256": "b6b08bb6f0c7e883d6d5d5b44d9d9f25b40313c8c29b6273308b0241ba29f02b",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 328,
+    "sha256": "d72a9a133698d0164beed9b4c0914cf0420f97324b9c2f1b0ea8031020e37398",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 328,
+    "sha256": "d72a9a133698d0164beed9b4c0914cf0420f97324b9c2f1b0ea8031020e37398",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 442,
+    "sha256": "e0a4d8befc653d0c386b9722ac3d0866d5198c585acbbf0993937cd14084da2a",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 7430,
+    "sha256": "cc8d9a485814eb4944ba37cf2afb66ff8471ebe931642ace0da63a161d608016",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 11139,
+    "sha256": "ad2bb88f2bff85f612e04036bfa255eca397877f0b28907745bcbccd3528f28f",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 1154,
+    "sha256": "d072e868691419e9b5004fa27e69dd2726a6b41a276bc420d5859d239414b857",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 776,
+    "sha256": "f4cc664a14cd67d3190dd2735b88d79476b83f50436699e0e1ec65fe802396cc",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 9181,
+    "sha256": "b0b7c5eaa4b65c909f0df97a9726103f3b0971e5be6682aec0e591cbfc1310be",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 60140,
+    "sha256": "e0beeebf4961209bcb173ca9252455a209007da34f34b0327bd1559d6d19fa36",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 43072,
+    "sha256": "1cf4d32102bbceff266390a776df5a7cac74cf8bcef328f4d7bcd5305773685c",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 276317,
+    "sha256": "8f69f0ab51d38169d7c046dcbee41fd10310bedbf7d503af7263c66f1f87370d",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 6704,
+    "sha256": "cfd997e6db2cbd2b010807bf83aaeefdf6e909dee747f2c38910f77a40b62aa0",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 23722,
+    "sha256": "264351717a41baef098dc93f898463bf0a5a21e5faefdb12edbd9271eae08d4f",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 98761,
+    "sha256": "7ed38a740888b003c12e26ea18126873778ed1fe39906a591415f3aaa84f87f8",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 23842,
+    "sha256": "9554520c3629e6af56dc7d67952bcf1e28ac85c730252d1d44a7e88aab401014",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 23358,
+    "sha256": "7b9a200c721c9bdd39b11bfb8d2db56317740dfdc37801e2dd9e123342b012b6",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1272,
+    "sha256": "61430744b3c6a82f9b69a870c861d96628510ea8c4ad0ac34e9032e7e9598a9e",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1167,
+    "sha256": "c6ce3f210c6fd8f28e8087329f3b0ad76feb226ae2a69e9f04a012c2904eaa0d",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 1993,
+    "sha256": "a73fcee3ca6eaa1c24416c856238e68b649942aed1077d9e716d26dc2a0cc155",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 235485,
+    "sha256": "f2e307a6b919e1e1ad4a21bb2b063c18b2277f35160d6ca0997603c07cab0cd6",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 227897,
+    "sha256": "543c73b3bca8d588454d89b1bb3eec0f50aa499cf25b8357de320bdbafcbba36",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 234559,
+    "sha256": "de67d2575f631345a06b58579301bd9fcf46987f0b2f38c6971787a656dba978",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 155915,
+    "sha256": "1b7e62112fc7e2c2357fd68c541ec84283de1c9be92e1ab19bef5cfccbf62641",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 181497,
+    "sha256": "f98caeaee5277cac447da3d0239ff4834394fedfbac79a58d8319b5a25d58dca",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 181494,
+    "sha256": "a36d98de0691a26ce8e26e245763e6d37d6b4bfc0ef347eeccd4ce57bd4b7ba8",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 221601,
+    "sha256": "67f5cc510b7343f5eadb34154c3c42b6971eb4b9afb8f62a958bbb3ebc1806dc",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 220035,
+    "sha256": "c5d23f678e8ede54cc1bc4c30e4fc55b4ef64a69029466b6dd74947496b1b1d0",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 253935,
+    "sha256": "1dab78b12006437b1fe27e20b20d9b8b30635e06a28686c79e70999550dcc0b4",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 232813,
+    "sha256": "d8a0b697c8a3ef96f1626495ffa98ed5f9282850497b745e5a55f56d103c0ade",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 393644,
+    "sha256": "b2770f6d0dd1b0e78796e9e9fe3195c3e182cb95c3bb306a7852b7ecf80454f6",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 371548,
+    "sha256": "181dc2734ed5f75526298e33c18ab4a04861ff9ca564abaeb70bc4b3ea22c1b6",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 226916,
+    "sha256": "536fec45e543d935c4141e2501a277aa57105c7d8b0eddf9a8ad882e880c8632",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 305031,
+    "sha256": "ce7a3efd6ac010e66072b07b74073bce8d8fb82f1be962c10d01f4ec666f994c",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 317369,
+    "sha256": "7f485c6d50ddff26675a028d5df738746c5b76111d5165788dd43fa9758121c1",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 310368,
+    "sha256": "264f8c0376cc9241a6cc846c59e788646b20064213d099acc9b19e727663e269",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 242262,
+    "sha256": "1bdc334ae3193205138235d1d4b1412904e1af655329942daf39f836a3b1e804",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 415422,
+    "sha256": "f16253ad67d15e3468531f5b5545416a487561d0e1ec291825810f05e4e85474",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 394223,
+    "sha256": "aebb086b7ba2dc13a15ad8b216c051ebd2c1cb330f04bb55a8957e8e61f70117",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 349945,
+    "sha256": "c0e4f70f1608140bdd4da72f1f3052b107f914a9541b1e2b9065b328670e181b",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 326820,
+    "sha256": "1dd4cfc1ddec4adfbd995310ac8d822d1d471176ff771d094710d37e8d63b470",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 469795,
+    "sha256": "e85b699baa7005e09afbc26f9f4240e15f478798bf2a5b7e1c879822c42f0c96",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 429131,
+    "sha256": "c4d33fcb022fb2eba3c316a22788324c8a49072a7195d71248060c4cb6ea6c24",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2613,
+    "sha256": "d9c53a77731bb31eaf63f2d0141ab232d30f12d1fcc478ef449f82f743a5eab6",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 18305,
+    "sha256": "11d073557c3242f4f79ed268ec2e7d10ef2f97cf085ffa247b978fcf7935075d",
+    "bundle": "Pericyte_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 4887,
+    "sha256": "dc1cb974cc9424d0169149963794de959dca04b4cfd5452dffe7b6329e206fe4",
+    "bundle": "Pericyte_review_lite_01.zip"
+  }
+]

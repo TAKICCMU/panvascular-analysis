@@ -1,0 +1,15 @@
+{
+  "sample_seconds": 1,
+  "affinity_cores": 60,
+  "affinity_cpu_busy_percent": 3.5011670556852286,
+  "affinity_iowait_percent": 0.25008336112037344,
+  "load_average": [
+    6.45,
+    8.74,
+    25.43
+  ],
+  "memory_total_GiB": 768.341121673584,
+  "memory_available_GiB": 607.6268043518066,
+  "disk_free_GiB": 65.54292297363281,
+  "GPU": "GPU-ee506680-afc9-11fd-3ed0-99b220571975, 90 %, 1312 MiB, 32607 MiB"
+}

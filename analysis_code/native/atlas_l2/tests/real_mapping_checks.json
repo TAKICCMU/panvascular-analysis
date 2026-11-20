@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "test": "Real 1175115 cell registry and 14 original member files used; original mapping hashes match",
+      "passed": true
+    },
+    {
+      "test": "Previous approved working labels reconstructed and match 170 current reviewed unit count snapshots",
+      "passed": true
+    },
+    {
+      "test": "All 75 Pending residual units are disjoint, complete and match exact current counts",
+      "passed": true
+    },
+    {
+      "test": "All 384421 Pending assigned by explicit decision table; no score-based annotation",
+      "passed": true
+    },
+    {
+      "test": "398610 actual changed cell labels including the single approved 14189-cell rename",
+      "passed": true
+    },
+    {
+      "test": "Original L1 Unknown, all approved L2 Unknown and Schwann preserved",
+      "passed": true
+    },
+    {
+      "test": "SPP1 7757 and CYP27A1 9483 remain separate; 12/18 membership unchanged",
+      "passed": true
+    },
+    {
+      "test": "No labels outside pending/approved rename modified",
+      "passed": true
+    },
+    {
+      "test": "116 final unique named labels; every marker anchor occurs in actual supplied expression table",
+      "passed": true
+    },
+    {
+      "test": "Final counts 1054063 named, 118220 Unknown, 2832 Not_assessed; 0 Pending or unspecified",
+      "passed": true
+    },
+    {
+      "test": "Changed reviewed working label rejected",
+      "passed": true
+    },
+    {
+      "test": "Wrong residual count rejected",
+      "passed": true
+    },
+    {
+      "test": "Missing final decision rejected",
+      "passed": true
+    },
+    {
+      "test": "Conflicting L2 aliases rejected",
+      "passed": true
+    }
+  ],
+  "n_tests": 14,
+  "used_real_full_cell_registry": true,
+  "read_or_changed_server_h5ad": false,
+  "no_new_statistical_analysis": true
+}

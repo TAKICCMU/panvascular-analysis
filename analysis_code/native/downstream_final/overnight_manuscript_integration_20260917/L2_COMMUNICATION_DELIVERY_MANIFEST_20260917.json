@@ -1,0 +1,28 @@
+{
+  "status": "VALIDATED_READY_FOR_LOCAL_DELIVERY",
+  "samples": 212,
+  "strata": 6,
+  "ascending_consensus_edges": 176,
+  "source_review_sha256": "fa1b4d93c552ca480bed3ba028dcc187d787af9cf0932b2e25836479c31c6af1",
+  "verified_source_hashes": 233,
+  "files": {
+    "communication_L2_final_review/all_supported_interactions.tsv.gz": "ee630ce65bb850339c946374d3fd987a86185e4bab83a1c72513636addc0da4d",
+    "communication_L2_final_review/two_method_consensus_summary.tsv": "eb62176adeaef2d74b73d4780b69f953671dac896ea74c0dc314ec3cc684eae5",
+    "communication_L2_final_review/REPORT_CN.html": "137c79407b18c5a34cd3dd75cc8ed275bd69c59ef5904659c03ceda1cb530228",
+    "communication_L2_final_review/consensus_stratum_2cf3a35e050a.tsv.gz": "d80a535b8676e81854e6466092e65e9ad8644f7b17e96b13ed524b6328d24af1",
+    "communication_L2_final_review/consensus_stratum_f989f20c22ec.tsv.gz": "4192de625abbf1f1b7f57983ea2db73e54834a9b1341264cdea90e95b8415289",
+    "communication_L2_final_review/consensus_stratum_3d516d867304.tsv.gz": "68a518ccffd77a87afb1743026ea2e2467789c8648674108be85bdb008b9c717",
+    "communication_L2_final_review/INDEPENDENT_VALIDATION.json": "fa1b4d93c552ca480bed3ba028dcc187d787af9cf0932b2e25836479c31c6af1",
+    "communication_L2_final_review/REPORT_CN.md": "333431fd21dbfc64fc598d0a3a39b02e2ff22834804e67415f34a530bd03e7d6",
+    "communication_L2_final_review/consensus_stratum_18e82f9e2e67.tsv.gz": "8f86cbea7e990855b093c573346c9e61f4fb61458cdb6624d38bfc416da16935",
+    "communication_L2_final_review/FINAL_COMPLETION_CN.md": "13b27e7f5de3b4e4d3d1d6a6ac60113f3e30120eb23b2c42018692c27c3cedf3",
+    "communication_L2_final_review/consensus_result.tsv.gz": "08d2b06007db6a9bf4cad136c3c77f841a553340cf5bf360388160aaa55fc311",
+    "communication_L2_final_review/consensus_stratum_3c87a87620db.tsv.gz": "d34cab5713c436ab4aed70f56b6b1717b08d8f6d6667f816851d63c31398d387",
+    "communication_L2_final_review/L2_disease_communication_summary.tsv": "35ef0a785bb3e6298b0ab808ecd286fc22524bbfa7dae42cfd7d546f5df3386b",
+    "manuscript_comparison/RESULTS_ADDENDUM_L2_COMMUNICATION_CN.md": "784bcb16ca6e27b0d5bc967bbe040f2461780d62d53d64a2e2578b17b276a9d3",
+    "communication_ascending_parallel_v2/COMPLETE.json": "8d54df4969c36fba6a58cdfccafa56afd6fb4f42c92a59c148095a325a8515c5",
+    "communication_ascending_parallel_v2/FINALIZED.json": "859d15ef8243fce958d0071016683ba35a5cb573c0b83ecafc72111b8a12c054",
+    "communication_ascending_parallel_v2/SUPERSEDED_PROCESS.json": "d888e3b3d3db946004ded78e2e9a2abea94ef22f08e085368612969bbf3067c4",
+    "communication_ascending_parallel_v2/RECEIPT_v2_1.json": "3316a79db29192e0b13ca6cc0cd4cf723184b98062d2d098054b93ff61eb6e8a"
+  }
+}

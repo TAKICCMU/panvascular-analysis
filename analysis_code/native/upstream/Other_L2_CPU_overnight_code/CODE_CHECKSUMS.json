@@ -1,0 +1,16 @@
+{
+  "01_export_metadata_cell.py": "beebc9e0c8f4be93a9a2c71b998ab5e5012c72113fad88fbad694a0dd833cf5f",
+  "02_launch_other_L2_cell.py": "53ff69d44fcafbd936fbdc51414c6e87cd57d84fdf84fc9e3b1172ae0ba0f013",
+  "03_check_progress_cell.py": "9436bb91e95e03e18cd59186037c291dbf31e88524f03102f486bd5dd5d49a75",
+  "README_CN.md": "625fe40f7d6187ef2a58944fc3025f14855af0225c5af9cb3bd5649873b9962a",
+  "RUN_IN_CURRENT_NOTEBOOK.ipynb": "43ac7183fcee489141186958b42a5bea0ef59e90e2a8ae53562ea10e17d79842",
+  "TEST_REPORT.json": "b583f75b64b61cf7fbfc8904d38399d30a288f8cefb5dc2f2e23c84bd1fc2a01",
+  "lineage_cpu_core.py": "f52d0bb2fb6540067f9a25f05f679c4f07e659ed2574669bc2aabf44c9eb09c8",
+  "lineage_plans.json": "7d297f7ba3635464dff8d262c73258af3f199fbd06d9e72b1b5ffe1c496937f4",
+  "other_lineages_cpu_batch.py": "bd6573ff99ef70e612d1bc06983cef224892322c5f973b5923a63308536c1b84",
+  "provenance/README.md": "8fa2c05649a2882633034d5cbb3d080f07eb3fa9401690ad17000c501b88b5da",
+  "provenance/core_adaptation.diff": "d158af4d28ffa50822bb8bbda30c8def0e8c35302996f87f89ae8f8e1423ae95",
+  "provenance/macrophage_L2_CPU_round1_original.py": "978f8bbb970e0fc29fd32e4bba85895c946775bd51ceab3c6a96563582ad6a96",
+  "run_defaults.json": "4ac38d9493ee2f5e46bf7cbdccd2b2b1a5a6993cfe9ce4cb80297e243942959d",
+  "sample_metadata_export.py": "0b676263dc5ab3ce5cdad319442dd3bbbe7383abfabf946c1e857bfbbbe02b21"
+}

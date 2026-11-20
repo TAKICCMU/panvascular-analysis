@@ -1,0 +1,17 @@
+{
+  "authorization": "User approved three-background analysis and CKB focus",
+  "model": "L1_G2_66f8b6a32f17",
+  "cell_state": "Smooth muscle cell",
+  "context": "G2",
+  "input_source": "hash-verified frozen sample-level raw pseudobulk; completed L1 export",
+  "bound_files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/code/fit.R": "aec36354d94a25b81587b37638903de39deb92acb439e916fddf22bb60548210",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/tests/native_v1/PASS.json": "b8df72006e43b0daf4ef4d06bf5abdde333ce80d77f846cfc6be2688de04b78a",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/genes.tsv": "b7c25ab334560bd59509836de035b2f11ddd7b2ed20c9a2a42dde9eddd3ea787",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/inputs/L1_G2_66f8b6a32f17/counts.mtx.gz": "08c33a8d0510c9141b49a467257019aa78fcfaaf113414e95c823443a71124b2",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/inputs/L1_G2_66f8b6a32f17/units.tsv": "be249ca283a5d24164d06d6ace2de564cab0d8553bf2fe4d0a6cd780e0285db2",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/disease_background_3groups_review_v2/sample_background_sidecar_v2.tsv": "852c08353c53a1b4d32b0b5928c9d1ac6a0278e365748912adfaf2ff30cf2ce4"
+  },
+  "prep_pid_suspended": 1218024,
+  "scope": "one complete all-gene edgeR test, CKB extracted after full-gene BH"
+}

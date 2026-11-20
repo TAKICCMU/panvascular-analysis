@@ -1,0 +1,20 @@
+[
+  {
+    "study": "GSE255895",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE255nnn/GSE255895/soft/GSE255895_family.soft.gz",
+    "status": "DOWNLOADED",
+    "sha256": "893039e19c7cee76a712ed9187eeae16ceeecc6064e8e49cc9aefe51f8458546"
+  },
+  {
+    "study": "GSE248609",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE248nnn/GSE248609/soft/GSE248609_family.soft.gz",
+    "status": "DOWNLOADED",
+    "sha256": "adfc404d981c7d932b43935d3bbe43858c39ee5ee2ad5ac53a51030304518edd"
+  },
+  {
+    "study": "GSE155468",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE155nnn/GSE155468/soft/GSE155468_family.soft.gz",
+    "status": "DOWNLOADED",
+    "sha256": "c3aaa2453fdc8631ce4302b56d54d25c5f3d3c10bef244c2b66f0d360b42a5a7"
+  }
+]

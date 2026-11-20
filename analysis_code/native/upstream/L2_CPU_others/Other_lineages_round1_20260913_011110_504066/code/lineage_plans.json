@@ -1,0 +1,2581 @@
+{
+  "Fibroblast": {
+    "slug": "Fibroblast",
+    "uid_prefix": "FibL2_R1",
+    "state": {
+      "Fibroblast core": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA",
+        "FBLN1"
+      ],
+      "Matrix-complement": [
+        "C1R",
+        "C1S",
+        "C3",
+        "C7",
+        "CFD",
+        "DPT"
+      ],
+      "Tissue-associated": [
+        "PI16",
+        "COL15A1",
+        "DPT",
+        "LAMA2",
+        "APOD",
+        "MFAP5"
+      ],
+      "ECM-remodelling": [
+        "FN1",
+        "BGN",
+        "SPARC",
+        "AEBP1",
+        "COL3A1",
+        "LTBP2"
+      ],
+      "Contractile-activated": [
+        "POSTN",
+        "ACTA2",
+        "TAGLN",
+        "MYL9",
+        "FAP",
+        "THBS2"
+      ],
+      "Inflammatory": [
+        "CCL2",
+        "CXCL8",
+        "IL6",
+        "CXCL1",
+        "CXCL2",
+        "CCL19"
+      ],
+      "Secretory": [
+        "PLA2G2A",
+        "RARRES2",
+        "C3",
+        "CFD"
+      ],
+      "Manuscript anchor checks": [
+        "C1R",
+        "LAMA2",
+        "ITGA8",
+        "POSTN",
+        "RBMS3",
+        "SCARA5"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Fibroblast",
+    "expected_n_cells": 251371,
+    "core_panel_key": "Fibroblast core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Smooth muscle cell": {
+    "slug": "SMC",
+    "uid_prefix": "SMCL2_R1",
+    "state": {
+      "SMC core": [
+        "MYH11",
+        "ACTA2",
+        "TAGLN",
+        "CNN1",
+        "LMOD1",
+        "MYLK"
+      ],
+      "Contractile": [
+        "PRKG1",
+        "MYOCD",
+        "MYL9",
+        "TPM2",
+        "CALD1",
+        "ACTG2",
+        "CARMN"
+      ],
+      "ECM-remodelling": [
+        "FN1",
+        "VCAN",
+        "BGN",
+        "AEBP1",
+        "COL1A1",
+        "COL3A1",
+        "SPARC"
+      ],
+      "Inflammatory": [
+        "CCL2",
+        "IL6",
+        "CXCL8",
+        "VCAM1",
+        "ICAM1"
+      ],
+      "Calcification-related check": [
+        "RUNX2",
+        "ALPL",
+        "SPP1",
+        "IBSP",
+        "SOX9"
+      ],
+      "Perivascular-related": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "COX4I2",
+        "NDUFA4L2",
+        "NOTCH3"
+      ],
+      "Other manuscript anchors": [
+        "ITGA8",
+        "RERGL",
+        "TSHZ2",
+        "TFF1",
+        "FGF7"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Smooth muscle cell",
+    "expected_n_cells": 243346,
+    "core_panel_key": "SMC core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Endothelial cell": {
+    "slug": "Endothelial",
+    "uid_prefix": "EndoL2_R1",
+    "state": {
+      "Endothelial core": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5",
+        "KDR",
+        "ECSCR"
+      ],
+      "Arterial": [
+        "EFNB2",
+        "GJA5",
+        "SEMA3G",
+        "SOX17",
+        "HEY1",
+        "DLL4"
+      ],
+      "Venous": [
+        "ACKR1",
+        "NR2F2",
+        "CCL14",
+        "PLVAP"
+      ],
+      "Capillary": [
+        "CA4",
+        "RGCC",
+        "EMCN",
+        "EDNRB",
+        "FCN3",
+        "FABP4"
+      ],
+      "Lymphatic": [
+        "PROX1",
+        "CCL21",
+        "FLT4",
+        "PDPN",
+        "MMRN1"
+      ],
+      "Endocardial-valvular": [
+        "GATA4",
+        "NRG1",
+        "BMPER",
+        "NFATC1",
+        "NPR3"
+      ],
+      "Activated-inflammatory": [
+        "VCAM1",
+        "ICAM1",
+        "SELE",
+        "CCL2",
+        "CXCL8"
+      ],
+      "Angiogenic check": [
+        "ESM1",
+        "ANGPT2",
+        "APLN",
+        "KDR"
+      ],
+      "Antigen-presentation": [
+        "HLA-DRA",
+        "HLA-DRB1",
+        "CD74",
+        "CIITA"
+      ],
+      "Mesenchymal program check": [
+        "SOD3",
+        "COL1A1",
+        "TAGLN",
+        "AEBP1",
+        "FN1"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Endothelial cell",
+    "expected_n_cells": 104415,
+    "core_panel_key": "Endothelial core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "T cell": {
+    "slug": "T_cell",
+    "uid_prefix": "TL2_R1",
+    "state": {
+      "T cell core": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "CD4-CD8 identity": [
+        "CD4",
+        "CD8A",
+        "CD8B",
+        "BCL11B",
+        "THEMIS"
+      ],
+      "Naive-associated": [
+        "CCR7",
+        "TCF7",
+        "LEF1",
+        "SELL",
+        "MAL"
+      ],
+      "Memory-associated": [
+        "IL7R",
+        "LTB",
+        "KLRB1",
+        "S100A4",
+        "GPR183"
+      ],
+      "GZMK cytotoxic-memory": [
+        "GZMK",
+        "CCL5",
+        "CST7",
+        "EOMES"
+      ],
+      "Effector-cytotoxic": [
+        "FGFBP2",
+        "GZMB",
+        "PRF1",
+        "GNLY",
+        "NKG7",
+        "ZEB2"
+      ],
+      "Regulatory": [
+        "FOXP3",
+        "IL2RA",
+        "CTLA4",
+        "IKZF2",
+        "TIGIT"
+      ],
+      "Activation-dysfunction check": [
+        "PDCD1",
+        "LAG3",
+        "HAVCR2",
+        "TOX",
+        "TIGIT",
+        "CXCL13"
+      ],
+      "Tissue-retention check": [
+        "ITGAE",
+        "CD69",
+        "CXCR6",
+        "ZNF683"
+      ],
+      "Gamma-delta check": [
+        "TRDC",
+        "TRGC1",
+        "TRGC2"
+      ],
+      "MAIT-associated check": [
+        "TRAV1-2",
+        "SLC4A10",
+        "KLRB1",
+        "ZBTB16"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "T cell",
+    "expected_n_cells": 156349,
+    "core_panel_key": "T cell core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Fibromyocyte": {
+    "slug": "Fibromyocyte",
+    "uid_prefix": "FMCL2_R1",
+    "state": {
+      "Fibromyocyte phenotype": [
+        "AEBP1",
+        "FN1",
+        "COL1A2",
+        "LUM",
+        "ACTA2",
+        "TAGLN",
+        "TCF21"
+      ],
+      "ECM-remodelling": [
+        "AEBP1",
+        "POSTN",
+        "COL3A1",
+        "BGN",
+        "LTBP2",
+        "TNFRSF11B"
+      ],
+      "Contractile": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "MYLK",
+        "PRKG1",
+        "MYL9"
+      ],
+      "Fibroblast-associated": [
+        "SCARA5",
+        "DCN",
+        "LUM",
+        "PDGFRA",
+        "FBLN1",
+        "TCF21"
+      ],
+      "Inflammatory": [
+        "CCL2",
+        "IL6",
+        "CXCL8",
+        "VCAM1"
+      ],
+      "Calcification-related check": [
+        "RUNX2",
+        "ALPL",
+        "SPP1",
+        "SOX9"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Fibromyocyte",
+    "expected_n_cells": 29347,
+    "core_panel_key": "Fibromyocyte phenotype",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Monocyte": {
+    "slug": "Monocyte",
+    "uid_prefix": "MonoL2_R1",
+    "state": {
+      "Monocyte core": [
+        "LYZ",
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CTSS",
+        "FCN1"
+      ],
+      "Classical-associated": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2",
+        "SELL",
+        "CD14"
+      ],
+      "Nonclassical-associated": [
+        "FCGR3A",
+        "CX3CR1",
+        "LYPD2",
+        "MS4A7",
+        "CDKN1C",
+        "LILRB1"
+      ],
+      "Inflammatory": [
+        "IL1B",
+        "CXCL8",
+        "CCL3",
+        "NLRP3",
+        "TNF"
+      ],
+      "Antigen-presentation": [
+        "HLA-DRA",
+        "CD74",
+        "CIITA"
+      ],
+      "Macrophage program boundary": [
+        "C1QA",
+        "C1QC",
+        "MERTK",
+        "MSR1",
+        "APOE",
+        "GPNMB"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Monocyte",
+    "expected_n_cells": 31046,
+    "core_panel_key": "Monocyte core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Natural killer cell": {
+    "slug": "NK_cell",
+    "uid_prefix": "NKL2_R1",
+    "state": {
+      "NK core": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "PRF1",
+        "TYROBP",
+        "FCER1G"
+      ],
+      "Effector-cytotoxic": [
+        "FGFBP2",
+        "FCGR3A",
+        "GZMB",
+        "GZMH",
+        "PRF1",
+        "CX3CR1"
+      ],
+      "Chemokine-associated": [
+        "XCL1",
+        "XCL2",
+        "KLRC1",
+        "GZMK",
+        "NCAM1"
+      ],
+      "Tissue-associated check": [
+        "CXCR6",
+        "ITGA1",
+        "CD69",
+        "ZNF683"
+      ],
+      "Adaptive-associated check": [
+        "KLRC2",
+        "B3GAT1",
+        "ZBTB16",
+        "FCER1G",
+        "SYK"
+      ],
+      "TCR identity check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2",
+        "TRDC",
+        "TRGC1",
+        "TRGC2"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Natural killer cell",
+    "expected_n_cells": 25719,
+    "core_panel_key": "NK core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Dendritic cell": {
+    "slug": "Dendritic",
+    "uid_prefix": "DCL2_R1",
+    "state": {
+      "DC APC core": [
+        "HLA-DRA",
+        "HLA-DRB1",
+        "CD74",
+        "CST3",
+        "FLT3"
+      ],
+      "cDC1-associated": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3",
+        "DNASE1L3"
+      ],
+      "cDC2-associated": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A",
+        "CD1E"
+      ],
+      "pDC-associated": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB",
+        "TCF4",
+        "IRF7"
+      ],
+      "Mature-DC-associated": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL19",
+        "CCL22"
+      ],
+      "AXL-associated check": [
+        "AXL",
+        "SIGLEC6",
+        "CD5",
+        "CD2"
+      ],
+      "Monocyte-associated boundary": [
+        "CD14",
+        "FCN1",
+        "S100A8",
+        "S100A9",
+        "VCAN"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Dendritic cell",
+    "expected_n_cells": 10556,
+    "core_panel_key": "DC APC core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "B cell": {
+    "slug": "B_cell",
+    "uid_prefix": "BL2_R1",
+    "state": {
+      "B cell core": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22",
+        "CD37"
+      ],
+      "Naive-associated": [
+        "IGHD",
+        "IGHM",
+        "TCL1A",
+        "FCER2",
+        "IL4R"
+      ],
+      "Memory-associated": [
+        "CD27",
+        "TNFRSF13B",
+        "CD80",
+        "BANK1"
+      ],
+      "Activation": [
+        "CD69",
+        "CD83",
+        "NFKBIA",
+        "CD86"
+      ],
+      "Atypical-memory check": [
+        "FCRL5",
+        "ITGAX",
+        "TBX21",
+        "ZEB2"
+      ],
+      "GC-associated check": [
+        "BCL6",
+        "AICDA",
+        "RGS13",
+        "MEF2B"
+      ],
+      "Antibody-secretion boundary": [
+        "MZB1",
+        "JCHAIN",
+        "XBP1",
+        "PRDM1",
+        "SDC1"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "B cell",
+    "expected_n_cells": 10496,
+    "core_panel_key": "B cell core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Plasma cell": {
+    "slug": "Plasma",
+    "uid_prefix": "PlasmaL2_R1",
+    "state": {
+      "Plasma core": [
+        "MZB1",
+        "XBP1",
+        "JCHAIN",
+        "PRDM1",
+        "SDC1",
+        "IRF4"
+      ],
+      "IgA": [
+        "IGHA1",
+        "IGHA2",
+        "JCHAIN"
+      ],
+      "IgG": [
+        "IGHG1",
+        "IGHG2",
+        "IGHG3",
+        "IGHG4"
+      ],
+      "IgM": [
+        "IGHM",
+        "JCHAIN"
+      ],
+      "Other heavy chains check": [
+        "IGHD",
+        "IGHE"
+      ],
+      "Secretory-machinery": [
+        "SEC11C",
+        "SSR4",
+        "DERL3",
+        "FKBP11",
+        "TNFRSF17"
+      ],
+      "B-identity boundary": [
+        "MS4A1",
+        "CD79A",
+        "CD22",
+        "CD27"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Plasma cell",
+    "expected_n_cells": 4802,
+    "core_panel_key": "Plasma core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Mast cell": {
+    "slug": "Mast",
+    "uid_prefix": "MastL2_R1",
+    "state": {
+      "Mast core": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC",
+        "MS4A2",
+        "CPA3"
+      ],
+      "Protease-associated": [
+        "CMA1",
+        "CTSG",
+        "CPA3",
+        "TPSAB1",
+        "TPSB2"
+      ],
+      "Receptor-signalling": [
+        "MRGPRX2",
+        "FCER1A",
+        "MS4A2",
+        "KIT",
+        "IL1RL1"
+      ],
+      "Inflammatory-activation": [
+        "IL1B",
+        "TNF",
+        "CCL2",
+        "CCL3",
+        "CCL4",
+        "IL13"
+      ],
+      "Lipid-mediator machinery": [
+        "HPGDS",
+        "ALOX5",
+        "LTC4S",
+        "PTGS2"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Mast cell",
+    "expected_n_cells": 12929,
+    "core_panel_key": "Mast core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Neutrophil": {
+    "slug": "Neutrophil",
+    "uid_prefix": "NeutroL2_R1",
+    "state": {
+      "Neutrophil core": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2",
+        "FPR1",
+        "S100A8",
+        "S100A9"
+      ],
+      "Inflammatory": [
+        "CXCL8",
+        "IL1B",
+        "NFKBIA",
+        "NAMPT",
+        "S100A12"
+      ],
+      "Granule-associated": [
+        "MPO",
+        "ELANE",
+        "PRTN3",
+        "AZU1",
+        "CTSG",
+        "LTF",
+        "MMP8",
+        "MMP9"
+      ],
+      "Mature-associated check": [
+        "FCGR3B",
+        "CXCR2",
+        "FPR1",
+        "SELL"
+      ],
+      "Metabolic-stress check": [
+        "HIF1A",
+        "SOD2",
+        "AQP9",
+        "G0S2"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Neutrophil",
+    "expected_n_cells": 18509,
+    "core_panel_key": "Neutrophil core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  },
+  "Pericyte": {
+    "slug": "Pericyte",
+    "uid_prefix": "PeriL2_R1",
+    "state": {
+      "Pericyte core": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "COX4I2-associated": [
+        "COX4I2",
+        "NDUFA4L2",
+        "HIGD1B",
+        "CD36",
+        "NOTCH3"
+      ],
+      "ECM-associated": [
+        "FN1",
+        "COL4A1",
+        "COL4A2",
+        "COL18A1",
+        "SPARC",
+        "THY1"
+      ],
+      "SMC-program boundary": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2",
+        "MYLK"
+      ],
+      "Inflammatory": [
+        "CCL2",
+        "IL6",
+        "CXCL8",
+        "VCAM1"
+      ],
+      "IFN-response": [
+        "ISG15",
+        "MX1",
+        "IFIT1",
+        "IFIT3",
+        "IFI6",
+        "STAT1"
+      ],
+      "Proliferation": [
+        "MKI67",
+        "TOP2A",
+        "UBE2C",
+        "BIRC5"
+      ],
+      "Stress check": [
+        "FOS",
+        "JUN",
+        "HSPA1A",
+        "HSPA1B",
+        "DNAJB1"
+      ]
+    },
+    "level1_value": "Pericyte",
+    "expected_n_cells": 4513,
+    "core_panel_key": "Pericyte core",
+    "boundary": {
+      "Macrophage check": [
+        "LST1",
+        "TYROBP",
+        "FCER1G",
+        "CD68",
+        "CSF1R",
+        "C1QC",
+        "MERTK"
+      ],
+      "Monocyte boundary": [
+        "FCN1",
+        "VCAN",
+        "S100A8",
+        "S100A9",
+        "S100A12",
+        "CCR2"
+      ],
+      "cDC2 check": [
+        "CD1C",
+        "FCER1A",
+        "CLEC10A"
+      ],
+      "cDC1 check": [
+        "CLEC9A",
+        "XCR1",
+        "CADM1",
+        "BATF3"
+      ],
+      "pDC check": [
+        "LILRA4",
+        "CLEC4C",
+        "IL3RA",
+        "GZMB"
+      ],
+      "Mature DC check": [
+        "LAMP3",
+        "CCR7",
+        "FSCN1",
+        "CCL22"
+      ],
+      "Neutrophil check": [
+        "FCGR3B",
+        "CSF3R",
+        "CXCR2"
+      ],
+      "T check": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2"
+      ],
+      "NK check": [
+        "KLRD1",
+        "GNLY",
+        "NKG7",
+        "XCL1"
+      ],
+      "B check": [
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "CD22"
+      ],
+      "Plasma check": [
+        "MZB1",
+        "JCHAIN",
+        "SDC1",
+        "XBP1"
+      ],
+      "Mast check": [
+        "TPSAB1",
+        "TPSB2",
+        "KIT",
+        "HDC"
+      ],
+      "Fibroblast check": [
+        "DCN",
+        "LUM",
+        "COL1A1",
+        "COL1A2",
+        "PDGFRA"
+      ],
+      "SMC check": [
+        "MYH11",
+        "CNN1",
+        "LMOD1",
+        "TAGLN",
+        "ACTA2"
+      ],
+      "Pericyte check": [
+        "RGS5",
+        "ABCC9",
+        "KCNJ8",
+        "CSPG4",
+        "PDGFRB"
+      ],
+      "Endothelial check": [
+        "PECAM1",
+        "VWF",
+        "CDH5",
+        "CLDN5"
+      ],
+      "Schwann check": [
+        "SOX10",
+        "MPZ",
+        "PLP1"
+      ],
+      "Epithelial check": [
+        "EPCAM",
+        "KRT8",
+        "KRT18",
+        "KRT19"
+      ]
+    },
+    "expected_n_genes": 37336,
+    "note": "REVIEW ONLY; shared genes/programs do not automatically change labels. L1 immutable."
+  }
+}

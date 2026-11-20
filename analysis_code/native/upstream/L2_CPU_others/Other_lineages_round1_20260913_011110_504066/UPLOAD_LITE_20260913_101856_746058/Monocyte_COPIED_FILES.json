@@ -1,0 +1,674 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 19381,
+    "sha256": "776b2c8cdaf563bfb423a659e1822fe1d14fa2e22f24a919613aed668c989528",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 11773,
+    "sha256": "d61992a70784cd1628a83c6b3653ab14f62042e3c7f1148de4733033274858c7",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 10359,
+    "sha256": "8b1ecc37e7046acf765bac43d8279a64eb9d4d0ed91eb327f271857d6b06b29c",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 253,
+    "sha256": "a80484adb52ef3dc892ace352af251faff9e3862aa596b3a229bb760e00f9207",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 21366,
+    "sha256": "5d7952be73495b2f406fb23b4a99a32d9bef6519a60e93cb85926ec478c49e4d",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 152765,
+    "sha256": "7466ab11129343a617617a583fb3bbe42f9a7b4ba1363bf19e4e39634387c8e1",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 465043,
+    "sha256": "dcc41e12803f711a8c7415a40484910a078fbe862bd65d25460ed792171b9a98",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 4316,
+    "sha256": "785702ad5d900bbe07addbcb3f6e7ccd0565e4fd582a08b82f57b051fdb7cebf",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 4278,
+    "sha256": "21048129c1a15fbda43e025ba7b9809a1755dbaf1e92d618902c8677d9ff5db6",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 1781,
+    "sha256": "c2cb1f7a8a26afdb348fd7187cbe218a131903e69fc5860c26ee4bc89bf66d87",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 1781,
+    "sha256": "f245738ab0490c3e3c52302181b90ce4faf5029ec22fc8d6b77496fe163caa13",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 102331,
+    "sha256": "8e59110a61a9eb81187c908c8f469c7b390bcbd8b9d8911ba142bad67eb21af8",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 16274,
+    "sha256": "a20d6c031bc4cb9a68de56542b3b76d7781e14bc5a98f30d20b59eecc00f6cda",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 242,
+    "sha256": "f7546a417f58b6f2b5bbf667ece2f94ca7051bc35811b993f20a7bfa02682daa",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 242,
+    "sha256": "f7546a417f58b6f2b5bbf667ece2f94ca7051bc35811b993f20a7bfa02682daa",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 358,
+    "sha256": "77af355491539e0e6e5e8406180df808bf855766cdfe768213c35906a03f0a76",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 8405,
+    "sha256": "a7ac0ddb4e4e25078fcf52ba628102db784c84412cbf855650dd8a014ed44f75",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 11657,
+    "sha256": "dfb5448624cfd57037586c726ec330795bb26f0801e2d592ff052a0fa4309669",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 1059,
+    "sha256": "a9f4597ae3533b26471768cc6011c8b250c556dd3acd3a7f70fbd13eb799e2f2",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 634,
+    "sha256": "e629fe37dbf7a31c26ea9119e2ecd816413ffcf6cc332637ff3f93b9cc20b9e8",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 5750,
+    "sha256": "53091b34ce469ced3a761625d82b7b8b7738e9ad1096391177cd33166a917c7f",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 68886,
+    "sha256": "2540d85cc5e14c8a32055eed3fb6b01a2ab77347812bff40a84ab2250d87b93a",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 118196,
+    "sha256": "91adea4c9bdf9b962b5e794f0c26b018bcea087236414915f55569c65e9d2ff4",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 533487,
+    "sha256": "4074d7c80b0e19e206cb8ea4364a12cf43b9e40db89784984674b00e45cbf477",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 4142,
+    "sha256": "64ceca17f32df26cb67c7ebd74e50fcf1af148a232b628be763b73d9e130d9ae",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 19237,
+    "sha256": "d2d86d0ead9247f90a5c4ad735a7453c4bdb7afe35abc6f2c3c48ee6b808a36c",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 76188,
+    "sha256": "bb98fbacec123d781765547a2e929917403ba8ad854df92a28a40ce212b22771",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 19215,
+    "sha256": "1203f8660109475cbcae788004a24b6ee513972b07454c53b8b47bd9b513172e",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 18996,
+    "sha256": "9fa7ca21169ac9b6fb37b4ea135cd677b8eb92a16d2fc1fd198952cba9860991",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 5783,
+    "sha256": "119ead973f414c931b9c08e10cf5fa957e7e16dd67d482bf69366868e288cdbf",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 6040,
+    "sha256": "26992dd7730d9909b68c7900583ec43956e6d65ca15d3ef8282a91de3f9c784d",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 5390,
+    "sha256": "86af95b149f3255ae6ce82ba4ba7cab715d9cde995d05b234579438c0bd7328b",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 5617,
+    "sha256": "89e16b5a8c1608101401e37477cbc56bc303d965d5769c03e68604c446becd9d",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 146574,
+    "sha256": "0bc67b981ecd1298f17facb869eae4dd55ba5f7d7bbff3e62d5fbe00c09a77ab",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 25029,
+    "sha256": "010d3e65be25f12b1ed7a1bd4cb232bf55e480afd67c33c272fff34d8ce49bd0",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 321,
+    "sha256": "2cf7b1bb70918f63719379fe822f76dc3faa74af97c123f1b25f2947a27b2d4d",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 321,
+    "sha256": "2cf7b1bb70918f63719379fe822f76dc3faa74af97c123f1b25f2947a27b2d4d",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 455,
+    "sha256": "f470fdfc704e9a910d0c3e851d514e09c88ae1a2992f24c9068cefb5c6b29bed",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 9507,
+    "sha256": "de73b2c0f64751ba6164511e0b5aac5205b6948b4090d2e350a2d8d50a7f4a6e",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 13196,
+    "sha256": "e7003491076d7827584090341c5ca8af84eb0f69e6c2f04ffcd918767bb68438",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 1311,
+    "sha256": "85f7e94f34db71d37a665d6509bfdd58440fcbe888ec893aad6deb528c68230c",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 784,
+    "sha256": "f5f67fec8a80ab6cd16e2efc6a7d7941f0f47d2acb8df4c58274712f1834696c",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 7683,
+    "sha256": "51e867ce704d17a7b6dbd20cb929469e85a31a38a712c26a76a5b8ae1f311f71",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 84699,
+    "sha256": "5875ee5e310d68f5cc01c09ae21bd2ded7f3f3ae2f2d4f6b5e1daf6ab7ca9fc1",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 134900,
+    "sha256": "13ba1b3fcbbbee1d4826c9c0425f081ee6bcb180fe8b8b5ca447bee66ed8083f",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 627338,
+    "sha256": "f91b5c5129ef1d675a05d98f1152ab5ed94ba4c3d1c349fa67b3be1dde1dd25d",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 5421,
+    "sha256": "68df8f3d63b7f39dcdc38eca5a3d1fe4c7a719e1e24b4c225281e4bdfa8b4cbe",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 24835,
+    "sha256": "90736c33b18bd2eceefa89a4d9c560430a8648c2f1f2f45d4db75695ab3fe934",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 102012,
+    "sha256": "73e481e6b2340b1ff2dc7cb564b5707352c077259e92eb278c8c68eddafe7dec",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 26036,
+    "sha256": "8fd4d971b1051d004fbe59e9b06ee5a1f73a3dfca592d2770509e9d912425938",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 24524,
+    "sha256": "d89fd9dd2e707692287e1b8f711f68df866b2a17b1e734e01c265457085ab5fc",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 556,
+    "sha256": "3ca4803e75c6fd45ef3744491266f6010bd7967c15e3bc64e3cc7421db1a0c72",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 812,
+    "sha256": "0f2a849273ca06dac14a159c08e9664d62bbcc5279365fc03cb52a4ec8fe96ad",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 7664,
+    "sha256": "e80cb494369c4874424ba7165a40a796a0164080e84532897e447b7402ac0936",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 7614,
+    "sha256": "1f1547d4b4a3134fb762c6453d4db7a2e05e1bc916de18a79ea5b20131fd9ca7",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 7895,
+    "sha256": "bcba094d045214f2470d4a4eed3dbf32660346ae3d0276ced978d859a85bf35c",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 7867,
+    "sha256": "3ea26f539334a844ce35656d6526b86c1e579081b124414f15090d5fbf19d270",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 3026,
+    "sha256": "f94b828e43e12cb357e91711ee9edb543743e5825fb368545d3f4d28eb262508",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 3046,
+    "sha256": "c75bf5216c9a995250de48fa0c6e47f94e8e09ee29308aac9f59fbae416867f9",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 192513,
+    "sha256": "1cb9c551868af0fb58f2075c2b7f4f3fdadd31d7c51402d50ecb7031b75cff65",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 34084,
+    "sha256": "c3e9c6414416e2e5b67ea61de5112ff69645db209e0e0031a4d1456ebbd9df4c",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 401,
+    "sha256": "7d02b5d098a24cf519e887ee2b5ece4529d44b45ba93394bc159a60bfd563cc4",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 401,
+    "sha256": "7d02b5d098a24cf519e887ee2b5ece4529d44b45ba93394bc159a60bfd563cc4",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 553,
+    "sha256": "547a38c80ae71974b20e9ed24a9c14296fa5c489a76ca772e571c45ca290a24d",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 10636,
+    "sha256": "a498729174030de6de035fae41d14fd7d6b409813d8efeece5c4904a65e1c879",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 14758,
+    "sha256": "a923a6872da7249143e5ddd155324bb9fce5a4e7f9fcbb59e479cfd92144b553",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 1565,
+    "sha256": "1de76298fc25d606fab821a38052f62a9f1977a788b11db9eb0214a632d937b5",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 942,
+    "sha256": "787ca7bf3c17d213a095d33fb506907ed3e46cc795e2dcb049ba8d9f635de977",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 9675,
+    "sha256": "4443f5f978c23e6e651e90e90e9ab6ab092a80bd4d3e96bd844044e096441c29",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 101055,
+    "sha256": "49ae3b3b542801a6546478857c435d56c183f5f44450f4bad85ff1cec102e800",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 151326,
+    "sha256": "338b8644c20987e0ba62603b36f7066c9619b43bb946ee82d770b3542c7cb8e2",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 739035,
+    "sha256": "bfa73dc811dad7b02ba956cf76a4ac92656d8b95dd9e642747a617be09c12cb1",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 6831,
+    "sha256": "76540d0f05c77617ab37d24dd75d558a9db32d8bbb7e5e2234fd99f66295d891",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 32990,
+    "sha256": "57755b8d742e980ca9be18f66e9c60041e75b993a13a73872f737653c14709cc",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 133351,
+    "sha256": "a581b169197819025315e6edeba929ebf9c65642f3e4b2cd21d2ca5417e6c80f",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 33031,
+    "sha256": "97e2676d03914858890bbcb07b2c27ef249af079461a13301b4c57f608d769b6",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 32610,
+    "sha256": "bd94063b71799649f15a4563a6205b07abe79925f56e5e893b01b5432a1d19a0",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1272,
+    "sha256": "57d88155d3bbc70a877343bc67294d31fbda6a16b7df23f84e18642f210ae082",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1167,
+    "sha256": "bc9d54bdfae3822d0a43658ac8e43fbfa19b7dade1f66a094e4339061ddcbd6b",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 1994,
+    "sha256": "20709f7df549ae79ca530d962a6eaa59f90f3b75af9d96c3e51e81feb69ff7e5",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 991187,
+    "sha256": "350595ba292fbb28b06f0b482dc8978fb9a2754343516525c8484e3f6820f287",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 969235,
+    "sha256": "66312c9e07e808404603201eb2bf7d2b0c4f9aa184e208b9d1cd5dbdef6db08f",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 974577,
+    "sha256": "68456115ea1dfde69aadbc417decdd32fc48b7a0c77142ac89b6a4b8b5117233",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 662577,
+    "sha256": "5677d32e8a6d9b0f7dd524a1639a912dbe45874e5a1e3a7d0f0b9ab47ff74e56",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 727954,
+    "sha256": "ff3b1b6abbcdf55cc87ea04f1215ed726bb048beacac5cda8c780757399464e4",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 776705,
+    "sha256": "daf6218b86ee06b2bd7bdf197014e627075527f8e95e95917badf0cd8ebb4696",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 815328,
+    "sha256": "e0055ad2a57dc214ca5b48dd56ec2f46d047746df2bbe8fc6d30e6e8027a0588",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 877547,
+    "sha256": "4f711caf8509c7e26628138bebc0b7601e5ded373fc2f81efd9b7550cc390a18",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 1038711,
+    "sha256": "1f311e615ab6151af042563368e1fc911d82c0abf17f901fcf136363fad7ff8c",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 954936,
+    "sha256": "3d471c876b47648e9fcdbcc92eeae32faed10e8e856f50bf8d55174a6027fef0",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 455708,
+    "sha256": "10af3faee780e40e5f69e2482e4126dd278cda33d293e88bd26ee0be1d33d63a",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 398803,
+    "sha256": "ddaeb5dd0147f23cc584f329c41985d52b1555e37cd2b7c11ff4d4250eaa9d2f",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 258028,
+    "sha256": "23ecd1bcd847f4a8e9e58f115b37fe5d010fe9c30bfff1e338a3b0a8e6e790ed",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_02.png",
+    "bytes": 151357,
+    "sha256": "516146304e1ad05abf80acc46e51a4bc9142e7700aadd2ead762e42d4f97c3b2",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 387699,
+    "sha256": "66093276143414fa97ee313fdb118c7b463190eeebab2cb0f501b7a830e4975f",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 361892,
+    "sha256": "5fa217c5ae0cabab37cc7be619e24104241f237b546ff2a41b614bc1991547b8",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 337554,
+    "sha256": "98989cef08b544027e19e728bebe811eaf08f7356651162421ea01981710959d",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 322416,
+    "sha256": "5a7b4f0a41efbfaedd11ac0a896df733f66f9dfd72af81f4b61b46df681f8504",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 473045,
+    "sha256": "1f2b5b5fa01cbff40706b833cd4b33a8b37c3113a7d0533ff45272a0c7929177",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 423398,
+    "sha256": "5602229de01c85e569aa63695e78e78b46c17113c4152e2a952ee5134d3e8f0f",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 411705,
+    "sha256": "099e93e9efb1e3e5f17285f5a111e2be1290483bc61b48950cee809dee202e25",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 405952,
+    "sha256": "b68d4d726af0561ca0dd1629592d4912699ced8d0795964ad6f3466b5237da10",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 200508,
+    "sha256": "9fd94485bb82e8dbf6222e29cdef0e922c831f43ea258800df5ac568eb6ab6e3",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 553065,
+    "sha256": "52ac9fe1f4223c39542d0fdcd884f5999a3a1bbd9cd5c8e6f63edebf3e2e4ebc",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 478607,
+    "sha256": "bca59c7a4e86d75f980ed528e3b2238e92bb18b84d1d63261a7ac61bdc175035",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2780,
+    "sha256": "baeb45ac38feca7860ba522a0f085d203547bfc434642ef2602ff5965df4e6ff",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 19483,
+    "sha256": "37c07f9a1131d37be9ccffa4039fb96b85bae7984c9b43015074dd617cc2a2d0",
+    "bundle": "Monocyte_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 5055,
+    "sha256": "7f1fbe53933b300c462d041bb714630e08938a8f829362ec3e11bc394c8e8c19",
+    "bundle": "Monocyte_review_lite_01.zip"
+  }
+]

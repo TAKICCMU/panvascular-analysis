@@ -1,0 +1,221 @@
+{
+  "status": "SEPARATE_NATIVE_LABELS_SAVED_RELOADED_AND_EXPORTED",
+  "created_at": "2026-11-15T22:14:26.808078+08:00",
+  "panels": {
+    "a": {
+      "source_pdf": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/panels/Figure3a.pdf",
+      "source_sha256": "95321d5fcebb91f6aed613768ecd675fedadc0086c753405c4e2dcbaf4383e4d",
+      "label_rect_pt": [
+        5.517969226837158,
+        4.004470443725586,
+        10.26596965789795,
+        13.232469940185547
+      ],
+      "font": "Arial-BoldMT",
+      "font_pt": 8.0,
+      "dimensions_pt": [
+        0.0,
+        0.0,
+        258.5,
+        138.6999969482422
+      ],
+      "only_label_pixels_changed": true,
+      "changed_pixels": 844,
+      "upload": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/upload_ready/Figure3a_nolabel.png",
+      "upload_sha256": "21011b490e6e7faba8148cfb1c6712c594a489c5234a39b453d24fc7695c679c"
+    },
+    "b": {
+      "source_pdf": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/panels/Figure3b.pdf",
+      "source_sha256": "2f1e5651fa6363eb791d7bbcecc5a0d24242c0e7c5a10f420435169211e0692e",
+      "label_rect_pt": [
+        2.13912353515625,
+        4.004470443725586,
+        7.327123546600342,
+        13.232469940185547
+      ],
+      "font": "Arial-BoldMT",
+      "font_pt": 8.0,
+      "dimensions_pt": [
+        0.0,
+        0.0,
+        260.24017333984375,
+        138.6999969482422
+      ],
+      "only_label_pixels_changed": true,
+      "changed_pixels": 1023,
+      "upload": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/upload_ready/Figure3b_nolabel.png",
+      "upload_sha256": "40617f2146381f7a6dc712d8ef1010c80e732f8acf95fb49b1460b06041765f7"
+    },
+    "c": {
+      "source_pdf": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/panels/Figure3c.pdf",
+      "source_sha256": "387d8eb4957c530c1d6c83e75f78a267e27bea80d74684ef7c2a4800c14bb2f3",
+      "label_rect_pt": [
+        5.51796875,
+        0.7068630218505859,
+        10.265968704223633,
+        9.934862518310547
+      ],
+      "font": "Arial-BoldMT",
+      "font_pt": 8.0,
+      "dimensions_pt": [
+        0.0,
+        0.0,
+        518.7401733398438,
+        84.5
+      ],
+      "only_label_pixels_changed": true,
+      "changed_pixels": 720,
+      "upload": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/upload_ready/Figure3c_nolabel.png",
+      "upload_sha256": "6cd841ad91ad254ed8f1587808b78fdf3b7e8e2cfccf5c671cb7589de63ddb65"
+    },
+    "d": {
+      "source_pdf": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/panels/Figure3d.pdf",
+      "source_sha256": "ebb971cdbe2a84690f99a8bc035ada27e6973592e1e64914f9914a43b383a6c0",
+      "label_rect_pt": [
+        1.267322874069214,
+        2.239786720275879,
+        6.455322647094727,
+        11.483786964416504
+      ],
+      "font": "Arial-BoldMT",
+      "font_pt": 8.0,
+      "dimensions_pt": [
+        0.0,
+        0.0,
+        323.14959716796875,
+        297.6377868652344
+      ],
+      "only_label_pixels_changed": true,
+      "changed_pixels": 1031,
+      "upload": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/upload_ready/Figure3d_nolabel.svg",
+      "upload_sha256": "dd6102675d92d9418ec85f912696e0bf73a81907e110ae334b1c29065e9b8266"
+    },
+    "e": {
+      "source_pdf": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/panels/Figure3e.pdf",
+      "source_sha256": "bb5753ab81dbe28c03e65ed847fe505658bb90585acdf10f1d3cb67fab2009f6",
+      "label_rect_pt": [
+        1.267322874069214,
+        2.239786720275879,
+        6.015323066711426,
+        11.483786964416504
+      ],
+      "font": "Arial-BoldMT",
+      "font_pt": 8.0,
+      "dimensions_pt": [
+        0.0,
+        0.0,
+        184.25196838378906,
+        297.6377868652344
+      ],
+      "only_label_pixels_changed": true,
+      "changed_pixels": 844,
+      "upload": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/upload_ready/Figure3e_nolabel.svg",
+      "upload_sha256": "261e9bf9a5d51f3a7876f2969a7699eb59d59b667420eadb04989a0b0d2ab78c"
+    },
+    "f": {
+      "source_pdf": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/panels/Figure3f.pdf",
+      "source_sha256": "ff6487266c7c2bebe960d524dd300d423e2a106e6ba004a9d2b73ef020a23510",
+      "label_rect_pt": [
+        1.267322874069214,
+        2.2398019790649415,
+        4.2313226699829105,
+        11.483802223205567
+      ],
+      "font": "Arial-BoldMT",
+      "font_pt": 8.0,
+      "dimensions_pt": [
+        0.0,
+        0.0,
+        513.0708618164062,
+        155.905517578125
+      ],
+      "only_label_pixels_changed": true,
+      "changed_pixels": 640,
+      "upload": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/upload_ready/Figure3f_nolabel.png",
+      "upload_sha256": "e400af367fed7b45ab6bb9d61beb16e6255deee1721a0b50e3511a9114a22e2c"
+    }
+  },
+  "data_and_formal_figure_unchanged": true,
+  "completed_at": "2026-11-15T22:41:29.711428+08:00",
+  "biorender_url": "https://app.biorender.com/illustrations/6af9a1433d7c6083ec2f747f",
+  "native_text_labels": [
+    {
+      "text": "a",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        7.064653396606445,
+        1.6391253471374512,
+        13.18230152130127,
+        12.64208984375
+      ]
+    },
+    {
+      "text": "b",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        266.63458251953125,
+        3.1395297050476074,
+        273.3573913574219,
+        14.142494201660156
+      ]
+    },
+    {
+      "text": "c",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        5.564249038696289,
+        141.1767120361328,
+        11.681897163391113,
+        152.1796875
+      ]
+    },
+    {
+      "text": "d",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        7.064653396606445,
+        240.20338439941406,
+        13.787464141845703,
+        251.20635986328125
+      ]
+    },
+    {
+      "text": "e",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        335.6531982421875,
+        240.20338439941406,
+        341.7708435058594,
+        251.20635986328125
+      ]
+    },
+    {
+      "text": "f",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        7.064653396606445,
+        543.2850341796875,
+        10.72864055633545,
+        554.2880249023438
+      ]
+    }
+  ],
+  "native_image_object_count": 6,
+  "reloaded_and_visually_verified": true,
+  "source_hashes_reverified": true,
+  "export_png": {
+    "path": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/Figure3_separate_labels_BioRender.png",
+    "sha256": "fe21e5edc3da76be6ecb41b713b6092b8324b1b93e6657a2645946e6a4b601b1"
+  },
+  "export_pdf": {
+    "path": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/Figure3_separate_labels_BioRender.pdf",
+    "sha256": "76d5f3c5bfb3e950221f850a309e1e3a5f75d36cb5e7ab03f3af43a9f0963d77"
+  },
+  "mcp_capability_check": "Search works for current canvas; no existing-canvas object edit tools exposed. UI used for editing."
+}

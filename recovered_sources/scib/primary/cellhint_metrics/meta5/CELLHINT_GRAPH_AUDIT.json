@@ -1,0 +1,13 @@
+{
+  "n_cells": 315949,
+  "input_shape": [
+    315949,
+    30
+  ],
+  "self_entries": 0,
+  "duplicate_rows": 0,
+  "invalid_indices": 0,
+  "nonfinite_distances": 0,
+  "negative_distances": 0,
+  "passed": true
+}

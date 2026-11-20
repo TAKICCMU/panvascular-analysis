@@ -1,0 +1,674 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 21507,
+    "sha256": "11a919eeed32c8b94186fa3c75edd621ff698216173f1e6439ab9796932fbe53",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 8442,
+    "sha256": "3b9b43434eb3644ec25007d86d8aeada4a29b6063fae99af36619678292622ed",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 8656,
+    "sha256": "f6a15b98fcba2c2d5c8acefd53ef4a478368b78cf30e47bf4556cf8acedee5a8",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 291,
+    "sha256": "76d7de163df6203ff8e9809a7b4e5f768dff9e0680c8a19bf7c82aa3f21e1e84",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 18394,
+    "sha256": "962841e7c619f2f2018b54f64137cdd1e4ade7dbed18518439d779cff3c164c4",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 129149,
+    "sha256": "fd38acfc8f4791253467d52a44ca7a9e13bc8f6c64ad92176ad0df08f24e6422",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 256520,
+    "sha256": "e4a8f7aa1f2a1c615cf9e0f5901f7714b6586a87a0242d3466a82b57459f1960",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 4371,
+    "sha256": "15ad91f5da3fe72bc7f4359e215b96e1f73ed39f6441ce4854ffa9b331d27a79",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 4307,
+    "sha256": "0ee46e8357bac9fb737233ee835629a1706a2b8ea0ec4f4a124f9e2fe559c6bb",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 843,
+    "sha256": "1c0ff3f2aa5f92d07a2357c6617ebc1e3492a8bc86862d5b662656513b62cc73",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 834,
+    "sha256": "cc6ecdc81eaf42d338dd00dfe88ee60e08a1732f76c1e023fc54ab97e475acc5",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 97831,
+    "sha256": "38209383c7aab35a2ce0d7d464334b30891116c919f81c74903f7da04a246213",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 19408,
+    "sha256": "67d4b2e74bca2bc3c7d270a1c591ff9c5b880840f93b15d1d0df52b83a1f1d98",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 225,
+    "sha256": "56cb306d41fd0dca1919970093572fae36cda3aef0fc4be7739abe0b88c9f9b6",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 225,
+    "sha256": "56cb306d41fd0dca1919970093572fae36cda3aef0fc4be7739abe0b88c9f9b6",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 317,
+    "sha256": "4147279d6e788294579591d81edc38a5906321ff9066774b88a409fabbc9c09c",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 6342,
+    "sha256": "8fecd58051a434510adf74bf470a1729430edbb8e2b75c5ee0048aa8ed657514",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 9174,
+    "sha256": "7fc74b8b1ed05434cc1dd450cd77e33be01450fbd2c2d50f634b5676491e1890",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 879,
+    "sha256": "622892f5692fecd4eea872f92e4c421a6389749f850596f9eb6d4d4c1b2a6654",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 550,
+    "sha256": "ea8a2c0b9f364a54236ef35c80a1a7d801c9726bebae3002f66c28fe08482e70",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 5125,
+    "sha256": "cdcbf50288066220300aeb068a7660f4049acaa3d902c055114dc81944b44156",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 27610,
+    "sha256": "c60334db3e8e85f9e60afae451ccce8f5d5eb3010b94fbe6ba03b16be0dd6aa5",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 29176,
+    "sha256": "3fe2d1f23c4d284c0b112c6207d02388257ed1104d662e9c71f9be7c4d857979",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 117747,
+    "sha256": "9c8a88b582dafe1a926438b1e17431abc162f1117d771ae850150eb7ec611e54",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 3548,
+    "sha256": "440c7de212af8b43841d7d59c6a36f0482308a758ca7803c4412dd1ce1ba68e8",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 15312,
+    "sha256": "87ca83bad4f0a333680813b4e865f5f94a7933746e2d2bf6998f8c35e5f37823",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 62842,
+    "sha256": "a458b2a831c7ecc61ece2a9d74fc281f2e79b671da917fc0b8d7ca1e75632ab1",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 15167,
+    "sha256": "a160c08dbcd4a7837966e5a71aaaf1000913b90bfbba68fdd1763709e546194d",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 15281,
+    "sha256": "8ca9985314203c982fa9c870b9e81936139bd1ecfc1b019d4c9063af39bbf1f2",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 5596,
+    "sha256": "e878bf58b188f7bb884fb2976d2b9c776653541ef3b18e3b7d27b4ed782a3e25",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 5490,
+    "sha256": "c476d8e8964afa37cd374f849ba9d4cc4707087d261a99aec56997f102c3cd4a",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 2865,
+    "sha256": "06229624e10bd6cf8fb1f050342f11a375af9e402d992aa365c696bfa4941bb1",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 2820,
+    "sha256": "1f4a91592c59899e31a386096dedd6410d1440567499a1674e476b54a26b1263",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 127179,
+    "sha256": "fc158dcfe61324adaca278e63c36b459236dd2a13622fd5093d6e39ad86700b3",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 24860,
+    "sha256": "fac055d186553781c0bd4ebc7272f3df083849f7ad4e3c683feefa77a067d8e0",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 279,
+    "sha256": "76c7c98327ba1804b054868e6bc7a9a9b6c355df24ec5bd0ebeb849ddd9e8b61",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 279,
+    "sha256": "76c7c98327ba1804b054868e6bc7a9a9b6c355df24ec5bd0ebeb849ddd9e8b61",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 380,
+    "sha256": "e1c57453797b753cd7642a6b09929b259d75bca0fc51dd6a8f70e0b746349958",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 6943,
+    "sha256": "5e95fae03e01517e8957204501e15c9405fe98db0f0d9d985c0ebf33675abe3a",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 10032,
+    "sha256": "539dd76da10d5cd5965b50361b2fa58b73f2acc6fbcb5b2a1c14c97f0a507aa1",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 1038,
+    "sha256": "14a251edad1d297f2961cac13d7db604295d4a78d01b2215057027f9dd452f87",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 652,
+    "sha256": "2d93e3ebb9225c54a0d126b0949b447e88bbbc0f608bfb54e9c5f8c96810c8f7",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 6356,
+    "sha256": "655e35df8533f83b5e1618400d7640e8827021cd9171a3e4095aefa2ef59f931",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 31826,
+    "sha256": "eb6b9ee0564686d3e310f7c8897ba9ca61b12d10033dd0780704210fbbd3d6bb",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 33833,
+    "sha256": "53e03f64718318069fa7681e678a200f769da86ebb0e66200e0736ce06b478e0",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 137154,
+    "sha256": "9056dd1deed0c0432b6c40abbf28e4934a143476a1773cc7f8722799c9bf4f64",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 4395,
+    "sha256": "061747953925116c9fc785f5276a2e0b34f90ebc502f9d1271359be9a23ea559",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 19371,
+    "sha256": "7644ef9850f6bb2c3efe52d0f5d12fa6f7f6c7c83fdeaf5b0aa6857088d6296d",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 80414,
+    "sha256": "8c095acc086f8715bbb2d01da97a22f2fe2dcb95051d3fbb13b5768bc1408ce1",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 19204,
+    "sha256": "5681acf282d85f4f29b3f4e89d356b72a84276224bb7a800a20424da0fb46588",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 19341,
+    "sha256": "fce81c4cfbd80f7269707dcb111c31a49c63764c343a0fec21c123ff7bee4aac",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 479,
+    "sha256": "4bfe8af7fff0a80992a9e16ff47dd670393bc9859c5c66306c8e1b615f931def",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 716,
+    "sha256": "24e9f816e13105683bdca76f6f8811e5a4536ec25d4692ff3ffbb1c8d1b0b6c3",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 7819,
+    "sha256": "8c2ebad50b1d8258792b8f940d48fb9849875010bfcbcf0523bd3948576b0e9e",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 7846,
+    "sha256": "7de68235df9dbf1f944113388a1d85cdd9e4964f712d2c068f9f25bbbd864eda",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 6403,
+    "sha256": "4153bb575724f3001a1baa6659ea2631827e6eb33bfcf61d61950e3b2f01fac6",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 6334,
+    "sha256": "ca7d23e0edf7c437bf42d58175b01014586478c2292841a99869a056cc7333b4",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 1543,
+    "sha256": "27b9df6c040df0ef038994dddc670235840162aac042c3dd9238916a06d333c8",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 1520,
+    "sha256": "e4cd9fa03d384c20ae1173d80fa513cc419a49c29390a827b8a269c7a8e7e94e",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 186921,
+    "sha256": "5701da663f74203ccb49790d5f3a8ead0d132ae9adcdc27cce44720d87c9868b",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 37042,
+    "sha256": "f855f000aa0297e2f4ee8e08bbf931cd9beb18b3c279779584b9676b417adec6",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 384,
+    "sha256": "526a2a92a0457b44209a55f90bde50cfa70de4df6f75da5c7f1ea5ab5896ee22",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 384,
+    "sha256": "526a2a92a0457b44209a55f90bde50cfa70de4df6f75da5c7f1ea5ab5896ee22",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 500,
+    "sha256": "f81e2d4788dee1f9261a70e74d5a7197f1bf3c3483d13fab5ba19ebf4b401f58",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 8114,
+    "sha256": "c05d331bafa421a7a1b40e644bfe428034d72e47872eb90312a5cf1389943ba6",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 11717,
+    "sha256": "87e254e4b88db9f55c12b4cc5c49c027e81fbfbc60765d94918767f1c601cbb1",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 1337,
+    "sha256": "e8f90d915a95df55ed0877e9932e622a91459fc1bdc0e0c1449759e055731f71",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 834,
+    "sha256": "2fb49c406db0421d662cbe7375c468c2069aedabc91299c5b439c189ece6d68a",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 8655,
+    "sha256": "1de47a2b5f4b9ae49457b05c94d4f0c3fca9a755aa1c8004cc4f92de48edf011",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 34398,
+    "sha256": "b07ecb38f6d3b70328cd48d4417764ebd8a39d8c9ee3ad4c9c0ddb65ab1a7483",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 36188,
+    "sha256": "6e9645f8e0cc8c97f80ff10c9c79692daa0939a70cad5d292bad7a2b93662b14",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 146845,
+    "sha256": "1b1216baa883cafb95c360fb0c982d83139a7f1ef60771e5671111e1e8d6ab5b",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 5911,
+    "sha256": "62b42956fc086171840022a9ca42e2186e7c00f4c7d6559c969e39bf802e534d",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 25087,
+    "sha256": "558c4aa2c76dd68e8d7d8efba4b8832bec286041562baf0f980e5a0b98f6e2bc",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 109169,
+    "sha256": "abf7eea64eb0235bc61e82cd0c5ada2fb6d192aeef8ffc2f567f17403a0482f4",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 25260,
+    "sha256": "01e2cacb08c27e7edb97222d6e8d2ad593439d4ab367a90e54173e94806c70bd",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 25165,
+    "sha256": "b8a64669a2193f3c0186510e9de747d0700b26cb632a8be019e69af614cb2b03",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1279,
+    "sha256": "127eaf7d4d74334a9a05a1dc3c4f009cf26e1ef65d4b066240686fa4356bd45f",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1172,
+    "sha256": "613595340752128d04c435d7813ca48751c1cae135b180b6863814272b78ea81",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 1997,
+    "sha256": "569a99ac46768063516a84e621ad3a8d7814de2bf27030b20b00b288d2cca336",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 478007,
+    "sha256": "d8e72d38928dbc1fb03ed2342949ad651eb146f0f70fdd6983636395a3bd935b",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 471108,
+    "sha256": "3d96afae3063a0c38176e2f76f559a519d25f6005a66212d93ce895625234ced",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 491189,
+    "sha256": "e05e1c4c64b065d21c55eefa38c32a7d19f29582c1ec4c216a9b8a038e838756",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 337515,
+    "sha256": "521b3298a78a7a314315cae19e0db7a0f694b63dbd1f3ba25067615e50a278c3",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 327800,
+    "sha256": "64b861558c7b067b7217dfcf88e679aa2e4e934492f85d45cdc7d5bbbb128230",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 419546,
+    "sha256": "56cc53e8c8db0fbcbe5a35a92bec074b5ed38931a76886e2f246a8424dc527d3",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 455251,
+    "sha256": "0e6ab73dd9d77f096c9510987b24099582399d6073da844e970db1d58695b83c",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 468760,
+    "sha256": "3fa930469965f7fb7fefeaf0463491a4a49e7f61b79ffc3942c7afb9c38c55ad",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 553337,
+    "sha256": "3ec9aa8589acd83a632be50ab472263c700e8ebf9639c46cd2ca158e78de9acb",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 435916,
+    "sha256": "ea956b4bba6fc5f80ea0a1223afd50f61c550ca508f6ec81014553b610f0910d",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 331242,
+    "sha256": "f6bfea1baec400ba06ce18c2e67a43327f2b01f22fb8a69166ee344616997e0f",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 320822,
+    "sha256": "f80092d17d9545dbea5f5afe1774f95bfceed7a629a96f008430b72fe095f9b4",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 258061,
+    "sha256": "37cf2895fe829af9bc5f98d41f83c3291d2af10cf355ad6809da49de954bba97",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_02.png",
+    "bytes": 123565,
+    "sha256": "cb3737ec2752558e17480646c62f959090ed085ccd8de73b44f6afb996fc3ebc",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 287949,
+    "sha256": "522c93ddf9da511c93e473db5179f44f77130881d5ea87d3fe3ab7dc82a80dcf",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 299298,
+    "sha256": "7fe24a5f4f61815d46b1da64fa0511762783f677c12d4e884eb7a410e59d53ae",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 311000,
+    "sha256": "6a73d24b5b0f3ee1153fb1d1953350ce8decf839fb3eb959cd39bf53ec377d1a",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 208998,
+    "sha256": "f6674b5f8053a21a1b37741c3aacfc5cd07e93215d11900550710478c17d0c1f",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 338394,
+    "sha256": "3c81df242e168d0024a8fa47780f01164374593ef99027a35fd70e862e2af3fd",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 330083,
+    "sha256": "ad1ac6c9880b3dcc502fe99657c27033c6266c2a406ef11613b9489a2d269d1a",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 383395,
+    "sha256": "cfbb335d563a8b427ad0c402476220ddfddf1131ddf0af728ee2a7b642c6edc3",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 369208,
+    "sha256": "795d089bfa6f708ddc094c35233a075fb0b9a49f7715afe06f7486e6d7080eb0",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 160539,
+    "sha256": "d4bd695d370719994233288b7d9d20b29c849306579feee3d7ecf85884e7bdb2",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 423553,
+    "sha256": "094f93defb28f90049eaf1d15509b30b0d0b129433bd6ec0537670805ca1f9ff",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 379640,
+    "sha256": "9c00655e037514131e98169f7f0a8242645b2a0a1cef161ddbfdf2816efc108e",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2633,
+    "sha256": "d1be29442cc182e630b5400e147df7771cf925a9e057b3d7de1bc8fc2b9a885f",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 19483,
+    "sha256": "81e71e367b695edccc472c9aa03c36d073c9a021dc66fb0be61be81e8bb82a96",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 4916,
+    "sha256": "e02824be43a63e59fa2a344f5842c788493bf5b3e57c43930e2231833a38f060",
+    "bundle": "Neutrophil_review_lite_01.zip"
+  }
+]

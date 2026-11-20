@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "native_beta_binomial": true,
+  "confounded_strata_blocked": true,
+  "single_homogeneous_stratum_allowed": true,
+  "repeated_donor_random_effect_required": true,
+  "missing_donor_blocked": true,
+  "seed": 20260916
+}

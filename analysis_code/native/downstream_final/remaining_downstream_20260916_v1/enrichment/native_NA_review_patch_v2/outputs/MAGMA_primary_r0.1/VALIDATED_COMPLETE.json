@@ -1,0 +1,16 @@
+{
+  "status": "VALIDATED_WITH_NATIVE_NA_PATHWAYS",
+  "id": "MAGMA_primary_r0.1",
+  "reused_native": true,
+  "n_GSEA": 8387,
+  "n_native_NA": 7,
+  "source_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/outputs/MAGMA_primary_r0.1",
+  "files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/outputs/MAGMA_primary_r0.1/gene_set_version.tsv": "7dd3442af0b50cc7efacbc4bd37acdc87393b51d67de357b0317ab7177dcdb79",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/outputs/MAGMA_primary_r0.1/ora_all_tested_before_display_filter.tsv.gz": "d2e8ac86329df8ccce85ab98569a263c9a4f0489b29dba2f86dccefc22737d25",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/outputs/MAGMA_primary_r0.1/fgsea_all.tsv.gz": "1408243c37f723920d1fbf9da1e779c234d62a31c5419746d275cf7ead3b0796",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/outputs/MAGMA_primary_r0.1/sessionInfo.txt": "e9b3c4c1da16387b462d3049721760050e846a8e25052b52e4712553d5a318ef"
+  },
+  "rank_sha256": "097741aaefd87838bb11b7712cf42305e7becec33f0a25ec0ee3141f6320b63d",
+  "native_sha256": "5a7ec13c9a149ed3c4a90135e5d973852a06dcb7fa03fdbfabbd2f38633a42e7"
+}

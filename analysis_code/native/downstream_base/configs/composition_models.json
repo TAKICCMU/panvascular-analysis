@@ -1,0 +1,642 @@
+[
+  {
+    "model_id": "L1_000_age",
+    "level": "L1",
+    "state": "Fibroblast",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_001_sex",
+    "level": "L1",
+    "state": "Fibroblast",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_002_age",
+    "level": "L1",
+    "state": "Smooth muscle cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_003_sex",
+    "level": "L1",
+    "state": "Smooth muscle cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_004_age",
+    "level": "L1",
+    "state": "Macrophage",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_005_sex",
+    "level": "L1",
+    "state": "Macrophage",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_006_age",
+    "level": "L1",
+    "state": "T cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_007_sex",
+    "level": "L1",
+    "state": "T cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_008_age",
+    "level": "L1",
+    "state": "Endothelial cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_009_sex",
+    "level": "L1",
+    "state": "Endothelial cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_010_age",
+    "level": "L1",
+    "state": "Unknown",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_011_sex",
+    "level": "L1",
+    "state": "Unknown",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_012_age",
+    "level": "L1",
+    "state": "Monocyte",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_013_sex",
+    "level": "L1",
+    "state": "Monocyte",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_014_age",
+    "level": "L1",
+    "state": "Fibromyocyte",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_015_sex",
+    "level": "L1",
+    "state": "Fibromyocyte",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_016_age",
+    "level": "L1",
+    "state": "Natural killer cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_017_sex",
+    "level": "L1",
+    "state": "Natural killer cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_018_age",
+    "level": "L1",
+    "state": "Neutrophil",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_019_sex",
+    "level": "L1",
+    "state": "Neutrophil",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_020_age",
+    "level": "L1",
+    "state": "Mast cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_021_sex",
+    "level": "L1",
+    "state": "Mast cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_022_age",
+    "level": "L1",
+    "state": "Dendritic cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_023_sex",
+    "level": "L1",
+    "state": "Dendritic cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_024_age",
+    "level": "L1",
+    "state": "B cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_025_sex",
+    "level": "L1",
+    "state": "B cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_026_age",
+    "level": "L1",
+    "state": "Plasma cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_027_sex",
+    "level": "L1",
+    "state": "Plasma cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_028_age",
+    "level": "L1",
+    "state": "Pericyte",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_029_sex",
+    "level": "L1",
+    "state": "Pericyte",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_030_age",
+    "level": "L1",
+    "state": "Schwann cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ age_z + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "age_z"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_age_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  },
+  {
+    "model_id": "L1_031_sex",
+    "level": "L1",
+    "state": "Schwann cell",
+    "approved": false,
+    "formula": "cbind(n_state,n_parent-n_state) ~ sex + comparison_group + (1|study) + (1|donor_uid)",
+    "tested_terms": [
+      "sexmale"
+    ],
+    "reference_levels": {
+      "sex": "female",
+      "comparison_group": "reference"
+    },
+    "filters": {},
+    "min_denominator": 100,
+    "min_units": 8,
+    "min_donors": 8,
+    "FDR_family": "L1_sex_primary",
+    "review_note": "Review study/assay/bed confounding and independent replication; sex study>=5male/5female; no demographic imputation"
+  }
+]

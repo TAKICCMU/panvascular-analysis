@@ -1,0 +1,8 @@
+GSE	public_spot_pathology_table	public_nonspot_label	recommended_use
+GSE241346	no	carotid plaque section	whole-section plaque cohort; derive new blinded ROIs if needed
+GSE243179	no	erosion plaque; WT-clonal/del-clonal/non-clonal ROIs shown in paper	request barcode-to-ROI mapping; spatial_enrichment.csv is gene Moran-I output
+GSE248608	no	CA/NC section groups; plaque/media/adventitia/calcification shown in figures	use CA/NC at section level; request Loupe/Seurat ts and adj metadata for spot ROIs
+GSE274572	no	HP clusters anatomically interpreted in supplement	reproduce clustering and use lookup only as transcriptomic pathology proxy
+GSE293427	no	T2D versus non-diabetic donor/section context	disease-context validation, not plaque/calcification ROI testing
+GSE306288	no	healthy/CAVD and histological calcification burden	request QuPath masks/GeoJSON and serial-section registration; spatial_enrichment.csv is not ROI
+GSE314851	no	Mild/Moderate/Severe slide category in author code	use severity at slide level; request neo-intima/plaque spot annotations for ROI analysis

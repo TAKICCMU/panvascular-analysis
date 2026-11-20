@@ -1,0 +1,27 @@
+{
+  "status": "WAITING_RESOURCE",
+  "science_started": false,
+  "replaces_prestart_queue": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/MAGMA_QUEUE_R1_SUPERSEDED.json",
+  "config": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/configs/magma_config_APPROVED_r2.yaml",
+  "receipt": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/approvals/magma_approval_r2.json",
+  "launch_script": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/start_magma_after_phase1_r2.sh",
+  "code_sha256": "7ecd30a62e3528a4c3c6ec8329124c8f2754ff90f65c8b28e75fcfc0f7e695df",
+  "command": [
+    "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python",
+    "-B",
+    "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_release_compat_20260914/scripts/run_downstream.py",
+    "--config",
+    "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/configs/magma_config_APPROVED_r2.yaml",
+    "--execute",
+    "--modules",
+    "cohort",
+    "magma"
+  ],
+  "resource_policy": {
+    "disk_floor_GiB": 20,
+    "GPU_reservation_GiB": 16,
+    "MAGMA_reservation_GiB": 4,
+    "minimum_free_GiB": 40,
+    "live_ledger": "Resource states only; not immutable scientific input"
+  }
+}

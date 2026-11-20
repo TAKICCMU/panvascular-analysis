@@ -1,0 +1,21 @@
+{
+  "aggregate_only": false,
+  "devices": [
+    "TFRT_CPU_0"
+  ],
+  "pid": 2783847,
+  "prepare_only": true,
+  "versions": {
+    "anndata": "0.12.10",
+    "jax": "0.9.1",
+    "jaxlib": "0.9.1",
+    "numpy": "2.2.5",
+    "pandas": "2.3.3",
+    "pynndescent": "0.5.13",
+    "scanpy": "1.12",
+    "scib-metrics": "0.5.9",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.16.3",
+    "umap-learn": "0.5.11"
+  }
+}

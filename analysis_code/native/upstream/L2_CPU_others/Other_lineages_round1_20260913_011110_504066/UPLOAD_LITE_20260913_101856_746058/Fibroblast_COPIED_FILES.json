@@ -1,0 +1,692 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 19929,
+    "sha256": "51aac1f31a81d791a4df1e1a07e65eb5be4910ea502ea6051bb700d8fd0e7071",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 11614,
+    "sha256": "79b58422611f5a6f0abdf40d489b183cc9e28e0290af5b5ce9fe79f36da35a94",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 10182,
+    "sha256": "4d406710188a67b6b3ab442683adcdcce0c14d34809d4887dc8b263bc564957e",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 366,
+    "sha256": "93a31f554ec425b649de562096a460145098ce986dec10b3f87e40e4f03a0b3a",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 26959,
+    "sha256": "07c6a17658df149d229fa620f027d9045ea81c802f79f55f3e859587a9680c76",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 196534,
+    "sha256": "b96198c52232796029824d48b0d17731de4b3cde364d6f668131a84bcf16735d",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 3361364,
+    "sha256": "43de0d64c57952cd808a2aff46a6c3ef64aea2d29a4b574167459a7c13c4220e",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 5020,
+    "sha256": "3ae3193931508202e8cdabb69d7a31f729de6f72fb63aaac89eea8382f9359e6",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 5003,
+    "sha256": "29752852d8706b66f77203c996798b9102b5888624965bc9a38bbd3cfdbac1bc",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 934,
+    "sha256": "b771a0cb873d333a71e72f27125e6dfc1fa2bbdef8a677ae79d04c183ddfb224",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 962,
+    "sha256": "d194ee5f3ad3dd6e8f943820fc59cc56b11fb58dfa023d2837171bd9e6edfff2",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 90872,
+    "sha256": "2201239e867989c8d0864d5508e4ac35752a0d5eeb0f50c2d56a8f02e38c47c4",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 13776,
+    "sha256": "809958b8bac23dad304d96fd98fdf782bf61da58f80598df679631cecc7b90a2",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 248,
+    "sha256": "78b00094afecd07e81c8c224992689f5518c08d78868fe535be4f06d77b24026",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 248,
+    "sha256": "78b00094afecd07e81c8c224992689f5518c08d78868fe535be4f06d77b24026",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 370,
+    "sha256": "78308078375c3183d350e92ec85f17c36b8af0742d230a88bbc3e2f32d4bf101",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 8643,
+    "sha256": "feefc2048ae8fb993c6d254298a7d014e29c8feddafbe9f527ad38f112aebb3d",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 12337,
+    "sha256": "c2257eba72084f675019fcdfc2d7ac94f9d2088e43a83576a0d51b76dd532a3a",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 1154,
+    "sha256": "c354517e002f298757a1928a498c4ae90d18cc5e73354ffd18f22ee702d4b04e",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 714,
+    "sha256": "e2bfcdb86657a0aaa4f1c1315602725a99fff82686dfe3f2f0e926e9e4617161",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 5768,
+    "sha256": "99039eb788b6b94dac4de6e27668202311d6d04d05a2164370437c74d4ad4242",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 83671,
+    "sha256": "e65838f12317f24d20f49f64705e8d641340a8a2dd00b98c955dee79c7ee9403",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 344176,
+    "sha256": "a880387d68ee093eaa2e0e3a65fc2d81a3142b6373c9cf3907c6c1c778a6e383",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 964539,
+    "sha256": "4fb2c816cf255f6f963522f4b3ae393a18b59c37c196bf45dcf88cf76896f0a5",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 4245,
+    "sha256": "d461f242198bc900d30ba462496cf5be803e70b26f346fbfe6caa225698b5e2e",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 20989,
+    "sha256": "cc6c5b634cc04ce909484955fab844b3db0b40357dd589534f4a7c313fae9090",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 82343,
+    "sha256": "a7aa2dc4500ad0336f89cfd1b7ffadfc738aac5e21726e644ade0ea5e6daad03",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 21152,
+    "sha256": "ab0aad1ec7d7441d6250485ad6c809ddabc50062a4d23196b3759c1be9c7f1a7",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 20683,
+    "sha256": "d618938c60e1d2f3b6be6bba40b741c1dfa5fe0a32078f8ffb5732f2389e84e9",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 8093,
+    "sha256": "434cfde29c07f66b89c0e3d9ab4166325501bae1ddcd9c8d476ee5cd89e9c531",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 8034,
+    "sha256": "ff114023ee65840bacf658c029ed4caa1e0e5a0b7a2adbe16cd1b6c43fbb30a1",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 8036,
+    "sha256": "fc3a520d73b7ca03005c2258b38f17f809491be26f16c3e8d95b2499ab56853d",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 8004,
+    "sha256": "e631ca69e9aef0ede7930d1840a49116d34c2b141d30fb340ac3917c6885f8b3",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 148151,
+    "sha256": "10b9a07eb68e7d571951a87bfc42e51d791148df1af72c9ca3011b0f402d9d4d",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 24795,
+    "sha256": "d26f89387bf6d1aa89f5b883e7206d179ff12acf68ee5b3ec237ffd333481f6b",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 379,
+    "sha256": "e081c8bd4340c9c21a409812f9510ed09f7dfdb3e2147c1baa4e9ff818f4baa1",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 379,
+    "sha256": "e081c8bd4340c9c21a409812f9510ed09f7dfdb3e2147c1baa4e9ff818f4baa1",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 536,
+    "sha256": "5d5fa3c76c6a13b8324bcbab92ed6181d6372ccac3f093fe7a0a0e7722fcaa23",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 10600,
+    "sha256": "bda14a34abb894056b2f1d396a2a1bcadc33d49964c6500bd6eaa28fa95b2786",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 15092,
+    "sha256": "c40696c839774d645e957f30e5964a63baf29e22853794a0d7aab7d3d67245a9",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 1618,
+    "sha256": "420bf9451b1eb0364fc0a8031a472df189f099a1f39c9ecc8d3e62232c7f147a",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 1003,
+    "sha256": "fe3042100f9d5cb987733bff0dbb2cd120aa5632b5427af686edf54bdaf518a2",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 8911,
+    "sha256": "62ba2c3e530b3f45a80b91940199e7273fcd4d0bb8d920f3976b7b0672312b84",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 126273,
+    "sha256": "1df37b039473885ef4f94bead6e11e6d5bffd6e5d2d6d7b70cc5bc118ce98a7d",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 425578,
+    "sha256": "8d934d11177288141fe30d715741c5858e29694f24e299b6fe22e7992e10e88f",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 1350296,
+    "sha256": "59f9d6c2f0bfcc8f359e0bc5048b4522107d32b98238d2d28b3371dcd7e5c60c",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 6459,
+    "sha256": "aa0de2756a8d4d54b6dd086e39c93f4bbd622080c1787890e5a656d54f781741",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 34063,
+    "sha256": "cc45c5b7280f21145e83c85f8643d634e0462589a082b3759ea2bf7e5a060824",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 134997,
+    "sha256": "778845405518bb4afed1e74f900bfc7e4c499b3d836308b355faec9a5726634e",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 33973,
+    "sha256": "f4fe1e22292856dd5e6196a85d32ab7c56bf713f16140a657bf86314eb5f4700",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 33540,
+    "sha256": "6089679405bb4f0144961be5a1f5e632c88dffc70125db4009129f6621682531",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 658,
+    "sha256": "328ec315feb0d4919f8c123637b5a3e34b0b6bc83caa798328ef65eb67ab3123",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 1270,
+    "sha256": "145648cca0c952006672b6dfcfe88eccc4379b575c0ee9fa1b81233b5d61a55d",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 11638,
+    "sha256": "f018f9e39d91a18dfe9a4e04927fc816542409b79ab2d69590d57d240b6419ad",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 11586,
+    "sha256": "7e9e4cec44e4b594524489927b206888bbdd124323b10e333721dbe9dcd073e6",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 12605,
+    "sha256": "acdf555aad732688d6658252cfd89323015864f3fbdf73afa538bf4eb387afa3",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 12610,
+    "sha256": "64d525f966d5a697f8e2a40a513cfa8c01a66ee0741da5fa7c7e4f21e607cb74",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 11701,
+    "sha256": "5e7154d6f682b5672e91a2f83f4bc99e3f4fc0e8b24df475755f17a82b55f3a2",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 11707,
+    "sha256": "0482546f7a78ec04b7c933d2b8ad9f25f19ddbb088d2670b5382629b575a61fb",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_04_detection_fraction.tsv",
+    "bytes": 4646,
+    "sha256": "9978c3776102eb7bf74bdf8eeed4718320b0145299197d5a9113ed724a561197",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_04_mean_log1p.tsv",
+    "bytes": 4622,
+    "sha256": "135faadcf7f435b7695f59612f55e62bcdb550ad5beae537ff9db620cc090d01",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 246179,
+    "sha256": "b98ae9fc5c523625e41ff7f734ba04674922574cb03cead4379d717c3f903fa4",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 43426,
+    "sha256": "bdc4e1b9fb2a825e977aa10889d4d9b77c0697b4e952e4be2d59a418bd0db222",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 590,
+    "sha256": "1f73ca17410ffdf2302d90ec4fc8b25a8aec8933f3874f58e6ff4eae7d80e833",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 590,
+    "sha256": "1f73ca17410ffdf2302d90ec4fc8b25a8aec8933f3874f58e6ff4eae7d80e833",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 792,
+    "sha256": "eff33f942bbad544b2970b64db95b49ed50d3553ab49ba88c0fc020909c4bd90",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 13672,
+    "sha256": "73a238c67c7d6a464b3f486f5e3514d53060815717d5d497bed97d1394fd5993",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 19430,
+    "sha256": "b9dee3436dae690be3e15f1c265e76262a564e0de251b610af264a7d72d7c342",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 2320,
+    "sha256": "fa2f4cbfa4775619dee50429732bbe5adb3d906e9dfad2f681166fa5dbad8075",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 1444,
+    "sha256": "a92fc7d089de37261ce0de81a95273745b8794552dd9627e8d7e662082cb3024",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 14022,
+    "sha256": "90e0408ad292f5c89bb8cdf58e89d0d93aba3e7181446f8d6aee1a75e0de3ffc",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 180121,
+    "sha256": "8c468fc0798832a48fb75e7ea38d17b983861abc28d6304f6949363321151d7b",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 530193,
+    "sha256": "2b9a12ac5e25ee74b83ebb3a2d53a3d030a73b04dd16ec8252fc4e82f9a4981f",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 1827130,
+    "sha256": "177eba393ec725d6a8263c37562218ac9efc97044ae3dd55ae45b925ac87213b",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 10013,
+    "sha256": "4fd910b6cf3bb9948670a6924f4bbe2675b993f683f8a65183add1dfc353a8de",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 53597,
+    "sha256": "cdb13451a3ecf8084c7378e6a4cab530a0b4549b4a53e0f72a77a98d24a50d42",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 215810,
+    "sha256": "0f503368272b44110b3e879ec04419407301cbaff793c4dbf719be45fe048444",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 53436,
+    "sha256": "1cfefdb26edae6d412f8ebece22fdd50c6755b551b2d3d4e87d406124121f6e0",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 52716,
+    "sha256": "1c2418d88adb6d96411e263794a14e037368bd43fc0ea10f3a27c84b70a561d3",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1281,
+    "sha256": "cbe1278d64288f0eae86413ddb3ba57f7127d6d1fcbff9a7d41e476fbd28c2ba",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1174,
+    "sha256": "c138bf664a9a3e6b6d62e8a2c84c553ec09f3a2f1cf8a95dabbdf5f1041e1eec",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 1999,
+    "sha256": "36fc282d92cea17471610f4903529ff72e649abea4eb90b42d89dc1babb2fc55",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 559249,
+    "sha256": "49146c4775f74dc12ad8ba19fa05c6867878f0ea519cd4728dc00d08ef81406e",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 539286,
+    "sha256": "a2051bdc596e8a0874caf3026171e18558ec81306b92f09153f01e281d0aff5b",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 543157,
+    "sha256": "b5d7408e63273513a18bb1aae4949fa55065247bfaeb5517c84037ed2ce84d94",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 601327,
+    "sha256": "a92e32a5be55a005eef8a1397da15f1540d4d5f302b02f56ad1fb47aa4a5f037",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 526100,
+    "sha256": "557f9281db426e3b4be7986054b2ee1e5febc3eb1fae5906f20efe6d3bc13bd7",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 357965,
+    "sha256": "4b15597937ac8ab2047b9dd34913be33b7e6ff67b700080aed65b1713d0bdbce",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 439586,
+    "sha256": "c9464bb7c437c03857093b99a4ee2b4ac6520ba939c417ccc5916614b9dff3bf",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 482518,
+    "sha256": "7dec5a269a512b3377e41c8a368a3bbcd03beebf5f39a2ec35380f0a5ef8b90c",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 765606,
+    "sha256": "4e2b98f45086326cd2047e6c1e5332409e855be8d5ed9bf51ad879f317314cbf",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 640075,
+    "sha256": "ae8a199f78cdb4e0a977dc96eda4e4a219988b73fc7cf8a244b446d2c359c43d",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 555265,
+    "sha256": "d617f0e924b1d3f2d4c1f809ec69a78e0eac2d2d9ee483eb3d9b6f2255175be7",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 407643,
+    "sha256": "751491270a1dac28979d6b00a2c672198f3ebc80d23fe0eeee9a461a22c33768",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 226179,
+    "sha256": "cb9ad343e4dfef2c322aaa10f4235690f405cc9ab503e9917b1499f54f190e4a",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_02.png",
+    "bytes": 100519,
+    "sha256": "626e0d91eeb6df7c035bc8b376547a1e5cead81bf869ad4f78bdcb3bb80b849c",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 419832,
+    "sha256": "b55f16a750486596461aec10ed3212f5101a8c80e7fbd3cfc9a2656ddd7f1051",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 337551,
+    "sha256": "9b7f20df2c563cc78e03e33b0e9fa2fa470a3f99780a31d5c5d405d73310f62d",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 312571,
+    "sha256": "e6b23884df7bf2df038a68179b881887fcde4b526f99e1eb138cf377b232540a",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 310802,
+    "sha256": "82c21236a59edaacdddece8d95428e0485b41a798ca36b0da9ec029e4075e426",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 590625,
+    "sha256": "957160c62138abebd6f724a0ef52c7a73cf19c99bfc800ce48963ac3e4a6ff10",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 432444,
+    "sha256": "4013b49370cdbc43ad7dd1bcac1c7b0e020820c5cac0d86be9fd92f8880ab2e3",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 410181,
+    "sha256": "33f16da0926c1c57902b2d60e2c43555948f776cae50784f0027648d594b8009",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 496167,
+    "sha256": "da50acc4f9a04896a188382f94ebd40ae394cc099de54bb242043b5c961cfe31",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 406775,
+    "sha256": "778317e2c0599b16111bfdfa3e34ac36af4b021a67a12f60b26fa0737f9d222c",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_04.png",
+    "bytes": 206415,
+    "sha256": "99815c2e97c6d29bdaa17f94ce9babd23e903ebaf6ece346e01c0e6c72c3df36",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 826464,
+    "sha256": "af95e6a8edb0daf2244a249f2b441a943cd70eb0662b557b100d3d688ce6e462",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 557176,
+    "sha256": "923c217f9a02b8d0c2376ecadda2e7bcae747873c95b10e285c4f91ef94e107b",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2986,
+    "sha256": "d62fd1095513bffbbb64974258005bf191da49bc7c22c1ab886c38830cb2c139",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 20072,
+    "sha256": "5de562463134d223f9b528508b11626948650e80b818631ceed30420281dc5b5",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 5267,
+    "sha256": "f7fd7bb923ae97c79f8c4a234327cd77fa6f23e5f591326f248358602aad9b40",
+    "bundle": "Fibroblast_review_lite_01.zip"
+  }
+]

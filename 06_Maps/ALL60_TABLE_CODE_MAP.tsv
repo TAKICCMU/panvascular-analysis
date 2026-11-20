@@ -1,0 +1,61 @@
+table	title	original_64_table_number	original_stage_ids	current_data	current_typed_data	current_editorial_code
+1	Single-cell datasets and publications	1	01;02;09	02_Plot_Data/Supplementary_Tables_Text/Table_01.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_01.rows.jsonl.gz	table_code/20261117
+2	Sample and donor metadata	2	01;02;09	02_Plot_Data/Supplementary_Tables_Text/Table_02.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_02.rows.jsonl.gz	table_code/20261117
+3	Sample-level post-QC cell counts	28	01;02;09	02_Plot_Data/Supplementary_Tables_Text/Table_03.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_03.rows.jsonl.gz	table_code/20261117
+4	Integration benchmark	27	05	02_Plot_Data/Supplementary_Tables_Text/Table_04.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_04.rows.jsonl.gz	table_code/20261117
+5	Marker expression summaries	26	06;07;08;10	02_Plot_Data/Supplementary_Tables_Text/Table_05.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_05.rows.jsonl.gz	table_code/20261117
+6	Cell-state annotations and coverage	3	06;07;08;10	02_Plot_Data/Supplementary_Tables_Text/Table_06.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_06.rows.jsonl.gz	table_code/20261117
+7	Cell-state study coverage	29	06;07;08;10	02_Plot_Data/Supplementary_Tables_Text/Table_07.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_07.rows.jsonl.gz	table_code/20261117
+8	Cell-type fractions by tissue	36	06;07;08;10	02_Plot_Data/Supplementary_Tables_Text/Table_08.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_08.rows.jsonl.gz	table_code/final_20261118
+9	Cell-type composition by study	30	06;07;08;10	02_Plot_Data/Supplementary_Tables_Text/Table_09.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_09.rows.jsonl.gz	table_code/20261117
+10	Unknown-cell source coverage	31	06;07;08;10	02_Plot_Data/Supplementary_Tables_Text/Table_10.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_10.rows.jsonl.gz	table_code/20261117
+11	GWAS datasets	4	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_11.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_11.rows.jsonl.gz	table_code/20261117
+12	Pairwise genetic correlations	6	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_12.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_12.rows.jsonl.gz	table_code/20261117
+13	Exploratory factor loadings	7	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_13.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_13.rows.jsonl.gz	table_code/20261117
+14	Genetic model fit statistics	64	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_14.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_14.rows.jsonl.gz	table_code/20261117
+15	Bifactor model loadings	8	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_15.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_15.rows.jsonl.gz	table_code/20261117
+16	Leave-one-trait factor correlations	9	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_16.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_16.rows.jsonl.gz	table_code/20261117
+17	Component-disease locus novelty assessment	10	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_17.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_17.rows.jsonl.gz	table_code/20261117
+18	Locus catalogue and literature matches	11	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_18.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_18.rows.jsonl.gz	table_code/20261117
+19	MAGMA and scDRS cell-group associations	5	12;13	02_Plot_Data/Supplementary_Tables_Text/Table_19.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_19.rows.jsonl.gz	table_code/20261117
+20	Genetic cell-group enrichment summaries	52	12;13	02_Plot_Data/Supplementary_Tables_Text/Table_20.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_20.rows.jsonl.gz	table_code/20261117
+21	MAGMA pathway enrichment	19	16	02_Plot_Data/Supplementary_Tables_Text/Table_21.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_21.rows.jsonl.gz	table_code/20261117
+22	Pseudobulk pathway enrichment	20	15	02_Plot_Data/Supplementary_Tables_Text/Table_22.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_22.rows.jsonl.gz	table_code/20261117
+23	Recurrent pseudobulk pathways	37	15	02_Plot_Data/Supplementary_Tables_Text/Table_23.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_23.rows.jsonl.gz	table_code/20261117
+24	Prioritised gene–cell-population pairs	13	14;17	02_Plot_Data/Supplementary_Tables_Text/Table_24.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_24.rows.jsonl.gz	table_code/final_20261118
+25	Candidate MAGMA evidence across scenarios	42	12;13	02_Plot_Data/Supplementary_Tables_Text/Table_25.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_25.rows.jsonl.gz	table_code/20261117
+26	Pseudobulk meta-analysis of prioritised genes	43	14;17	02_Plot_Data/Supplementary_Tables_Text/Table_26.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_26.rows.jsonl.gz	table_code/20261117
+27	Regulatory evidence for prioritised genes	12	18	02_Plot_Data/Supplementary_Tables_Text/Table_27.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_27.rows.jsonl.gz	table_code/20261117
+28	GWAS–eQTL colocalisation	40	18	02_Plot_Data/Supplementary_Tables_Text/Table_28.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_28.rows.jsonl.gz	table_code/20261117
+29	QTL coverage by gene and GWAS scenario	41	18	02_Plot_Data/Supplementary_Tables_Text/Table_29.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_29.rows.jsonl.gz	table_code/20261117
+30	CoVarNet module evidence	14	20;21;22	02_Plot_Data/Supplementary_Tables_Text/Table_30.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_30.rows.jsonl.gz	table_code/20261117
+31	CoVarNet cell-state weights	15	20;21;22	02_Plot_Data/Supplementary_Tables_Text/Table_31.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_31.rows.jsonl.gz	table_code/20261117
+32	CoVarNet evaluation criteria	16	20;21;22	02_Plot_Data/Supplementary_Tables_Text/Table_32.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_32.rows.jsonl.gz	table_code/20261117
+33	Parent-lineage-matched CoVarNet null results	55	20;21;22	02_Plot_Data/Supplementary_Tables_Text/Table_33.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_33.rows.jsonl.gz	table_code/20261117
+34	CoVarNet resampling and refits	63	20;21;22	02_Plot_Data/Supplementary_Tables_Text/Table_34.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_34.rows.jsonl.gz	table_code/20261117
+35	Spatial sample metadata	21	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_35.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_35.rows.jsonl.gz	table_code/20261117
+36	Candidate spatial associations	32	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_36.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_36.rows.jsonl.gz	table_code/20261117
+37	Spatial posterior and QC sensitivity	48	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_37.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_37.rows.jsonl.gz	table_code/20261117
+38	Section-level module spatial statistics	17	29	02_Plot_Data/Supplementary_Tables_Text/Table_38.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_38.rows.jsonl.gz	table_code/20261117
+39	Dataset-level module spatial statistics	18	29	02_Plot_Data/Supplementary_Tables_Text/Table_39.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_39.rows.jsonl.gz	table_code/20261117
+40	Module spatial coherence	33	29	02_Plot_Data/Supplementary_Tables_Text/Table_40.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_40.rows.jsonl.gz	table_code/20261117
+41	LDSC intercepts	25	11;19	02_Plot_Data/Supplementary_Tables_Text/Table_41.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_41.rows.jsonl.gz	table_code/20261117
+42	Multi-signal colocalisation sensitivity	46	18	02_Plot_Data/Supplementary_Tables_Text/Table_42.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_42.rows.jsonl.gz	table_code/20261117
+43	Disease-associated cell proportions	35	23	02_Plot_Data/Supplementary_Tables_Text/Table_43.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_43.rows.jsonl.gz	table_code/20261117
+44	Cell-proportion model eligibility	60	23	02_Plot_Data/Supplementary_Tables_Text/Table_44.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_44.rows.jsonl.gz	table_code/20261117
+45	CoVarNet rank selection	44	20;21;22	02_Plot_Data/Supplementary_Tables_Text/Table_45.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_45.rows.jsonl.gz	table_code/20261117
+46	Leave-one-study CoVarNet refits	45	20;21;22	02_Plot_Data/Supplementary_Tables_Text/Table_46.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_46.rows.jsonl.gz	table_code/20261117
+47	CoVarNet sample and donor metadata	61	20;21;22	02_Plot_Data/Supplementary_Tables_Text/Table_47.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_47.rows.jsonl.gz	table_code/20261117
+48	Availability of spatial region annotations	22	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_48.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_48.rows.jsonl.gz	table_code/20261117
+49	cell2location model diagnostics	54	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_49.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_49.rows.jsonl.gz	table_code/20261117
+50	Spatial and single-cell source overlap	56	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_50.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_50.rows.jsonl.gz	table_code/20261117
+51	Target-exclusion spatial sensitivity	53	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_51.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_51.rows.jsonl.gz	table_code/20261117
+52	Unit-level spatial coefficients	57	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_52.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_52.rows.jsonl.gz	table_code/20261117
+53	Section-level spatial coefficients	58	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_53.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_53.rows.jsonl.gz	table_code/20261117
+54	Spatial model eligibility	59	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_54.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_54.rows.jsonl.gz	table_code/20261117
+55	Plaque and calcification gene programmes	23	26;27;28	02_Plot_Data/Supplementary_Tables_Text/Table_55.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_55.rows.jsonl.gz	table_code/20261117
+56	Module–programme direction across datasets	34	29	02_Plot_Data/Supplementary_Tables_Text/Table_56.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_56.rows.jsonl.gz	table_code/20261117
+57	Analysis sample sizes and units	47	08;32	02_Plot_Data/Supplementary_Tables_Text/Table_57.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_57.rows.jsonl.gz	table_code/20261117
+58	Relationships among evidence sources	50	08;32	02_Plot_Data/Supplementary_Tables_Text/Table_58.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_58.rows.jsonl.gz	table_code/20261117
+59	Multiple-testing families	51	08;32	02_Plot_Data/Supplementary_Tables_Text/Table_59.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_59.rows.jsonl.gz	table_code/final_20261118
+60	Software versions and random seeds	24	08;32	02_Plot_Data/Supplementary_Tables_Text/Table_60.tsv	02_Plot_Data/Supplementary_Tables_Text/Table_60.rows.jsonl.gz	table_code/final_20261118

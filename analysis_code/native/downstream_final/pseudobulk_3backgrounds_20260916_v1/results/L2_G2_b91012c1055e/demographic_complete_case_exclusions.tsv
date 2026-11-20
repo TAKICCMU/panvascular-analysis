@@ -1,0 +1,5 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G2	Smooth muscle cell | RGS6 contractile SMC	GSE198750	GSE198750::DONOR::patient_1	aorta	healthy	L2_28a63a32d30176fb	49	PMID33626908__patient1_AO			scRNA-seq	GSE198750	True	reference
+G2	Smooth muscle cell | RGS6 contractile SMC	GSE198750	GSE198750::DONOR::patient_2	aorta	healthy	L2_41ace6479389f9d9	21	PMID33626908__patient2_AO			scRNA-seq	GSE198750	True	reference
+G2	Smooth muscle cell | RGS6 contractile SMC	GSE222318	GSE222318::DONOR::Aortic_dissection_Chronic-1	ascending aorta	disease	L2_c04c747fa8fc86c5	35	GSE222318__GSM6919838		male	scRNA-seq	GSE222318	True	case
+G2	Smooth muscle cell | RGS6 contractile SMC	GSE222318	GSE222318::DONOR::Aortic_dissection_Subacute-2	ascending aorta	disease	L2_0bfcb8835a564a00	20	GSE222318__GSM6919839		male	scRNA-seq	GSE222318	True	case

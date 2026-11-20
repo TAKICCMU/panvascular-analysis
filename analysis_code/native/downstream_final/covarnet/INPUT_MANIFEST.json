@@ -1,0 +1,20 @@
+{
+  "status": "PREPARED_NOT_EXECUTED",
+  "n_profiles": 223,
+  "n_states": 89,
+  "n_cells": 1100160,
+  "profile": "separate sample_uid; donor-block resampling",
+  "source_counts_sha256": "e1f12914e0e30037639f5a710488203e9211c55569ad2de79a8681fb9368f70f",
+  "source_node_review_sha256": "672ccf5a09921f59b9646207b12245c288d43a17a7ad64fe43f240b65250556d",
+  "known_program_validation": "descriptive eligibility; NMF stability not yet established",
+  "files": {
+    "CoVarNet_sample_metadata.tsv": "e93450c9ccd2a9ae7879332b676c36c20c998be44699de39d370722284f01737",
+    "CoVarNet_node_proportion_of_all_atlas_cells.tsv": "fa8b924302581f92884db23d08eb211a28ba82eea2fee26e141a3542d2370d1e",
+    "CoVarNet_node_counts.tsv": "3eb6e02297edd9e5ee79a274339bd43ded2283489e3dc68f97e292aa72c7b5ae",
+    "CoVarNet_node_parent_map.tsv": "eef1c9ce7e77991b7594362dc06c37297c14eee6ec64147de45b8e1b0df3e3aa",
+    "CoVarNet_full_parent_counts.tsv": "7ea86369adfdc02360b66fdd28add3ea40c557117f225b3d8420100348e7d960",
+    "node_eligibility_applied.tsv": "60d177332725002b919442f1c0204825eb00c2ba05a2ea9822dec2e9389aee03",
+    "CoVarNet_proportion_within_full_parent.tsv": "57fdc1d17f06a606696378fa10e25d50cb25ba2b40d3f40bb5b6637d4e9a18ad",
+    "CoVarNet_node_proportion_among_stable_nodes_sensitivity.tsv": "625a1576104b9d4d21c9ddce46e08c57e2e93284f3655b45cc8fe2ecbd2c28ca"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "minimum_detected_markers": 3,
+  "minimum_program_detection_fraction": 0.4,
+  "minimum_top_second_score_ratio": 2,
+  "unknown_is_unlabeled": true,
+  "thresholds_fixed_before_new_scores": true,
+  "L2_generated": false,
+  "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/inputs/studywise_marker_preannotation_all_cells.tsv.gz",
+  "source_sha256": "9409aaf55e0d62028762db15beca8aecd4033811320269accf54e330ec9f768e",
+  "marker_vocabulary": "unchanged 14 primary canonical programs; rare programs remain audit-only",
+  "limitations": "marker-supported provisional labels, not author-curated ground truth; overlapping Fib/SMC/FMC programs may be unresolved"
+}

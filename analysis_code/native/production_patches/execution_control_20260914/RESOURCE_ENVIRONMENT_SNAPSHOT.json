@@ -1,0 +1,95 @@
+{
+  "hostname": {
+    "command": [
+      "hostname"
+    ],
+    "exit": 0,
+    "stdout": "shpc-2761-instance-F2j2EXE3\n",
+    "stderr": ""
+  },
+  "utc": {
+    "command": [
+      "date",
+      "-u"
+    ],
+    "exit": 0,
+    "stdout": "Sun Sep 13 18:43:34 UTC 2026\n",
+    "stderr": ""
+  },
+  "cpu_affinity": {
+    "command": [
+      "taskset",
+      "-pc",
+      "21006"
+    ],
+    "exit": 0,
+    "stdout": "pid 21006's current affinity list: 1,5,11,12,14,15,17,20,23,24,27,31,35,40,42-44,46,48,50,51,54,56,60,63,69,73,76,78,81-83,86,89-92,96,97,99,105,106,109,113,115,119,120,124-126,128,136,137,139,145,146,148,149,153,155\n",
+    "stderr": ""
+  },
+  "cpu_quota": {
+    "command": [
+      "cat",
+      "/sys/fs/cgroup/cpu.max"
+    ],
+    "exit": 0,
+    "stdout": "max 100000\n",
+    "stderr": ""
+  },
+  "memory": {
+    "command": [
+      "free",
+      "-b"
+    ],
+    "exit": 0,
+    "stdout": "              total        used        free      shared  buff/cache   available\nMem:    824999997440 137314017280 57511137280    21291008 630174842880 687664664576\nSwap:             0           0           0\n",
+    "stderr": ""
+  },
+  "disk": {
+    "command": [
+      "df",
+      "-B1",
+      "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/execution_control_20260914"
+    ],
+    "exit": 0,
+    "stdout": "Filesystem         1B-blocks          Used   Available Use% Mounted on\n/dev/rbd9      2649580974080 2462070419456 71105622016  98% /home\n",
+    "stderr": ""
+  },
+  "vmstat": {
+    "command": [
+      "vmstat",
+      "1",
+      "2"
+    ],
+    "exit": 0,
+    "stdout": "procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----\n r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st\n10  0      0 56161364      0 615405120    5   20    56   123    0    0 15  2 82  0  0\n 6  0      0 56071372      0 615405312    0    0     0  4116 88160 158689  7  1 92  0  0\n",
+    "stderr": ""
+  },
+  "gpu": {
+    "command": [
+      "nvidia-smi"
+    ],
+    "exit": 0,
+    "stdout": "Mon Sep 14 02:43:35 2026       \n+-----------------------------------------------------------------------------------------+\n| NVIDIA-SMI 570.153.02             Driver Version: 570.153.02     CUDA Version: 12.8     |\n|-----------------------------------------+------------------------+----------------------+\n| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n|                                         |                        |               MIG M. |\n|=========================================+========================+======================|\n|   0  NVIDIA GeForce RTX 5090        Off |   00000000:99:00.0 Off |                  N/A |\n| 74%   75C    P1            395W /  575W |    1312MiB /  32607MiB |     90%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n                                                                                         \n+-----------------------------------------------------------------------------------------+\n| Processes:                                                                              |\n|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n|        ID   ID                                                               Usage      |\n|=========================================================================================|\n|    0   N/A  N/A         2760458      C   ...da3/envs/omicverse/bin/python        694MiB |\n+-----------------------------------------------------------------------------------------+\n",
+    "stderr": ""
+  },
+  "cpu_process_snapshot": {
+    "command": [
+      "ps",
+      "-eo",
+      "pid,ppid,user,nlwp,rss,pcpu,comm",
+      "--sort=-pcpu"
+    ],
+    "exit": 0,
+    "stdout": "    PID    PPID USER     NLWP   RSS %CPU COMMAND\n1492398 1492381 anzhen_+   65 44272  0.2 codex\n      1       0 root        1 10776  0.0 systemd\n    129       1 root        1 235580 0.0 systemd-journal\n    150       1 root        1  4524  0.0 systemd-udevd\n    179       1 systemd+    1  7692  0.0 systemd-network\n    181       1 systemd+    1 13912  0.0 systemd-resolve\n    196       1 root        1  2952  0.0 cron\n    197       1 message+    1  4408  0.0 dbus-daemon\n    200       1 root        1 18128  0.0 networkd-dispat\n    202       1 syslog      3  4676  0.0 rsyslogd\n    207       1 root        1  7916  0.0 systemd-logind\n    214       1 root        1  2176  0.0 agetty\n    218       1 root        2 17992  0.0 unattended-upgr\n    221       1 rstudio+    4  8420  0.0 rserver\n    222       1 root        1  6932  0.0 sshd\n    289       1 anzhen_+    1  9224  0.0 systemd\n    290     289 anzhen_+    1  3584  0.0 (sd-pam)\n   3060       1 anzhen_+    1  3292  0.0 bash\n   3063    3060 anzhen_+   15 817136 0.0 python\n   4224       1 anzhen_+    1 11968  0.0 python3\n   5534    3063 anzhen_+   13 1327240 0.0 python\n   7491    3063 anzhen_+   13 1847628 0.0 python\n   9091 3881095 anzhen_+   60 165156 0.0 R\n  10954    9091 anzhen_+    1   604  0.0 sh\n  10955   10954 anzhen_+    1   604  0.0 sh\n  10960   10955 anzhen_+   60 86696  0.0 R\n  11914   10960 anzhen_+    1   540  0.0 sh\n  11915   11914 anzhen_+    1  2728  0.0 make\n  14109   11915 anzhen_+    1   604  0.0 sh\n  15120 2230504 anzhen_+    1   580  0.0 sleep\n  16141 2460521 anzhen_+    1   580  0.0 sleep\n  20613   14109 anzhen_+    1  2812  0.0 make\n  20614   20613 anzhen_+    1  3192  0.0 bash\n  20615   20614 anzhen_+    1   288  0.0 bash\n  20616   20615 anzhen_+    1  3256  0.0 make\n  20617   20616 anzhen_+    1  3144  0.0 bash\n  20618   20617 anzhen_+    1  3312  0.0 make\n  20948     222 root        1  8880  0.0 sshd\n  21000   20948 anzhen_+    1  5320  0.0 sshd\n  21006   21000 anzhen_+    1 12200  0.0 python3\n  21045 3891374 anzhen_+    1  3308  0.0 bash\n  21050   21045 anzhen_+    1   512  0.0 sleep\n  21098   20618 anzhen_+    1  3368  0.0 bash\n  21102   21098 anzhen_+    1  4912  0.0 bash\n  21114   21102 anzhen_+    1  3404  0.0 x86_64-conda-li\n  21116   21114 anzhen_+    1 58640  0.0 cc1\n  21117   21114 anzhen_+    1  3528  0.0 as\n  21126   21006 anzhen_+    1  3328  0.0 ps\n1146704     289 anzhen_+    1  3848  0.0 dbus-daemon\n1492381       1 anzhen_+   11 38308  0.0 node\n2230504       1 anzhen_+    1  3220  0.0 bash\n2460521       1 anzhen_+    1  3364  0.0 bash\n2735959       1 anzhen_+    1  4064  0.0 tmux: server\n2735960 2735959 anzhen_+    1  3464  0.0 bash\n2736547 2735960 anzhen_+    5 4286956 0.0 jupyter-lab\n2760458       1 anzhen_+   36 9601568 0.0 python\n2763043       1 anzhen_+    1 10192  0.0 python\n2773358 2736547 anzhen_+   17 27036  0.0 python\n2773361 2736547 anzhen_+   14 21660  0.0 python\n2773367 2736547 anzhen_+   14 21224  0.0 python\n2773414 2736547 anzhen_+   14 21508  0.0 python\n2773584 2736547 anzhen_+   74 294356 0.0 python\n2773698 2736547 anzhen_+   14 25192  0.0 python\n2928333 2736547 anzhen_+   87 308956 0.0 python\n3098808 2736547 anzhen_+   86 321848 0.0 python\n3115760 2736547 anzhen_+   86 325728 0.0 python\n3116895 2736547 anzhen_+   90 12445076 0.0 python\n3248260 2736547 anzhen_+   87 669812 0.0 python\n3288079 2736547 anzhen_+  183 84598968 0.0 python\n3639436 2736547 anzhen_+   77 1540144 0.0 python\n3742401     222 root        1  8912  0.0 sshd\n3742413 3742401 anzhen_+    1  5916  0.0 sshd\n3742414 3742413 anzhen_+   11 42548  0.0 node\n3742666 3742414 anzhen_+   64 18676  0.0 codex\n3880936     222 root        1  8908  0.0 sshd\n3881094 3880936 anzhen_+    1  6204  0.0 sshd\n3881095 3881094 anzhen_+    1  7952  0.0 bash\n3890020     222 root        1  9044  0.0 sshd\n3890032 3890020 anzhen_+    1  8868  0.0 sshd\n3891362     222 root        1  8872  0.0 sshd\n3891374 3891362 anzhen_+    1  6492  0.0 sshd\n3891375 3891374 anzhen_+    1  8068  0.0 bash\n3891386 3891374 anzhen_+    1  4144  0.0 sftp-server\n3891387 3891374 anzhen_+    1  7904  0.0 bash\n3891403 3891374 anzhen_+    1  4312  0.0 sftp-server\n3891883 3891387 anzhen_+    1  3436  0.0 top\n3892042     222 root        1  8868  0.0 sshd\n3892054 3892042 anzhen_+    1 10036  0.0 sshd\n3892055 3892054 anzhen_+    1  4300  0.0 sftp-server\n3892057 3892054 anzhen_+    1  4668  0.0 sftp-server\n3892058 3892054 anzhen_+    1  4292  0.0 sftp-server\n3892063 3892054 anzhen_+    1  4248  0.0 sftp-server\n3892064 3892054 anzhen_+    1  4316  0.0 sftp-server\n3892071 3892054 anzhen_+    1  4156  0.0 sftp-server\n3958844     222 root        1  8912  0.0 sshd\n3958860 3958844 anzhen_+    1  5816  0.0 sshd\n3960262       1 anzhen_+   64 30360  0.0 omicos\n3960375 3960262 anzhen_+   61 252988 0.0 python3\n4067652     222 root        1  9176  0.0 sshd\n4067668 4067652 anzhen_+    1  6152  0.0 sshd\n4067674 4067668 anzhen_+    1  4204  0.0 sftp-server\n",
+    "stderr": ""
+  },
+  "R_version": {
+    "command": [
+      "R",
+      "--version"
+    ],
+    "exit": 0,
+    "stdout": "R version 4.3.1 (2023-06-16) -- \"Beagle Scouts\"\nCopyright (C) 2023 The R Foundation for Statistical Computing\nPlatform: x86_64-pc-linux-gnu (64-bit)\n\nR is free software and comes with ABSOLUTELY NO WARRANTY.\nYou are welcome to redistribute it under the terms of the\nGNU General Public License versions 2 or 3.\nFor more information about these matters see\nhttps://www.gnu.org/licenses/.\n\n",
+    "stderr": ""
+  }
+}

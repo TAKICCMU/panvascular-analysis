@@ -1,0 +1,764 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 20233,
+    "sha256": "1d4f4e35cf46b03c7af62d19d70cc7e2c632a03582ae879b64bf688c1a5ada00",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 12450,
+    "sha256": "22ef6aa6789a95f1b52aa3b49670b367f5cfbb4da30aa0d6d27e5a0183753efd",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 10752,
+    "sha256": "70b3c48d004a06d1bfb5078fa5d9bba65386d7f6f967345530dc8fc9335a2f03",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 144,
+    "sha256": "966a7e1788b640505b530e3b7b121197c06fba1a08d6747ba22034db5a7d5cc8",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 37561,
+    "sha256": "e4135bb4899499f75e90efab00395e421f615007c8704cd82c21263ebca2ab83",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 267805,
+    "sha256": "d0557742d5f9ec437a6156b58697d3cc0c486675b9298207fa80008733d2ab90",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 3323263,
+    "sha256": "b90b776f32a4401cb030f4767ab12d1d91c246089d368376452e964e525bf652",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 7116,
+    "sha256": "a6586b52a0f8c791457af70c4e0200a2973e902d2d72c51404838ae96991b1d8",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 7026,
+    "sha256": "42e129b83ed0d34f0b80676fe4b2e4f77dbfd8953ed502223e4f4e0730e4cb6e",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 7829,
+    "sha256": "f51257d2ac6c93799eae1fc4e691d6e28de345e6409bb2eb7e613573f08a2854",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 7815,
+    "sha256": "a45cf3085b8c4ad8649724272e06109ff790a099fcbc381c0d49241247771c15",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 1551,
+    "sha256": "ad201c7f3f2cb44f280e06edcfd1dbab74a45a776ef6d1ebd6ba1b8bdca5123c",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 1556,
+    "sha256": "86c8e4a64d15eab0e92e826a2e866285b61a379f4b7161a64bb1b118c0500cc2",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 149579,
+    "sha256": "88dc90e4c06ba6b9ab2b682d8a2624baae22fa3befaa6734f806a7a902d4669e",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 27342,
+    "sha256": "fa3c712974e4439c7756089c9ece8f4ebf5cfeb7e0894f4a114cf3f447ecf8d1",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 369,
+    "sha256": "aae1f1536d2afde282d396f4bb5a87238363a9d95f0b2511a03f0edbd9efac46",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 369,
+    "sha256": "aae1f1536d2afde282d396f4bb5a87238363a9d95f0b2511a03f0edbd9efac46",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 523,
+    "sha256": "e380b0561dbc9f409fe408e95628321cef281e6faf92584a3de9fdccadfa4ed4",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 11229,
+    "sha256": "5157b7711c1245d959f07db6a1e97e287b01f78fbd57e151eb2f18b11cb67f7e",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 15706,
+    "sha256": "30bf1c2d1310f93189e537a31b3c113814cfc4873c678695a7e2ed616549eb05",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 1617,
+    "sha256": "c93290866f7ac86124d81e0d4bd432ef780968b4b27713b3ac06edfde3d83c41",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 984,
+    "sha256": "50f2f740321a235dcc2338531b81a93158898a4b4f8c36527263063e99d02a83",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 9075,
+    "sha256": "d5895d276ae46733036b1453270ff6f2117379ca9d8ef7835867b4d4664a305d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 120620,
+    "sha256": "54b464e96d07e3f4d2aa0b65a146ec7e52b221f5d58c762992ced51f64fe533c",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 368867,
+    "sha256": "56b7388b3102b4919c9e098e1b1c791be08aa3ff7afa9ee298317401302df433",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 1130227,
+    "sha256": "2650c36d31d78442f0bc0a14042c63f7d2711c651be7d2f48e552f4829b5a78e",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 6433,
+    "sha256": "832bbc7f02aee962125db3c3dd53d0ad1bf6970c76fdf07998515a0076110838",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 32831,
+    "sha256": "0c89b6c234c35c320274d3c739d74fcc2eb031d7bacc5f2afe3b15ea10d66cfa",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 130795,
+    "sha256": "20d9bf6f96be74525dbd9a7c5a83fbe1337789e4b4c05d2333d5fe4a19ed3f19",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 32671,
+    "sha256": "f5cdc87a9a6b50937d944dbe00e7a7d07e3cc3f20c951c7063a0be54f67f2e94",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 32334,
+    "sha256": "f8fd3a6e419998db9b115c760a13b4085bf4157abbfc50e947fb4ae93aca2508",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 10726,
+    "sha256": "4030c8538b1a9aea26582004e0331918a07ab3961d671cf91ee6073aaf0d58cc",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 10589,
+    "sha256": "7dc3525c1fd4e499d521ea4d743609725141114c85f8df39cb2df03bd2301f2e",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 11502,
+    "sha256": "9ce701fbcd9a62971f96975e8bd24765d25130c2448b61faa1709fb6c7f7387c",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 11419,
+    "sha256": "06f5b518053d1d2cf0ed60d338dd74720aba835ac706abc19e022977c74be8b5",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 12523,
+    "sha256": "4c5246247ce075877d5cacfed95344541a407e58b925d6e0a355d1fb4a5e41e7",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 12418,
+    "sha256": "fa9565d3a137cef80ae2cce555f1fb9d40342d805b39727697b56d96a9afe57f",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_04_detection_fraction.tsv",
+    "bytes": 4176,
+    "sha256": "ac9ef0c1c847e1acf4d91c4798661c67280d1917a32e2f6e4d25178a63a4c35d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_04_mean_log1p.tsv",
+    "bytes": 4172,
+    "sha256": "8b4dc19af16c18d3a957434c7f03bd6475e2b400ac5897989ba22d2c139b1fab",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 229959,
+    "sha256": "73a23e87aa0f337e8a41d0600e2e5a6613d6587d88cad63a93fbec7e3d31d108",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 39991,
+    "sha256": "712f839c06d357051b4d794aaac465f3b0507b260ade5c399f8777d4bffcdcd0",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 559,
+    "sha256": "d0862ba5c59c05f92490b90d6eef3fee3de37b59e001159ead42edb99a842a9b",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 559,
+    "sha256": "d0862ba5c59c05f92490b90d6eef3fee3de37b59e001159ead42edb99a842a9b",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 757,
+    "sha256": "52472a2d45e2ecc7942317e2f17ac7d5064e9314b92de2d1cd831b474832cc91",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 14155,
+    "sha256": "6367dcb926b6daa46fd5c4f459cf3c14112b1b93d0881811fb349c22121cc013",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 19774,
+    "sha256": "aa966c121a365e60d4f1dbd7c9ac5c7702f35148dd1d06881209e807b4a4b79d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 2281,
+    "sha256": "ff8f24a4eb5a3f894a17b163160e483d2627ae2a16f28b7b284ef9d75cb7a8ef",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 1395,
+    "sha256": "3fc180c168a49a123a207b6689baa593f48b170ac4785984c52535cb6d12bf94",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 13461,
+    "sha256": "732c7c6f415fc5a93986ce9b0bd84dc092ea55f33260a9bd0297a03a4e920135",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 183637,
+    "sha256": "f5ad210ec0a2f0c76df1c505414cf6b08eb828aaf26ea3cd50d069b43d6832ca",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 464243,
+    "sha256": "5aaff567f4e96f170ce01382b980af2fe8cc894d5ef94d63bfca0fd86ce0af2b",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 1571436,
+    "sha256": "aef43d5ca09041600661684239b9233aab0146617076d14143b2a549d6cfbb80",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 9579,
+    "sha256": "df7d433518650e73b023909860bda4c54dcf77224df9224ef7c7a6c9d5d910b6",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 50638,
+    "sha256": "1a747ab08436be4e97e93b993a2b02d840a6daa96b5cb6edc3b1ee7357dcb422",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 203407,
+    "sha256": "40beeef4a4053ae76fc46e02b5cec5d3fba738eaefa732d33cda057ecacfa258",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 50323,
+    "sha256": "cc62d1d5ce76edb5bf79c6d040d3c2da0039c7d581e6d7b32e1ec0589a5c71fc",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 49943,
+    "sha256": "1c9b8072ab64d186ddee6dc7bcbe2885196b44aa442566802cc611b317642c2b",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 1199,
+    "sha256": "5d46adf63a11ac5954eef4cfa82aea02d35e80660ad3711e94ab4613cf70ea0d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 1921,
+    "sha256": "89229e430a69d351aa1547d996d32f4dc6783ca89f96c8be2f85a29fd605aec3",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 13216,
+    "sha256": "690707bac3365636c713384487f28f2dc27cb2aa7ad8b68cfaf8a088283d40c0",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 13164,
+    "sha256": "740ba8d569ee33bfc132be9d6cb61b63b59390e77e2c3c7b8da78cd63291a040",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 14018,
+    "sha256": "541080738638a29d95dc857e1d3004b42576ae232262469a0d6c510d0811bfec",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 14077,
+    "sha256": "8ec13649a009d6bd84cfdc8acc7a89011bb5e6d42cb29ec0ff029278044542fd",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 14715,
+    "sha256": "3617264c9e061e9bfc599fe9f5142939878b10ae53fb4921d46bc1a9a0791f34",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 14615,
+    "sha256": "8d031bb962dbb78fbf3c8f109be1a4eb67221fbc899814812a1a8b87c1dc5513",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_04_detection_fraction.tsv",
+    "bytes": 15218,
+    "sha256": "042d257d99972d65de5236298a3a4978b14fabcfee44c9b4e2e7ac03a30a52df",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_04_mean_log1p.tsv",
+    "bytes": 15188,
+    "sha256": "3a897b5f19948353678a73015a383f692940efb68be00865ef54e092e5b47f87",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_05_detection_fraction.tsv",
+    "bytes": 2854,
+    "sha256": "e71225476ea2ffa0e034d673eeaad695aad6c675400da9ffbf207f626e617d98",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_05_mean_log1p.tsv",
+    "bytes": 2863,
+    "sha256": "6b8159ac176010c3877dbd9dbc35c6ea252d1c46c1a95f3efa4d25edf43e0a49",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 287069,
+    "sha256": "791dc9c69956ac3dae6112f2874aea34d6a1e2fe768102f97f98adc567ef3621",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 50975,
+    "sha256": "c815552d21b33e5b7309a6924d257333dbe2ca3c7694c74f6d874d0962eddf57",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 689,
+    "sha256": "3ed1c0782334cd35b9aedc7943468dea5ce7b4ab40382551bb2ab34c6e21aa96",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 689,
+    "sha256": "3ed1c0782334cd35b9aedc7943468dea5ce7b4ab40382551bb2ab34c6e21aa96",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 918,
+    "sha256": "f5369a7a03ca34ca2c309ef18a469d505ad9c9b427edf611f4c3bfb738a643f2",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 16165,
+    "sha256": "c78d0ace69d13b243a7a25d906a94e83e833eef215e20f441ca6b7e03aef53ca",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 22572,
+    "sha256": "2f0fcd0a51c2c286d1850afe129a93eb41b053da2a6a1d313b65209d7d6a3ac0",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 2723,
+    "sha256": "a46670192739ddd564cfe3da848988a9b96fb12988db67c408fdaddc167ee0a3",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 1680,
+    "sha256": "de37685a94ba5fc14b554a3f4aa2672cedcb581a5d00b71b449435f562d7c699",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 16767,
+    "sha256": "e2e7dd55cb4b69fe8a5f58778f94782211c984c626e0a3f2e726aaf2be71d9af",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 223062,
+    "sha256": "54d88fd75f2470305f94f9ef857530e5177eb899dfcd24f11f93eebba3f5c60c",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 511907,
+    "sha256": "5efebc885af23d2aec63c8d35f4ab5c2e42363033c1a61ccb4b84237de94fe15",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 1804542,
+    "sha256": "b279313e791b233cf2bf08911ce70f07f9417f26de63f770af2da3b3bbfcdd85",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 11893,
+    "sha256": "e78e619e8e00dc721865c3db614e85e332756b78d1425060ce6fe30150752c45",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 62705,
+    "sha256": "b30039c358acd3f5848f5bf65ba499d21d8ec446b2a909c50975158509efd7dc",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 253513,
+    "sha256": "9f9db6ad45d5b8a07181a9f9cee6f051900ba21c7a9677270afd649eeeff53d6",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 62505,
+    "sha256": "8579683a18bee76674f4bb881a2f80adec9b6b141dbf57fce4a42cc8fd8b9a8f",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 61840,
+    "sha256": "ad29107f3df793aa944d167bd3c3cf158873d4398a19e57301f60be645feac54",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1298,
+    "sha256": "b6da776fe27909a607c500180a9d16315bc73db8e9248e832fbc9b1540850aa7",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1183,
+    "sha256": "7b496324e25ee0832de504387e2016d105d86581bcc544279b531c3b8a369bb9",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 2016,
+    "sha256": "3cbcd90b5092c50f60c373604fffb366210dc631d2dc94a22fbef54db31d629d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 829479,
+    "sha256": "013d17fa05f0f6ea21145658b695f53c7d46e77d04c22d20118a67afaee133f5",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 831814,
+    "sha256": "a8dca457fe1b029b9b10c6cfbec3c7c8111214aefc00a6089b55a99a311f54d6",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 798848,
+    "sha256": "587625c004338ec31a9a3f4846a78fada2c4d27f0bb3c99bd964c24a125036f2",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 874312,
+    "sha256": "47ef333234df55993c8e39b6b3e76bef62c0a09dddc2040aa1adb86d080b518a",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 835237,
+    "sha256": "feab79b254e547b364946f9bc6c0106668f753dc81793c41e571c705070dc171",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 670131,
+    "sha256": "54409e157d52ec68f3dbd16cc43ed41d3f227ab7ae6672eea609ac01ed1be155",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 760051,
+    "sha256": "8f08f24c1843f4b56dfb22a023f73e7844596c8cab3bfc6d3a11fb9a121cfab6",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 818802,
+    "sha256": "72449efc2cdfca3ea7fa2ed2031082492901239ac887a37b21529b51cae8cbdd",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 1100260,
+    "sha256": "1e6650b8999bdfb391259628d1d02c412f7ad20af6b08ff6e8dbafdba1c657a9",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 1023829,
+    "sha256": "ca4bf0c3ec9df6f1383d98454254ce7e1ef8856b1c5e372c8f5f2cb6c6396960",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 609034,
+    "sha256": "7209d514bbb18c085fe6a3188a99c1da3824e337959791f49b52febe55c5cdbe",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 516320,
+    "sha256": "614c523e3f25c0c4ba5a1e7ebaf795260e15c6c4b5da7338862844cbbbf3638d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 337079,
+    "sha256": "a6515f1abb82b1051d48864e06d2fec88b5489e8d14f3138136c15fca1e3ad87",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_02.png",
+    "bytes": 238492,
+    "sha256": "b3878e21064c7f634b86532529a1d1195388d1e6dafd6614a11f18aafe52b2d5",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_03.png",
+    "bytes": 139433,
+    "sha256": "08ba56aa38f68f015261679a96f68ef81b6bca08020e1b8c10019156dc4fa64f",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 477713,
+    "sha256": "46e60a11f6c5744ba44145f1d8752575ff7d04c7328e57871c5e59b2719dcc86",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 432100,
+    "sha256": "0deb3345c4ecad7d70fb23e2a8637df355390941163ce9977348973bbc9f4452",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 430653,
+    "sha256": "013c6bb1aae7466563639bbabe8c60ca03c3c44d45c3b5ae150cb37625d90ad8",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 374194,
+    "sha256": "0f3aba98d85e57a9ad4bf30d15e2b8ced8241932797aeaa97387ef870a9b8742",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_03.png",
+    "bytes": 338759,
+    "sha256": "84f8cd2efbf120822148ad714473ab9eba1e2540dfb2f72cd35d14db962579a7",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_04.png",
+    "bytes": 198950,
+    "sha256": "8d684fcaf21beb9ca338f2a27a055555d072df07cd21c030cad07fabdc983791",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 651434,
+    "sha256": "7d2f92152084244e6655cf70d16d8820dbcd9e8685b289e6f4810686c94ed119",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 555141,
+    "sha256": "4641766e919b3217f59f2059c231a8f4d9c5cbea23104f8f9e338ec7db2eef46",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 486531,
+    "sha256": "4f802c5d362108cdcea431545a54968e37d421f060619dfd24e33bf12223180d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 487147,
+    "sha256": "4cc46fecd71c7826a0905faf6f917450b6b05b114dd58d44cbebeb6a8bb12e22",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 547998,
+    "sha256": "8abe1e833aca47d9770b647e0f266c63f78fde2240befd8ebaddc465d2474173",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_04.png",
+    "bytes": 310286,
+    "sha256": "535a8a8f2510eca40f0cbf826f8796cb524d00a4572ddceea25bb97a92cd9f5d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_05.png",
+    "bytes": 196084,
+    "sha256": "ecc26dd48c897aaf8143238518f2436b84640b6a292f96dd4917e99064e69e1a",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 765274,
+    "sha256": "0e5fa6d1eb22dbaf86f14bbf2d3abb6bede5e7fc98772e368dc7c40a6f5befe6",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 628504,
+    "sha256": "0917768b5c508030ad2925f058c82fb5f40b9da4b82b34b2cb473d9aaf3c5fcf",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2898,
+    "sha256": "0e8f0fbdf14ce8bacb107182d78c81db101c76b935d4bb441194f6211cfec8b7",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 22428,
+    "sha256": "c2e45a7e954269da689d243dc3e6c7151aeba137e06dc25136efef3efa1f5b0d",
+    "bundle": "SMC_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 5173,
+    "sha256": "4208f56da4ee84a19cb7998af8b07980c57b0ed5fa9da224115b53a718973652",
+    "bundle": "SMC_review_lite_01.zip"
+  }
+]

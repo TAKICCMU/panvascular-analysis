@@ -1,0 +1,417 @@
+{
+  "a": {
+    "width_mm": 183,
+    "height_mm": 29,
+    "axes": [
+      {
+        "data_mm": [
+          5.0,
+          8.68063583815029,
+          5.8,
+          9.638728323699423
+        ],
+        "content_mm": [
+          5.0,
+          8.680635838150293,
+          5.8,
+          9.63872832369942
+        ]
+      },
+      {
+        "data_mm": [
+          6.1,
+          8.732701421800952,
+          4.2,
+          9.534597156398101
+        ],
+        "content_mm": [
+          6.1,
+          8.732701421800952,
+          4.2,
+          9.534597156398101
+        ]
+      },
+      {
+        "data_mm": [
+          14.375722543352602,
+          8.0,
+          4.248554913294799,
+          5.0
+        ],
+        "content_mm": [
+          14.375722543352602,
+          8.000000000000004,
+          4.248554913294799,
+          4.999999999999997
+        ]
+      },
+      {
+        "data_mm": [
+          14.326704545454547,
+          13.999999999999998,
+          4.346590909090911,
+          5.0
+        ],
+        "content_mm": [
+          14.326704545454547,
+          13.999999999999998,
+          4.346590909090911,
+          5.000000000000002
+        ]
+      },
+      {
+        "data_mm": [
+          57.0,
+          7.004149377593364,
+          9.0,
+          7.991701244813275
+        ],
+        "content_mm": [
+          57.0,
+          7.004149377593366,
+          9.0,
+          7.991701244813272
+        ]
+      },
+      {
+        "data_mm": [
+          70.0,
+          8.000000000000004,
+          5.9999999999999964,
+          5.999999999999996
+        ],
+        "content_mm": [
+          70.0,
+          8.000000000000007,
+          5.999999999999987,
+          5.999999999999993
+        ]
+      },
+      {
+        "data_mm": [
+          80.33720930232558,
+          7.000000000000001,
+          8.325581395348832,
+          8.0
+        ],
+        "content_mm": [
+          80.33720930232558,
+          7.000000000000001,
+          8.325581395348832,
+          8.000000000000002
+        ]
+      },
+      {
+        "data_mm": [
+          96.48342541436465,
+          7.000000000000001,
+          10.033149171270718,
+          8.0
+        ],
+        "content_mm": [
+          96.48342541436465,
+          7.000000000000001,
+          10.033149171270718,
+          8.000000000000002
+        ]
+      },
+      {
+        "data_mm": [
+          119.99999999999999,
+          8.229613733905582,
+          11.999999999999993,
+          6.540772532188837
+        ],
+        "content_mm": [
+          119.99999999999999,
+          8.229613733905586,
+          11.999999999999993,
+          6.540772532188835
+        ]
+      },
+      {
+        "data_mm": [
+          44.09615384615385,
+          23.0,
+          4.807692307692305,
+          5.0
+        ],
+        "content_mm": [
+          44.09615384615385,
+          23.0,
+          4.807692307692305,
+          4.999999999999999
+        ]
+      },
+      {
+        "data_mm": [
+          76.0,
+          23.02762430939227,
+          4.999999999999996,
+          4.9447513812154655
+        ],
+        "content_mm": [
+          76.0,
+          23.02762430939227,
+          4.999999999999996,
+          4.944751381215465
+        ]
+      },
+      {
+        "data_mm": [
+          111.0,
+          23.117801047120416,
+          5.000000000000005,
+          4.764397905759168
+        ],
+        "content_mm": [
+          111.0,
+          23.117801047120416,
+          5.000000000000005,
+          4.764397905759167
+        ]
+      },
+      {
+        "data_mm": [
+          153.0,
+          23.88174273858921,
+          5.000000000000005,
+          3.2365145228215804
+        ],
+        "content_mm": [
+          153.0,
+          23.881742738589214,
+          5.000000000000005,
+          3.23651452282158
+        ]
+      }
+    ],
+    "raster_dpi": 900,
+    "origin_mm": [
+      0,
+      0
+    ],
+    "panel_letter": {
+      "included_in_panel_file": false,
+      "assembly_anchor_mm": [
+        1,
+        2.5
+      ],
+      "font_pt": 8,
+      "biorender_role": "independent native text object"
+    },
+    "source_pdf": "panels/Figure1a.pdf",
+    "status": "APPLIED_TO_EXISTING_BIORENDER"
+  },
+  "b": {
+    "width_mm": 107,
+    "height_mm": 51,
+    "axes": [],
+    "raster_dpi": 900,
+    "origin_mm": [
+      0,
+      31
+    ],
+    "panel_letter": {
+      "included_in_panel_file": false,
+      "assembly_anchor_mm": [
+        1,
+        33.5
+      ],
+      "font_pt": 8,
+      "biorender_role": "independent native text object"
+    },
+    "layout_source": "figure1b_layout.py",
+    "primary_data_box_mm": [
+      18,
+      7,
+      46,
+      38.312824751456525
+    ],
+    "tissue_data_box_mm": [
+      80.5,
+      7,
+      25.5,
+      21.238631112220464
+    ],
+    "tissue_legend_box_mm": [
+      80.5,
+      30.7,
+      25.5,
+      18.7
+    ],
+    "source_pdf": "panels/Figure1b.pdf",
+    "status": "APPLIED_TO_EXISTING_BIORENDER"
+  },
+  "c": {
+    "width_mm": 60,
+    "height_mm": 51,
+    "axes": [
+      {
+        "data_mm": [
+          18.5,
+          5.5000000000000036,
+          29.000000000000004,
+          40.5
+        ],
+        "content_mm": [
+          4.332444444444448,
+          5.500000000000009,
+          50.49655555555555,
+          43.68932470703124
+        ]
+      }
+    ],
+    "raster_dpi": 900,
+    "origin_mm": [
+      109,
+      31
+    ],
+    "panel_letter": {
+      "included_in_panel_file": false,
+      "assembly_anchor_mm": [
+        110,
+        33.5
+      ],
+      "font_pt": 8,
+      "biorender_role": "independent native text object"
+    },
+    "source_pdf": "panels/Figure1c.pdf",
+    "status": "APPLIED_TO_EXISTING_BIORENDER"
+  },
+  "d": {
+    "width_mm": 13,
+    "height_mm": 51,
+    "axes": [
+      {
+        "data_mm": [
+          1.0,
+          5.5000000000000036,
+          8.500000000000002,
+          40.5
+        ],
+        "content_mm": [
+          1.0,
+          5.500000000000009,
+          10.7445,
+          40.49999999999999
+        ]
+      }
+    ],
+    "raster_dpi": 900,
+    "origin_mm": [
+      170,
+      31
+    ],
+    "panel_letter": {
+      "included_in_panel_file": false,
+      "assembly_anchor_mm": [
+        171,
+        33.5
+      ],
+      "font_pt": 8,
+      "biorender_role": "independent native text object"
+    },
+    "source_pdf": "panels/Figure1d.pdf",
+    "status": "APPLIED_TO_EXISTING_BIORENDER"
+  },
+  "e": {
+    "width_mm": 58,
+    "height_mm": 35,
+    "axes": [
+      {
+        "data_mm": [
+          29.499999999999996,
+          4.000000000000002,
+          26.999999999999996,
+          25.3
+        ],
+        "content_mm": [
+          9.490444444444444,
+          4.000000000000002,
+          48.27955555555555,
+          28.344775390625
+        ]
+      }
+    ],
+    "raster_dpi": 900,
+    "origin_mm": [
+      0,
+      84
+    ],
+    "panel_letter": {
+      "included_in_panel_file": false,
+      "assembly_anchor_mm": [
+        1,
+        86.5
+      ],
+      "font_pt": 8,
+      "biorender_role": "independent native text object"
+    },
+    "source_pdf": "panels/Figure1e.pdf",
+    "status": "APPLIED_TO_EXISTING_BIORENDER"
+  },
+  "f": {
+    "width_mm": 58,
+    "height_mm": 49,
+    "origin_mm": [
+      0,
+      121
+    ],
+    "raster_dpi": 900,
+    "panel_letter": {
+      "included_in_panel_file": false,
+      "assembly_anchor_mm": [
+        1,
+        123.5
+      ],
+      "font_pt": 8,
+      "biorender_role": "independent native text object"
+    },
+    "source_pdf": "panels/Figure1f.pdf",
+    "status": "APPLIED_TO_EXISTING_BIORENDER",
+    "layout_source": "assemble_current_approved_layout.py"
+  },
+  "g": {
+    "width_mm": 122,
+    "height_mm": 40,
+    "origin_mm": [
+      61,
+      84
+    ],
+    "raster_dpi": 900,
+    "panel_letter": {
+      "included_in_panel_file": false,
+      "assembly_anchor_mm": [
+        62,
+        86.5
+      ],
+      "font_pt": 8,
+      "biorender_role": "independent native text object"
+    },
+    "source_pdf": "panels/Figure1g.pdf",
+    "status": "APPLIED_TO_EXISTING_BIORENDER",
+    "layout_source": "assemble_current_approved_layout.py"
+  },
+  "h": {
+    "width_mm": 122,
+    "height_mm": 44,
+    "origin_mm": [
+      61,
+      126
+    ],
+    "raster_dpi": 900,
+    "panel_letter": {
+      "included_in_panel_file": false,
+      "assembly_anchor_mm": [
+        62,
+        128.5
+      ],
+      "font_pt": 8,
+      "biorender_role": "independent native text object"
+    },
+    "source_pdf": "panels/Figure1h.pdf",
+    "status": "APPLIED_TO_EXISTING_BIORENDER",
+    "layout_source": "assemble_current_approved_layout.py"
+  }
+}

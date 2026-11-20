@@ -1,0 +1,3 @@
+metric	epoch	value
+elbo_train	0	7360.48681640625
+elbo_train	1	7344.4345703125

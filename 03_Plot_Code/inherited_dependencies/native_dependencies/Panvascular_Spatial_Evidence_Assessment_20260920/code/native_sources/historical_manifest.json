@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "generated_at": "2026-08-26T13:03:55.698842+00:00",
+  "input_root": "/home/anzhen_vhd/scRNAseq/codex/spatial_validation_v5_locked71_gpu_final",
+  "output_root": "/home/anzhen_vhd/scRNAseq/codex/spatial_validation_v5_locked71_spatial_statistics_audit_v1",
+  "random_seed": 20260826,
+  "n_moran_permutations": 999,
+  "n_matched_genes": 100,
+  "posterior": "q05_cell_abundance_w_sf",
+  "primary_target_sensitivity": "negative-binomial versus Poisson direction and effect",
+  "spatial_residual_test": "Moran's I of negative-binomial Pearson residuals on six-nearest-neighbour graph",
+  "matched_null": "genes matched within each spatial dataset for mean count and detection fraction",
+  "python": "3.10.20 (main, Mar 11 2026, 17:46:40) [GCC 14.3.0]",
+  "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+  "anndata": "0.11.4",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "scipy": "1.10.1",
+  "statsmodels": "0.14.6"
+}

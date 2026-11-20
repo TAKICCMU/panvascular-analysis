@@ -1,0 +1,57 @@
+/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/louvain/__init__.py:54: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+{
+  "status": "completed",
+  "method": "cellhint",
+  "config_id": "meta5",
+  "output_type": "graph_only",
+  "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+  "input_shape": [
+    315949,
+    2000
+  ],
+  "parameters": {
+    "n_meta_neighbors": 5,
+    "n_neighbors_native": 741,
+    "K_exported": 30,
+    "batch_key": "sample_uid",
+    "input_label_key": "studywise_marker_level1"
+  },
+  "shared_harmonization": {
+    "input": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/inputs/scib_primary_sampleonly_cap1500_hvg2000.h5ad",
+    "input_sha256": "62be48e45915b278910021de311651ddfd14ac3b06742892603edf6b1cddd0c5",
+    "pca": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/primary/omicverse_pca.npy",
+    "pca_sha256": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+    "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+    "n_cells": 315949,
+    "batch_key": "sample_uid",
+    "label_key": "studywise_marker_level1",
+    "n_samples": 247,
+    "parameters": {
+      "use_pct": false,
+      "filter_cells": true,
+      "use_rep": "X_pca_omicverse"
+    },
+    "optimization": "single-entry confusion matrix memoization; deep copies; all native harmonization thresholds/order unchanged",
+    "reusable_for": [
+      "meta3",
+      "meta5"
+    ],
+    "cpu_affinity": [
+      1,
+      5,
+      11,
+      12
+    ],
+    "status": "completed",
+    "elapsed_seconds": 14208.404373407364,
+    "cache_hits": 3430,
+    "cache_misses": 245,
+    "reannotated_cells": 250843,
+    "reannotation_sha256": "a1277b61b34ff80660b5e7e033de83b01bf832336f5e8ccfb03c0e628d716f1d"
+  },
+  "minimum_native_nonself_degree": 740,
+  "elapsed_seconds": 2153.282445907593,
+  "native_graph_saved": true,
+  "never_self_padded": true
+}

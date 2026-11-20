@@ -1,0 +1,33 @@
+{
+  "inputs": [
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/covarnet/CoVarNet_sample_metadata.tsv",
+      "sha256": "e93450c9ccd2a9ae7879332b676c36c20c998be44699de39d370722284f01737"
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/covarnet/CoVarNet_node_proportion_of_all_atlas_cells.tsv",
+      "sha256": "fa8b924302581f92884db23d08eb211a28ba82eea2fee26e141a3542d2370d1e"
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/covarnet/stable_NMF/module_node_weights_K14.tsv",
+      "sha256": "52f823b2c4cf8a8f11a26480ac7a5f2fc9f2b563e43f82f9636f22818eaf5c47"
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/covarnet/stable_NMF/sample_module_relative_coefficient_K14.tsv",
+      "sha256": "83d6e41ea55ac46ec54ad9e036e8c9b8f2093fe8b110be0e7dfb4fef807e8cba"
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/covarnet/stable_NMF/final_nmf_K14.rds",
+      "sha256": "3ccfbbb58a17fc292c2affb05a1adde859be09f2f669e1de4c9812b775d73869"
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/covarnet/stability_gate_audit_v1/module_stability_gate.tsv",
+      "sha256": "bf5e611c16d9b77d3af6e82d52f5e53bf78be6af2742db05695f9e4ca2fb20d1"
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/covarnet/association_patch_v2/results/aligned_latest_metadata.tsv",
+      "sha256": "de8421d24e04a9e142c40a91e5181905b3d443dfe0e7f0ce09368f5a6580ce61"
+    }
+  ],
+  "manuscript_source_sha256": "6bf741beb041006aa4b9fe0656e131904ffb538146e71a4ff3364658b23c78cd"
+}

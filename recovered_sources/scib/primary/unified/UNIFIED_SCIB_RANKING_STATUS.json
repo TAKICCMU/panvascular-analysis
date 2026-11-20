@@ -1,0 +1,73 @@
+{
+  "status": "completed",
+  "input": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/primary/combined_raw_metrics_by_K.tsv",
+  "input_sha256": "b644d5c2ad6b26dd2023bc85554ad7d3933709b2f6aa5fea2baffa311632aa84",
+  "K": [
+    10,
+    20,
+    30
+  ],
+  "Leiden_resolutions_expected": [
+    0.2,
+    0.5,
+    1.0,
+    1.5
+  ],
+  "scaling_scope": "all included methods and configurations together within K",
+  "primary_metric_grouping": {
+    "batch": [
+      "PCR_batch",
+      "iLISI_batch",
+      "ASW_batch",
+      "graph_connectivity"
+    ],
+    "biology": [
+      "ASW_label",
+      "NMI_best",
+      "ARI_best",
+      "cLISI_label"
+    ]
+  },
+  "common_graph_metric_grouping": {
+    "batch": [
+      "iLISI_batch",
+      "graph_connectivity"
+    ],
+    "biology": [
+      "NMI_best",
+      "ARI_best",
+      "cLISI_label"
+    ]
+  },
+  "composite": "0.4 batch + 0.6 biology",
+  "structural_missingness": "excluded only for graph-only metrics declared not applicable",
+  "failed_missingness": "marks the row incomplete and suppresses formal scores",
+  "expected_methods": [
+    "cellhint",
+    "harmony",
+    "liger",
+    "pca",
+    "scalex",
+    "scanorama",
+    "scanvi",
+    "scpoli",
+    "scvi"
+  ],
+  "observed_methods": [
+    "cellhint",
+    "harmony",
+    "liger",
+    "pca",
+    "scalex",
+    "scanorama",
+    "scanvi",
+    "scpoli",
+    "scvi"
+  ],
+  "missing_methods": [],
+  "unexpected_methods": [],
+  "n_incomplete_rows": 0,
+  "formal_ranking_complete": true,
+  "configuration_scaling_eligibility": "Only complete configurations with one row at each K enter scaling; incomplete configurations cannot affect bounds",
+  "current_table_interpretation": "formal nine-method comparison"
+}

@@ -1,0 +1,16 @@
+MODEL	VARIABLE	group	condition_variable
+1	S0000	B cell	Average
+2	S0001	Dendritic cell	Average
+3	S0002	Endothelial cell	Average
+4	S0003	Fibroblast	Average
+5	S0004	Fibromyocyte	Average
+6	S0005	Macrophage	Average
+7	S0006	Mast cell	Average
+8	S0007	Monocyte	Average
+9	S0008	Natural killer cell	Average
+10	S0009	Neutrophil	Average
+11	S0010	Pericyte	Average
+12	S0011	Plasma cell	Average
+13	S0012	Schwann cell	Average
+14	S0013	Smooth muscle cell	Average
+15	S0014	T cell	Average

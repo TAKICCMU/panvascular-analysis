@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETE",
+  "result": {
+    "status": "COMPLETE",
+    "panels": {
+      "L1": {
+        "status": "COMPLETE",
+        "n_rows": 576
+      },
+      "L2": {
+        "status": "COMPLETE",
+        "n_rows": 12416
+      }
+    }
+  }
+}

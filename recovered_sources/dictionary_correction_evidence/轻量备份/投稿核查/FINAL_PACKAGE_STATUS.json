@@ -1,0 +1,29 @@
+{
+  "status": "LOCAL_FINAL_PACKAGE_ASSEMBLED_AUTHOR_SUBMISSION_CHECKS_PENDING",
+  "current_package": "/Users/taki/Desktop/投稿包_最新版_20260919",
+  "figures": 15,
+  "supplementary_tables": 64,
+  "references": 87,
+  "full_atlas_included": false,
+  "scientific_reanalysis_run": false,
+  "upload_archives": 6,
+  "archives_uploaded": false,
+  "manuscript_and_figures_pdf_bytes": 4514064,
+  "retired_local_items": 54,
+  "trash_bytes": 13676810692,
+  "original_server_frozen_data_unchanged": true,
+  "pending": [
+    "Official reporting form and author declarations",
+    "Corrected release deposition DOI/access",
+    "Documented single-cell metadata missingness and measurement-coverage limitations"
+  ],
+  "files_hashed": 4963,
+  "author_accepted": [
+    "Existing ORA workflow/results",
+    "Existing spatial analysis-unit grouping"
+  ],
+  "supplementary_edit_receipt": "图件编辑资料/补充表与方法同步_20260921/workbook_validation.json",
+  "manuscript_pages": 30,
+  "supplementary_tables_checked": 64,
+  "latest_text_update": "2026-09-22: three targeted edits and read-only Excel text exports"
+}

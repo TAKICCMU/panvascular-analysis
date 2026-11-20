@@ -1,0 +1,254 @@
+{
+  "scope": "Figure1a vessel placement only",
+  "biorender_current_canvas": "https://app.biorender.com/illustrations/6af93b20061047a1155dc09d",
+  "biorender_saved_reloaded_and_pdf_export_verified": true,
+  "biorender_export": "/Users/taki/Desktop/泛血管稿件_批注修订_20261116/图件编辑资料/Figure1a_人体血管对齐/BioRender_updated_canvas.pdf",
+  "checks": [
+    {
+      "file": "Figure/Figure1.pdf",
+      "pages": [
+        {
+          "page": 1,
+          "changed_pixels": 2476,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        }
+      ]
+    },
+    {
+      "file": "Figures/Figure1.pdf",
+      "pages": [
+        {
+          "page": 1,
+          "changed_pixels": 2476,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        }
+      ]
+    },
+    {
+      "file": "Figures_and_ExtendedData_审阅.pdf",
+      "pages": [
+        {
+          "page": 1,
+          "changed_pixels": 2476,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 2,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 3,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 4,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 5,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 6,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 7,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 8,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 9,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 10,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 11,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 12,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 13,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 14,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        }
+      ]
+    },
+    {
+      "file": "Figure/Figures_1-4_and_Extended_Data.pdf",
+      "pages": [
+        {
+          "page": 1,
+          "changed_pixels": 2476,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 2,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 3,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 4,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 5,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 6,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 7,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 8,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 9,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 10,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 11,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 12,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 13,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        },
+        {
+          "page": 14,
+          "changed_pixels": 0,
+          "changed_outside_vessel_region": 0,
+          "text_identical": true,
+          "native_page_size_preserved": true
+        }
+      ]
+    },
+    {
+      "file": "Figure/Editable_SVG/Figure1.svg",
+      "only_vessel_transform_changed": true
+    },
+    {
+      "file": "Figures/Figure1.svg",
+      "only_vessel_transform_changed": true
+    }
+  ],
+  "installed_sha256": {
+    "Figure/Figure1.pdf": "c59a0630474af83febb8ca3f9363fae7a4ff37bd333c60d05646dd100465caff",
+    "Figure/Editable_SVG/Figure1.svg": "dbe9d81362d0fcaf08a0987f5596ad3abe48621295747bc76248d192e3df8a38",
+    "Figures/Figure1.pdf": "3fd46aa676e7db0589317f2bebb740bb0426a7a9eb057e5592e9db57daec0ef1",
+    "Figures/Figure1.svg": "1d02ed86c86ad38ad4e4d5e63177269c1bedcb454560a1d672a795891346e9cd",
+    "Figures_and_ExtendedData_审阅.pdf": "5ad024334713219f7bc51a23a4e5f9639e36a42c2f2c20c46d950c890524749a",
+    "Figure/Figures_1-4_and_Extended_Data.pdf": "78612c1a7bbf07d5d79ac9851da2122ccc5e075fb5a85288f57b7e88a784028a"
+  }
+}

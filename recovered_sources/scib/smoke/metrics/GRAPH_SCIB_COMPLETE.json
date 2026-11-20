@@ -1,0 +1,24 @@
+{
+  "status": "completed",
+  "signature": {
+    "graph_sha256": "589b0990d05a6374587d053335943e2cc35d0193729123352a14a1b755b56a8e",
+    "metadata_sha256": "76b856682f8c3ec78b53c217b48e4e3eb01e78d079e46c80c5ec2584ea78e8e4",
+    "input_sha256": "b47833148a004d9935bd7ca5f093f5f092768d292c0b3550d85bb9ba255bb61b",
+    "evaluator": "takeover.graph-self-standard.v1"
+  },
+  "parameters": {
+    "K": [
+      10,
+      20,
+      30
+    ],
+    "resolutions": [
+      0.2,
+      0.5,
+      1.0,
+      1.5
+    ],
+    "seed": 0
+  },
+  "elapsed_seconds": 4.9627909660339355
+}

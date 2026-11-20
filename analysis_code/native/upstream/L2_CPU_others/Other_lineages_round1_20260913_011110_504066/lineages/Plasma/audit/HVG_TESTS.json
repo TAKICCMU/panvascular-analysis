@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "rtol": 1e-12,
+  "atol": 1e-12,
+  "tests": [
+    {
+      "format": "sparse",
+      "per_batch_explicit_clip": true,
+      "actual_batch_orders": [
+        "A,B,C",
+        "C,B,A"
+      ],
+      "order_invariance": true,
+      "fixed_clip_equivalence": true
+    },
+    {
+      "format": "dense",
+      "per_batch_explicit_clip": true,
+      "actual_batch_orders": [
+        "A,B,C",
+        "C,B,A"
+      ],
+      "order_invariance": true,
+      "fixed_clip_equivalence": true
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+contrast_id	study	study_allowlist	vascular_bed	cohort_disease_context	assay_type	case	reference	formula	covariates	min_independent_per_arm	min_per_arm_per_study	paired	approved	meta_context	review_reason
+pooled_context_000		"[""GSE213740"", ""GSE222318""]"	ascending aorta	aortic dissection	scRNA-seq	case	reference	~ study + group	study	5	2	False	False	aortic dissection	Original within-context study-adjusted model; repeated donors require explicitly reviewed block formula, no condition-only fallback

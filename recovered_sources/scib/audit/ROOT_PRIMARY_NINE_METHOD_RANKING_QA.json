@@ -1,0 +1,47 @@
+{
+  "status": "PASS_independent_arithmetic_and_completeness",
+  "n_methods": 9,
+  "n_K_rows": 27,
+  "n_graph_cells": 315949,
+  "Leiden_4_resolution_best_values_verified": true,
+  "same_within_K_scaling_verified": true,
+  "equal_K_weight_verified": true,
+  "graph_only_structural_missingness_verified": true,
+  "source_raw_sha256": "b644d5c2ad6b26dd2023bc85554ad7d3933709b2f6aa5fea2baffa311632aa84",
+  "ranking_sha256": "f74d1ba4e638b61c6cf182b395a787ff64bc78999451d74fe219f183c7798ab6",
+  "code_sha256": "0036425849e6b6f0eee03b6569784c140fa1dbba49de5832869c27c3d611e628",
+  "Harmony_vs_scVI_by_K": [
+    {
+      "K": 10,
+      "Harmony_unified": 0.7360665331929341,
+      "scVI_unified": 0.7352574525037583,
+      "Harmony_minus_scVI": 0.0008090806891758451,
+      "Harmony_common_graph": 0.8147123687653286,
+      "scVI_common_graph": 0.7930465846142429
+    },
+    {
+      "K": 20,
+      "Harmony_unified": 0.729151492667728,
+      "scVI_unified": 0.7176125084121399,
+      "Harmony_minus_scVI": 0.011538984255588192,
+      "Harmony_common_graph": 0.8081558619493051,
+      "scVI_common_graph": 0.7623574047151288
+    },
+    {
+      "K": 30,
+      "Harmony_unified": 0.7130030452650875,
+      "scVI_unified": 0.7233278264392371,
+      "Harmony_minus_scVI": -0.010324781174149589,
+      "Harmony_common_graph": 0.7877545580453886,
+      "scVI_common_graph": 0.769160571263612
+    }
+  ],
+  "scope": "Arithmetic audit of frozen raw metrics; no new integration, donor bootstrap or significance claim.",
+  "files": {
+    "UNIFIED_SCIB_RANKING_STATUS.json": "685edb0c9325dcd8fe75e78fe02cf2a18f51d1f12bb7a38ee2489d0866f7b059",
+    "resolution_scan_audit.tsv": "f53e10932da221a13ab6a8a65cbceaebbc833148fd306cc39cc64f28dd3b278f",
+    "unified_metric_scaling_bounds.tsv": "a51dedf209a1ab13cf6440708caff550ee3f4a11d7df7bca755b394c131d2acf",
+    "unified_scib_configuration_ranking.tsv": "f74d1ba4e638b61c6cf182b395a787ff64bc78999451d74fe219f183c7798ab6",
+    "unified_scib_metrics_by_K.tsv": "0aafb1649ac2910f4d59767cceba0f57e503d7515ec36afe3fc440aadb333da3"
+  }
+}

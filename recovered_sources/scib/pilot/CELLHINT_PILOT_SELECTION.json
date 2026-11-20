@@ -1,0 +1,25 @@
+{
+  "status": "completed",
+  "selected_cellhint": "meta5",
+  "selection_rule": "highest mean unified applicable-metric 40/60 across K=10,20,30; config id breaks exact ties",
+  "pilot_ranking_sha256": "53ee26f72088459472a1a2337d28f821bafc52b3af34a11e9422ab35027a9361",
+  "previous_pilot_selected_configurations": {
+    "harmony": "theta1",
+    "liger": "k20_lambda5",
+    "scvi": "latent20_layers2",
+    "scpoli": "latent10_embed10",
+    "scalex": "iter30000_bs512"
+  },
+  "all_method_unified_pilot_selected": {
+    "cellhint": "meta5",
+    "harmony": "theta1",
+    "liger": "k20_lambda5",
+    "pca": "baseline",
+    "scalex": "iter30000_bs512",
+    "scanorama": "dim30",
+    "scanvi": "latent20_layers2",
+    "scpoli": "latent10_embed10",
+    "scvi": "latent20_layers2"
+  },
+  "changed_previously_selected_configurations": {}
+}

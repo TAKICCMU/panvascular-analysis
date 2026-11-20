@@ -1,0 +1,14 @@
+{
+  "status": "COMPLETE_VALIDATED",
+  "scenario_gene_context_results": 252,
+  "matched_historical_rows": 242,
+  "max_abs_H4_difference_to_historical": 0.0,
+  "CKB_max_abs_H4_difference_to_historical": 0.0,
+  "CKB_results": 10,
+  "CKB_max_H4": 0.653660075302829,
+  "GWAS_SHA256": {
+    "/Users/taki/Desktop/FUMA/full_bifactor_G_FUMA_all.tsv.gz": "fbe4771354d1089dc7cec8f61253ba885c84c656b4de6e75f1b13327b66a150c",
+    "/Users/taki/Desktop/FUMA/LOT_CAD/leave_one_CAD_bifactor_G_FUMA_all.tsv.gz": "f7a33759f024c941ee783331e7a6afdb535f186b079fea85a8ddd6e0eaaa6999"
+  },
+  "method": "Inherited complete cis coloc.abf; sdY=1 quantitative latent G; no new SuSiE; one thread"
+}

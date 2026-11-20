@@ -1,0 +1,56 @@
+{
+  "status": "APPROVED_SCOPE_TECHNICAL_COMPATIBILITY_PATCH",
+  "created": 1789618641.2393181,
+  "reason": "Categorical fillna empty category error; cast to nullable string first; all 49 real feature maps exactly checked. No model or statistical changes. Original failure remains archived.",
+  "bound_files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/code/validate_completed_v2.py": "63bddedfca0deb6454d79f49082ef94624931e86681c7eba60092de5e431df0f",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_joint_evidence_v1/code/run_joint_mapping_adapter_v2.py": "6b72dec385f31d7cd494757d528b524b86e5451a5810bc1696e731641d6ab61d",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/validation_patch_v2/test_patch.py": "c0db0ea5d2b8dc17c1977e73af8fe0df8ebb208a29ab4a43af84dfa08eb20d85",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/validation_patch_v2/TEST_PASS.json": "766d6a1a5087c6fa50a6d199010f98d178d745d21a3b64740ff538e17c95e92e",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/validation_patch_v2/validator.diff": "57196c8652ad5eda385da5d3d5619de343a8f614083982612e112475fe58153e",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/validation_patch_v2/adapter.diff": "c4b2b4b83f972f4301bbbe03aaea64dfb49476d1ccae2047953564029d51c5e6",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/configs/PRODUCTION_RECEIPT.json": "57f266ec117513e52dcc59ee23fe7d757dfdea0a9434c8c6fc71c0446fb1e328",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/validation/VALIDATION.json": "79cc5ca228c8dbe09b76dfffe3b6bdcc253ec0cb931236774473415efcded496"
+  },
+  "old_job": {
+    "id": "spatial_target_excluded_integrity_review",
+    "command": [
+      "/home/anzhen_vhd/miniconda3/envs/cell2location_GPU/bin/python",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/code/validate_completed.py"
+    ],
+    "threads_reserved": 2,
+    "depends_on": [
+      "spatial_target_excluded_reference_mapping"
+    ],
+    "bound_files": {
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/code/validate_completed.py": "a114088bc2394642eae997fe56a3b8e9a6a62b374f0d39ec177ca88698f8ceb1",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/configs/PRODUCTION_RECEIPT.json": "57f266ec117513e52dcc59ee23fe7d757dfdea0a9434c8c6fc71c0446fb1e328"
+    }
+  },
+  "old_joint_job": {
+    "id": "spatial_target_excluded_joint_analysis",
+    "command": [
+      "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_joint_evidence_v1/code/run_joint_mapping_adapter.py",
+      "--dispatcher-admitted",
+      "--mapping-root",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs",
+      "--factor-path",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/reference_factors.tsv",
+      "--output-root",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_joint_v1"
+    ],
+    "threads_reserved": 2,
+    "depends_on": [
+      "spatial_target_excluded_integrity_review"
+    ],
+    "bound_files": {
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_joint_evidence_v1/code/run_joint_mapping_adapter.py": "3b55678800466e560aa4fb46b211af704a1d9eab9a309f4844a3fad292d01f7b",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_joint_evidence_v1/code/legacy_spatial.py": "c01db4d1116f4b42f35d9d91a0b850686a4c862bd6be744bfc742d3d1a1c400c",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/configs/PRODUCTION_RECEIPT.json": "57f266ec117513e52dcc59ee23fe7d757dfdea0a9434c8c6fc71c0446fb1e328",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/candidate_prioritization/Tier1_spatial_interface.tsv": "a872fc169066e37de51bc5292c10d030094d87ec676bdb6bd6cf2319afe3711b",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/covarnet_final_tiers/14_final_module_evidence_and_tiers.tsv": "3cf05a99e78b23a634c6fd53235300542428f09161f56bb8337dd23e4da0756e"
+    }
+  },
+  "original_queue_sha": "6c0107a103395b0e67eef03d8523431612bb5c1eb3bf1a1c0501be0c9310b10c"
+}

@@ -1,0 +1,173 @@
+donor_id	age_years	sex	sample_record_count	sample_ids	study_ids	metadata_source
+GSA::HRI274922	10	male	1	GSE213128__GSM6573161	GSE213128	Supplementary_Tables.xlsx / Table 02
+GSA::HRI274923	16	female	1	GSE213128__GSM6573162	GSE213128	Supplementary_Tables.xlsx / Table 02
+GSA::HRI274924	26	male	1	GSE213128__GSM6573163	GSE213128	Supplementary_Tables.xlsx / Table 02
+GSA::HRI274926	11	male	1	GSE213128__GSM6573164	GSE213128	Supplementary_Tables.xlsx / Table 02
+GSA::HRI274927	33	male	1	GSE213128__GSM6573165	GSE213128	Supplementary_Tables.xlsx / Table 02
+GSE131778::DONOR::rca4	58	female	1	GSE131778__GSM3819863	GSE131778	Supplementary_Tables.xlsx / Table 02
+GSE131778::DONOR_USER_CONFIRMED::GSM3819856	65	male	1	GSE131778__GSM3819856	GSE131778	Supplementary_Tables.xlsx / Table 02
+GSE131778::DONOR_USER_CONFIRMED::GSM3819857	65	male	1	GSE131778__GSM3819857	GSE131778	Supplementary_Tables.xlsx / Table 02
+GSE131778::DONOR_USER_CONFIRMED::GSM3819858	54	male	1	GSE131778__GSM3819858	GSE131778	Supplementary_Tables.xlsx / Table 02
+GSE131778::DONOR_USER_CONFIRMED::GSM3819859	54	male	1	GSE131778__GSM3819859	GSE131778	Supplementary_Tables.xlsx / Table 02
+GSE131778::DONOR_USER_CONFIRMED::GSM3819860	65	male	1	GSE131778__GSM3819860	GSE131778	Supplementary_Tables.xlsx / Table 02
+GSE131778::DONOR_USER_CONFIRMED::GSM3819861	65	male	1	GSE131778__GSM3819861	GSE131778	Supplementary_Tables.xlsx / Table 02
+GSE131778::DONOR_USER_CONFIRMED::GSM3819862	65	male	1	GSE131778__GSM3819862	GSE131778	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::ATAA1	75	female	1	GSE155468__GSM4704934	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::ATAA2	78	female	1	GSE155468__GSM4704935	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::ATAA3	59	male	1	GSE155468__GSM4704936	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::ATAA4	62	male	1	GSE155468__GSM4704937	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::ATAA5	75	female	1	GSE155468__GSM4704938	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::ATAA6	67	female	1	GSE155468__GSM4704939	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::ATAA7	69	male	1	GSE155468__GSM4704940	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::ATAA8	56	male	1	GSE155468__GSM4704941	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::Control6	61	male	1	GSE155468__GSM4704932	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155468::DONOR::Control9	62	female	1	GSE155468__GSM4704933	GSE155468	Supplementary_Tables.xlsx / Table 02
+GSE155512::DONOR::carotid_1	83	male	1	GSE155512__GSM4705589	GSE155512	Supplementary_Tables.xlsx / Table 02
+GSE155512::DONOR::carotid_2	67	male	1	GSE155512__GSM4705590	GSE155512	Supplementary_Tables.xlsx / Table 02
+GSE155512::DONOR::carotid_3	76	female	1	GSE155512__GSM4705591	GSE155512	Supplementary_Tables.xlsx / Table 02
+GSE159677::DONOR::1	82		2	GSE159677__GSM4837523 | GSE159677__GSM4837524	GSE159677	Supplementary_Tables.xlsx / Table 02
+GSE159677::DONOR::2	87		2	GSE159677__GSM4837525 | GSE159677__GSM4837526	GSE159677	Supplementary_Tables.xlsx / Table 02
+GSE159677::DONOR::3	65		2	GSE159677__GSM4837527 | GSE159677__GSM4837528	GSE159677	Supplementary_Tables.xlsx / Table 02
+GSE166676::DONOR::GSM5077727			1	GSE166676__GSM5077727	GSE166676	Supplementary_Tables.xlsx / Table 02
+GSE166676::DONOR::GSM5077728			1	GSE166676__GSM5077728	GSE166676	Supplementary_Tables.xlsx / Table 02
+GSE166676::DONOR::GSM5077729			1	GSE166676__GSM5077729	GSE166676	Supplementary_Tables.xlsx / Table 02
+GSE166676::DONOR::GSM5077730			1	GSE166676__GSM5077730	GSE166676	Supplementary_Tables.xlsx / Table 02
+GSE166676::DONOR::GSM5077731			1	GSE166676__GSM5077731	GSE166676	Supplementary_Tables.xlsx / Table 02
+GSE166676::DONOR::GSM5077732			1	GSE166676__GSM5077732	GSE166676	Supplementary_Tables.xlsx / Table 02
+GSE184073::DONOR::GSM5577199			1	GSE184073__GSM5577199	GSE184073	Supplementary_Tables.xlsx / Table 02
+GSE184073::DONOR::GSM5577200			1	GSE184073__GSM5577200	GSE184073	Supplementary_Tables.xlsx / Table 02
+GSE198750::DONOR::patient_1			2	PMID33626908__patient1_AO | PMID33626908__patient1_CA	GSE198750	Supplementary_Tables.xlsx / Table 02
+GSE198750::DONOR::patient_2			4	PMID33626908__patient2_AO | PMID33626908__patient2_CA1 | PMID33626908__patient2_CA2 | PMID33626908__patient2_PA	GSE198750	Supplementary_Tables.xlsx / Table 02
+GSE198750::DONOR::patient_3			5	PMID33626908__patient3_AO1 | PMID33626908__patient3_AO2 | PMID33626908__patient3_CA1 | PMID33626908__patient3_CA2 | PMID33626908__patient3_PA	GSE198750	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::AD_1	59	male	1	GSE213740__GSM6593315	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::AD_2	64	female	1	GSE213740__GSM6593316	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::AD_3	25	female	1	GSE213740__GSM6593317	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::AD_4	58	male	1	GSE213740__GSM6593318	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::AD_5	50	male	1	GSE213740__GSM6593319	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::AD_6	38	female	1	GSE213740__GSM6593320	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::Normal_1	58	male	1	GSE213740__GSM6593321	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::Normal_2	57	male	1	GSE213740__GSM6593322	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE213740::DONOR::Normal_3	58	male	1	GSE213740__GSM6593323	GSE213740	Supplementary_Tables.xlsx / Table 02
+GSE220774::DONOR::1	36	male	3	GSE220774__GSM6817217 | GSE220774__GSM6817218 | GSE220774__GSM6817219	GSE220774	Supplementary_Tables.xlsx / Table 02
+GSE220774::DONOR::2	48	male	2	GSE220774__GSM6817220 | GSE220774__GSM6817221	GSE220774	Supplementary_Tables.xlsx / Table 02
+GSE220774::DONOR::3	54	male	3	GSE220774__GSM6817222 | GSE220774__GSM6817223 | GSE220774__GSM6817224	GSE220774	Supplementary_Tables.xlsx / Table 02
+GSE220774::DONOR::4	58	male	5	GSE220774__GSM6817225 | GSE220774__GSM6817226 | GSE220774__GSM6817227 | GSE220774__GSM6817228 | GSE220774__GSM6817229	GSE220774	Supplementary_Tables.xlsx / Table 02
+GSE220774::DONOR::5	60	male	2	GSE220774__GSM6817230 | GSE220774__GSM6817231	GSE220774	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Acute-1		male	1	GSE222318__GSM6919833	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Acute-2		male	1	GSE222318__GSM6919834	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Acute-3		male	1	GSE222318__GSM6919835	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Acute-4		male	1	GSE222318__GSM6919836	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Chronic-1		male	1	GSE222318__GSM6919838	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Chronic-2		male	1	GSE222318__GSM6919841	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Subacute-1		male	1	GSE222318__GSM6919837	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Subacute-2		male	1	GSE222318__GSM6919839	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Aortic_dissection_Subacute-3		male	1	GSE222318__GSM6919840	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Normal-1		female	1	GSE222318__GSM6919842	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Normal-2		male	1	GSE222318__GSM6919843	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Normal-3		male	1	GSE222318__GSM6919844	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Normal-4		male	1	GSE222318__GSM6919845	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE222318::DONOR::Normal-5		female	1	GSE222318__GSM6919846	GSE222318	Supplementary_Tables.xlsx / Table 02
+GSE224273::DONOR::Sample1			1	GSE224273__GSM7018579	GSE224273	Supplementary_Tables.xlsx / Table 02
+GSE224273::DONOR::Sample2			1	GSE224273__GSM7018580	GSE224273	Supplementary_Tables.xlsx / Table 02
+GSE224273::DONOR::Sample3			1	GSE224273__GSM7018581	GSE224273	Supplementary_Tables.xlsx / Table 02
+GSE224273::DONOR::Sample3A			1	GSE224273__GSM7018582	GSE224273	Supplementary_Tables.xlsx / Table 02
+GSE224273::DONOR::Sample4			1	GSE224273__GSM7018583	GSE224273	Supplementary_Tables.xlsx / Table 02
+GSE224273::DONOR::Sample5			1	GSE224273__GSM7018584	GSE224273	Supplementary_Tables.xlsx / Table 02
+GSE224559::DONOR::dissection3			2	GSE224559__GSM7025944 | GSE224559__GSM7025945	GSE224559	Supplementary_Tables.xlsx / Table 02
+GSE224559::DONOR::dissection6			1	GSE224559__GSM7025946	GSE224559	Supplementary_Tables.xlsx / Table 02
+GSE224587::DONOR::AAA1			2	GSE224587__GSM7048229 | GSE224587__GSM7048230	GSE224587	Supplementary_Tables.xlsx / Table 02
+GSE224587::DONOR::AAA2			2	GSE224587__GSM7048231 | GSE224587__GSM7048232	GSE224587	Supplementary_Tables.xlsx / Table 02
+GSE224587::DONOR::AAA3			2	GSE224587__GSM7048233 | GSE224587__GSM7048234	GSE224587	Supplementary_Tables.xlsx / Table 02
+GSE224587::DONOR::AAA4			1	GSE224587__GSM7048235	GSE224587	Supplementary_Tables.xlsx / Table 02
+GSE224587::DONOR::AAA5			1	GSE224587__GSM7048236	GSE224587	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::Donor_1	54	male	2	GSE210248__GSM6424655_rep1 | GSE210248__GSM6424655_rep2	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::Donor_2	37	male	1	GSE210248__GSM6424656	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::Donor_3	40	male	1	GSE210248__GSM6424657	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::Donor_4	23	male	1	GSE228643__GSM7134356	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::Donor_5	24	female	1	GSE228643__GSM7134357	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::PAH_1	52	female	1	GSE210248__GSM6424658	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::PAH_2	56	male	1	GSE210248__GSM6424659	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::PAH_3	63	male	1	GSE210248__GSM6424660	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::PHPF_1	32	female	1	GSE228643__GSM7134358	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::PHPF_2	38	female	1	GSE228643__GSM7134359	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE228644::DONOR::PHPF_3	36	male	1	GSE228643__GSM7134360	GSE228644	Supplementary_Tables.xlsx / Table 02
+GSE237230::DONOR::1			2	GSE237230__GSM7597524 | GSE237230__GSM7597525	GSE237230	Supplementary_Tables.xlsx / Table 02
+GSE237230::DONOR::2	60	male	2	GSE237230__GSM7597526 | GSE237230__GSM7597527	GSE237230	Supplementary_Tables.xlsx / Table 02
+GSE237230::DONOR::3	60	male	2	GSE237230__GSM7597528 | GSE237230__GSM7597529	GSE237230	Supplementary_Tables.xlsx / Table 02
+GSE237230::DONOR::4	79	male	2	GSE237230__GSM7597522 | GSE237230__GSM7597523	GSE237230	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR1	70	male	1	GSE247238__GSM7885784	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR10	71	male	2	GSE247238__GSM7885782 | GSE247238__GSM7885783	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR11	79	male	1	GSE294291__GSM8901824	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR12	82	male	2	GSE294291__GSM8901826 | GSE294291__GSM8901827	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR14	75	male	2	GSE294291__GSM8901830 | GSE294291__GSM8901831	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR16	74	male	2	GSE294291__GSM8901834 | GSE294291__GSM8901835	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR2	72	female	2	GSE247238__GSM7885766 | GSE247238__GSM7885767	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR3	74	male	2	GSE247238__GSM7885768 | GSE247238__GSM7885769	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR4	81	male	2	GSE247238__GSM7885770 | GSE247238__GSM7885771	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR5	71	male	2	GSE247238__GSM7885772 | GSE247238__GSM7885773	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR6	80	male	2	GSE247238__GSM7885774 | GSE247238__GSM7885775	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR7	78	male	2	GSE247238__GSM7885776 | GSE247238__GSM7885777	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR8	69	male	1	GSE247238__GSM7885778	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE247238_GSE294291::DONOR::CAR9	82	male	2	GSE247238__GSM7885780 | GSE247238__GSM7885781	GSE247238	Supplementary_Tables.xlsx / Table 02
+GSE248609::DONOR::patient1			2	GSE248609__GSM7917900 | GSE248609__GSM7917903	GSE248610	Supplementary_Tables.xlsx / Table 02
+GSE248609::DONOR::patient2			1	GSE248609__GSM7917901	GSE248610	Supplementary_Tables.xlsx / Table 02
+GSE248609::DONOR::patient3			2	GSE248609__GSM7917902 | GSE248609__GSM7917905	GSE248610	Supplementary_Tables.xlsx / Table 02
+GSE248609::DONOR::patient4			1	GSE248609__GSM7917904	GSE248610	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_13	66	female	1	GSE253903__GSM8029965	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_14	46	male	1	GSE253903__GSM8029966	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_15	76	female	1	GSE253903__GSM8029967	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_16	62	male	1	GSE253903__GSM8029968	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_17	64	male	1	GSE253903__GSM8029969	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_18	66	male	1	GSE253903__GSM8029970	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_19	75	male	1	GSE253903__GSM8029971	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_20	58	male	1	GSE253903__GSM8029972	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_21	59	male	1	GSE253903__GSM8029973	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_4	89	male	1	GSE253903__GSM8029962	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_6	67	male	1	GSE253903__GSM8029963	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE253904::DONOR::carotid_9	64	male	1	GSE253903__GSM8029964	GSE253904	Supplementary_Tables.xlsx / Table 02
+GSE254132::DONOR::ATAD1			1	GSE254132__GSM8033727	GSE254132	Supplementary_Tables.xlsx / Table 02
+GSE254132::DONOR::ATAD2			1	GSE254132__GSM8033728	GSE254132	Supplementary_Tables.xlsx / Table 02
+GSE254132::DONOR::ATAD3			1	GSE254132__GSM8033729	GSE254132	Supplementary_Tables.xlsx / Table 02
+GSE254132::DONOR::NA1			1	GSE254132__GSM8033730	GSE254132	Supplementary_Tables.xlsx / Table 02
+GSE254132::DONOR::NA2			1	GSE254132__GSM8033731	GSE254132	Supplementary_Tables.xlsx / Table 02
+GSE254132::DONOR::NA3			1	GSE254132__GSM8033732	GSE254132	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::man_1		male	1	GSE255895__GSM8082324	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::man_2		male	1	GSE255895__GSM8082326	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::man_3		male	1	GSE255895__GSM8082328	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::man_4		male	1	GSE255895__GSM8082330	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::man_5		male	1	GSE255895__GSM8082332	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::man_6		male	1	GSE255895__GSM8082334	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::woman_1		female	1	GSE255895__GSM8082325	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::woman_2		female	1	GSE255895__GSM8082327	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::woman_3		female	1	GSE255895__GSM8082329	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::woman_4		female	1	GSE255895__GSM8082331	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::woman_5		female	1	GSE255895__GSM8082333	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE255895::DONOR::woman_6		female	1	GSE255895__GSM8082335	GSE255895	Supplementary_Tables.xlsx / Table 02
+GSE266682::DONOR::1	59	female	1	GSE266682__GSM8253725	GSE266682	Supplementary_Tables.xlsx / Table 02
+GSE266682::DONOR::2	48	male	1	GSE266682__GSM8253726	GSE266682	Supplementary_Tables.xlsx / Table 02
+GSE266682::DONOR::3	28	male	1	GSE266682__GSM8253727	GSE266682	Supplementary_Tables.xlsx / Table 02
+GSE271435::DONOR::1	43	female	1	GSE271435__GSM8376912	GSE271435	Supplementary_Tables.xlsx / Table 02
+GSE271435::DONOR::2	70	male	1	GSE271435__GSM8376913	GSE271435	Supplementary_Tables.xlsx / Table 02
+GSE271435::DONOR::3	62	male	1	GSE271435__GSM8376914	GSE271435	Supplementary_Tables.xlsx / Table 02
+GSE271435::DONOR::4	72	male	1	GSE271435__GSM8376915	GSE271435	Supplementary_Tables.xlsx / Table 02
+GSE271435::DONOR::5	44	female	1	GSE271435__GSM8376916	GSE271435	Supplementary_Tables.xlsx / Table 02
+GSE273980::DONOR::HH4	79	male	1	GSE273980__GSM8441018	GSE273980	Supplementary_Tables.xlsx / Table 02
+GSE273980::DONOR::HH6	76	female	1	GSE273980__GSM8441017	GSE273980	Supplementary_Tables.xlsx / Table 02
+HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor1	67	female	9	HCA__abdominal aorta_female_67_17156a4e-934e-8e27-c161-10acd8f6f36e | HCA__arch of aorta_female_67_7cbec207-89c0-2bc6-793d-58a9cf434a29 | HCA__ascending aorta_female_67_ff8074d9-0ef7-c568-fc09-5b8a429c4609 | HCA__carotid artery segment_female_67_3aa51f38-ff2d-854d-8abd-700ae0337a56 | HCA__descending aorta_female_67_7d9e6dc1-225e-0277-d18c-31d1eb4777df | HCA__iliac artery_female_67_e8923882-15ed-6dd7-b280-dc2343b631a4 | HCA__pulmonary artery_female_67_e4cad52b-e81e-ee4f-401e-11f00208c43d | HCA__right coronary artery_female_67_423b4b4e-9d8e-9dd0-0e38-195bc87226f2 | HCA__right coronary artery_female_67_f48c4de0-e123-98ca-c11e-5cd06f697cff	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	Supplementary_Tables.xlsx / Table 02
+HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor2	48	male	4	HCA__abdominal aorta_male_48_c51ed9e6-5875-0ed8-92a5-d415dcf2ad37 | HCA__carotid artery segment_male_48_36dbc53e-d23e-7042-2421-910eaea67d7b | HCA__descending aorta_male_48_9fe7b0d1-313d-321c-6dc6-527896498775 | HCA__right coronary artery_male_48_94b77f1c-d06d-61c9-850e-c1eff4842700	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	Supplementary_Tables.xlsx / Table 02
+HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor3	69	female	6	HCA__arch of aorta_female_69_4cc70973-30d2-2bab-ea68-60ea19772b6f | HCA__ascending aorta_female_69_6be7fdd7-7c0c-f4b8-511c-bfa7991a724d | HCA__carotid artery segment_female_69_dc3ccf7b-17e4-79c4-0cb0-245a104a1b52 | HCA__descending aorta_female_69_0b798eb7-6cdb-bee6-7370-8a4f7d409591 | HCA__pulmonary artery_female_69_fcdc9280-eff0-80d3-aec9-a14ce8a15c6a | HCA__right coronary artery_female_69_77a0fa2f-4883-0870-6508-cfb833a21558	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	Supplementary_Tables.xlsx / Table 02
+HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor4	46	male	7	HCA__arch of aorta_male_46_4c641e48-7730-4a4c-2eb5-7fe4b80d04f7 | HCA__ascending aorta_male_46_cfa72edb-eae9-10ef-71f4-57527b090426 | HCA__carotid artery segment_male_46_40db7c8a-1ef0-7adf-d9ec-3bff49e0215f | HCA__coronary artery_male_46_bbf75ff4-c2c4-0784-c373-b176737c1eac | HCA__descending aorta_male_46_bc602299-5d56-fc05-ecbb-7956212df170 | HCA__iliac artery_male_46_f2c0a20b-610b-f13d-d567-34b9e4a0734a | HCA__pulmonary artery_male_46_e1ad3564-c1b2-9b35-b69d-62c931385134	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	Supplementary_Tables.xlsx / Table 02
+HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor5	39	male	8	HCA__arch of aorta_male_39_6ffdb08a-ce5b-c152-9e80-93de5cd7a063 | HCA__ascending aorta_male_39_01c49e88-f463-3ea7-5d3f-c24e4dc915bb | HCA__bulb of aorta_male_39_ce790bcc-f766-f230-4680-cd188adbd5b1 | HCA__carotid artery segment_male_39_aaf919cb-633c-96e3-efd0-825595e790b4 | HCA__descending aorta_male_39_b5120aa0-1098-726d-c3ac-cea1f9631c83 | HCA__iliac artery_male_39_50c8263e-25f2-9e1c-7a48-297e8191cab7 | HCA__pulmonary artery_male_39_d00a8dbb-57d4-1d87-0e62-de3f9384b9e0 | HCA__right coronary artery_male_39_ce037ce1-9602-1ccc-f965-c2cc2289072e	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	Supplementary_Tables.xlsx / Table 02
+HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7::DONOR::donor6	38	female	4	HCA__arch of aorta_female_38_c0b136d6-b165-73cf-9ad3-e8110ea1826d | HCA__ascending aorta_female_38_33febb9f-3eab-e5e4-a4e4-ad445008a15e | HCA__bulb of aorta_female_38_5773dc75-82b6-69ba-8025-c5018efd339b | HCA__right coronary artery_female_38_27db61a6-efbd-7dc3-c4eb-2a4edbdec9a4	HCA-2245bca0-6563-4e88-ab26-f2b8f60383a7	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::Stenosis_1_female	52	female	1	PRJNA562645_1__SRX6862540	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::Stenosis_2_female	56	female	1	PRJNA562645_1__SRX6862541	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::Stenosis_3_male	50	male	1	PRJNA562645_1__SRX6862542	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::Stenosis_4_female	54	female	1	PRJNA562645_1__SRX6862543	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::health_1_male	50	male	1	PRJNA562645_1__SRX6862538	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::health_2_female	48	female	1	PRJNA562645_1__SRX6862539	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::wh20210929_Elder2_male	57	male	1	PRJNA562645_2__SRX20865351	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::wh20211023_Young3_female	11	female	1	PRJNA562645_2__SRX20865349	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::wh20211120_Young1_female	6	female	1	PRJNA562645_2__SRX20865347	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::wh20211210_Young2_male	6	male	1	PRJNA562645_2__SRX20865348	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::wh20211224_Elder1_female	46	female	1	PRJNA562645_2__SRX20865350	PRJNA562645	Supplementary_Tables.xlsx / Table 02
+PRJNA562645::DONOR::wh20220112_Elder3_male	47	male	1	PRJNA562645_2__SRX20865352	PRJNA562645	Supplementary_Tables.xlsx / Table 02

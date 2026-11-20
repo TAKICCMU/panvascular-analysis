@@ -1,0 +1,15 @@
+reliable_L1	n_cells	n_batches
+B cell	4683	146
+Dendritic cell	151	74
+Endothelial cell	23740	232
+Fibroblast	34372	220
+Fibromyocyte	324	116
+Macrophage	42482	241
+Mast cell	3290	203
+Monocyte	9117	226
+Natural killer cell	9433	210
+Neutrophil	1869	95
+Pericyte	653	133
+Plasma cell	2506	155
+Smooth muscle cell	21592	178
+T cell	28756	224

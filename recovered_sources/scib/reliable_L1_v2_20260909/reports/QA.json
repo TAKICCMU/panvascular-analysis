@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "n_methods": 8,
+  "n_metrics": 10,
+  "native_ranks": {
+    "pca": 6,
+    "harmony": 3,
+    "scvi": 4,
+    "scanorama": 8,
+    "liger": 7,
+    "scalex": 5,
+    "scanvi": 2,
+    "scpoli": 1
+  },
+  "minmax_ranks": {
+    "pca": 5,
+    "harmony": 3,
+    "scvi": 4,
+    "scanorama": 8,
+    "liger": 7,
+    "scalex": 6,
+    "scanvi": 2,
+    "scpoli": 1
+  },
+  "minmax_changes_rank": true,
+  "winners": {
+    "Bio conservation": [
+      "scpoli"
+    ],
+    "Batch correction": [
+      "harmony"
+    ],
+    "Total": [
+      "scpoli"
+    ]
+  },
+  "unsupervised_integration_winner": [
+    "harmony"
+  ],
+  "coverage": {
+    "trusted": 182968,
+    "primary": 315949,
+    "fraction": 0.5791061215575931
+  },
+  "figures_generated": true
+}

@@ -1,0 +1,20 @@
+import json,hashlib,os,time,py_compile,shutil,subprocess
+from pathlib import Path
+JOB=Path(__file__).resolve().parents[1];ROOT=JOB.parents[1];CODE=ROOT/'downstream_CPU_L1L2_v2_1_release_compat_20260914';SUP=ROOT/'atlas_release/L1L2_final_v1_acceptance_r1'
+def sha(p):
+ h=hashlib.sha256()
+ with open(p,'rb') as f:
+  for b in iter(lambda:f.read(8<<20),b''):h.update(b)
+ return h.hexdigest()
+auth=ROOT/'production_launches/execution_control_20260914/AUTHENTICATED_ATLAS_STAT.json';a=json.loads(auth.read_text());pre=json.loads(Path(a['preflight']).read_text());assert pre['status']=='PASS_RELEASE_PREFLIGHT' and pre['sha256']==a['expected_sha256']
+for p in (JOB/'code').glob('*.py'):py_compile.compile(str(p),doraise=True)
+c={'atlas':a['path'],'atlas_sha256':a['expected_sha256'],'manifest':str(ROOT/'panvascular_CPU_theta2_L1L2_final_v1.acceptance_r1.manifest.json'),'ontology':str(SUP/'level2_ontology.tsv'),'spatial_manifest':'/home/anzhen_vhd/scRNAseq/codex/spatial_validation_v3/00_inputs/spatial_sample_manifest_curated.tsv','gpu_python':'/home/anzhen_vhd/miniconda3/envs/cell2location_GPU/bin/python','gpu_uuid':'GPU-ee506680-afc9-11fd-3ed0-99b220571975','cpu_threads':4,'shared_auxiliary_lock':str(ROOT/'production_launches/execution_control_20260914/.auxiliary_compute.lock'),'seed':20260814,'reference_mode':'descriptive','forced_genes':[],'excluded_targets':[],'study_key':'study','reference_max_epochs':250,'mapping_max_epochs':30000,'posterior_samples':1000,'N_cells_per_location':12,'detection_alpha':20,'max_cells_per_state':1500,'min_cells_per_state':40,'max_studies_per_state':20,'reference_train_batch_size':2500,'reference_predict_batch_size':2500,'mapping_batch_size':None,'mapping_train_size':1,'reference_filter_genes':[5,.03,1.12],'posterior_summaries':['means','stds','q05','q95'],'persist_all_draws':False,'spatial_reservation_GiB':16,'other_phase1_reservation_GiB':10,'unreserved_floor_GiB':20}
+(JOB/'configs/config.json').write_text(json.dumps(c,indent=2))
+inputs=json.loads((JOB/'evidence/SPATIAL_INPUT_HASHES.json').read_text());assert json.loads((JOB/'evidence/INPUT_VALIDATION.json').read_text())['status']=='PASS'
+files=dict(inputs)
+for p in list((JOB/'code').glob('*.py'))+list((JOB/'evidence').glob('*gene_map.tsv.gz'))+[JOB/'configs/config.json',JOB/'evidence/INPUT_VALIDATION.json',JOB/'evidence/DISK_RESERVATION.json',JOB/'evidence/SPATIAL_CONTENT_VALIDATION.tsv',JOB/'evidence/SPATIAL_INPUT_HASHES.json',Path(a['preflight']),auth,Path(c['manifest']),Path(c['ontology']),SUP/'metadata_review_sources.json',SUP/'source_registry.tsv',ROOT/'parallel_execution_handoff_20260914/CODEX_START_PARALLEL_EXECUTION_PROMPT.md',CODE/'external_legacy/spatial/02_spatial_v4_cell2location_GPU.py',CODE/'evidence/REVIEW_DEPENDENCIES_PROPOSED.json']:
+ files[str(p)]=sha(p)
+# Parent's full native preflight authenticated release dependencies; retain their binding ledger.
+r={'receipt_schema':'explicit_user_execution_gpu_descriptive_v1','created_utc':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'authorizer':'user explicit message and CODEX_START_PARALLEL_EXECUTION_PROMPT.md; recorded by Codex, not a digital signature','scope':['descriptive_reference','descriptive_mapping'],'not_authorized':['L1_L2_writeback','clinical_spatial_tests','target_independent_validation','CoVarNet'],'cpu_threads':4,'gpu_uuid':c['gpu_uuid'],'atlas_sha256':a['expected_sha256'],'atlas_stat':[a['device'],a['inode'],a['size'],a['mtime_ns']],'bound_files':files,'conditions':['shared auxiliary flock acquired','GPU idle 3 observations and no other compute PID','disk free greater than 46GiB','actual CUDA tensor and two tiny native models PASS before production','nonfinite histories or posterior values stop affected branch'],'science_started':False,'status':'AUTHORIZED_CONDITIONAL_EXECUTION'}
+(JOB/'configs/PRODUCTION_RECEIPT.json').write_text(json.dumps(r,indent=2))
+print(json.dumps({'receipt':str(JOB/'configs/PRODUCTION_RECEIPT.json'),'n_bound_files':len(files),'config_sha256':sha(JOB/'configs/config.json'),'receipt_sha256':sha(JOB/'configs/PRODUCTION_RECEIPT.json'),'compile':'PASS'},indent=2))

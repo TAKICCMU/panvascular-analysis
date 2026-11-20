@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "populations": [
+    {
+      "stage": "pilot",
+      "input_sha256": "3cbfe864a369d3912bdb7119a0795f444949133a17993d1023f60508690a8329",
+      "shape": [
+        114833,
+        2000
+      ],
+      "obs_names_sha256": "0b380c76e5af648f6e927c3bdece573705ff2893daa5ded7ca98c01913bcf2f7",
+      "sample_uid": 247,
+      "study_file": 29,
+      "study_canonical": 26,
+      "maximum_cells_per_sample": 500,
+      "sample_cap": 500,
+      "excluded_source_representations_present": false,
+      "sample_only_metric_membership_verified": true
+    },
+    {
+      "stage": "primary",
+      "input_sha256": "62be48e45915b278910021de311651ddfd14ac3b06742892603edf6b1cddd0c5",
+      "shape": [
+        315949,
+        2000
+      ],
+      "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "sample_uid": 247,
+      "study_file": 29,
+      "study_canonical": 26,
+      "maximum_cells_per_sample": 1500,
+      "sample_cap": 1500,
+      "excluded_source_representations_present": false,
+      "sample_only_metric_membership_verified": true
+    }
+  ],
+  "n_validated_embeddings": 23,
+  "current_content_hashes_frozen": true,
+  "historical_cache_limitation": "No content hash existed for all original embeddings; size+metadata+input/PCA signatures are verified and current hashes now frozen."
+}

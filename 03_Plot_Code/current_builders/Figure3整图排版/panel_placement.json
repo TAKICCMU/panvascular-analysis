@@ -1,0 +1,159 @@
+{
+  "page_width_mm": 183,
+  "page_height_mm": 247,
+  "panels": [
+    {
+      "panel": "Figure3a",
+      "x_mm": 0.0,
+      "y_mm": 0.0,
+      "width_mm": 91.19305555555555,
+      "height_mm": 48.93027777777777,
+      "source": "original formal PDF, unchanged scale/content"
+    },
+    {
+      "panel": "Figure3b",
+      "x_mm": 91.19305555555555,
+      "y_mm": 0.0,
+      "width_mm": 91.80695003933376,
+      "height_mm": 48.93027777777777,
+      "source": "original formal PDF, unchanged scale/content"
+    },
+    {
+      "panel": "Figure3c",
+      "x_mm": 0.0,
+      "y_mm": 48.93027777777777,
+      "width_mm": 183.0000055948893,
+      "height_mm": 29.80972222222222,
+      "source": "original formal PDF, unchanged scale/content"
+    },
+    {
+      "panel": "Figure3d",
+      "x_mm": 2,
+      "y_mm": 81,
+      "width_mm": 114,
+      "height_mm": 105,
+      "source": "approved real-data redraw, redundant titles/notes removed"
+    },
+    {
+      "panel": "Figure3e",
+      "x_mm": 117,
+      "y_mm": 81,
+      "width_mm": 65,
+      "height_mm": 105,
+      "source": "Approved C navy/pale-gold categorical tiles: 87 variable cells shown; 58 common primary cells explained in legend; categories and row order unchanged"
+    },
+    {
+      "panel": "Figure3f",
+      "x_mm": 2,
+      "y_mm": 190,
+      "width_mm": 181,
+      "height_mm": 55,
+      "source": "Paired posterior compositions plus -log10 stored minimum regional GWAS P for same 10 records; classification and shared SNP text removed; original classifications retained in source"
+    }
+  ],
+  "abc_svg_subtrees_unchanged": {
+    "identity_a_figure_1": "1a626259c3f3fc8c3c3177d3750c46a2b385ce853cbd4ba9ddfe284644667224",
+    "figure3_b_content": "1417c4cc217d237c4251fad8cf9cade3409eb6d8ce0fac62910bf3d3310f2628",
+    "legend_2": "eaade145b5227e993759a2ce0deab9f8b09a1c7dc1c784a04bde9637a5be26b3",
+    "c_magma": "98515093aaee184526df3349b1203ee62a014cbbcb5630852f5d2aca39234abd",
+    "c_pseudobulk": "c699812f1da5560806176ed3ac3e48e62b817c4d2756d2b1c9651cee9c1d3892",
+    "text_82": "1451f4ed38a5f1d6a0f1c6d643957e164071ec9aeac7df49071b27a54ab5f1f9",
+    "text_83": "b17daa199c9bd00ee2272983cc7f1b88bd72fd2e5ae85f2810588d1f03976006",
+    "text_103": "e35cf666f8f0e79aa39b6eb9074c1bf0b5a1e78511a4c9c1fe8a76f41be3dcd8"
+  },
+  "abc_pdf_original_vector_content_reused": true,
+  "abc_text_position_max_error_pt": 3.0517578125e-05,
+  "source_records": {
+    "d_effects_and_CI": 29,
+    "e_frozen_cells": 145,
+    "f_records": 10
+  },
+  "source_hashes": {
+    "d": {
+      "path": "/Users/taki/Desktop/投稿包_最新版_20260919/Source_Data_Figures/Figure3/Fig3d_e_all29.tsv",
+      "sha256": "939356b80e687f19a3cb41bcd7aa7ca97095c523547541b0483822990b4c5204"
+    },
+    "e": {
+      "path": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/可视化库重绘_当前/data_used/Figure3e_145_frozen_cells.tsv",
+      "sha256": "96f348bd67d553b46b7f9463d29eedb5bbfc5932833406280e321a3e8b417256"
+    },
+    "f": {
+      "path": "/Users/taki/Desktop/投稿包_最新版_20260919/Source_Data_Figures/Current_Display_20260920/source_data/Figure3f_same5_contexts_both_scenarios.tsv",
+      "sha256": "be5eff965b328009911905f405374ac894381dd35f0a836eae44928ee346a58c"
+    }
+  },
+  "scientific_analysis_rerun": false,
+  "redundant_titles_and_notes_removed": true,
+  "status": "SEPARATE_NATIVE_LABELS_SAVED_RELOADED_AND_EXPORTED",
+  "latest_update_audit": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/audit.json",
+  "biorender_label_free_asset_directory": "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure3整图排版/updates/20261115_separate_labels/panels_without_labels",
+  "biorender_panel_labels_are_separate_native_text": true,
+  "biorender_native_label_export_geometry": [
+    {
+      "text": "a",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        7.064653396606445,
+        1.6391253471374512,
+        13.18230152130127,
+        12.64208984375
+      ]
+    },
+    {
+      "text": "b",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        266.63458251953125,
+        3.1395297050476074,
+        273.3573913574219,
+        14.142494201660156
+      ]
+    },
+    {
+      "text": "c",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        5.564249038696289,
+        141.1767120361328,
+        11.681897163391113,
+        152.1796875
+      ]
+    },
+    {
+      "text": "d",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        7.064653396606445,
+        240.20338439941406,
+        13.787464141845703,
+        251.20635986328125
+      ]
+    },
+    {
+      "text": "e",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        335.6531982421875,
+        240.20338439941406,
+        341.7708435058594,
+        251.20635986328125
+      ]
+    },
+    {
+      "text": "f",
+      "font": "ArialMTProGrk-Bold",
+      "size": 11.00296401977539,
+      "bbox": [
+        7.064653396606445,
+        543.2850341796875,
+        10.72864055633545,
+        554.2880249023438
+      ]
+    }
+  ]
+}

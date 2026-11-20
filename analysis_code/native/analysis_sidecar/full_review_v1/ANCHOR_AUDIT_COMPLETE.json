@@ -1,0 +1,8 @@
+{
+  "status": "COMPLETE_DESCRIPTIVE_ONLY",
+  "states": 111,
+  "sample_state_comparisons": 7210,
+  "matrices_reused": true,
+  "network_models_run": false,
+  "DE_models_run": false
+}

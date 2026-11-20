@@ -1,0 +1,674 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 19384,
+    "sha256": "77e251241555a88be860227c2c5bf3279c5cd126c32b6b4f858b7c8621030700",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 10123,
+    "sha256": "7aead37f983e6f9605cebb75c98e9f3b4f9ab35c0fa10408abd72a03a6eaa82f",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 9427,
+    "sha256": "2c157a8f99c1184828a8909da2834052522a5fb804c9a71d1cb0a859619f5907",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 222,
+    "sha256": "1828629e8f4562423e0f244988ffb5a834bd49e5d96a8d13bc5fcc1ef5803616",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 21794,
+    "sha256": "d83fcadccc5b0697948d55cac7ab52ccef375dcc72aac0239d2e4b1aadcb929c",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 146877,
+    "sha256": "742ba7824480c4794af99ac3ff4b545d1153a351a1a4cdbf351bf5c9d89a6d7c",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 169997,
+    "sha256": "2ab892296a449c8e318442dbe422f95afa82cf5ef1f2993a6656505451e077ae",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 4319,
+    "sha256": "a422da008bb22739adceb96ab641b5ffaf285c94f34c76c9f8464f60be1e38a6",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 4331,
+    "sha256": "fe89e349f30f80344f0f477d079770b5d7b3adbc8bf39d22ac0f79ad7fda961c",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 852,
+    "sha256": "a79b725be094c6ffacb5cb1b25633a10c8dd67b5a19b60f594dfeea51a59663b",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 858,
+    "sha256": "316bc4c892ebaae3978e976bab3f78548e378387f17eddaaee54ad6ad0b8560f",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 91748,
+    "sha256": "b9e4c7f1232b6612de3ce9a3c5a94c2c0fe29a71bc39e70317e33fd7cdd88069",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 16426,
+    "sha256": "b7374b48796c0ee920519a69036848ba30117ab5648c65e95aabeda989795c5d",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 195,
+    "sha256": "af1fe42529b596da2616e680490ccc6c55abe14b599131c4576e2b62b765a1fe",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 195,
+    "sha256": "af1fe42529b596da2616e680490ccc6c55abe14b599131c4576e2b62b765a1fe",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 295,
+    "sha256": "e1bd0fb89b8b2065c8ab42d345ebc758021bd83881abe3fbb26b72a4d6dbaadb",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 7200,
+    "sha256": "039766bceea623e90da5199c9c528083a228d114a911533a2e5bde642ecd7727",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 9959,
+    "sha256": "ad6e4b0e63d4063c8c9088d33626ebf1c64503442518304bbe3310844bd7f612",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 894,
+    "sha256": "41f58e462ca3e24c8a8b477cc3ea13f9a257597ec184c11752b8d9e254fa9291",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 532,
+    "sha256": "b3075fd32999ed0ce9554a3004c8d3d3ca7cb5db89774094f7087dc3d6676434",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 5306,
+    "sha256": "4768c4e34f1df9c7130d193c74d6b95df6eaee4e6a60ab13a3e67eedc8039808",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 40294,
+    "sha256": "b20e26afcb03e4eee73245f79255ac7f565b73fe692271f6bc28d50f1de35da5",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 56139,
+    "sha256": "454fd0ebe3aa8c7e917c504d1d38a2fdd0d283514b502efd4618648d13a3e700",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 284034,
+    "sha256": "4dbda4c8ba425a4089c77a087a6d16fdc71ad07fe61e4354be2f452bd12cc6d2",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 3720,
+    "sha256": "124bc999ecc84804610733195e4467eadf2ed81a14b21a7db992e7207c896ce4",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 15192,
+    "sha256": "80d6258896fc1583e83b7666ef8432f98072aca5021aeab7485310b653416ad3",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 59471,
+    "sha256": "d0a9e3df4ee95c529a97b70e3a825191f2e5d269010d337a90dcf8bc609c1f56",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 15474,
+    "sha256": "2a9eb90b9eea4fe650d26a4540de15ab0ce57421724bd5a5761bbfb8f37d15a5",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 15122,
+    "sha256": "640eda4e30d8fc07d3cf820a49eeb408a7d0764f03d351087ba2f20809546569",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 6649,
+    "sha256": "1e467acb464e8ebe69c5a95b0e276d74d16492b3640e4a0c2e26747924aab964",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 6724,
+    "sha256": "9c4c321c2050cf4ac5705978903907c04687121b5c591970fb3d9e0edcbb84b4",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 5567,
+    "sha256": "477a14757c7ef754c173d7d1e39a2dffcdd24eca59049b027c10c73e184b9770",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 5616,
+    "sha256": "0bc155bd8b8f72cddc0030a7120e2628c61f822eb3d82ea29c7e0db112cd92da",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 148936,
+    "sha256": "8e9fb962c245f147c6bd48ca0d31813bbb3f4513f4ccb38854f9867902dc2f84",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 28552,
+    "sha256": "d663b573fa865cb6349932a965951667900d94dc977426b5937ad3c2795cff28",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 285,
+    "sha256": "b66d3ea4a16a0ed18fb6f00a4a65d61750ee34a460a183a1a180ba1a7e714755",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 285,
+    "sha256": "b66d3ea4a16a0ed18fb6f00a4a65d61750ee34a460a183a1a180ba1a7e714755",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 409,
+    "sha256": "a6708a81abfa635b5e90ebee810a79bd8dcea1fe0ef9c374692a93467dc4de61",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 8508,
+    "sha256": "ca7303e2a1f2d60425ce45870a76b319e6d49965ac4e01ff936becf9a85a9697",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 11790,
+    "sha256": "8f8df9a1e215969b0815f05b5c94b26964b6d6dc397b47a6515bc9e8eb6cbc09",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 1197,
+    "sha256": "ebe5af8fcbe5284db08ffca9429fc87b25909f01530f0111e18e1df1e7b0a5dc",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 718,
+    "sha256": "168bb07cd900e860c08d0375cceab83697e74d6009cf07f8b80bc9a7ce4fc9fc",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 7892,
+    "sha256": "37cec0770480f86369bb6cc418352cec8f600b609f22c02c2a1979ac24d850fe",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 56305,
+    "sha256": "cd2d1e3fcbb3c8e669e47260b7a7e3d7b533ab6cca22b23c83a9fc6386cc1178",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 67815,
+    "sha256": "9937aeb7c07a562f3159fd2c8d5fd77c0c79c7fb70cc356f0bae7e8e02b29bf1",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 372676,
+    "sha256": "ec8f897fd5871c35271bf88a518534d05b20e9ad112a7e101b628d8dbe0e904a",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 5508,
+    "sha256": "295922ea712f5fb6b6eb71f09f5a0af7fb44b636d3fa0d5798d1e911eefc5cf0",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 23434,
+    "sha256": "6ae595b999518f86839d7e0cc6522b950a56ae42b04c40004fce236e475045bd",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 93365,
+    "sha256": "c1d7fab675375de173beb0a9fb491bba19063a09c520bb0c78e3dc83e5195120",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 23954,
+    "sha256": "15b7270329d0357fdc68025eb1edb56682dddee3922d9747d2b23b1e664d043f",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 23312,
+    "sha256": "e46fb4055c307b4ffab54a0dde5e96311c2c5e92999fba40c276ae06565a4fb0",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 471,
+    "sha256": "a8bbf8ac517f065dbf639026af94c18a8826c6ec73d5d33d7918e183d10a7e3b",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 778,
+    "sha256": "186522e4bd15eefb80ed4a0853e4ee460a840b1e9c2858b522dc54b745223879",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 8585,
+    "sha256": "8f153950f4638c5a20bf1164729a7e7b53ed8945cab28d14868d28d64b6109df",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 9062,
+    "sha256": "ffd76026e29eea0aa822c96676fbc3fcd223555dbd4f46530d890a0f679f6e40",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 8289,
+    "sha256": "a9e9bffb6f0840fa9217e94a57ed04cbe41f3a3ec17fc9d0ccc014d1133dd8f7",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 8660,
+    "sha256": "7796fd79af29ed27c325e7000c01c3d9d264f2495b0b84cdecd1829b3675dd7a",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 4321,
+    "sha256": "a68873daefde617bf042046d4369f3c4fb55ab9b7975bb5e32662614360bd020",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 4540,
+    "sha256": "85a443a9eb0cabf175bbba2666234dc31c72e00f2842577b1095bab1f5eb202c",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 205944,
+    "sha256": "309fe29bf5383d1e57d1a7cd255db9ca732f901c0f94b75c831034b20cb67b08",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 40124,
+    "sha256": "8222ddf80d0ff3d467be6d2c97da7e5efb4ccde71cdeb35ab03035cba7eeafa2",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 375,
+    "sha256": "7e3d00ff4a2268c7282136ad7f63d994791677d0a3483eb397eded2c543f077a",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 375,
+    "sha256": "7e3d00ff4a2268c7282136ad7f63d994791677d0a3483eb397eded2c543f077a",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 521,
+    "sha256": "48b4908e015084f24ea16f2f0f7e6c6ebf3c5a65809e821b14b04e979934f99b",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 9802,
+    "sha256": "c5cef99bb19dbf84af3d7283e912adde3fd0bf0cd84fc7b2e8d185c5ed9de578",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 13598,
+    "sha256": "219e62ce041a50bdb70f001efc225215ca25ef8489c73dc75ecfd1a0813d89fb",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 1487,
+    "sha256": "7394effe41210d9d61ea50f73da0c52ab4fd1fada2514ce50bddb1ce3e715445",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 892,
+    "sha256": "a0bb6626ae7d6313a972e298fe1a25ef5f52ea24f996466c148af48c206454b7",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 10338,
+    "sha256": "99596b7f809118e3481ce689581340769d4d424f995ef0b8c64a01bae0ff4420",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 66327,
+    "sha256": "b5a10756c143dbc1bc63ddc6371960c27e64d2a09b488b75c44e17e0ad6d5239",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 71948,
+    "sha256": "3e02d718f0989bb8610ca143d78a28f8a085009b1cecd8b625d8cb72fce96349",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 421788,
+    "sha256": "d4508c4b22a821bd379486dd33297e09f72c7b804c6830c4c30019ad5aaa0503",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 7155,
+    "sha256": "239a4844786cfb97d2cee4219d9c17dde01f38e39350124409906f0865bfbf04",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 29668,
+    "sha256": "169404a0b7303de1079156db8268c910f19661c8d5c934fa403cb78f01d74f68",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 123205,
+    "sha256": "cc1266d3e493cac4bd6e4df416495dbf4cbe8510e96e6d26c25ec0c29e884505",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 31811,
+    "sha256": "8761ca34d129bd98a6909b3e31178ad7a8133091512b38009f4f47f10b840826",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 29761,
+    "sha256": "43012274a1d8bdedb37488bcefcbfacd3ce657462a06d32e8265995aeb5f9204",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1290,
+    "sha256": "42da49a797b037f64e526572684febbff073ceb6aaec198bad8b4d2950bc498f",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1179,
+    "sha256": "0f27b604c27ef9f36c2d4123cd8c95f0ab8477cbec43316fcd4e5e16c76555c3",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 2006,
+    "sha256": "462ed680184a9673cef3d65e9fd1cd55ffcc6bbfe18491a7dacc2f3dc4ce4650",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 104931,
+    "sha256": "66d13a699270e93fc64940820b891a6396e7096ddbee4c9f04d6044789b6b7a6",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 97591,
+    "sha256": "5fed33281777a002c47cd84d0413beadb32480e678c067713aa694476f737e74",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 108091,
+    "sha256": "1c7c7c28962a068aca50e33688359df6a4233f30068eace852a027a4aa7d8ca7",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 83852,
+    "sha256": "57487449c6b9390994142b1eda0a4683e89c6fa9695f2895ece424250c62106b",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 101713,
+    "sha256": "574d5fe9420d4c97d983950207643cd7b6cd46b49b33296646bfeb3c9e5ffa80",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 97771,
+    "sha256": "98e345d6ed8a528a38fc84537df7100d811acf8fa3e3c01b750f6011908d932e",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 119793,
+    "sha256": "b9c893a509a83b371ab5cd17907a6785f99125eec87ac016934549454491ac22",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 114232,
+    "sha256": "5bf09518e41f00a3db8b94a324857ed29544c7139742b28b68c05691fe350705",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 176559,
+    "sha256": "075abfb8ad1dcdfd749d7d63bf9584e98434e900e4b12674a739c92848c0ecfc",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 133786,
+    "sha256": "603faddf73ac7fa65902a179bc50196e93240db4755b2673012850fda524f955",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 392551,
+    "sha256": "2b989df89856028666e55185d2d0b10b18b820ced9cfc261e9a2f56e2c0d54f8",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 400538,
+    "sha256": "db97be3f7d60a4997cb10353f77612df2a215d54976c74a385e28f24532ed01b",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 217965,
+    "sha256": "f6edaedd56dfd11352841941208037a9263433b05506d6689b64d283345c5af9",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_02.png",
+    "bytes": 100088,
+    "sha256": "1aaee6d4576eb8521e541767b2c4873a194f71044a94726818363ca19768114e",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 319979,
+    "sha256": "97175ebeeeb5a9a22af17deb8195609642af418ca3a32a3de8bd6ddfbe156f60",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 336583,
+    "sha256": "922068cee873be42da5d1cec1962998789f8dbbaccf12fdea282556f20f7284f",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 291588,
+    "sha256": "ed6afea733e269a70f9b4dbebac6d7a642644ea701276172231207bdda4c404a",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 282446,
+    "sha256": "8dd5c0a961098392226e28f119c9114384c5bc8331a7302bba13ed963df9e1e4",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 417078,
+    "sha256": "1f8b41a77394747ff91a6ce58c2beca399025175c58fd195a4e8f011ef434b4f",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 424016,
+    "sha256": "839fecae1032ae8725dfc39fce4858b917d75efb99dab28dfa4ad76f2bd0b952",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 329827,
+    "sha256": "fc012f84e812a37ef356cc9170925acd75a46b1383c087f8f3d6641f5a361d4d",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 369265,
+    "sha256": "e11301e3139986ecde3444ddd4c172ecf758c23c7ddab93c550a0c42fa336bdc",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 276758,
+    "sha256": "843f81496106c551587741d7891c83d05c417036ba32a510fd8e366d36e1316a",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 498377,
+    "sha256": "7ac8a78231b9202c6e3069fb0de5408f46b65b69cefa304be81c3b267047a072",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 494251,
+    "sha256": "3ee8b234e52a9984296a9659db25adc07074d51eb64b38edad679faafc92af73",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2810,
+    "sha256": "7cd14f905b26feec8911634cda7bd1f0494fdbb558d0c4792068a6758e53e61d",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 19483,
+    "sha256": "5f834991ba1eeaf397d4b0ca51bdb8fb03590adf6f79737dfdce180873f7a49e",
+    "bundle": "Dendritic_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 5085,
+    "sha256": "bd4f078d0637fad40743c377862a0002421e8eb02e9e325aea18ed3d4373e31c",
+    "bundle": "Dendritic_review_lite_01.zip"
+  }
+]

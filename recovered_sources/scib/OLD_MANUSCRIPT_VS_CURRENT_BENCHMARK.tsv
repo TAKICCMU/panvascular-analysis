@@ -1,0 +1,9 @@
+method	old_reported_mean_across_K	old_reported_best_K_score	old_same_data_clisi_direction_fixed	mean_unified_overall_score	mean_common_graph_overall_score	mean_historical_grouping_overall_score	cross_run_scores_directly_comparable	manuscript_reference
+harmony	0.7796553940698434	0.7885961946860753	0.802608763088504	0.7260736903752499	0.8035409295866742	0.7040362050417747	False	G09 clean_editorial Supplementary Table 27; 18x34 values verified equivalent to V1.9.2 historical CSV
+liger				0.1808097552195233	0.2188195931529957	0.2398250340824981	False	G09 clean_editorial Supplementary Table 27; 18x34 values verified equivalent to V1.9.2 historical CSV
+pca	0.4676436083609364	0.4976327007923005	0.5766636380888053	0.6277438201439719	0.6766607599442415	0.5864634449522154	False	G09 clean_editorial Supplementary Table 27; 18x34 values verified equivalent to V1.9.2 historical CSV
+scalex	0.49272197380868815	0.5180607039855902	0.3727219738086882	0.6040437338528141	0.5406772665714578	0.6330112658248453	False	G09 clean_editorial Supplementary Table 27; 18x34 values verified equivalent to V1.9.2 historical CSV
+scanorama	0.2075239414211062	0.222746106372757	0.18572206364990876	0.3613357186138533	0.2973856784456959	0.3425635353564676	False	G09 clean_editorial Supplementary Table 27; 18x34 values verified equivalent to V1.9.2 historical CSV
+scanvi	0.6154292245941125	0.6276478502614103	0.7354292245941125	0.8511278267892975	0.8778249304412915	0.8015037690523968	False	G09 clean_editorial Supplementary Table 27; 18x34 values verified equivalent to V1.9.2 historical CSV
+scpoli				0.7271971847242232	0.8386170796892273	0.6788950727390626	False	G09 clean_editorial Supplementary Table 27; 18x34 values verified equivalent to V1.9.2 historical CSV
+scvi	0.5607192339069506	0.5723121237736268	0.605872460035365	0.7253992624517117	0.7748548535309947	0.697027953219429	False	G09 clean_editorial Supplementary Table 27; 18x34 values verified equivalent to V1.9.2 historical CSV

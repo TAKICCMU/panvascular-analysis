@@ -1,0 +1,8 @@
+{
+  "status": "REAL_INPUTS_PREPARED_MODELS_NOT_RUN",
+  "n_models": 25,
+  "covarnet_blocking": [
+    "REVIEW_COVARNET_NODE_ELIGIBILITY"
+  ],
+  "n_covarnet_nodes": 103
+}

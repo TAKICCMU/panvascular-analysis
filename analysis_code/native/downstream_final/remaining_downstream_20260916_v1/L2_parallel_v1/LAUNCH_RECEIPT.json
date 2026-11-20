@@ -1,0 +1,11 @@
+{
+  "original_queue_sha256": "84c4f891169eb6025ab778d30e32a9b6c1fc92b2d250134723d151a0fb6b7030",
+  "new_queue_sha256": "469f8e27ca629bf4fa6d9b38ad3e429da24d27dfa5f8d548deadf115eb94a7da",
+  "receipt_sha256": "38a7de5b7cdc99e9f9604529062354e4b78abc2bfb916b0e19440248c158cc72",
+  "jobs": [
+    "communication_L2_parallel_lane_0",
+    "communication_L2_parallel_lane_1",
+    "communication_L2_parallel_lane_2",
+    "communication_L2_resume_original"
+  ]
+}

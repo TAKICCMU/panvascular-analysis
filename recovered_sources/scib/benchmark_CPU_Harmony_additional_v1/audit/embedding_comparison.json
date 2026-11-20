@@ -1,0 +1,9 @@
+{
+  "shape": [
+    315949,
+    30
+  ],
+  "raw_coordinate_RMSE": 0.03168912127549298,
+  "mean_cell_L2_difference": 0.046872690988981024,
+  "note": "Same original PCA coordinates; embedding distance is diagnostic, not an integration-quality metric"
+}

@@ -1,0 +1,12 @@
+{
+  "python": "3.10.19 | packaged by conda-forge | (main, Jan 26 2026, 23:45:08) [GCC 14.3.0]",
+  "executable": "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python",
+  "omicverse": "2.1.2rc1",
+  "numpy": "1.26.4",
+  "scipy": "1.12.0",
+  "pandas": "2.2.3",
+  "h5py": "3.15.1",
+  "anndata": "0.11.4",
+  "matplotlib": "3.10.8",
+  "scanpy": "1.11.5"
+}

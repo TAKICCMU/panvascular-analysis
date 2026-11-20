@@ -1,0 +1,15 @@
+{
+  "numbered_tables_data_rows_byte_identical": 64,
+  "styles_freezes_filters_merges_unchanged": true,
+  "header_changes": 13,
+  "dictionary_rows_changed": 13,
+  "AE_equals_Y_lt_0_05": true,
+  "AG_equals_X_lt_0_05": true,
+  "AI_original_rule_and_counts": {
+    "FALSE": 27,
+    "TRUE": 2
+  },
+  "additional_clear_type_conflicts": 0,
+  "xlsx_after_sha256": "e58371a5e3c3113c3890c09404a997a675d5f490a0f712643b09eb61685257b8",
+  "scientific_reanalysis": false
+}

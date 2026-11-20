@@ -1,0 +1,25 @@
+{
+  "authorized_on": "2026-09-16",
+  "scope": "six explicitly approved remaining downstream branches",
+  "atlas": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.h5ad",
+  "atlas_sha256_from_verified_frozen_release": "00fc74c1ddaa5e4b32d8664f134e0ec5a0c762f5e9a9fb45b96acbd40804a310",
+  "atlas_stat_rechecked": [
+    1113200,
+    57818797,
+    34595947390,
+    1789318346485749025
+  ],
+  "timestamp": 1789538050.060403,
+  "bound_files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/QUEUE.json": "b444bdf365a58e6abd3e2400ec8b411f4a017c3be54847afe8b88ab0e63822d8",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/code/dispatch.py": "35197309c839f80f5f98c0dd76f701fa234d951cc0cb8025c8a7fad717d7b446",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/USER_EXECUTION_AUTHORIZATION.md": "9c1b0f49a8a2cf26d081adbb75666017afb3a0327ef1097fed3f86d06e9dd88c",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/disease_background_3groups_review_v2/sample_background_sidecar_v2.tsv": "852c08353c53a1b4d32b0b5928c9d1ac6a0278e365748912adfaf2ff30cf2ce4",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/RECEIPT.json": "81909dc3fd0b62d703f3586b409ef9647eb1ca03b49b93223ecb1afe54ad843d",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/covarnet/TEST_RECEIPT.json": "2d6c9b92707fa7413111df6d21de2875cfc4ed0fb4f5ec0c80ab853aa288624d",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/covarnet/association_patch_v2/TEST_RECEIPT.json": "66228ff2de95c2958c93ea67ef6194e02c873a61ec3b2db4a4d9d671505c909e",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/composition/FILES_SHA256.json": "f5f3dc9683222dac78af8510d8dc8f68a5aceae607330cb1a573d9a4797a8d64",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/PREPARATION.json": "6f6fe9935f3129ed4f0f2832fa7a4ac7970af348dab6b827e44563869d600ac2",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/tests/PASS.json": "5e4af650d67b5646072d32706b18e630662e09486e2c966f795e003dd589cb46"
+  }
+}

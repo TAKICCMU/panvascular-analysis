@@ -1,0 +1,18 @@
+{
+  "status": "VALIDATED_WITH_NATIVE_NA_PATHWAYS",
+  "id": "MAGMA_primary_r0.6",
+  "reused_native": true,
+  "n_GSEA": 8473,
+  "n_native_NA": 8,
+  "source_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_primary_r0.6",
+  "files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_primary_r0.6/UNESTIMABLE_NATIVE_GSEA_PATHWAYS.tsv": "e885e7bafae647a0550ce52a1db953c8264ca502248c53f8519bb0f943935f41",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_primary_r0.6/gene_set_version.tsv": "7dd3442af0b50cc7efacbc4bd37acdc87393b51d67de357b0317ab7177dcdb79",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_primary_r0.6/ora_all_tested_before_display_filter.tsv.gz": "f6a50890aabacd862a58c8537887ab382121e719cead793fb17fc11df65fe04e",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_primary_r0.6/fgsea_all.tsv.gz": "eb9d1bbd495aefe3e4b6cb5f05108c81daca537fbe8d8131d0f12a114433adae",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_primary_r0.6/VALIDATED_COMPLETE.json": "5472e1e8df927fee2c71f6ccaa9f6509ccadda67c3beeb04960f7babb824c08d",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_primary_r0.6/sessionInfo.txt": "e9b3c4c1da16387b462d3049721760050e846a8e25052b52e4712553d5a318ef"
+  },
+  "rank_sha256": "dd9c034525f115d56dd45300e67123dcd365c60ff05a9e1a2e3d61a294e7a323",
+  "native_sha256": "5a7ec13c9a149ed3c4a90135e5d973852a06dcb7fa03fdbfabbd2f38633a42e7"
+}

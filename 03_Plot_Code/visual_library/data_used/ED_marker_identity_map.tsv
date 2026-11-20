@@ -1,0 +1,121 @@
+panel	display_label	state_id	parent
+ExtendedData_Figure2b	Endothelial cell	Endothelial cell	Endothelial cell
+ExtendedData_Figure2b	Fibroblast	Fibroblast	Fibroblast
+ExtendedData_Figure2b	Smooth muscle cell	Smooth muscle cell	Smooth muscle cell
+ExtendedData_Figure2b	Fibromyocyte	Fibromyocyte	Fibromyocyte
+ExtendedData_Figure2b	Pericyte	Pericyte	Pericyte
+ExtendedData_Figure2b	Macrophage	Macrophage	Macrophage
+ExtendedData_Figure2b	Monocyte	Monocyte	Monocyte
+ExtendedData_Figure2b	Neutrophil	Neutrophil	Neutrophil
+ExtendedData_Figure2b	Dendritic cell	Dendritic cell	Dendritic cell
+ExtendedData_Figure2b	T cell	T cell	T cell
+ExtendedData_Figure2b	Natural killer cell	Natural killer cell	Natural killer cell
+ExtendedData_Figure2b	B cell	B cell	B cell
+ExtendedData_Figure2b	Plasma cell	Plasma cell	Plasma cell
+ExtendedData_Figure2b	Mast cell	Mast cell	Mast cell
+ExtendedData_Figure2b	Schwann cell	Schwann cell	Schwann cell
+ExtendedData_Figure2b	Unknown	Unknown	Unknown
+ExtendedData_Figure3b	1 CDH19 matrix-associated	CDH19 matrix-associated fibroblast	Fibroblast
+ExtendedData_Figure3b	2 CLDN1 matrix-associated	CLDN1 matrix-associated fibroblast	Fibroblast
+ExtendedData_Figure3b	3 CXCL12 chemokine-expressing	CXCL12 chemokine-expressing fibroblast	Fibroblast
+ExtendedData_Figure3b	4 DCN	DCN fibroblast	Fibroblast
+ExtendedData_Figure3b	5 FAP activated ECM-remodelling	FAP activated ECM-remodelling fibroblast	Fibroblast
+ExtendedData_Figure3b	6 FOSB stress-responsive	FOSB stress-responsive fibroblast	Fibroblast
+ExtendedData_Figure3b	7 ITGA8 contractile-program	ITGA8 contractile-program fibroblast	Fibroblast
+ExtendedData_Figure3b	8 ITGBL1 ECM-remodelling	ITGBL1 ECM-remodelling fibroblast	Fibroblast
+ExtendedData_Figure3b	9 LAMA2 tissue-associated	LAMA2 tissue-associated fibroblast	Fibroblast
+ExtendedData_Figure3b	10 LTBP2 ECM-remodelling	LTBP2 ECM-remodelling fibroblast	Fibroblast
+ExtendedData_Figure3b	11 PI16 adventitial-like	PI16 adventitial-like fibroblast	Fibroblast
+ExtendedData_Figure3b	12 RSAD2 IFN-responsive	RSAD2 IFN-responsive fibroblast	Fibroblast
+ExtendedData_Figure3b	13 S100B matrix-associated	S100B matrix-associated fibroblast	Fibroblast
+ExtendedData_Figure3b	14 ACTA2 contractile	ACTA2 contractile fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	15 AEBP1	AEBP1 fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	16 CD9 ECM-remodelling	CD9 ECM-remodelling fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	17 DCN fibroblast-like	DCN fibroblast-like fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	18 FOSB stress-responsive	FOSB stress-responsive fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	19 ITGA10 ECM-remodelling	ITGA10 ECM-remodelling fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	20 LAMA2 matrix-associated	LAMA2 matrix-associated fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	21 MYOCD contractile	MYOCD contractile fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	22 PRKG1 contractile	PRKG1 contractile fibromyocyte	Fibromyocyte
+ExtendedData_Figure3b	23 CD36-high	CD36-high pericyte	Pericyte
+ExtendedData_Figure3b	24 COL4A1 basement-membrane-associated	COL4A1 basement-membrane-associated pericyte	Pericyte
+ExtendedData_Figure3b	25 COX4I2	COX4I2 pericyte	Pericyte
+ExtendedData_Figure3b	26 FN1 matrix-associated	FN1 matrix-associated pericyte	Pericyte
+ExtendedData_Figure3b	27 PDGFRA matrix-associated	PDGFRA matrix-associated pericyte	Pericyte
+ExtendedData_Figure3b	28 PI15-high	PI15-high pericyte	Pericyte
+ExtendedData_Figure3b	29 PRKG1 contractile-program	PRKG1 contractile-program pericyte	Pericyte
+ExtendedData_Figure3b	30 RGS5	RGS5 pericyte	Pericyte
+ExtendedData_Figure3b	31 STEAP4-associated	STEAP4-associated pericyte	Pericyte
+ExtendedData_Figure3b	32 CCL21 chemokine-expressing SMC	CCL21 chemokine-expressing SMC	Smooth muscle cell
+ExtendedData_Figure3b	33 CNN1 contractile SMC	CNN1 contractile SMC	Smooth muscle cell
+ExtendedData_Figure3b	34 COX4I2 contractile SMC	COX4I2 contractile SMC	Smooth muscle cell
+ExtendedData_Figure3b	35 DLX5 contractile SMC	DLX5 contractile SMC	Smooth muscle cell
+ExtendedData_Figure3b	36 EFEMP1 ECM-remodelling SMC	EFEMP1 ECM-remodelling SMC	Smooth muscle cell
+ExtendedData_Figure3b	37 IFIT1 IFN-responsive SMC	IFIT1 IFN-responsive SMC	Smooth muscle cell
+ExtendedData_Figure3b	38 MYH11 SMC	MYH11 SMC	Smooth muscle cell
+ExtendedData_Figure3b	39 MYH11 contractile SMC	MYH11 contractile SMC	Smooth muscle cell
+ExtendedData_Figure3b	40 PRKG1 contractile SMC	PRKG1 contractile SMC	Smooth muscle cell
+ExtendedData_Figure3b	41 RGS6 contractile SMC	RGS6 contractile SMC	Smooth muscle cell
+ExtendedData_Figure4b	1 ACKR1 venous	ACKR1 venous endothelial cell	Endothelial cell
+ExtendedData_Figure4b	2 ASPN matrix-associated	ASPN matrix-associated endothelial cell	Endothelial cell
+ExtendedData_Figure4b	3 CA4 capillary	CA4 capillary endothelial cell	Endothelial cell
+ExtendedData_Figure4b	4 NRG1 matrix-associated	NRG1 matrix-associated endothelial cell	Endothelial cell
+ExtendedData_Figure4b	5 OMD matrix-associated	OMD matrix-associated endothelial cell	Endothelial cell
+ExtendedData_Figure4b	6 PECAM1	PECAM1 endothelial cell	Endothelial cell
+ExtendedData_Figure4b	7 PROX1 lymphatic	PROX1 lymphatic endothelial cell	Endothelial cell
+ExtendedData_Figure4b	8 SEMA3G arterial	SEMA3G arterial endothelial cell	Endothelial cell
+ExtendedData_Figure4b	9 ZNF385D venous	ZNF385D venous endothelial cell	Endothelial cell
+ExtendedData_Figure4d	1 FGFBP2 cytotoxic NK	FGFBP2 cytotoxic NK cell	Natural killer cell
+ExtendedData_Figure4d	2 GZMK chemokine-associated NK	GZMK chemokine-associated NK cell	Natural killer cell
+ExtendedData_Figure4d	3 KLRD1 NK	KLRD1 NK cell	Natural killer cell
+ExtendedData_Figure4d	4 XCL1 chemokine-expressing NK	XCL1 chemokine-expressing NK cell	Natural killer cell
+ExtendedData_Figure4d	5 BACH2 memory-associated T	BACH2 memory-associated T cell	T cell
+ExtendedData_Figure4d	6 CD3D T	CD3D T cell	T cell
+ExtendedData_Figure4d	7 FGFBP2 cytotoxic T	FGFBP2 cytotoxic T cell	T cell
+ExtendedData_Figure4d	8 FOXP3 regulatory T	FOXP3 regulatory T cell	T cell
+ExtendedData_Figure4d	9 GIMAP7 memory-associated T	GIMAP7 memory-associated T cell	T cell
+ExtendedData_Figure4d	10 GZMK cytotoxic-memory T	GZMK cytotoxic-memory T cell	T cell
+ExtendedData_Figure4d	11 IFIT1 IFN-responsive T	IFIT1 IFN-responsive T cell	T cell
+ExtendedData_Figure4d	12 IL7R memory T	IL7R memory T cell	T cell
+ExtendedData_Figure4d	13 MKI67 proliferating T	MKI67 proliferating T cell	T cell
+ExtendedData_Figure4d	14 SLC4A10 innate-like T	SLC4A10 innate-like T cell	T cell
+ExtendedData_Figure4d	15 ZEB2 cytotoxic T	ZEB2 cytotoxic T cell	T cell
+ExtendedData_Figure4d	16 ZNF683 cytotoxic T	ZNF683 cytotoxic T cell	T cell
+ExtendedData_Figure5b	1 CD1C cDC2	CD1C cDC2 dendritic cell	Dendritic cell
+ExtendedData_Figure5b	2 CLEC9A cDC1	CLEC9A cDC1 dendritic cell	Dendritic cell
+ExtendedData_Figure5b	3 FCER1A	FCER1A dendritic cell	Dendritic cell
+ExtendedData_Figure5b	4 IL1B inflammatory	IL1B inflammatory dendritic cell	Dendritic cell
+ExtendedData_Figure5b	5 LAMP3 mature	LAMP3 mature dendritic cell	Dendritic cell
+ExtendedData_Figure5b	6 LILRA4 plasmacytoid	LILRA4 plasmacytoid dendritic cell	Dendritic cell
+ExtendedData_Figure5b	7 SIGLEC6 AXL-associated	SIGLEC6 AXL-associated dendritic cell	Dendritic cell
+ExtendedData_Figure5b	8 C1QC complement-rich	C1QC complement-rich macrophage	Macrophage
+ExtendedData_Figure5b	9 CCL20 inflammatory	CCL20 inflammatory macrophage	Macrophage
+ExtendedData_Figure5b	10 CCL3 activated resident-like	CCL3 activated resident-like macrophage	Macrophage
+ExtendedData_Figure5b	11 CD68	CD68 macrophage	Macrophage
+ExtendedData_Figure5b	12 CD83 activated	CD83 activated macrophage	Macrophage
+ExtendedData_Figure5b	13 CXCL10 IFN-responsive	CXCL10 IFN-responsive macrophage	Macrophage
+ExtendedData_Figure5b	14 CYP27A1 lipid-associated	CYP27A1 lipid-associated macrophage	Macrophage
+ExtendedData_Figure5b	15 FCN1 monocyte-like	FCN1 monocyte-like macrophage	Macrophage
+ExtendedData_Figure5b	16 HLA-DRA antigen-presenting	HLA-DRA antigen-presenting macrophage	Macrophage
+ExtendedData_Figure5b	17 IL1B inflammatory	IL1B inflammatory macrophage	Macrophage
+ExtendedData_Figure5b	18 JUN stress-responsive	JUN stress-responsive macrophage	Macrophage
+ExtendedData_Figure5b	19 KYNU inflammatory	KYNU inflammatory macrophage	Macrophage
+ExtendedData_Figure5b	20 LYVE1 resident-like	LYVE1 resident-like macrophage	Macrophage
+ExtendedData_Figure5b	21 MKI67 proliferating	MKI67 proliferating macrophage	Macrophage
+ExtendedData_Figure5b	22 MSR1 phagocytosis-associated	MSR1 phagocytosis-associated macrophage	Macrophage
+ExtendedData_Figure5b	23 PDE4C-high	PDE4C-high macrophage	Macrophage
+ExtendedData_Figure5b	24 SPP1 lipid-associated	SPP1 lipid-associated macrophage	Macrophage
+ExtendedData_Figure5b	25 CXCL10 IFN-responsive	CXCL10 IFN-responsive monocyte	Monocyte
+ExtendedData_Figure5b	26 CXCL8 inflammatory	CXCL8 inflammatory monocyte	Monocyte
+ExtendedData_Figure5b	27 FCGR3A-expressing	FCGR3A-expressing monocyte	Monocyte
+ExtendedData_Figure5b	28 FCN1 classical	FCN1 classical monocyte	Monocyte
+ExtendedData_Figure5b	29 IL1B inflammatory	IL1B inflammatory monocyte	Monocyte
+ExtendedData_Figure5b	30 JUN stress-responsive	JUN stress-responsive monocyte	Monocyte
+ExtendedData_Figure5b	31 S100A12 classical	S100A12 classical monocyte	Monocyte
+ExtendedData_Figure5b	32 SERPINB2 inflammatory	SERPINB2 inflammatory monocyte	Monocyte
+ExtendedData_Figure5b	33 TXNIP-high	TXNIP-high monocyte	Monocyte
+ExtendedData_Figure5b	34 CSF3R	CSF3R neutrophil	Neutrophil
+ExtendedData_Figure5b	35 CXCL8 inflammatory	CXCL8 inflammatory neutrophil	Neutrophil
+ExtendedData_Figure5b	36 CXCR2-associated	CXCR2-associated neutrophil	Neutrophil
+ExtendedData_Figure5b	37 CXCR4-associated	CXCR4-associated neutrophil	Neutrophil
+ExtendedData_Figure5b	38 S100A12 inflammatory	S100A12 inflammatory neutrophil	Neutrophil

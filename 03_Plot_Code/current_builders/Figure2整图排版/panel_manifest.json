@@ -1,0 +1,102 @@
+[
+  {
+    "panel": "Figure2b",
+    "source": [
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2b.svg"
+    ],
+    "source_sha256": {
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2b.svg": "bee2e04cbadfed411d304f5aeb0d9b0d00ae4e491345264a1758f9014f152bbf"
+    },
+    "change": "Outside letter removed; visible content cropped with margin; all native data geometry retained",
+    "width_mm": 95.30279608832464,
+    "height_mm": 74.91957105000813,
+    "panel_letter_baked": false,
+    "svg_sha256": "9db7a8b137e3afe01a1d8ee31f5f317504cae7a9cbe3cf398813f13ad373d228"
+  },
+  {
+    "panel": "Figure2c",
+    "source": [
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2c.svg"
+    ],
+    "source_sha256": {
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2c.svg": "d9b7e1e9e1a4b472ac35c2f7813a9de79c98198c40841c8e645a816c033b780a"
+    },
+    "change": "Outside letter removed; visible content cropped with margin; all native data geometry retained",
+    "width_mm": 114.26100582546657,
+    "height_mm": 56.7545676337348,
+    "panel_letter_baked": false,
+    "svg_sha256": "982dcca8418e109ed8a51f349f2799175559c370002521139fd585a17030d10f"
+  },
+  {
+    "panel": "Figure2d",
+    "source": [
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2d.svg"
+    ],
+    "source_sha256": {
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2d.svg": "e62bbbf48e24fb1f3d188038ea408dbe3cc8225d5846e436bad346b3de4bb0fc"
+    },
+    "change": "Outside letter removed; visible content cropped with margin; all native data geometry retained",
+    "width_mm": 205.18555925157332,
+    "height_mm": 53.862646823459194,
+    "panel_letter_baked": false,
+    "svg_sha256": "c5ae7a9e69256ffda51da8ec8f822507b55608b39fb4fe9dbdc29b22d67d98d6"
+  },
+  {
+    "panel": "Figure2e",
+    "source": [
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2e.svg"
+    ],
+    "source_sha256": {
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2e.svg": "0ac2ba427538b0cf412989f196d3bf91fe6650d530655da5fb1c0bb4ae8e8e5f"
+    },
+    "change": "Outside letter removed; visible content cropped with margin; all native data geometry retained",
+    "width_mm": 84.7253301832411,
+    "height_mm": 35.535853110419374,
+    "panel_letter_baked": false,
+    "svg_sha256": "271b18efc032b3362724512e7625cffa8f73a5748211dcfcef46f15623213f8d"
+  },
+  {
+    "panel": "Figure2f",
+    "source": [
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2f.svg"
+    ],
+    "source_sha256": {
+      "/Users/taki/Desktop/投稿包_最新版_20260919/独立小图_最新版/Figure2/Figure2f.svg": "8813bc49cd45196f46324eef9b273c5d8b0944d62123a34330b2675fbb82bc77"
+    },
+    "change": "Outside letter removed; visible content cropped with margin; all native data geometry retained",
+    "width_mm": 47.2175313313802,
+    "height_mm": 41.37280033959282,
+    "panel_letter_baked": false,
+    "svg_sha256": "e0b721b4312994003861602df2da6057ecb0b9df2f7a1937fd4a86e9ad8d6539"
+  },
+  {
+    "panel": "Figure2a",
+    "source": [
+      "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/GWAS_8_phenotypes_source.tsv",
+      "/Users/taki/Desktop/投稿包_最新版_20260919/Manuscript.docx"
+    ],
+    "source_sha256": {
+      "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/GWAS_8_phenotypes_source.tsv": "ee26505b694780cf075deeb26527c33eff4a8340aa70011da321c1e023707dce",
+      "/Users/taki/Desktop/投稿包_最新版_20260919/Manuscript.docx": "b1cb0f98d060731463955de57d542a6050668b5b66feef8d2d9eec6577f61929"
+    },
+    "change": "MCP-informed compact one-row workflow; exact editable SVG text, 34 mm tall; thresholds retained in existing legend, no new scientific calculation",
+    "width_mm": 179.99999491373697,
+    "height_mm": 33.99999993642171,
+    "panel_letter_baked": false,
+    "svg_sha256": "f0904f018e04f07a521875d97cce67d09d27aab2d4270c292ef087a1057ed43c"
+  },
+  {
+    "panel": "Figure2g",
+    "source": [
+      "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure2整图排版/alternatives/source_data/option_B_final_Table10_rows.tsv"
+    ],
+    "source_sha256": {
+      "/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/BioRender_当前素材/Figure2整图排版/alternatives/source_data/option_B_final_Table10_rows.tsv": "0815b6add78312a9105de8f882bac5f0fe37f8928358ca6a8748b2860a379d0b"
+    },
+    "change": "Author screenshot style; compact same-row e/f/g layout; all five original P and PIP values unchanged; no panel letter baked",
+    "width_mm": 72,
+    "height_mm": 48,
+    "panel_letter_baked": false,
+    "svg_sha256": "7f3d99102a73f7b38c9d106e292c0bc54ca71ee5bffd7b633791eb9ee117e156"
+  }
+]

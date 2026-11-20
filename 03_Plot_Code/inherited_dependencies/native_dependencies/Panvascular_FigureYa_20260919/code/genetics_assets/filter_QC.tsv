@@ -1,0 +1,2 @@
+analysis	LD_r2_threshold	LD_window_kb	locus_merge_kb	n_QSNP_seeds	n_LD_pairs_including_self	n_merged_QSNP_loci	n_input_GWAS_variants	n_exact_QSNP_variants_in_FUMA	n_variants_in_QSNP_loci	n_total_excluded_variants	n_output_GWAS_variants	n_input_GWS_variants	n_excluded_GWS_variants	n_output_GWS_variants	output_FUMA_file
+primary_r2_0.10	0.1	1000	250	2775	1184963	89	5448367	2772	89715	89715	5358652	9434	3552	5882	/Users/taki/Desktop/FUMA/LD_aware_QSNP_filter/primary_r2_0.10/full_bifactor_G_FUMA_LDaware_QSNP_locus_filtered_primary_r2_0.10.tsv.gz

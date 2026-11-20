@@ -1,0 +1,13 @@
+{
+  "final_pngs_actually_viewed": [
+    "diagnostic_LIPA_full_field.png",
+    "diagnostic_STAT3_full_field.png"
+  ],
+  "pdf_pages": 2,
+  "pdf_text_checked": true,
+  "same_physical_scale_assertion": "PASS",
+  "n_STAT3_reviewed_boundary_spots_retained": 5,
+  "n_LIPA_original_flags": 7,
+  "raw_gene_matrix_denominator_QC_and_target_exact_checks": "PASS",
+  "no_new_fit_or_score": true
+}

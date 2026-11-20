@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETE_AGGREGATION_WITH_EXPLICIT_UNESTIMABLE_MODELS",
+  "valid_models": 577,
+  "nonfinite_uncertainty": 5,
+  "native_failed": 52,
+  "eligibility_excluded": 182,
+  "BH_validated": true,
+  "outputs": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/composition/aggregation_patch_v2/BH_family_sizes.tsv": "d56d291374970f510784ac397f3af9db6dbc6379e93f3fb111cd670175529014",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/composition/aggregation_patch_v2/METHODS_CN.md": "99711ad1f47dd7470b187b6a99c07db4e6cf11510d5fefe7d23215bef5e23d4c",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/composition/aggregation_patch_v2/RECEIPT.json": "eea2245aa493a9b9ab8c6585946bfde1bebeea6167c290f44758ffc9c92361df",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/composition/aggregation_patch_v2/nonfinite_native_effects.tsv": "8943cc15636c19d9b6d86183c6cb4b2639b7d0f47c420eeb73f38ceb013efdd8",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/composition/aggregation_patch_v2/effects_with_estimability_and_BH.tsv": "45940350885346399fe15a17ff52f2ecccfa2ffaf735d1f14f4912c504eac16a",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/composition/aggregation_patch_v2/model_audit_corrected.tsv": "efdd3069b50845bddfa1075a440fc8a195f6f30e867a7bb20405b1fa27a153b6"
+  }
+}

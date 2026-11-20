@@ -1,0 +1,25 @@
+{
+  "before": {
+    "CM09": {
+      "data_center_pt": 174.29698181152344,
+      "title_center_pt": 167.1286849975586
+    },
+    "CM03": {
+      "data_center_pt": 429.74620056152344,
+      "title_center_pt": 423.9333801269531
+    }
+  },
+  "after": {
+    "CM09": {
+      "data_center_pt": 174.29698181152344,
+      "title_center_pt": 174.2966537475586,
+      "error_pt": -0.00032806396484375
+    },
+    "CM03": {
+      "data_center_pt": 429.74620056152344,
+      "title_center_pt": 429.7458801269531,
+      "error_pt": -0.0003204345703125
+    }
+  },
+  "only_title_x_adjusted": true
+}

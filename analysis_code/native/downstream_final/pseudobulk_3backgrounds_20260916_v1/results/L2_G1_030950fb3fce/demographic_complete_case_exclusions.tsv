@@ -1,0 +1,2 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G1	Fibromyocyte | PRKG1 contractile fibromyocyte	GSE159677	GSE159677::DONOR::3	carotid artery	disease	L2_b4f4212d6389ffaa	51	GSE159677__GSM4837527	65		scRNA-seq	GSE159677	True	case

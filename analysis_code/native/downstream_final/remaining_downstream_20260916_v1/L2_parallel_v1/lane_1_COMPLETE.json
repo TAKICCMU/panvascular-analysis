@@ -1,0 +1,544 @@
+{
+  "status": "COMPLETE_VALIDATED",
+  "results": [
+    {
+      "run_id": "L2_10f11938d6bb6f",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_10f11938d6bb6f/NATIVE_COMMAND.json": "008ceb586c64a37c4718bcbc77e6fe3f5c3c8a5c1778e2dc8600bd5d435f92ba",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_10f11938d6bb6f/cellchat_interactions.tsv.gz": "e3ec28676da13caec32761ac0438623c29785cf9db8a60d500b8ecf0f9236256",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_10f11938d6bb6f/liana_interactions.tsv.gz": "9cdcfaa2ff255ed5e84ada3c773fa4c490da24b820065f7de591d06c9d8e5e78",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_10f11938d6bb6f/COMPLETE.json": "c2d64efbc75f1a473e2de0febadc269afd75f9b2c77e3d474cccb13ae69e60a7",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_10f11938d6bb6f/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_10f11938d6bb6f/cellchat.log": "a16e19b81b82f13a6f68b1eca958bddf82a2ef738a1a9a6316784586cf7a8aea"
+      }
+    },
+    {
+      "run_id": "L2_31d6bc39f6969a",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31d6bc39f6969a/NATIVE_COMMAND.json": "ef6deccce75cc6a1659db898997777fa4f67aae8709be690a5303cf068759208",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31d6bc39f6969a/cellchat_interactions.tsv.gz": "955bcc4bf09c655909193aff6f4cb8bbd81e80d2a10c97379ca0bb4012f3ec12",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31d6bc39f6969a/liana_interactions.tsv.gz": "f9b28352498283cc37fabc02fb73d3aaacbc4ea8e33c15c01fe97b5754a5c29a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31d6bc39f6969a/COMPLETE.json": "b172cd44473bcc88c1bc6b57ebe7bbd9aa39832994cd4d8b6a95fbe5f2555575",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31d6bc39f6969a/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31d6bc39f6969a/cellchat.log": "a6955456fe83950ba86166fb03142d88bc11897db9c20b798bf9fbe9c34899f4"
+      }
+    },
+    {
+      "run_id": "L2_44ba721ca4e10c",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_44ba721ca4e10c/NATIVE_COMMAND.json": "a7c55906b77a458555afddd27bffd5934c460bd07fb47281b613744a8d957993",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_44ba721ca4e10c/cellchat_interactions.tsv.gz": "7fdc37b28e791636b5980310b876456c402c065d538a257c9617c06e4bfad999",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_44ba721ca4e10c/liana_interactions.tsv.gz": "90631f28285d57713d2958833a980570594d6e7e7db46b2345aff7c987037134",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_44ba721ca4e10c/COMPLETE.json": "af5a5ba9d6cbaca73041c4bffde995c0089e12db312b79ee49a7a8ce958f967e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_44ba721ca4e10c/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_44ba721ca4e10c/cellchat.log": "d320b98f957d03e849a394dc59d2b3ba4e9e58091a21d5a16cd70a3a6a7e7dd3"
+      }
+    },
+    {
+      "run_id": "L2_378a5abf1f0fc4",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_378a5abf1f0fc4/NATIVE_COMMAND.json": "5b677e6d9241665c7a87152a4082aa281f811b0276e5b018f1cad03b4a62bf21",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_378a5abf1f0fc4/cellchat_interactions.tsv.gz": "846d53fe504bd8d81f4ad7bf6aad9c77f94d3aeffd63afc3711560d1d581e9f7",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_378a5abf1f0fc4/liana_interactions.tsv.gz": "6dd42b9afd95bdd448bbb57aedf4116ab0b9ce13b164d9aab492e49a93d68df5",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_378a5abf1f0fc4/COMPLETE.json": "705f4e6051829cced1eeaf06edd3793c224a70c8784afc51534a1d474cfd5d36",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_378a5abf1f0fc4/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_378a5abf1f0fc4/cellchat.log": "200f20b4158c092ee67449bb58d1765dd44e03a32954788326972b4a161bca67"
+      }
+    },
+    {
+      "run_id": "L2_d29ac14f0fe7ec",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d29ac14f0fe7ec/NATIVE_COMMAND.json": "721cbc8c4ea1f2ecb5bce6b25509c0966abc799408ce78c006d7333614082a5d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d29ac14f0fe7ec/cellchat_interactions.tsv.gz": "ab6989531a94df04daffc08c24e62a8345fe3dd60b39f7f8321f613ff089891f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d29ac14f0fe7ec/liana_interactions.tsv.gz": "d16b61b9d57b76fe8128d7654ec2ee62c83a259076550efe96510c22ede64891",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d29ac14f0fe7ec/COMPLETE.json": "d8b5326eab37c315cb0986f2fd979c7d7ac0a3d12ce93db5c229b8a144bc719e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d29ac14f0fe7ec/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d29ac14f0fe7ec/cellchat.log": "0661830482e4fd0e0d5cf888f26d3470608be934b71480f4fa8fcf2a4ed89171"
+      }
+    },
+    {
+      "run_id": "L2_5dfa255eb7e35f",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5dfa255eb7e35f/NATIVE_COMMAND.json": "5e48a8d152a3e83181b4a1d7e096cd448ba38ede31f65011242ee10e5262ee9d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5dfa255eb7e35f/cellchat_interactions.tsv.gz": "59eda7c09df1ab2cc98b26ac90d75ee5005b4cca78b6ae7451e6abc5ea9b34ca",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5dfa255eb7e35f/liana_interactions.tsv.gz": "fbc87a2cd13d106b82583777a5aec4672223c298898f6f219de6992138710233",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5dfa255eb7e35f/COMPLETE.json": "ea0ba3a1261b7401e33230e9a5a8a31e8be7b4fdc0ef2644e38f7ffed2ea019f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5dfa255eb7e35f/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5dfa255eb7e35f/cellchat.log": "eda4d87d865714f68b5d91b1d68b22749c910e2be92f408899aba6dfee7c451f"
+      }
+    },
+    {
+      "run_id": "L2_eb538454daf840",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb538454daf840/NATIVE_COMMAND.json": "826660c3846d6726edbcd29b20247f940159531362f253a4fa8d6d80386de79a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb538454daf840/cellchat_interactions.tsv.gz": "3f0e06faa6b92da575fb44db93130199c520a3f0bef2aaddd73f33fbf3a375a9",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb538454daf840/liana_interactions.tsv.gz": "7f2c48ceb7466663017a67dc75cdf1947a9c214295bda0cf6d684e8c6a85692d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb538454daf840/COMPLETE.json": "2a0befd088bff43dddbe2fb482bffd31c8cc4cbbda95ea07acf76bcc4fa5f642",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb538454daf840/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb538454daf840/cellchat.log": "1adf9ea9dcac7e6e53c34a8d485e4848f3c9797548e45acf8808d2a54ed5f00f"
+      }
+    },
+    {
+      "run_id": "L2_e114ef900f719d",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e114ef900f719d/NATIVE_COMMAND.json": "fad3d43f3bf8f8075cfbe1c5c9a32854b16cd71a7b9f51ee491a1beb0b0c6809",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e114ef900f719d/cellchat_interactions.tsv.gz": "bd017d4df65bea44bff5d86775db86a4ff19b9a3e40cea1a7629430a67b50a75",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e114ef900f719d/liana_interactions.tsv.gz": "f0d9b9cf931333fe361336fc1fdad3678895d14e853820cfd3f9ea48b23bf41b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e114ef900f719d/COMPLETE.json": "65035a05006b669f674c0404df69aaae4699a01a13d71a83d2298ea4482ef4b6",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e114ef900f719d/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e114ef900f719d/cellchat.log": "bbec5a5f358deadd610aef90db203fe5c02661ad8e0cd5cd722b77116ff915d6"
+      }
+    },
+    {
+      "run_id": "L2_2a9bcbcb5c0c29",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2a9bcbcb5c0c29/NATIVE_COMMAND.json": "b3d077ce356e1768ff645199927da7a73f69c1c6b693608c9b6e6b3303ae7d5c",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2a9bcbcb5c0c29/cellchat_interactions.tsv.gz": "c66771bca202aa610eb122c3c5a0cb65c8dd53771c8ad7694f74d44e94372a34",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2a9bcbcb5c0c29/liana_interactions.tsv.gz": "d95d0a4fb3f0cdf3cf814c3043bb98be008eceb725b27adfbcad0b374c2085af",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2a9bcbcb5c0c29/COMPLETE.json": "dcd28a3be2a9351c476d3229501099761de69285b13fdd326c77eee0dc664c47",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2a9bcbcb5c0c29/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2a9bcbcb5c0c29/cellchat.log": "107c9cbd03dfac4befa719dde23631b859355c5b76a76905ad675d32d20a7f67"
+      }
+    },
+    {
+      "run_id": "L2_a636c148a9273d",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a636c148a9273d/NATIVE_COMMAND.json": "49d0b62776bbed5f69aaf6bf0c6b830e2b5ed989e79c9b780ff7d7037737adad",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a636c148a9273d/cellchat_interactions.tsv.gz": "02c7a722aa0c447a4f13a87addb8be438e0be3d259d2f9285b72bcf84460fbe9",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a636c148a9273d/liana_interactions.tsv.gz": "616be452eea2e16c547e3a651b93ef84ae8a729d2503c581dbbe380061f1fc50",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a636c148a9273d/COMPLETE.json": "45dc04175b08113ebdcc377e92078453ddb6f5e7b6cfee01bcc25f9c2bbe0016",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a636c148a9273d/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a636c148a9273d/cellchat.log": "fd5a05094c669ea0f0bf4f21f2d1aa27eea4b3df3eb41fb9ed9c8b28af63f159"
+      }
+    },
+    {
+      "run_id": "L2_82c1c19078519f",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_82c1c19078519f/NATIVE_COMMAND.json": "7f9e4f4afedf3097575c7c2f9a50e700b5cecac9d9960e77463a266fc8709e5b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_82c1c19078519f/cellchat_interactions.tsv.gz": "5914b5bf34b3b1155c71f707123a7732cb86c585d5db3b349d585696a3e7ec17",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_82c1c19078519f/liana_interactions.tsv.gz": "f0b61a26d28adf2470537beeca0f1e33093d035a9637c59e5b1c3c3052cb8c9f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_82c1c19078519f/COMPLETE.json": "58a8f270220e5a75136b23cab5bba156f08120b085bbd91c8f02a9b2ce5da6ac",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_82c1c19078519f/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_82c1c19078519f/cellchat.log": "784372a34921f9a072e1f7e998025cd8de264d666a9003e2733d4775a1d8a6fe"
+      }
+    },
+    {
+      "run_id": "L2_4e37cb4772b708",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4e37cb4772b708/NATIVE_COMMAND.json": "13b09ba5acb01cf8b3e1ab9406ce0521880fbfaa24527bc0ad9bc605b46d4791",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4e37cb4772b708/cellchat_interactions.tsv.gz": "7d1e7c1100ed9fba48cc73bb63b0662829ccf499817f52c544734e9294d06c26",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4e37cb4772b708/liana_interactions.tsv.gz": "f06cfb814e69296ba152e02897f404cd7f4767926ad7f9be3dfb851ffc53536f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4e37cb4772b708/COMPLETE.json": "dafd5afcca80a61b69487f5412551f07a9e95afb8ae163aa5b515d5267ff5c21",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4e37cb4772b708/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4e37cb4772b708/cellchat.log": "3e4c9e142dd366f72c45644c601761dc78096856253912227aa7ab1c504150ec"
+      }
+    },
+    {
+      "run_id": "L2_86ec600bc1f2ba",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_86ec600bc1f2ba/NATIVE_COMMAND.json": "fa2f9ccb7298ff2fc70d76c579bf4cf9227065237f2f750a4859f81c5605ac0a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_86ec600bc1f2ba/cellchat_interactions.tsv.gz": "c15b2d2b7df0d9cf358ffe538f47ea3e85aecacc65372e63c55bd609ee592bb0",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_86ec600bc1f2ba/liana_interactions.tsv.gz": "2e814bddbe9903a5d698086ddd04893af9bf7e1d3a06f888334b7f6b185b092d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_86ec600bc1f2ba/COMPLETE.json": "6d82360b58f8d8265df8e792880245954c51076b2536de5545bfafaa3efced5d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_86ec600bc1f2ba/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_86ec600bc1f2ba/cellchat.log": "6943359d900621e1849d55ac455e9e053d79c3d357370b0a7f12421153064539"
+      }
+    },
+    {
+      "run_id": "L2_14ca0f320c6aee",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_14ca0f320c6aee/NATIVE_COMMAND.json": "fa8064cf4f018a86f1d2bb571fb6cd38b0e6107dccbdb851cbe4ccd462bd4a7a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_14ca0f320c6aee/cellchat_interactions.tsv.gz": "cee12d94d90f2395021962ed26b810d8bdff66acb36faaa262c065ea87bacf10",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_14ca0f320c6aee/liana_interactions.tsv.gz": "885c3733a0309e3e0792d908fab028e27b04f09f1964f2278ad6579b97ecaa3b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_14ca0f320c6aee/COMPLETE.json": "85d84607e89640ab77457263e7d9dc2c83a6325a128fd86d09ccc51e47888b89",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_14ca0f320c6aee/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_14ca0f320c6aee/cellchat.log": "20f8da8cd3ace2d571cba7af2c253dd45cfdc4c2cf37bfb03c0239cdb42b55b1"
+      }
+    },
+    {
+      "run_id": "L2_16b6f84fd59637",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16b6f84fd59637/NATIVE_COMMAND.json": "fbbc87ece8faf9ee16ecbbc33214741d977c8135fc8db1739f6b410700a604be",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16b6f84fd59637/cellchat_interactions.tsv.gz": "64699770d38d609b811124464cf591c517186062e2da562e22b3f99bf2e40d6f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16b6f84fd59637/liana_interactions.tsv.gz": "b58a65f87f6417538415039ac2911c5e32ff5974ca81119fae235234d3d62e65",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16b6f84fd59637/COMPLETE.json": "8529874ca4f0e9481bcde30bb3a6f8535a1911f612356e31a3495ff5dba77af4",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16b6f84fd59637/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16b6f84fd59637/cellchat.log": "efb685f581ad5a908b5415e1b1dcd6f012c147e3b441377b3c663898114771e0"
+      }
+    },
+    {
+      "run_id": "L2_89669b51516de0",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_89669b51516de0/NATIVE_COMMAND.json": "e0c6c4cd79e011d9fae39b78cf0c30229152e19bba5dadace098df28cf1a7abb",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_89669b51516de0/cellchat_interactions.tsv.gz": "0fce291fbc30da454b76ff2e2003b762f3735198453577ac0c45682a2e27d22a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_89669b51516de0/liana_interactions.tsv.gz": "b1d10a63aa72473833cedf56af31380a67a515b713a92ad772dd1b7686c3c1d7",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_89669b51516de0/COMPLETE.json": "a824e11ce4460b394f61b2da10587746d882f95d61a2e3ab9fe52a4803388521",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_89669b51516de0/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_89669b51516de0/cellchat.log": "5f7554b84d398cc8bbfd228182fece5d91a63a013be923f1a1e6ca359410cb0e"
+      }
+    },
+    {
+      "run_id": "L2_978eaa97218dd8",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_978eaa97218dd8/NATIVE_COMMAND.json": "6de6f4b554457f208b384fec3ae58f2e64b9b374e9dffba5bd0a5092fd6dad9b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_978eaa97218dd8/cellchat_interactions.tsv.gz": "645ecbaf3a185dfd50bbd376998a75ff751b64fb06157b393ca35c19ccf2a73a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_978eaa97218dd8/liana_interactions.tsv.gz": "0d0cc19718e0be2a88b430a1c0a5173af8478a2109b21ac1446f768c7d30c983",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_978eaa97218dd8/COMPLETE.json": "c675cc9fe49b6c4195d1fc41eed3dbd50e21e65f971b72729efb831b955760ac",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_978eaa97218dd8/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_978eaa97218dd8/cellchat.log": "59bc098f8eab1b1c4c15bbf6c34192f8d0e9aaf3eac0f82dcbc115eae9d02e50"
+      }
+    },
+    {
+      "run_id": "L2_373ac278db7374",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_373ac278db7374/NATIVE_COMMAND.json": "fbc3334999e7f0a56e238f974dca9f3a199ab7a3cbc09a0dfa8baacb8d7fd986",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_373ac278db7374/cellchat_interactions.tsv.gz": "4fcc013d69af40687cd76f8f590e135a3c89105999ee2a3ab12c7c94ffbea20f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_373ac278db7374/liana_interactions.tsv.gz": "4aa44fe8e089bd1431144e7065df14bb39a2fd3b6dc3efae51908943ed243f3d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_373ac278db7374/COMPLETE.json": "889bb4a2f2031058e76afc4706b967db933074ed226a702a80fbe23e9ff19ba3",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_373ac278db7374/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_373ac278db7374/cellchat.log": "eb1a0832a03f190a659e3b9c9d2ebf010d1795b3d73472de1ffbc8f6aa229d60"
+      }
+    },
+    {
+      "run_id": "L2_25393c7b7fcd7b",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_25393c7b7fcd7b/NATIVE_COMMAND.json": "8617946ee7ede162d0c759ca87540d1a6c7378d0b5fb959ef7e08980435ac2da",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_25393c7b7fcd7b/cellchat_interactions.tsv.gz": "3da31b95784c5132693914a43db0ec4f65123e09324b141b9ff55bca845de8b5",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_25393c7b7fcd7b/liana_interactions.tsv.gz": "1f6e389e2d94e875fe6ee9db129e55782e7ded3300d99f468c19cbbe3860f062",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_25393c7b7fcd7b/COMPLETE.json": "f92dc01a9985c54baed8bcb0edf330d18b01f2ee8a542c0da5ebb708c3a750a5",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_25393c7b7fcd7b/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_25393c7b7fcd7b/cellchat.log": "e7e8ae0cf10e8be2fa887bf6acf8769e3237471ed202434d8c2ae0c975d2f27c"
+      }
+    },
+    {
+      "run_id": "L2_48267fc0594a1a",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_48267fc0594a1a/NATIVE_COMMAND.json": "d9eb3d60e8eddceeb1efdfce1eb1cc6623a31db52e3fb4ff65a0ccfe6c73624c",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_48267fc0594a1a/cellchat_interactions.tsv.gz": "bfcbd28bc0d023915f3707cfe2ab93e7ce28091c1a1c3ca49d6e8f82fd4627ca",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_48267fc0594a1a/liana_interactions.tsv.gz": "5197d1120872ea0dd8e5b77b1cc0428eea46e1966e1bd5b822168f0f11c65ddc",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_48267fc0594a1a/COMPLETE.json": "3bdf3d50d45e85d8623a019de6aa7302a352dff69d06863c5f673101b6edf277",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_48267fc0594a1a/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_48267fc0594a1a/cellchat.log": "db4b888c398ce905ff85e48770b48981db45bd54f0963e94d2cd9279cb8288b7"
+      }
+    },
+    {
+      "run_id": "L2_a68c63cdfa5a40",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a68c63cdfa5a40/NATIVE_COMMAND.json": "d89f2842cf12e90cdf5f67071589f8303d054429b013502fa78dbc5e747ce2e5",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a68c63cdfa5a40/cellchat_interactions.tsv.gz": "0632eb0aeaf69ee97df394924634f5a2b9a5ed365eec751f502038747d17ccbc",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a68c63cdfa5a40/liana_interactions.tsv.gz": "8d0c8d38fb0c4e94542b2972e638bbe521732f32b6d9e84ffc049d31eac2e839",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a68c63cdfa5a40/COMPLETE.json": "2a574267fbc00caf402090b2f41c36162456ee50d4a5e48630e948e4c3103c01",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a68c63cdfa5a40/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a68c63cdfa5a40/cellchat.log": "da2ae374f0d288253551d84dabc62d2a46352d2ef5b723c08da881bfa0c7c69d"
+      }
+    },
+    {
+      "run_id": "L2_58fb643592e684",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_58fb643592e684/NATIVE_COMMAND.json": "140c2f131ab781c6da0d2a14e4a7dde5cd6645d884b466d10b6fc8a0fcf1d362",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_58fb643592e684/cellchat_interactions.tsv.gz": "bebb5fd3af0b495bb40f429ec80ad597f2a90ca5972b6b7de311b712522e9b93",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_58fb643592e684/liana_interactions.tsv.gz": "57a028346d9cdb15592b66cb3aae5756fc1a907338e6ab60e1bd2f8b15b81f87",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_58fb643592e684/COMPLETE.json": "8131d0c95947ec220262d8e13f422657a4f64d9fffe942a85ade2c92c69ef99d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_58fb643592e684/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_58fb643592e684/cellchat.log": "6c2c5e63c593eb9a1e643a7a4b6175fff8672d8db154bf3921cfde007f429721"
+      }
+    },
+    {
+      "run_id": "L2_5fcfc8d12dbff6",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5fcfc8d12dbff6/NATIVE_COMMAND.json": "b0034b23369eae93b8aa3eb4360322bae3350277df05a5ec4e2e6a04e600a9ab",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5fcfc8d12dbff6/cellchat_interactions.tsv.gz": "5ba5accf21b5cf84e1e61bdc365bfb16cba183c2695e7ef64a5a962b918605c5",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5fcfc8d12dbff6/liana_interactions.tsv.gz": "352c78b4bd6fa437a4b71e12883100617c75789e8afeac59dbc5c71a035ee901",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5fcfc8d12dbff6/COMPLETE.json": "0fb70dadc0666049bc27cad7058c924306944f9c010b453ae5e51717480c2667",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5fcfc8d12dbff6/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_5fcfc8d12dbff6/cellchat.log": "4d8dba51247e6c5d8eae861e4e6c658f00d3eabc4529eb4ec7440ada2af112c1"
+      }
+    },
+    {
+      "run_id": "L2_0147e12bfeee78",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_0147e12bfeee78/NATIVE_COMMAND.json": "5b7032332974d0076695daea75629772294e28c9a644a30bddf43514a14acc84",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_0147e12bfeee78/cellchat_interactions.tsv.gz": "744afc82c0db68df91de27d2c7f221df8797cce13fbd4f95402ac33f7449efe6",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_0147e12bfeee78/liana_interactions.tsv.gz": "63f5f225fdaf39e234a8fc55030847dec20777b7fe87c64fb06901fa5782a085",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_0147e12bfeee78/COMPLETE.json": "66016b04bcc4c7740a6cd031e97330e0113eaf066f6ed9c163a089e83405f373",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_0147e12bfeee78/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_0147e12bfeee78/cellchat.log": "e1b4388eda4cd0000cf4e4d5e286777f78a0624dce9343ed6b7693bf87f5d4ca"
+      }
+    },
+    {
+      "run_id": "L2_a46f2ac5546bec",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a46f2ac5546bec/NATIVE_COMMAND.json": "89f643897ee0bfa257f6fc1fc030999e16a4a399d68512f9b8e6970765b954c7",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a46f2ac5546bec/cellchat_interactions.tsv.gz": "7972d422fad15c5338c4e085119d7bae3aaeff79515509812611f7878e658a5b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a46f2ac5546bec/liana_interactions.tsv.gz": "69a638650ac5de825f5d2b59aac0cc718247444f47ccd89348bfad194efb4e63",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a46f2ac5546bec/COMPLETE.json": "e658e4a134520808421968a5dbfbdd45ae7dba790f2d10d848a936540e5858d6",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a46f2ac5546bec/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_a46f2ac5546bec/cellchat.log": "9d7815285afc60e916bd900919e36fe1a76e17f10360566fd973c4d46e22d282"
+      }
+    },
+    {
+      "run_id": "L2_292cf38f821780",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_292cf38f821780/NATIVE_COMMAND.json": "cb7fc9cf784dffbb01bfe1c391c667cab8c4b6b3a3e85fed6943665a8726dcbe",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_292cf38f821780/cellchat_interactions.tsv.gz": "36791229f68f5dd1ea84acf6c95fddcb447443f0888378943e97b28396760af0",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_292cf38f821780/liana_interactions.tsv.gz": "e9cc86044e0917ad7bf956a153a524ee081c1c7164fff2d07772916b1ea6fcf7",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_292cf38f821780/COMPLETE.json": "f14248e70069d9faa4280c4a471de9439bb4057ec4933bdfd31db0fae2b03f11",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_292cf38f821780/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_292cf38f821780/cellchat.log": "334a70c2a29840955efe191cbf2b9f6fc3e6647800095796bad6de1f3cf71fa8"
+      }
+    },
+    {
+      "run_id": "L2_16c1d7ae23ec7d",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16c1d7ae23ec7d/NATIVE_COMMAND.json": "b64cd2a60d5c1770f8a8b075a28a359e56d1e34acf18954756906201d977d3f8",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16c1d7ae23ec7d/cellchat_interactions.tsv.gz": "08ea0eb2d52cfe3ec36a6ba977fcd3803974f1c43bca06bd0a044b5a607ef93b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16c1d7ae23ec7d/liana_interactions.tsv.gz": "346d40d923270a87c10087d9ac0eb38280e9114e0172e3a15f31df09527442f7",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16c1d7ae23ec7d/COMPLETE.json": "1cc1ef64019b124858ef21e9ec88b279b22dfce3db216e9e74b64ad208a063fc",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16c1d7ae23ec7d/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_16c1d7ae23ec7d/cellchat.log": "c6cf19b8f7ebc4a00ad4a7286a9379691c70e8bacb4bd65ec9ade8ed0f3adb22"
+      }
+    },
+    {
+      "run_id": "L2_09fcb232db2d61",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_09fcb232db2d61/NATIVE_COMMAND.json": "899e853b2fceb99ba2827bd1c4e17095fdd4cfe3f8c5d094c7cddb38b44061db",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_09fcb232db2d61/cellchat_interactions.tsv.gz": "3ec11a5338db60044e38786b3eeb8d0b5804d340409c312ef1662e3586257943",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_09fcb232db2d61/liana_interactions.tsv.gz": "30c33585fe0fec7fe4efc4ec09a1989c7ad306054483398cfe7ab6072d0d66f8",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_09fcb232db2d61/COMPLETE.json": "b3bf5682aab0ec6c8a40235b617f6b9eadec5dc5363442a00f07b687fbe2e8b2",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_09fcb232db2d61/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_09fcb232db2d61/cellchat.log": "39df7ec2b2b85d9c63c2c81118b01ba6c80e583b6d1a1fe46380d4491bcdfcd3"
+      }
+    },
+    {
+      "run_id": "L2_8a02525a709182",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8a02525a709182/NATIVE_COMMAND.json": "46f53ccbd40b3fd5e4eeac6507ea987f4f5d0fd19405c99e95e4cca320b109a8",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8a02525a709182/cellchat_interactions.tsv.gz": "d970ba20931fba4e48075257957c27aaba0c3cbed5e97c4d23a431fde3a4b578",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8a02525a709182/liana_interactions.tsv.gz": "4e65b2c7cc4dd1a79c377692e7c644f85ecbf96073e7f08a753f73db7929fa84",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8a02525a709182/COMPLETE.json": "984efd81022f9cbc2c3095785fe20228628023db75fe41696e403dd0fc2d07e5",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8a02525a709182/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8a02525a709182/cellchat.log": "a2cd8ca5fa0d658cc57266c8ddb1830fe4a69beaa5e635869a3f6b7721bc6af1"
+      }
+    },
+    {
+      "run_id": "L2_3d4d9b7902017d",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3d4d9b7902017d/NATIVE_COMMAND.json": "b78e1a01bc33873baada6bd76d9269e7232b260ca80372f365110d4173b3d537",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3d4d9b7902017d/cellchat_interactions.tsv.gz": "0fb15ed9e649a6860760b24fddbb288421fd9dc2e96a4d5d7bf12ac48e093a4f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3d4d9b7902017d/liana_interactions.tsv.gz": "5d6798fcfdcdb0112b7cf33b6f17116955f6fea27a1f65db1be553756d5f5cb8",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3d4d9b7902017d/COMPLETE.json": "c7fcc3cce53c120db0bbda05cedd16965e0dbf5232b68a669ddfc685fcdecb5e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3d4d9b7902017d/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3d4d9b7902017d/cellchat.log": "8f92f4edd19a2ab9e7fcd994f3d01393e8543826309be8142eeca6aeaf168210"
+      }
+    },
+    {
+      "run_id": "L2_13825e6468a7aa",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_13825e6468a7aa/NATIVE_COMMAND.json": "d8b5dc6cc0f5f12c607c8a37e3bec9169e5fc42f4cfdebbafaf724c27d3e51fb",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_13825e6468a7aa/cellchat_interactions.tsv.gz": "10243ddf7f2e56dd02105e2ff5b62a94430bccdab7c4469b47febab6b7755e79",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_13825e6468a7aa/liana_interactions.tsv.gz": "e7db8016198c64f46786c69afed64e0c7213887e7c6c834448e0737ddd4b6e4d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_13825e6468a7aa/COMPLETE.json": "022b60917972930adbecde9dd461b9ab27f74fce744283f374a8171ed8395dde",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_13825e6468a7aa/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_13825e6468a7aa/cellchat.log": "e033cbb8266b68784c526ea3db395313d4530a88b86b89e28de62b2ba4d147f6"
+      }
+    },
+    {
+      "run_id": "L2_7fcbbb24ec71f9",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fcbbb24ec71f9/NATIVE_COMMAND.json": "469880903bf5cba2ae269d492a61e11f08e05f09a489f3608b3df9de472b261b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fcbbb24ec71f9/cellchat_interactions.tsv.gz": "e234051651bc775cfdb7bfc2ebff1dc56df4d989af6a2c0b946fffd96df30046",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fcbbb24ec71f9/liana_interactions.tsv.gz": "e6efdae21f6e4cb33de69dbda0ea7e7071e95d1bb4bddcdd3376c3e323b0194e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fcbbb24ec71f9/COMPLETE.json": "0c7ee424f63b344332758eafb8383bab9e638b0b30a09d4037544b2a9e9a04cd",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fcbbb24ec71f9/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fcbbb24ec71f9/cellchat.log": "632f34f0f0e828d572ee06e999c3ba536fa500ae1ab483d373d662fb9e0925d3"
+      }
+    },
+    {
+      "run_id": "L2_c060cf358610d4",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c060cf358610d4/NATIVE_COMMAND.json": "ec61d16c8db7920708b96a6c7ffb9fe6b9447387189d2d957745b5884330af0d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c060cf358610d4/cellchat_interactions.tsv.gz": "764de3b30f367c4ce6d87583edbbeb2e18bfb1591bb8d9812dce695ce715a53e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c060cf358610d4/liana_interactions.tsv.gz": "625b6f86f03528e1b27213a813551fe3c510d7691990c45c708653f49033d05b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c060cf358610d4/COMPLETE.json": "06fab09517464a5df385e0df2b89eaf90aa606fa775e9b7de8eed6889a8c8873",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c060cf358610d4/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c060cf358610d4/cellchat.log": "6c06f8e1dcf657886236b3593fd2b563e3e548adda29300837b707d90eea0ea4"
+      }
+    },
+    {
+      "run_id": "L2_31326a58bb725e",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31326a58bb725e/NATIVE_COMMAND.json": "a65c270615829d000b9af25b9bcf0c3e35a075a2e09dac57a85c3a305cc73f9c",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31326a58bb725e/cellchat_interactions.tsv.gz": "9a0eb8482d1954004cea6ae3e1ddd5f65159f9da0e2242d397cab98378f942c8",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31326a58bb725e/liana_interactions.tsv.gz": "d466a10754e3cd86d16fa4b750a60bd5361c9fad19a956417f1a8ad2632b1130",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31326a58bb725e/COMPLETE.json": "4c6570bb611fe3a0f9771afe0c589f7abc98d1f8fba1a43e5490dfb0c04e23c7",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31326a58bb725e/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_31326a58bb725e/cellchat.log": "9d6c1e8fa14e5b68d6b86c407c6ba1a8fb02539804ee0540a32e6eedd137adc4"
+      }
+    },
+    {
+      "run_id": "L2_279334fd7805d3",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_279334fd7805d3/NATIVE_COMMAND.json": "92b35136e006bfe4db77cbfc0a8fb6d1a9e32f4c22ee427b6fda80a006edc2de",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_279334fd7805d3/cellchat_interactions.tsv.gz": "bf483e99b87531d67aa4f475c07bc2dc298c041360205e26229c29a27ec9fc4c",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_279334fd7805d3/liana_interactions.tsv.gz": "014bcbd8a3c809076297d09bad0ad234a002ed238916744a47ad974abf6fd63b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_279334fd7805d3/COMPLETE.json": "952b1179f33dc935f388625957bf7ac705808e770308fcf7885b1cb2a374599a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_279334fd7805d3/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_279334fd7805d3/cellchat.log": "44373eb1d6509f70b9578551d588ec5ea209e39fcd5546a0161dcd501abe4378"
+      }
+    },
+    {
+      "run_id": "L2_415c91d361acdd",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_415c91d361acdd/NATIVE_COMMAND.json": "08f680e47d1dc50afb5cae1f3fc894f62ba36b1bb7746f03a143953b8fe92131",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_415c91d361acdd/cellchat_interactions.tsv.gz": "c9297ac557681571969e012c6e9913cf0de3abc5e43204b716cdf6e4cf2cb08a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_415c91d361acdd/liana_interactions.tsv.gz": "3d85467645741ca6bd837666fc713147cc483dcf8ed71b677a625cf5c31997bd",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_415c91d361acdd/COMPLETE.json": "c1cc18f460c30899cf98bdce15429bbab06506efbf722593332d9a6590355167",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_415c91d361acdd/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_415c91d361acdd/cellchat.log": "8a03311c8a1739e97955961a874cacfc8ec40aab415c7ff5e6557c3a03bef7a1"
+      }
+    },
+    {
+      "run_id": "L2_2ddc781d60051d",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2ddc781d60051d/NATIVE_COMMAND.json": "c7dc94ade263435c048f96af5cce5f008761b462c860959e79dc5f022ecf3727",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2ddc781d60051d/cellchat_interactions.tsv.gz": "1e80ca1fcbad6acf8b6ee0dd0788d09557f472d95383ba976af65dcbf01ca176",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2ddc781d60051d/liana_interactions.tsv.gz": "39bd35ecc552577aa788ec7a72af2c0cb2f27fa6ebc1468e6aba4120dc18006e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2ddc781d60051d/COMPLETE.json": "bb66c02699aa65498c41bd34edf750872ad4296d46cad92b5c8c670138314545",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2ddc781d60051d/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_2ddc781d60051d/cellchat.log": "fe8d0f44899b4ae4b93fc55f7773f0a4085a18cc146f11f6943b746d919e3e2d"
+      }
+    },
+    {
+      "run_id": "L2_e99edcf55e6213",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e99edcf55e6213/NATIVE_COMMAND.json": "86a437f094ba6e7681cbf15239dfcf70207f6637f58976aca19137f806c6adea",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e99edcf55e6213/cellchat_interactions.tsv.gz": "54ec1107e8a8b10d7f155a628b23e0e6a364880f21478f733367c021a9299262",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e99edcf55e6213/liana_interactions.tsv.gz": "c71212c42540dcb20e4edbde2fb880145598605bb889f46b2b7305d244e5126d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e99edcf55e6213/COMPLETE.json": "dab60f730d784fbb2308f34b8c193c5e1a5516846147898f970efdf1a75cd10a",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e99edcf55e6213/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e99edcf55e6213/cellchat.log": "6c05d6ea14acb5b97c3ed0aa2e41debb1f832103b3b1a39a448578e575775b51"
+      }
+    },
+    {
+      "run_id": "L2_1d807ebeeb36fb",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_1d807ebeeb36fb/NATIVE_COMMAND.json": "9311e4f122b109dfdc36c5a6f50453566797fd4df8e7140bd22c19bf6c357912",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_1d807ebeeb36fb/cellchat_interactions.tsv.gz": "78288ed5eaafd68ae9a7d785e8f8465fa3f82e8cfecf8691c672a97b1701571f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_1d807ebeeb36fb/liana_interactions.tsv.gz": "ef86af0bf67e60c024a98df6da997deec2ab698788af03026b2d61577674c95f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_1d807ebeeb36fb/COMPLETE.json": "cf2332e0d7219274f3794bf62fd2f0b867cf2e45c1e6794ba87fc9ccf3757bcd",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_1d807ebeeb36fb/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_1d807ebeeb36fb/cellchat.log": "667eeb1e8ba94d969b982fe67a7d3ebb62cc101af867c20c5f5e3b5cc3bf96b3"
+      }
+    },
+    {
+      "run_id": "L2_7fb5c6c6f165e0",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fb5c6c6f165e0/NATIVE_COMMAND.json": "8274b75bdb7ce1fae49aa79b7afcc5e0f1c71bb535e894cf4e8467ae4d2613ac",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fb5c6c6f165e0/cellchat_interactions.tsv.gz": "c7987d936a750839974b843370b16c1d9055ff95e0559d5e0d4b8acc972e591f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fb5c6c6f165e0/liana_interactions.tsv.gz": "07b6e8ac46e874cb941433e89d7c96dc148acf328db5a746328be8aa4b8bbe3e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fb5c6c6f165e0/COMPLETE.json": "e08c4a3ef8733c60f074223f0aed730270d784d4fbf7295d9a8b0da9aea7635e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fb5c6c6f165e0/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_7fb5c6c6f165e0/cellchat.log": "d1e4a5f26eb12c370b7a3c4c7e74a0628d70c1ece0f8840a7c6b1eb45ad778c0"
+      }
+    },
+    {
+      "run_id": "L2_e8a2782767b746",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e8a2782767b746/NATIVE_COMMAND.json": "fad80216b5aded5bcb98af078f3e17d7e0ab9f0e79511214ea8a2c0407a5eddf",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e8a2782767b746/cellchat_interactions.tsv.gz": "297acaf715e853c494e56a67a0ad191be0307952a0619cc6b4790d14aabeaf63",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e8a2782767b746/liana_interactions.tsv.gz": "cfd7975781953176a3a17df2a18b795892f46bf085413e14463a734b925a8d8d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e8a2782767b746/COMPLETE.json": "67acdc80d27f99d04d1ce4db183ab08bebe796976c7db1f2a975399281153b2f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e8a2782767b746/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_e8a2782767b746/cellchat.log": "ea1e94da77045893a9445c86a729dd3482b4fe8e471eadda3ddb0a29e7326681"
+      }
+    },
+    {
+      "run_id": "L2_bfb39a378205d0",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_bfb39a378205d0/NATIVE_COMMAND.json": "16187feb89d70a255fe1a39dc43a60264211fb3b35a4c009ac008dd74285fe08",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_bfb39a378205d0/cellchat_interactions.tsv.gz": "b7f1ef22d84538f9e4e86ff879ccee541d22d16df927e282afb561e58b0d6f30",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_bfb39a378205d0/liana_interactions.tsv.gz": "ea5191aeef1f8f952b49a3bc8a029e3044b7d45971e4911b5dc8cbffef8fcc4b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_bfb39a378205d0/COMPLETE.json": "8174fa64f19415efb3efc05087133460ebcad95b657e6a7262674bd4e67dd44e",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_bfb39a378205d0/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_bfb39a378205d0/cellchat.log": "b9cddcb161ff67a47d799039ebe23bbd40f51fc3a1a32a612448f75980e81984"
+      }
+    },
+    {
+      "run_id": "L2_3f773fdebe8e68",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f773fdebe8e68/NATIVE_COMMAND.json": "5d15766084942debc67e444256f16ce7020551855c27b90a3e4f2ca74df4da64",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f773fdebe8e68/cellchat_interactions.tsv.gz": "743bda15c3cbf8900edb5fd67b896828be3a824066f7b9cdd961fa0ea579b008",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f773fdebe8e68/liana_interactions.tsv.gz": "dadcbc416d173e64635be07802fd49be6314fe0ce10740cd1ba4123023d7439d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f773fdebe8e68/COMPLETE.json": "eca4e1a7d4bdff8a928f73dd1408316022858fa94fd4cb0519c6a336016b2ea6",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f773fdebe8e68/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f773fdebe8e68/cellchat.log": "d16dced911c3c4fc5d92eaa735c24535d9b090a29a138471106d515a735f388b"
+      }
+    },
+    {
+      "run_id": "L2_eb5cb61e556f13",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb5cb61e556f13/NATIVE_COMMAND.json": "5f577c3364e269fc385f92816c03f5a5077b9c6cd620a63556105f4a1ef5583b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb5cb61e556f13/cellchat_interactions.tsv.gz": "07f082b6db64e7f5450c8afe1abe3f9ec0c1414f89e2bdc0c690a6b8bc912b2f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb5cb61e556f13/liana_interactions.tsv.gz": "8cdeef4b1c7a14a7643a97ccbc581f140c7d522153a3865afc42f1de558b2202",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb5cb61e556f13/COMPLETE.json": "1088147619549f9dd94c131c0f66bc9721bed6397cb6bf1a08b1eb40e9be9ef0",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb5cb61e556f13/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_eb5cb61e556f13/cellchat.log": "8527ce3f8cd62f7a8129accc854c24e3a44633f9322423b33a333691d03bb79f"
+      }
+    },
+    {
+      "run_id": "L2_d66e2900b11632",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d66e2900b11632/NATIVE_COMMAND.json": "673102f55d3530df4659bb426bce02aba9fbebc96c4cda095c4cc3a4333eb8d0",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d66e2900b11632/cellchat_interactions.tsv.gz": "1e182f1ab240d21c00a6fe954f99f0b442c4b41416be6cb32781f62046b24b53",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d66e2900b11632/liana_interactions.tsv.gz": "1405ff2bdcaa0b565f3ea470e8720829134b9c988db351764fb4509f6fa34e21",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d66e2900b11632/COMPLETE.json": "96307247df20240da2d27d18aa0e1179699701587215121d13bb9c3e3ab0fcca",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d66e2900b11632/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_d66e2900b11632/cellchat.log": "807c10de6f72fae0b7a42108813cd944a021f2d458cbeda97eef257bb353f924"
+      }
+    },
+    {
+      "run_id": "L2_3f0a5fa5fd5fda",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f0a5fa5fd5fda/NATIVE_COMMAND.json": "e0ad6c3b40fa49cf7676beab7368611990489654ac9a743cd9b63fc08bb98b83",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f0a5fa5fd5fda/cellchat_interactions.tsv.gz": "9ca9a3cf7b381fb4e7ea06b8f5385ad6d0d8fce310dd67131aa67dc2463a676b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f0a5fa5fd5fda/liana_interactions.tsv.gz": "2b6902590dbdd59016b9f9cb9621b74329548d74ebeb62fdc88b32f9f1ca6fd5",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f0a5fa5fd5fda/COMPLETE.json": "3ba65f479b526d0e7bd4173d4fa64ee5d11d1c9d49748bb973aa87192d8f080d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f0a5fa5fd5fda/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_3f0a5fa5fd5fda/cellchat.log": "bca78f9d30fd21ebf405ee73019a3d4c9fad48ad0092d3078dc6eadb31d88c82"
+      }
+    },
+    {
+      "run_id": "L2_8ade1e7d946bd0",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8ade1e7d946bd0/NATIVE_COMMAND.json": "fac5ed703690d8c31b3bc2f10697d02fc6f56f4b2fc46897dfea0dee8f67fcbd",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8ade1e7d946bd0/cellchat_interactions.tsv.gz": "b3b145c2b24694e661c62a719bbcbe1dbe56423f964393df6aa3aaf01a751ba0",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8ade1e7d946bd0/liana_interactions.tsv.gz": "c5cc373e238fc15b9f8873150f7f51a317be681ae3d621ebdc08d5beca3df098",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8ade1e7d946bd0/COMPLETE.json": "04c2468ab9bb940e08e47c8cad4a179e22994d866156cf97f26812c732896f7d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8ade1e7d946bd0/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_8ade1e7d946bd0/cellchat.log": "afc4c95616a55797df64758a0b6b40386a98d4f18668ac49f96d5e2ae9375522"
+      }
+    },
+    {
+      "run_id": "L2_c1a9612894982d",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c1a9612894982d/NATIVE_COMMAND.json": "49dbef18a4e33a2d219d3c737751a935baa731536a76fe22f3b2e3094741758b",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c1a9612894982d/cellchat_interactions.tsv.gz": "f4850ae5980904d5bca4635a613001db3379602c2da5e69e83e78e52f4f3aa86",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c1a9612894982d/liana_interactions.tsv.gz": "82d357e38ff6c8e53bfd3377b449a5bd90c7d4b310269c3bf81c5e2610ae3c33",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c1a9612894982d/COMPLETE.json": "0a0f1b9025f9d82c60e22dadd9c35306c7f85cfe1a32003a4864db877a0ea9be",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c1a9612894982d/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_c1a9612894982d/cellchat.log": "ecc0e81b84c2384253373bf3a8bcec3524c5d76093c5ee223c77e07a1ff9a89f"
+      }
+    },
+    {
+      "run_id": "L2_4671c0cf63115c",
+      "files": {
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4671c0cf63115c/NATIVE_COMMAND.json": "d05cd4bfacd546ad2d661fb448db7ee94e1df988e097258c7d95ec8ca4a722ce",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4671c0cf63115c/cellchat_interactions.tsv.gz": "86b31e838016cbbd5287c6b9451bda454b58f1edf9855b04360df068c5aff91f",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4671c0cf63115c/liana_interactions.tsv.gz": "d8396e5b81285e54a5ae051c60b979b047a21130012d90c23a319669cfa1fccc",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4671c0cf63115c/COMPLETE.json": "c04457be8c1a5cfe86369b61e4df6482290f4e91e76b6c262c45d2c1bd0759ee",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4671c0cf63115c/CellChat_sessionInfo.txt": "92999d8e32accba7e28d7cab56b3dcd3c2d13e41b3fb197b82ed72e96555090d",
+        "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/outputs/L2_4671c0cf63115c/cellchat.log": "94877ab87e9cbdc6f388da69369e2807f1ed37baf15516847fde213c1a39bff3"
+      }
+    }
+  ]
+}

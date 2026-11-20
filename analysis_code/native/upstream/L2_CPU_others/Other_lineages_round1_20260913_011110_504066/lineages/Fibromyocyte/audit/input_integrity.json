@@ -1,0 +1,13 @@
+{
+  "source_h5ad": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_level1_frozen_v1.h5ad",
+  "source_sha256": "8d36e05a8eab608d330a14531f7651a28b526817b5723a6da04aae98a09cda1b",
+  "source_n_cells": 1175115,
+  "source_n_genes": 37336,
+  "selected_n_cells": 29347,
+  "selected_gene_count": 37336,
+  "selected_cell_order_sha256": "41ac3e29db7695399d00ed07a3e9d11ae2b72659dd3e0eb06b4745aa6859d1bf",
+  "gene_order_sha256": "8391212ec77fda89c94e8d9bceb55d0972be8fbfed57e94f17ed1fcef4cba353",
+  "selected_raw_sha256": "7dcdc2b5bee3864bc44c884d157da96ac2e62701cbcb51c359da649d8f19f2e6",
+  "only_frozen_target_lineage": true,
+  "source_read_only": true
+}

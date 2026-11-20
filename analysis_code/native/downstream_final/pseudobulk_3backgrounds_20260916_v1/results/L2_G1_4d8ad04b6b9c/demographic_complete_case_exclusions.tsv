@@ -1,0 +1,3 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G1	Fibromyocyte | FOSB stress-responsive fibromyocyte	GSE248610	GSE248609::DONOR::patient1	artery	disease	L2_f7389a90f81630ee	37	GSE248609__GSM7917900			scRNA-seq	GSE248610	True	case
+G1	Fibromyocyte | FOSB stress-responsive fibromyocyte	GSE248610	GSE248609::DONOR::patient1	artery	healthy	L2_813255feae05e90b	49	GSE248609__GSM7917903			scRNA-seq	GSE248610	True	reference

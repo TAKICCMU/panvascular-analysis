@@ -1,0 +1,242 @@
+{
+  "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_level1_frozen_v1.h5ad",
+  "source_manifest": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_level1_frozen_v1.manifest.json",
+  "lineage": "Pericyte",
+  "expected_n_cells": 4513,
+  "uid_prefix": "PeriL2_R1",
+  "state_panel": {
+    "Pericyte core": [
+      "RGS5",
+      "ABCC9",
+      "KCNJ8",
+      "CSPG4",
+      "PDGFRB"
+    ],
+    "COX4I2-associated": [
+      "COX4I2",
+      "NDUFA4L2",
+      "HIGD1B",
+      "CD36",
+      "NOTCH3"
+    ],
+    "ECM-associated": [
+      "FN1",
+      "COL4A1",
+      "COL4A2",
+      "COL18A1",
+      "SPARC",
+      "THY1"
+    ],
+    "SMC-program boundary": [
+      "MYH11",
+      "CNN1",
+      "LMOD1",
+      "TAGLN",
+      "ACTA2",
+      "MYLK"
+    ],
+    "Inflammatory": [
+      "CCL2",
+      "IL6",
+      "CXCL8",
+      "VCAM1"
+    ],
+    "IFN-response": [
+      "ISG15",
+      "MX1",
+      "IFIT1",
+      "IFIT3",
+      "IFI6",
+      "STAT1"
+    ],
+    "Proliferation": [
+      "MKI67",
+      "TOP2A",
+      "UBE2C",
+      "BIRC5"
+    ],
+    "Stress check": [
+      "FOS",
+      "JUN",
+      "HSPA1A",
+      "HSPA1B",
+      "DNAJB1"
+    ]
+  },
+  "boundary_panel": {
+    "Macrophage check": [
+      "LST1",
+      "TYROBP",
+      "FCER1G",
+      "CD68",
+      "CSF1R",
+      "C1QC",
+      "MERTK"
+    ],
+    "Monocyte boundary": [
+      "FCN1",
+      "VCAN",
+      "S100A8",
+      "S100A9",
+      "S100A12",
+      "CCR2"
+    ],
+    "cDC2 check": [
+      "CD1C",
+      "FCER1A",
+      "CLEC10A"
+    ],
+    "cDC1 check": [
+      "CLEC9A",
+      "XCR1",
+      "CADM1",
+      "BATF3"
+    ],
+    "pDC check": [
+      "LILRA4",
+      "CLEC4C",
+      "IL3RA",
+      "GZMB"
+    ],
+    "Mature DC check": [
+      "LAMP3",
+      "CCR7",
+      "FSCN1",
+      "CCL22"
+    ],
+    "Neutrophil check": [
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2"
+    ],
+    "T check": [
+      "CD3D",
+      "CD3E",
+      "CD3G",
+      "TRAC",
+      "TRBC1",
+      "TRBC2"
+    ],
+    "NK check": [
+      "KLRD1",
+      "GNLY",
+      "NKG7",
+      "XCL1"
+    ],
+    "B check": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "CD22"
+    ],
+    "Plasma check": [
+      "MZB1",
+      "JCHAIN",
+      "SDC1",
+      "XBP1"
+    ],
+    "Mast check": [
+      "TPSAB1",
+      "TPSB2",
+      "KIT",
+      "HDC"
+    ],
+    "Fibroblast check": [
+      "DCN",
+      "LUM",
+      "COL1A1",
+      "COL1A2",
+      "PDGFRA"
+    ],
+    "SMC check": [
+      "MYH11",
+      "CNN1",
+      "LMOD1",
+      "TAGLN",
+      "ACTA2"
+    ],
+    "Pericyte check": [
+      "RGS5",
+      "ABCC9",
+      "KCNJ8",
+      "CSPG4",
+      "PDGFRB"
+    ],
+    "Endothelial check": [
+      "PECAM1",
+      "VWF",
+      "CDH5",
+      "CLDN5"
+    ],
+    "Schwann check": [
+      "SOX10",
+      "MPZ",
+      "PLP1"
+    ],
+    "Epithelial check": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19"
+    ]
+  },
+  "core_panel_key": "Pericyte core",
+  "config": {
+    "n_hvg": 3000,
+    "n_pcs": 50,
+    "n_neighbors": 30,
+    "seed": 0,
+    "pearson_theta": 100,
+    "pearson_chunksize": 1000,
+    "hvg_min_sample_cells": 2,
+    "normalize_target_sum": 10000,
+    "scale_max_value": 10,
+    "pca_solver": "covariance_eigh",
+    "metric": "euclidean",
+    "leiden_resolutions": [
+      0.4,
+      0.8,
+      1.2
+    ],
+    "baseline_resolution": 0.8,
+    "leiden_flavor": "igraph",
+    "leiden_n_iterations": 100,
+    "umap_min_dist": 0.3,
+    "umap_spread": 1.0,
+    "umap_maxiter": 500,
+    "min_cells_gene_test": 3,
+    "findmarkers_method": "wilcoxon",
+    "tie_correct": true,
+    "findmarkers_all_three_resolutions": true,
+    "figure_dpi": 250,
+    "harmony": {
+      "theta": 2.0,
+      "lamb": null,
+      "sigma": 0.1,
+      "nclust": null,
+      "tau": 0,
+      "block_size": 0.05,
+      "max_iter_harmony": 100,
+      "max_iter_kmeans": 20,
+      "epsilon_cluster": 1e-05,
+      "epsilon_harmony": 0.0001,
+      "alpha": 0.2,
+      "random_state": 0,
+      "device": "cpu",
+      "verbose": true
+    },
+    "core_panel_key": "Pericyte core"
+  },
+  "threads": 20,
+  "core_sha256": "f52d0bb2fb6540067f9a25f05f679c4f07e659ed2574669bc2aabf44c9eb09c8",
+  "verified_source_sha256": "8d36e05a8eab608d330a14531f7651a28b526817b5723a6da04aae98a09cda1b",
+  "source_stat": {
+    "size": 33801510086,
+    "mtime_ns": 1789220855026232506,
+    "inode": 57809068,
+    "device": 64656
+  },
+  "manifest_sha256": "947b14b2dd58e42d3b20f291215eaff73379821c1f96535d0618ee46591818d8",
+  "batch_verification": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/L2_CPU_others/Other_lineages_round1_20260913_011110_504066/audit/verified_frozen_source.json",
+  "batch_verification_sha256": "674c3b2feff43cfd3fd48bfaa2ab7e2fce1deec84b1033e0e3a7bd5f4abbe678"
+}

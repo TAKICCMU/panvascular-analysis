@@ -1,0 +1,5 @@
+请从FINAL_RELEASE_ACCEPTANCE_RECHECK.md开始。兼容性定点补丁：4个既有src文件的限定修改＋新增release_compat.py；SOURCE_CHANGES.diff包含源修改和新增回归测试。
+本轮测试以evidence/COMPAT_TEST_RESULTS.json为准（62PASS=36新增+26相关重跑）；tests/TEST_RESULTS.json等旧记录是原v2.1历史123项，不是本轮全量重跑。
+第一批命令/批准范围：FIRST_PHASE_READY_PLAN.md；后续队列：GPU_CPU_PARALLEL_QUEUE_PROPOSED.md。所有计划均未执行。
+release_support/是新外部sidecar审核副本；JSON内的源路径指向服务器真实文件，不是可脱离源数据独立运行的科学数据包。不包含全量h5ad或局部h5ad。
+服务器兼容目录：/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_release_compat_20260914

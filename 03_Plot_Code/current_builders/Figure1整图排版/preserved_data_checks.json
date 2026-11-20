@@ -1,0 +1,74 @@
+{
+  "b": {
+    "cells_displayed": 1117197,
+    "Unknown_not_displayed": 57918,
+    "full_coordinate_limits": [
+      -11.678099331999999,
+      18.572677232,
+      -4.469154276,
+      20.726339226
+    ],
+    "line_crossings": 0,
+    "crossing_names": [],
+    "label_collisions": [],
+    "text_outside_panel": [],
+    "tissue_classes": [
+      "Aorta",
+      "Coronary artery",
+      "Carotid artery",
+      "Pulmonary artery",
+      "Aortic valve",
+      "Other systemic arteries"
+    ],
+    "palette_unchanged": true,
+    "panel_letter_embedded": false,
+    "label_font_pt": 6.3,
+    "tissue_legend_font_pt": 6.0
+  },
+  "Macrophage": {
+    "cells": 210967,
+    "window": [
+      -1.5,
+      10.1,
+      8.1,
+      20.3
+    ],
+    "inside": 210948,
+    "outside": 19,
+    "all_in_locator": true
+  },
+  "Fibroblast": {
+    "cells": 251371,
+    "window": [
+      -11.0,
+      1.0,
+      0.7,
+      12.5
+    ],
+    "inside": 251329,
+    "outside": 42,
+    "all_in_locator": true
+  },
+  "Endothelial cell": {
+    "cells": 104415,
+    "window": [
+      -11.0,
+      -4.9,
+      -3.9,
+      2.2
+    ],
+    "inside": 103876,
+    "outside": 539,
+    "all_in_locator": true
+  },
+  "g": {
+    "shape": [
+      14,
+      28
+    ],
+    "size_area_max_pt2": 23.22177444354888,
+    "mapping": "area = max area * original fraction; zero area at zero",
+    "colour": "stored per-gene min-max mean, 0\u20131",
+    "no_new_statistics": true
+  }
+}

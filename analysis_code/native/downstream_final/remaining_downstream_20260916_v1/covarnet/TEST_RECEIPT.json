@@ -1,0 +1,26 @@
+{
+  "status": "PASSED_REAL_SMALL_FIXTURE_NOT_PRODUCTION",
+  "files": {
+    "code/associations.R": "8c9deffe80b939625a56d5a71b05d86b43e25e1273cd95e184d6e03314bd8c84",
+    "code/test.R": "f6c52d15577ef578d9619bc9c1a16dcf382a70d2b7119d5c6a6ff6f2cdd557f9",
+    "code/remaining_refits.R": "0417c1bd933b085c8bcb4555c5582db74af15933ce05317d454c3452fd9eab8d",
+    "code/run.py": "7f5a0ed44ad6711daa99e34280649ec469cd47f627335a79ac7557a91da048b9",
+    "test_cr2_final/sidecar.tsv": "7db92bace85b34ab38b5e5be3464feb74566f9b8ba6d40ae8157d353d3e4787e",
+    "test_cr2_final/TEST_PASS.txt": "b2c488fc3801bb3db7a6861785e25d30924e1eb233b9f17efdf8030ac0446f18",
+    "test_cr2_final/associations/METHODS.txt": "658729c2bdb64ec3d825a4d839b85923bda8949fbb107cf9a24bf9f0b404c485",
+    "test_cr2_final/associations/within_study_tissue_donor_spearman.tsv": "ecaed672eee7a2acb572fe0a58bcc694d034cd3fb7160020d06de41dee393919",
+    "test_cr2_final/associations/ASSOCIATIONS_COMPLETED.txt": "adce7ab9847b30ed365adfabae1d6539223ce48fd530f0a0f68df0e0b9f30c97",
+    "test_cr2_final/associations/scope_audit.tsv": "a0aa2cbe7736a2d30c73e1e066bdc4792fc086245f037c88a4aad8a0060e5483",
+    "test_cr2_final/associations/within_tissue_spearman_meta.tsv": "1b170195557434902fd1acfdc25ec1bd0f3eaf732129c2bbeaa838caa498fd37",
+    "test_cr2_final/associations/raw_H_descriptive_by_group.tsv": "571c53d8a6b38fa83121334d21354e94d650b08e0b80261ca605c07c4b68c6bb",
+    "test_cr2_final/associations/aligned_latest_metadata.tsv": "a0aa2cbe7736a2d30c73e1e066bdc4792fc086245f037c88a4aad8a0060e5483",
+    "test_cr2_final/associations/sessionInfo.txt": "43bc8642a8eb4686e8bf87ec81d3a9467b53d48db82d82a211a408ea49495ce1",
+    "test_cr2_final/associations/disease_same_tissue_cross_study_meta.tsv": "91cd94b94f9d1728ed1eff25c5f8fd420bdb9a909437fa86619c5958366c5be8",
+    "test_cr2_final/associations/cross_study_donor_overlap.tsv": "374b08b4fa7035c48340fe1d406286189af788d8641f427ed8e87f8503780a68",
+    "test_cr2_final/associations/disease_within_study_tissue_background.tsv": "d87b5aa5aee47a56b0550177e939c76a8ef370ade615d6b8ec10cf3de104717f",
+    "test_cr2_final/fixture/CoVarNet_sample_metadata.tsv": "d1ce5403ba1f8e9d27aec49c9d591970142f2655d47812c85eaad6580a9825f8",
+    "test_cr2_final/fixture/CoVarNet_node_proportion_of_all_atlas_cells.tsv": "df361507cbe78f651b5ff099358d8b225b89da3893dc286fdcc14b2792c4f60a",
+    "test_cr2_final/fixture/stable_NMF/module_node_weights_K14.tsv": "1fbe501ad0236553b851fc179ea23f6f7c618d1c6830a6f962a2fd51da439f6a",
+    "test_cr2_final/fixture/stable_NMF/sample_module_relative_coefficient_K14.tsv": "5afbc998071110ce9b72787bbf80393e7c9b390ce8442b875f9b4071c4744b00"
+  }
+}

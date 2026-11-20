@@ -1,0 +1,25 @@
+{
+  "previous_config": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/covarnet_pseudobulk_launch_review_20260915/user_confirmed_sample_config_20260915T153945Z/downstream_sample_config.json",
+  "sample_registry": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/covarnet_pseudobulk_launch_review_20260915/covarnet_group_review_20260915T155047Z/covarnet_sample_sidecar.tsv",
+  "sample_registry_sha256": "e037efda11adf1927ffeb7c106cf519fa5977e8d4f5e90442c0443adf30c0185",
+  "scope": "CoVarNet and its sensitivity analyses only; no changes to pseudobulk or running analyses",
+  "excluded_study": [
+    "GSE220774"
+  ],
+  "excluded_samples": [
+    "GSE224559__GSM7025944",
+    "GSE224559__GSM7025945"
+  ],
+  "explicit_healthy_sample": "GSE224587__GSM7048230",
+  "non_diseased_group": "healthy",
+  "pending_proximal_samples": [
+    "GSE224587__GSM7048232",
+    "GSE224587__GSM7048234"
+  ],
+  "preserve_sample_identity": true,
+  "same_donor_link_retained": true,
+  "freeze_obs_modified": false,
+  "models_authorized": false,
+  "status": "WAITING_FOR_USER_TABLE_REVIEW",
+  "other_readiness": "Final CoVarNet node eligibility and sample/donor handling in sensitivity analyses must be finalized before execution; prior node frequency results need updating for this input."
+}

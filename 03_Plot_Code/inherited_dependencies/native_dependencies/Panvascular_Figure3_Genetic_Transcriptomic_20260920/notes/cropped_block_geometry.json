@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Figure3c_MAGMA_cropped",
+    "cropped_width_mm": 86.55070748135543,
+    "cropped_height_mm": 28.080802436104864,
+    "artist_content_bbox_inches": [
+      0.0,
+      0.0,
+      3.4645669291338583,
+      1.141732283464567
+    ],
+    "scale": 1.0,
+    "actual_ink_bbox_px": [
+      8,
+      17,
+      1310,
+      435
+    ],
+    "original_viewbox": [
+      0.0,
+      0.0,
+      250.600819,
+      83.356724
+    ],
+    "cropped_viewbox": [
+      0.849481340314136,
+      2.534414175280899,
+      245.34058813612566,
+      79.59912501573034
+    ]
+  },
+  {
+    "name": "Figure3c_pseudobulk_cropped",
+    "cropped_width_mm": 87.01356821452879,
+    "cropped_height_mm": 27.089575474681645,
+    "artist_content_bbox_inches": [
+      0.0,
+      0.0,
+      3.4645669291338583,
+      1.141732283464567
+    ],
+    "scale": 1.0,
+    "actual_ink_bbox_px": [
+      8,
+      12,
+      1317,
+      415
+    ],
+    "original_viewbox": [
+      0.0,
+      0.0,
+      250.600819,
+      83.356724
+    ],
+    "cropped_viewbox": [
+      0.849481340314136,
+      1.597821770786517,
+      246.65263430890053,
+      76.78934780224719
+    ]
+  }
+]

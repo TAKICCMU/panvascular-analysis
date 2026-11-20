@@ -1,0 +1,62 @@
+{
+  "status": "PASS_SOURCE_SYMBOL_MAPPING_FOR_NATIVE_scDRS",
+  "n_features": 37336,
+  "confirmed_stable_id_rows": 36601,
+  "source_symbol_only_rows": 735,
+  "final_var_exact_order": true,
+  "archived_source_exact_order": true,
+  "symbol_unique": true,
+  "counts_columns_dropped": 0,
+  "counts_columns_merged": 0,
+  "gene_set_files_changed": false,
+  "ensembl_ids_inferred": 0,
+  "canonical_symbol_claim_for_fallback": false,
+  "mapping_policy": "Use already archived exact source symbols as native feature names. Ensembl remains unresolved for 735; no cross-gene alias collapse, no uppercasing, no modern nomenclature substitution. All three trait-set intersections with fallback names have independent annotation evidence; other fallback features retain original background role. This is feature identity verification, not recovery of canonical Ensembl mapping.",
+  "scenarios": [
+    {
+      "scenario": "primary_r0.1",
+      "geneset_size": 1000,
+      "pre_native_filter_exact_overlap": 922,
+      "native_filter_overlap_pending": true,
+      "source_symbol_only_trait_hits": 4
+    },
+    {
+      "scenario": "primary_r0.6",
+      "geneset_size": 1000,
+      "pre_native_filter_exact_overlap": 921,
+      "native_filter_overlap_pending": true,
+      "source_symbol_only_trait_hits": 4
+    },
+    {
+      "scenario": "leave_one_CAD_r0.1",
+      "geneset_size": 1000,
+      "pre_native_filter_exact_overlap": 929,
+      "native_filter_overlap_pending": true,
+      "source_symbol_only_trait_hits": 4
+    }
+  ],
+  "sources": [
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/01_corrected_counts/audit/full_gene_identifier_mapping.tsv.gz",
+      "sha256": "7b5cbf3a1e53f03e62caca14d8766006198b89b9cef773d0f9f2b205ddf76cb3"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/inputs/gene_map_MAGMA_READY.tsv",
+      "sha256": "c6b6891b82f204d5cad8c5cb7450301fde01d62c8b205fa2a9b9f91b779ca3e0"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/inputs/HGNC_24509.json",
+      "sha256": "54e9b89edf538cfbc302e25ceba0eaa781cf9446492954f2bf793ee63c8c9f13"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/inputs/local_gtf_exact_symbol_hits.json",
+      "sha256": "a68af00068f98e2edc42195c3892dc7d47a627fdae4b1ed563c587d9c2f95a45"
+    },
+    {
+      "path": "/home/anzhen_vhd/software/scE2G/resources/genome_annotations/gencode.v43.chr_patch_hapl_scaff.annotation.gtf.gz",
+      "sha256": "b353c450c16a0e29c0f33af088331530a6dfb804badc033c14ebdf498881277f"
+    }
+  ],
+  "ready_map_sha256": "55378df49e46c988dd641a633c041951281af5189447ca952fc805bfad85e24c",
+  "hgnc_url": "https://rest.genenames.org/fetch/hgnc_id/HGNC:24509"
+}

@@ -1,0 +1,222 @@
+{
+  "scope": "magma_completed_output_review_only",
+  "authorization": "Main thread relays explicit user authorization for one-thread summary/plots only; no new MAGMA test",
+  "bound_files": [
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/communication_data_v1/code/mount_resources.py",
+      "sha256": "6d19003e79be64d73550a84537be858bcb449d2688d20475c1639466995bd608"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_revision_20260913/configs/atlas_input_contract_v1.json",
+      "sha256": "625879a12311f136a5c7a5791e4a4a6024c02e27249a1475dfaf6e5fc0f501e4"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_revision_20260913/configs/cohort_design.tsv",
+      "sha256": "628dd99a5c75367c156e4e02be3b835af31f8161a3744954c5185938be499705"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.acceptance_r1.manifest.json",
+      "sha256": "eb46d0ff9ba5cf0e4c4a90b65f78eb09d1f263477ca46c809b0c45521ff22f06"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_light_review_20260914/TEST_RESULTS.json",
+      "sha256": "e6fe5b338b93e9cbb641c0e4474bfe14cf8fc4af32f6c609be35bd6728bddf08"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_light_review_20260914/code/review_core.py",
+      "sha256": "f8b12b6e62c5866a69942af820a99eb04841f0a6319ef93b998afd9e6b275a53"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_light_review_20260914/code/run_review.py",
+      "sha256": "9b8b76cb3cdaa471b0a9d088cdf385787e40919ea8bb633be29f70b392477aab"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_light_review_20260914/code/seal_launch.py",
+      "sha256": "38533648f314769fbbf7a5cc0b301016b36342b9d419ade730dc1f079b471fd3"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_light_review_20260914/code/test_review.py",
+      "sha256": "83e845fdbb520c20c0ff42caad2074448d20962f3d85806d7b778959dc943592"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_light_review_20260914/config.json",
+      "sha256": "2672cfa7540f4844b93657be7be695cf9914a19c4f7c920fd5df846de8d8153d"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/configs/magma_config_APPROVED.yaml",
+      "sha256": "fbc7d06c11f494898782cdf9b30547980dec3aaf225d587e8da2d3cc90b7da0b"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/RUN_IDENTITY.json",
+      "sha256": "1010fe16de8aac69229b27110de2a07046f21642be0a81c3257dc4f1f12db8a2"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/RUN_STATUS.json",
+      "sha256": "0fa0b42ed52bd2853fdbe4e16c2ee9c1e17f9353b9c0a5f27f2d50f4708c42a9"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/COMPLETE.json",
+      "sha256": "3e5aa2610dd62bc7571a6c346f9ab026fd65ebd181dffc4e76c6d4859166cd1a"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/L1_variables.tsv",
+      "sha256": "be4e5d7b4b30955fa70e4f599e7d076939d8d7bf1ac9e1ab64c49000ac5d62a4"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/L2_variables.tsv",
+      "sha256": "4695e3384063da12a7cddd3e17f44581d7fc4eddb1f180a90bcb251d08b4d198"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/RECOVERY_PROGRESS.json",
+      "sha256": "072fc2a9fddbd422e129173a670b29d17ed813cfaa069655b016807e688f05bf"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L1_cell_weighted.gsa.out",
+      "sha256": "e924d85b18a1054a98df064e4032bcfb389095e05e364b7a09295aabe62660d8"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L1_cell_weighted_model_mapping.tsv",
+      "sha256": "8feefdcd0f9aa58fc01451f9ad2e19b2924af5d450a4dccec83f0bb860c73da1"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L1_cell_weighted_with_BH.tsv",
+      "sha256": "8c26ca1a4cb1aa6240b833d9da82a27db9913450d3b5192817644bc6d3d85509"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L1_study_balanced.gsa.out",
+      "sha256": "70b3058c633d7fe2ad52549a6902d9ff4a4a3d7e6efce50ed1f91f1d8b4a1194"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L1_study_balanced_model_mapping.tsv",
+      "sha256": "8feefdcd0f9aa58fc01451f9ad2e19b2924af5d450a4dccec83f0bb860c73da1"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L1_study_balanced_with_BH.tsv",
+      "sha256": "0a045b16b6fa36b89fa6d4d674f6b80f0b7ca6c47cd9138fd1b031ca4b7b82bb"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L2_cell_weighted.gsa.out",
+      "sha256": "ee4be4601a4477ea7f8feddb8d5c396da18a2e338d89ccb5167a36c09342f075"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L2_cell_weighted_model_mapping.tsv",
+      "sha256": "f2612ea190d5791ccea1e82582c071fa42c2bc1523c116be1fa73c871ceb2adf"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L2_cell_weighted_with_BH.tsv",
+      "sha256": "66e120d11bf74426a2384791022a71d091298e6eea42b441a1e4d840367d95e7"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L2_study_balanced.gsa.out",
+      "sha256": "e5bfd62167709dc3ef74d9d296f020589ab5070762a2bbdc17bd6cd2df72e09f"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L2_study_balanced_model_mapping.tsv",
+      "sha256": "f2612ea190d5791ccea1e82582c071fa42c2bc1523c116be1fa73c871ceb2adf"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/leave_one_CAD_r0.1_L2_study_balanced_with_BH.tsv",
+      "sha256": "0b3554ad945eac8f1ef4753e9c447ba5d3454e68ef3f93f20580139f5ddcf057"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L1_cell_weighted.gsa.out",
+      "sha256": "c950c9bff6378843ad53da522ef20f97ff570b5baa51ac8ac4a9f4efc98cbb2d"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L1_cell_weighted_model_mapping.tsv",
+      "sha256": "8feefdcd0f9aa58fc01451f9ad2e19b2924af5d450a4dccec83f0bb860c73da1"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L1_cell_weighted_with_BH.tsv",
+      "sha256": "52f71e2c3f423351ae484cac8c0875c901bc31710b02da0f93c30991a480ca05"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L1_study_balanced.gsa.out",
+      "sha256": "e0e1a4a46f0d4e0714ad28bdaf61276c89cbb98395cd599e61c501ca0e798dcb"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L1_study_balanced_model_mapping.tsv",
+      "sha256": "8feefdcd0f9aa58fc01451f9ad2e19b2924af5d450a4dccec83f0bb860c73da1"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L1_study_balanced_with_BH.tsv",
+      "sha256": "51c40715e90dfa8397e12c14241c40bd8ffbcb95c64a24a70d7176dcaf00e5a8"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L2_cell_weighted.gsa.out",
+      "sha256": "48ef866eb401eb27cb53b3691f808417a3107d22f30d8056685cbdb4cd94ab5c"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L2_cell_weighted_model_mapping.tsv",
+      "sha256": "f2612ea190d5791ccea1e82582c071fa42c2bc1523c116be1fa73c871ceb2adf"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L2_cell_weighted_with_BH.tsv",
+      "sha256": "5c78a9cda5692627e74425b53c8644776fb9ecef45af7510bbd6b131b890462b"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L2_study_balanced.gsa.out",
+      "sha256": "3be8f1fb0ecb73c3d0e5928f08e5b5f8c69a13d269deb02f04d2dc21b198ec83"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L2_study_balanced_model_mapping.tsv",
+      "sha256": "f2612ea190d5791ccea1e82582c071fa42c2bc1523c116be1fa73c871ceb2adf"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.1_L2_study_balanced_with_BH.tsv",
+      "sha256": "2dab60b547fc7d79e38ef9ec7d99675b8258356886551bc4f5a2fc9e3bb3e953"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L1_cell_weighted.gsa.out",
+      "sha256": "9be926c740abb78e5d834a67bcd431e5b002c172d113e2ca2eb27042910810cf"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L1_cell_weighted_model_mapping.tsv",
+      "sha256": "8feefdcd0f9aa58fc01451f9ad2e19b2924af5d450a4dccec83f0bb860c73da1"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L1_cell_weighted_with_BH.tsv",
+      "sha256": "9d57f77c1f96e1ab4b085457b00ebac3c628d6b8033f535d0246c0e2dd55610d"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L1_study_balanced.gsa.out",
+      "sha256": "b98720b809807add364fcd40d547ae07eed117f110f95461d1c797f68f21e106"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L1_study_balanced_model_mapping.tsv",
+      "sha256": "8feefdcd0f9aa58fc01451f9ad2e19b2924af5d450a4dccec83f0bb860c73da1"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L1_study_balanced_with_BH.tsv",
+      "sha256": "8785157e0aa0efd8f4dabf794e4158123f84481360f2958f0b8d1b546c6964d7"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L2_cell_weighted.gsa.out",
+      "sha256": "bafc3eb160c99f80bdbdf9991dbc6a961726c6586bec899637decbb9ceb1beee"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L2_cell_weighted_model_mapping.tsv",
+      "sha256": "f2612ea190d5791ccea1e82582c071fa42c2bc1523c116be1fa73c871ceb2adf"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L2_cell_weighted_with_BH.tsv",
+      "sha256": "a88496698244e6f334c44523e33b66619f6acbaea8ed77a6b1c1f09f95745982"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L2_study_balanced.gsa.out",
+      "sha256": "e979e210db30fd0e29c0b223a330248df8fd0f136859164852ad650af3a7cdd2"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L2_study_balanced_model_mapping.tsv",
+      "sha256": "f2612ea190d5791ccea1e82582c071fa42c2bc1523c116be1fa73c871ceb2adf"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma/primary_r0.6_L2_study_balanced_with_BH.tsv",
+      "sha256": "33d99efaca57c98148f726e4b1a89d6c1879b81a329f79c1bf5ee325470be1c0"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma.receipt.json",
+      "sha256": "113b6468e05107cf676d5641b09247e7de408433d76fbcaada9cfee3d6dcb365"
+    }
+  ]
+}

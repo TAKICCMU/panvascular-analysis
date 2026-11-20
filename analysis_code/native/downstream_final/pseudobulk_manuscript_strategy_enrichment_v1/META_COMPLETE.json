@@ -1,0 +1,8 @@
+{
+  "status": "COMPLETE_FULL_GENE_DL_META",
+  "genes": 146759,
+  "states": 14,
+  "standard_error": "original approximation; not exact QL uncertainty",
+  "primary_DE_source": "manuscript strategy replication",
+  "target_set_REML_modified": false
+}

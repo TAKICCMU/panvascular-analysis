@@ -1,0 +1,68 @@
+{
+  "previous_in_map_labels": [
+    "Macrophage",
+    "Fibroblast",
+    "Smooth muscle",
+    "Endothelial",
+    "T",
+    "Natural killer"
+  ],
+  "new_labels": 16,
+  "complete_legend_names": [
+    "Endothelial cell",
+    "Fibroblast",
+    "Smooth muscle cell",
+    "Fibromyocyte",
+    "Pericyte",
+    "Macrophage",
+    "Monocyte",
+    "Neutrophil",
+    "Dendritic cell",
+    "T cell",
+    "Natural killer cell",
+    "B cell",
+    "Plasma cell",
+    "Mast cell",
+    "Schwann cell",
+    "Unknown"
+  ],
+  "all_embedded_images_unchanged": true,
+  "n_cells": 1175115,
+  "anchor_rule": "actual cell nearest within-L1 coordinate median; display anchor only, no new clustering or annotation",
+  "no_scientific_analysis": true,
+  "source_svg": "/Users/taki/Desktop/Panvascular_Marker_Spatial_Review_20260919/editable_svg/Figure1.svg",
+  "source_sha256": "345bbf03b42edab982f1a017bac9e67194b36f2129e61db2edb395f78eaeb378",
+  "visual_review": "ACTUALLY_VIEWED_Figure1_after.png; 16 numbers and full names readable; author review pending",
+  "unchanged_other_regions": [
+    {
+      "unchanged_region_mm": [
+        0,
+        0,
+        183,
+        37
+      ],
+      "pixels_identical": true
+    },
+    {
+      "unchanged_region_mm": [
+        0,
+        86,
+        183,
+        170
+      ],
+      "pixels_identical": true
+    },
+    {
+      "unchanged_region_mm": [
+        94,
+        37,
+        183,
+        86
+      ],
+      "pixels_identical": true
+    }
+  ],
+  "merged_pages": 15,
+  "all_merged_pages_native_identical": true,
+  "Figure5_adopted_version_preserved": "/Users/taki/Desktop/Panvascular_Figure5_AB_Finalization_20260920/figures/Figure5.pdf"
+}

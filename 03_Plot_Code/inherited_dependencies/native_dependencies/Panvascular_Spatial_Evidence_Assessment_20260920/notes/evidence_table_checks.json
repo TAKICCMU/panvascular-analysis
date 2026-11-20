@@ -1,0 +1,14 @@
+{
+  "gene_section_rows": 1421,
+  "unique_genes": 29,
+  "sections": 49,
+  "studies": 7,
+  "recorded_units": 35,
+  "rows_with_source_gene_missing": 19,
+  "native_rows": 56,
+  "historical_residual_rows": 497,
+  "new_tests_or_P_adjustments": false,
+  "max_existing_normalized_value_abs_error": 8.881784197001252e-16,
+  "candidates_source": "/Users/taki/Documents/Panvascular_Figure_Archive_20260919/Panvascular_Nature_Reconstruction_20260918/SourceData/spatial/candidate29.tsv",
+  "candidates_sha256": "939356b80e687f19a3cb41bcd7aa7ca97095c523547541b0483822990b4c5204"
+}

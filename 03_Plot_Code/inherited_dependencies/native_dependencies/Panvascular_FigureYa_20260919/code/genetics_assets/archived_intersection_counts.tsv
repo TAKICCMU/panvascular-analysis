@@ -1,0 +1,9 @@
+Full model, LD r² ≥ 0.10	Full model, LD r² ≥ 0.60	Leave-one-CAD, LD r² ≥ 0.10	Leave-one-CAD, LD r² ≥ 0.60	count
+True	True	False	False	128
+False	False	True	True	41
+True	True	True	True	25
+False	True	False	False	13
+False	True	False	True	2
+True	True	False	True	2
+False	False	False	True	1
+False	True	True	True	1

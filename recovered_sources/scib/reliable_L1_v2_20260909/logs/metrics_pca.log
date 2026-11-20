@@ -1,0 +1,63 @@
+ERROR:jax._src.xla_bridge:Jax plugin configuration error: Exception when calling jax_plugins.xla_cuda12.initialize()
+Traceback (most recent call last):
+  File "/home/anzhen_vhd/miniconda3/envs/scib_GPU/lib/python3.13/site-packages/jax_plugins/xla_cuda12/__init__.py", line 201, in _version_check
+    version = get_version()
+RuntimeError: jaxlib/cuda/versions_helpers.cc:76: operation cublasGetVersion( nullptr, &version) failed: cuBlas internal error
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/anzhen_vhd/miniconda3/envs/scib_GPU/lib/python3.13/site-packages/jax/_src/xla_bridge.py", line 497, in discover_pjrt_plugins
+    plugin_module.initialize()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/anzhen_vhd/miniconda3/envs/scib_GPU/lib/python3.13/site-packages/jax_plugins/xla_cuda12/__init__.py", line 348, in initialize
+    _check_cuda_versions(raise_on_first_error=True)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/anzhen_vhd/miniconda3/envs/scib_GPU/lib/python3.13/site-packages/jax_plugins/xla_cuda12/__init__.py", line 261, in _check_cuda_versions
+    cublas_version = _version_check("cuBLAS", cuda_versions.cublas_get_version,
+                   cuda_versions.cublas_build_version,
+                   # Ignore patch versions.
+                   scale_for_comparison=100,
+                   min_supported_version=120100)
+  File "/home/anzhen_vhd/miniconda3/envs/scib_GPU/lib/python3.13/site-packages/jax_plugins/xla_cuda12/__init__.py", line 205, in _version_check
+    raise RuntimeError(err_msg) from e
+RuntimeError: Unable to load cuBLAS. Is it installed?
+INFO:jax._src.xla_bridge:Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+WARNING:jax._src.xla_bridge:An NVIDIA GPU may be present on this machine, but a CUDA-enabled jaxlib is not installed. Falling back to cpu.
+INFO:root:Versions={'scib-metrics': '0.5.9', 'anndata': '0.12.10', 'numpy': '2.2.5', 'pandas': '2.3.3', 'scipy': '1.16.3', 'jax': '0.9.1', 'jaxlib': '0.9.1', 'scanpy': '1.12', 'pynndescent': '0.5.13', 'umap-learn': '0.5.11', 'scikit-learn': '1.8.0'} devices=[CpuDevice(id=0)]
+Traceback (most recent call last):
+  File "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/reliable_L1_v2_20260909/code/evaluate_official.py", line 231, in <module>
+    main()
+    ~~~~^^
+  File "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/reliable_L1_v2_20260909/code/evaluate_official.py", line 106, in main
+    raise RuntimeError('JAX GPU unavailable; fix runtime or explicitly pass --allow-cpu; no silent CPU workload')
+RuntimeError: JAX GPU unavailable; fix runtime or explicitly pass --allow-cpu; no silent CPU workload
+INFO:root:Versions={'scib-metrics': '0.5.9', 'anndata': '0.12.10', 'numpy': '2.2.5', 'pandas': '2.3.3', 'scipy': '1.16.3', 'jax': '0.9.1', 'jaxlib': '0.9.1', 'scanpy': '1.12', 'pynndescent': '0.5.13', 'umap-learn': '0.5.11', 'scikit-learn': '1.8.0'} devices=[CudaDevice(id=0)]
+Computing neighbors:   0%|          | 0/1 [00:00<?, ?it/s]Computing neighbors: 100%|██████████| 1/1 [00:00<00:00,  8.00it/s]Computing neighbors: 100%|██████████| 1/1 [00:00<00:00,  7.99it/s]
+Embeddings:   0%|[32m          [0m| 0/1 [00:00<?, ?it/s]
+Metrics:   0%|[34m          [0m| 0/10 [00:00<?, ?it/s][A
+Metrics:   0%|[34m          [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][AINFO:root:isolated labels: no more than 74 batches per label
+
+Metrics:  10%|[34m█         [0m| 1/10 [02:26<21:58, 146.55s/it, Bio conservation: isolated_labels][A
+Metrics:  10%|[34m█         [0m| 1/10 [02:26<21:58, 146.55s/it, Bio conservation: nmi_ari_cluster_labels_kmeans][A
+Metrics:  20%|[34m██        [0m| 2/10 [02:58<10:30, 78.87s/it, Bio conservation: nmi_ari_cluster_labels_kmeans] [A
+Metrics:  20%|[34m██        [0m| 2/10 [02:58<10:30, 78.87s/it, Bio conservation: silhouette_label]             [A
+Metrics:  30%|[34m███       [0m| 3/10 [03:06<05:27, 46.81s/it, Bio conservation: silhouette_label][A
+Metrics:  30%|[34m███       [0m| 3/10 [03:06<05:27, 46.81s/it, Bio conservation: clisi_knn]       [A
+Metrics:  40%|[34m████      [0m| 4/10 [03:08<02:54, 29.08s/it, Bio conservation: clisi_knn][A
+Metrics:  40%|[34m████      [0m| 4/10 [03:08<02:54, 29.08s/it, Batch correction: bras]     [A
+Metrics:  50%|[34m█████     [0m| 5/10 [03:59<03:04, 36.95s/it, Batch correction: bras][A
+Metrics:  50%|[34m█████     [0m| 5/10 [03:59<03:04, 36.95s/it, Batch correction: ilisi_knn][A
+Metrics:  60%|[34m██████    [0m| 6/10 [04:00<01:39, 24.79s/it, Batch correction: ilisi_knn][A
+Metrics:  60%|[34m██████    [0m| 6/10 [04:00<01:39, 24.79s/it, Batch correction: kbet_per_label][A
+Metrics:  70%|[34m███████   [0m| 7/10 [05:23<02:11, 43.75s/it, Batch correction: kbet_per_label][A
+Metrics:  70%|[34m███████   [0m| 7/10 [05:23<02:11, 43.75s/it, Batch correction: graph_connectivity][A/home/anzhen_vhd/miniconda3/envs/scib_GPU/lib/python3.13/site-packages/scib_metrics/metrics/_graph_connectivity.py:32: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(comps)
+
+Metrics:  80%|[34m████████  [0m| 8/10 [05:24<01:00, 30.04s/it, Batch correction: graph_connectivity][A
+Metrics:  80%|[34m████████  [0m| 8/10 [05:24<01:00, 30.04s/it, Batch correction: pcr_comparison]    [A/home/anzhen_vhd/miniconda3/envs/scib_GPU/lib/python3.13/site-packages/scib_metrics/metrics/_pcr_comparison.py:49: UserWarning: PCR comparison score is negative, meaning variance contribution increased after integration. Setting to 0.
+  warnings.warn(
+
+Metrics:  90%|[34m█████████ [0m| 9/10 [05:30<00:22, 22.63s/it, Batch correction: pcr_comparison][AEmbeddings: 100%|[32m██████████[0m| 1/1 [05:30<00:00, 330.50s/it]Embeddings: 100%|[32m██████████[0m| 1/1 [05:30<00:00, 330.50s/it]
+
+                                                                                         [A

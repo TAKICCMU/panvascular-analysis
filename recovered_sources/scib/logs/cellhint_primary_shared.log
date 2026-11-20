@@ -1,0 +1,576 @@
+/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/louvain/__init__.py:54: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+✂️ 65106 cells are filtered out, including:
+      164 cells from GSE131778__GSM3819856
+      56 cells from GSE131778__GSM3819857
+      404 cells from GSE131778__GSM3819858
+      346 cells from GSE131778__GSM3819859
+      254 cells from GSE131778__GSM3819860
+      254 cells from GSE131778__GSM3819861
+      238 cells from GSE131778__GSM3819862
+      314 cells from GSE131778__GSM3819863
+      164 cells from GSE155468__GSM4704932
+      183 cells from GSE155468__GSM4704933
+      366 cells from GSE155468__GSM4704934
+      329 cells from GSE155468__GSM4704935
+      384 cells from GSE155468__GSM4704936
+      154 cells from GSE155468__GSM4704937
+      218 cells from GSE155468__GSM4704938
+      179 cells from GSE155468__GSM4704939
+      202 cells from GSE155468__GSM4704940
+      347 cells from GSE155468__GSM4704941
+      115 cells from GSE155512__GSM4705589
+      266 cells from GSE155512__GSM4705590
+      305 cells from GSE155512__GSM4705591
+      280 cells from GSE159677__GSM4837523
+      294 cells from GSE159677__GSM4837524
+      276 cells from GSE159677__GSM4837525
+      239 cells from GSE159677__GSM4837526
+      259 cells from GSE159677__GSM4837527
+      233 cells from GSE159677__GSM4837528
+      235 cells from GSE166676__GSM5077727
+      158 cells from GSE166676__GSM5077728
+      168 cells from GSE166676__GSM5077729
+      101 cells from GSE166676__GSM5077730
+      314 cells from GSE166676__GSM5077731
+      881 cells from GSE166676__GSM5077732
+      88 cells from GSE184073__GSM5577199
+      168 cells from GSE184073__GSM5577200
+      167 cells from GSE210248__GSM6424655_rep1
+      168 cells from GSE210248__GSM6424655_rep2
+      84 cells from GSE210248__GSM6424656
+      223 cells from GSE210248__GSM6424657
+      190 cells from GSE210248__GSM6424658
+      379 cells from GSE210248__GSM6424659
+      291 cells from GSE210248__GSM6424660
+      211 cells from GSE213128__GSM6573161
+      365 cells from GSE213128__GSM6573162
+      259 cells from GSE213128__GSM6573163
+      344 cells from GSE213128__GSM6573164
+      286 cells from GSE213128__GSM6573165
+      244 cells from GSE213740__GSM6593315
+      231 cells from GSE213740__GSM6593316
+      331 cells from GSE213740__GSM6593317
+      204 cells from GSE213740__GSM6593318
+      366 cells from GSE213740__GSM6593319
+      162 cells from GSE213740__GSM6593320
+      183 cells from GSE213740__GSM6593321
+      270 cells from GSE213740__GSM6593322
+      235 cells from GSE213740__GSM6593323
+      255 cells from GSE220774__GSM6817217
+      457 cells from GSE220774__GSM6817218
+      665 cells from GSE220774__GSM6817219
+      414 cells from GSE220774__GSM6817220
+      260 cells from GSE220774__GSM6817221
+      269 cells from GSE220774__GSM6817222
+      664 cells from GSE220774__GSM6817223
+      480 cells from GSE220774__GSM6817224
+      196 cells from GSE220774__GSM6817225
+      437 cells from GSE220774__GSM6817226
+      466 cells from GSE220774__GSM6817227
+      376 cells from GSE220774__GSM6817228
+      380 cells from GSE220774__GSM6817229
+      386 cells from GSE220774__GSM6817230
+      148 cells from GSE220774__GSM6817231
+      431 cells from GSE222318__GSM6919833
+      398 cells from GSE222318__GSM6919834
+      414 cells from GSE222318__GSM6919835
+      463 cells from GSE222318__GSM6919836
+      346 cells from GSE222318__GSM6919837
+      292 cells from GSE222318__GSM6919838
+      342 cells from GSE222318__GSM6919839
+      341 cells from GSE222318__GSM6919840
+      170 cells from GSE222318__GSM6919841
+      241 cells from GSE222318__GSM6919842
+      223 cells from GSE222318__GSM6919843
+      479 cells from GSE222318__GSM6919844
+      245 cells from GSE222318__GSM6919845
+      193 cells from GSE222318__GSM6919846
+      15 cells from GSE224273__GSM7018579
+      336 cells from GSE224273__GSM7018580
+      262 cells from GSE224273__GSM7018581
+      21 cells from GSE224273__GSM7018582
+      152 cells from GSE224273__GSM7018583
+      170 cells from GSE224273__GSM7018584
+      14 cells from GSE224559__GSM7025944
+      142 cells from GSE224559__GSM7025945
+      225 cells from GSE224559__GSM7025946
+      243 cells from GSE224587__GSM7048229
+      182 cells from GSE224587__GSM7048230
+      178 cells from GSE224587__GSM7048231
+      103 cells from GSE224587__GSM7048232
+      212 cells from GSE224587__GSM7048233
+      206 cells from GSE224587__GSM7048234
+      177 cells from GSE224587__GSM7048235
+      211 cells from GSE224587__GSM7048236
+      164 cells from GSE228643__GSM7134356
+      219 cells from GSE228643__GSM7134357
+      308 cells from GSE228643__GSM7134358
+      315 cells from GSE228643__GSM7134359
+      351 cells from GSE228643__GSM7134360
+      138 cells from GSE237230__GSM7597522
+      300 cells from GSE237230__GSM7597523
+      64 cells from GSE237230__GSM7597524
+      26 cells from GSE237230__GSM7597525
+      39 cells from GSE237230__GSM7597526
+      230 cells from GSE237230__GSM7597527
+      6 cells from GSE237230__GSM7597528
+      63 cells from GSE237230__GSM7597529
+      12 cells from GSE247238__GSM7885766
+      10 cells from GSE247238__GSM7885767
+      10 cells from GSE247238__GSM7885768
+      14 cells from GSE247238__GSM7885769
+      9 cells from GSE247238__GSM7885770
+      10 cells from GSE247238__GSM7885771
+      82 cells from GSE247238__GSM7885772
+      107 cells from GSE247238__GSM7885773
+      79 cells from GSE247238__GSM7885774
+      46 cells from GSE247238__GSM7885775
+      333 cells from GSE247238__GSM7885776
+      16 cells from GSE247238__GSM7885777
+      7 cells from GSE247238__GSM7885778
+      63 cells from GSE247238__GSM7885780
+      58 cells from GSE247238__GSM7885781
+      32 cells from GSE247238__GSM7885782
+      8 cells from GSE247238__GSM7885783
+      241 cells from GSE247238__GSM7885784
+      312 cells from GSE248609__GSM7917900
+      283 cells from GSE248609__GSM7917901
+      324 cells from GSE248609__GSM7917902
+      270 cells from GSE248609__GSM7917903
+      245 cells from GSE248609__GSM7917904
+      351 cells from GSE248609__GSM7917905
+      346 cells from GSE253903__GSM8029962
+      284 cells from GSE253903__GSM8029963
+      265 cells from GSE253903__GSM8029964
+      267 cells from GSE253903__GSM8029965
+      207 cells from GSE253903__GSM8029966
+      157 cells from GSE253903__GSM8029967
+      269 cells from GSE253903__GSM8029968
+      222 cells from GSE253903__GSM8029969
+      273 cells from GSE253903__GSM8029970
+      260 cells from GSE253903__GSM8029971
+      256 cells from GSE253903__GSM8029972
+      401 cells from GSE253903__GSM8029973
+      190 cells from GSE254132__GSM8033727
+      404 cells from GSE254132__GSM8033728
+      385 cells from GSE254132__GSM8033729
+      176 cells from GSE254132__GSM8033730
+      333 cells from GSE254132__GSM8033731
+      225 cells from GSE254132__GSM8033732
+      315 cells from GSE255895__GSM8082324
+      331 cells from GSE255895__GSM8082325
+      303 cells from GSE255895__GSM8082326
+      150 cells from GSE255895__GSM8082327
+      126 cells from GSE255895__GSM8082328
+      231 cells from GSE255895__GSM8082329
+      358 cells from GSE255895__GSM8082330
+      162 cells from GSE255895__GSM8082331
+      491 cells from GSE255895__GSM8082332
+      390 cells from GSE255895__GSM8082333
+      424 cells from GSE255895__GSM8082334
+      349 cells from GSE255895__GSM8082335
+      170 cells from GSE266682__GSM8253725
+      320 cells from GSE266682__GSM8253726
+      287 cells from GSE266682__GSM8253727
+      194 cells from GSE271435__GSM8376912
+      218 cells from GSE271435__GSM8376913
+      65 cells from GSE271435__GSM8376914
+      297 cells from GSE271435__GSM8376915
+      180 cells from GSE271435__GSM8376916
+      599 cells from GSE273980__GSM8441017
+      487 cells from GSE273980__GSM8441018
+      113 cells from GSE294291__GSM8901824
+      42 cells from GSE294291__GSM8901826
+      21 cells from GSE294291__GSM8901827
+      28 cells from GSE294291__GSM8901830
+      30 cells from GSE294291__GSM8901831
+      103 cells from GSE294291__GSM8901834
+      33 cells from GSE294291__GSM8901835
+      359 cells from HCA__abdominal aorta_female_67_17156a4e-934e-8e27-c161-10acd8f6f36e
+      186 cells from HCA__abdominal aorta_male_48_c51ed9e6-5875-0ed8-92a5-d415dcf2ad37
+      333 cells from HCA__arch of aorta_female_38_c0b136d6-b165-73cf-9ad3-e8110ea1826d
+      203 cells from HCA__arch of aorta_female_67_7cbec207-89c0-2bc6-793d-58a9cf434a29
+      266 cells from HCA__arch of aorta_female_69_4cc70973-30d2-2bab-ea68-60ea19772b6f
+      412 cells from HCA__arch of aorta_male_39_6ffdb08a-ce5b-c152-9e80-93de5cd7a063
+      379 cells from HCA__arch of aorta_male_46_4c641e48-7730-4a4c-2eb5-7fe4b80d04f7
+      387 cells from HCA__ascending aorta_female_38_33febb9f-3eab-e5e4-a4e4-ad445008a15e
+      286 cells from HCA__ascending aorta_female_67_ff8074d9-0ef7-c568-fc09-5b8a429c4609
+      337 cells from HCA__ascending aorta_female_69_6be7fdd7-7c0c-f4b8-511c-bfa7991a724d
+      438 cells from HCA__ascending aorta_male_39_01c49e88-f463-3ea7-5d3f-c24e4dc915bb
+      384 cells from HCA__ascending aorta_male_46_cfa72edb-eae9-10ef-71f4-57527b090426
+      237 cells from HCA__bulb of aorta_female_38_5773dc75-82b6-69ba-8025-c5018efd339b
+      269 cells from HCA__bulb of aorta_male_39_ce790bcc-f766-f230-4680-cd188adbd5b1
+      331 cells from HCA__carotid artery segment_female_67_3aa51f38-ff2d-854d-8abd-700ae0337a56
+      309 cells from HCA__carotid artery segment_female_69_dc3ccf7b-17e4-79c4-0cb0-245a104a1b52
+      293 cells from HCA__carotid artery segment_male_39_aaf919cb-633c-96e3-efd0-825595e790b4
+      240 cells from HCA__carotid artery segment_male_46_40db7c8a-1ef0-7adf-d9ec-3bff49e0215f
+      399 cells from HCA__carotid artery segment_male_48_36dbc53e-d23e-7042-2421-910eaea67d7b
+      283 cells from HCA__coronary artery_male_46_bbf75ff4-c2c4-0784-c373-b176737c1eac
+      216 cells from HCA__descending aorta_female_67_7d9e6dc1-225e-0277-d18c-31d1eb4777df
+      325 cells from HCA__descending aorta_female_69_0b798eb7-6cdb-bee6-7370-8a4f7d409591
+      287 cells from HCA__descending aorta_male_39_b5120aa0-1098-726d-c3ac-cea1f9631c83
+      275 cells from HCA__descending aorta_male_46_bc602299-5d56-fc05-ecbb-7956212df170
+      415 cells from HCA__descending aorta_male_48_9fe7b0d1-313d-321c-6dc6-527896498775
+      235 cells from HCA__iliac artery_female_67_e8923882-15ed-6dd7-b280-dc2343b631a4
+      226 cells from HCA__iliac artery_male_39_50c8263e-25f2-9e1c-7a48-297e8191cab7
+      202 cells from HCA__iliac artery_male_46_f2c0a20b-610b-f13d-d567-34b9e4a0734a
+      273 cells from HCA__pulmonary artery_female_67_e4cad52b-e81e-ee4f-401e-11f00208c43d
+      177 cells from HCA__pulmonary artery_female_69_fcdc9280-eff0-80d3-aec9-a14ce8a15c6a
+      231 cells from HCA__pulmonary artery_male_39_d00a8dbb-57d4-1d87-0e62-de3f9384b9e0
+      116 cells from HCA__pulmonary artery_male_46_e1ad3564-c1b2-9b35-b69d-62c931385134
+      257 cells from HCA__right coronary artery_female_38_27db61a6-efbd-7dc3-c4eb-2a4edbdec9a4
+      428 cells from HCA__right coronary artery_female_67_423b4b4e-9d8e-9dd0-0e38-195bc87226f2
+      438 cells from HCA__right coronary artery_female_67_f48c4de0-e123-98ca-c11e-5cd06f697cff
+      311 cells from HCA__right coronary artery_female_69_77a0fa2f-4883-0870-6508-cfb833a21558
+      288 cells from HCA__right coronary artery_male_39_ce037ce1-9602-1ccc-f965-c2cc2289072e
+      281 cells from HCA__right coronary artery_male_48_94b77f1c-d06d-61c9-850e-c1eff4842700
+      303 cells from PMID33626908__patient1_AO
+      238 cells from PMID33626908__patient1_CA
+      364 cells from PMID33626908__patient2_AO
+      267 cells from PMID33626908__patient2_CA1
+      264 cells from PMID33626908__patient2_CA2
+      306 cells from PMID33626908__patient2_PA
+      286 cells from PMID33626908__patient3_AO1
+      322 cells from PMID33626908__patient3_AO2
+      211 cells from PMID33626908__patient3_CA1
+      256 cells from PMID33626908__patient3_CA2
+      265 cells from PMID33626908__patient3_PA
+      705 cells from PRJNA562645_1__SRX6862538
+      641 cells from PRJNA562645_1__SRX6862539
+      820 cells from PRJNA562645_1__SRX6862540
+      969 cells from PRJNA562645_1__SRX6862541
+      809 cells from PRJNA562645_1__SRX6862542
+      614 cells from PRJNA562645_1__SRX6862543
+      186 cells from PRJNA562645_2__SRX20865347
+      472 cells from PRJNA562645_2__SRX20865348
+      344 cells from PRJNA562645_2__SRX20865349
+      322 cells from PRJNA562645_2__SRX20865350
+      234 cells from PRJNA562645_2__SRX20865351
+      305 cells from PRJNA562645_2__SRX20865352
+✂️ The following cell types are discarded due to low confidence in annotation:
+      GSE131778__GSM3819859: Dendritic cell
+      GSE131778__GSM3819859: Pericyte
+      GSE155468__GSM4704933: Unknown
+      GSE155468__GSM4704935: Fibromyocyte
+      GSE155512__GSM4705590: B cell
+      GSE159677__GSM4837524: B cell
+      GSE166676__GSM5077731: Natural killer cell
+      GSE166676__GSM5077731: Neutrophil
+      GSE166676__GSM5077731: Pericyte
+      GSE166676__GSM5077732: Dendritic cell
+      GSE166676__GSM5077732: Natural killer cell
+      GSE220774__GSM6817217: B cell
+      GSE220774__GSM6817230: Dendritic cell
+      GSE224587__GSM7048236: Smooth muscle cell
+      GSE237230__GSM7597524: Smooth muscle cell
+      GSE237230__GSM7597527: Fibromyocyte
+      GSE247238__GSM7885773: B cell
+      GSE247238__GSM7885774: B cell
+      GSE247238__GSM7885775: B cell
+      GSE247238__GSM7885782: Monocyte
+      GSE248609__GSM7917901: Dendritic cell
+      GSE248609__GSM7917901: Smooth muscle cell
+      GSE255895__GSM8082328: Monocyte
+      GSE255895__GSM8082328: Unknown
+      GSE255895__GSM8082330: Natural killer cell
+      GSE255895__GSM8082332: Neutrophil
+      GSE255895__GSM8082333: Monocyte
+      GSE255895__GSM8082334: T cell
+      GSE255895__GSM8082335: Monocyte
+      GSE271435__GSM8376913: Smooth muscle cell
+      GSE273980__GSM8441018: Natural killer cell
+      HCA__abdominal aorta_male_48_c51ed9e6-5875-0ed8-92a5-d415dcf2ad37: Natural killer cell
+      HCA__carotid artery segment_male_48_36dbc53e-d23e-7042-2421-910eaea67d7b: Natural killer cell
+      HCA__coronary artery_male_46_bbf75ff4-c2c4-0784-c373-b176737c1eac: B cell
+      PMID33626908__patient2_CA1: B cell
+      PMID33626908__patient2_CA2: B cell
+      PMID33626908__patient3_AO1: B cell
+      PRJNA562645_1__SRX6862538: B cell
+      PRJNA562645_1__SRX6862538: Unknown
+      PRJNA562645_1__SRX6862539: Monocyte
+      PRJNA562645_1__SRX6862540: Natural killer cell
+      PRJNA562645_1__SRX6862542: Monocyte
+      PRJNA562645_1__SRX6862543: Natural killer cell
+🏆 Reordering datasets
+🖇 Harmonizing cell types of GSE131778__GSM3819860 and GSE131778__GSM3819862
+🖇 Harmonizing cell types of GSE210248__GSM6424660
+🖇 Harmonizing cell types of GSE131778__GSM3819856
+🖇 Harmonizing cell types of GSE155468__GSM4704938
+🖇 Harmonizing cell types of HCA__arch of aorta_male_46_4c641e48-7730-4a4c-2eb5-7fe4b80d04f7
+🖇 Harmonizing cell types of GSE131778__GSM3819861
+🖇 Harmonizing cell types of GSE166676__GSM5077730
+🖇 Harmonizing cell types of GSE159677__GSM4837526
+🖇 Harmonizing cell types of GSE131778__GSM3819857
+🖇 Harmonizing cell types of GSE210248__GSM6424657
+🖇 Harmonizing cell types of GSE228643__GSM7134360
+🖇 Harmonizing cell types of HCA__right coronary artery_male_48_94b77f1c-d06d-61c9-850e-c1eff4842700
+🖇 Harmonizing cell types of GSE210248__GSM6424655_rep2
+🖇 Harmonizing cell types of GSE210248__GSM6424655_rep1
+🖇 Harmonizing cell types of GSE228643__GSM7134357
+🖇 Harmonizing cell types of HCA__descending aorta_female_67_7d9e6dc1-225e-0277-d18c-31d1eb4777df
+🖇 Harmonizing cell types of HCA__pulmonary artery_female_67_e4cad52b-e81e-ee4f-401e-11f00208c43d
+🖇 Harmonizing cell types of HCA__carotid artery segment_female_69_dc3ccf7b-17e4-79c4-0cb0-245a104a1b52
+🖇 Harmonizing cell types of GSE213740__GSM6593321
+🖇 Harmonizing cell types of GSE248609__GSM7917904
+🖇 Harmonizing cell types of HCA__pulmonary artery_female_69_fcdc9280-eff0-80d3-aec9-a14ce8a15c6a
+🖇 Harmonizing cell types of HCA__right coronary artery_male_39_ce037ce1-9602-1ccc-f965-c2cc2289072e
+🖇 Harmonizing cell types of HCA__abdominal aorta_male_48_c51ed9e6-5875-0ed8-92a5-d415dcf2ad37
+🖇 Harmonizing cell types of GSE159677__GSM4837524
+🖇 Harmonizing cell types of GSE222318__GSM6919841
+🖇 Harmonizing cell types of GSE222318__GSM6919838
+🖇 Harmonizing cell types of HCA__coronary artery_male_46_bbf75ff4-c2c4-0784-c373-b176737c1eac
+🖇 Harmonizing cell types of HCA__carotid artery segment_male_46_40db7c8a-1ef0-7adf-d9ec-3bff49e0215f
+🖇 Harmonizing cell types of HCA__abdominal aorta_female_67_17156a4e-934e-8e27-c161-10acd8f6f36e
+🖇 Harmonizing cell types of GSE166676__GSM5077729
+🖇 Harmonizing cell types of HCA__ascending aorta_male_46_cfa72edb-eae9-10ef-71f4-57527b090426
+🖇 Harmonizing cell types of HCA__arch of aorta_female_69_4cc70973-30d2-2bab-ea68-60ea19772b6f
+🖇 Harmonizing cell types of HCA__iliac artery_male_46_f2c0a20b-610b-f13d-d567-34b9e4a0734a
+🖇 Harmonizing cell types of GSE155468__GSM4704940
+🖇 Harmonizing cell types of GSE155468__GSM4704939
+🖇 Harmonizing cell types of GSE253903__GSM8029964
+🖇 Harmonizing cell types of HCA__pulmonary artery_male_46_e1ad3564-c1b2-9b35-b69d-62c931385134
+🖇 Harmonizing cell types of HCA__arch of aorta_female_67_7cbec207-89c0-2bc6-793d-58a9cf434a29
+🖇 Harmonizing cell types of GSE228643__GSM7134359
+🖇 Harmonizing cell types of GSE253903__GSM8029969
+🖇 Harmonizing cell types of GSE159677__GSM4837525
+🖇 Harmonizing cell types of GSE253903__GSM8029967
+🖇 Harmonizing cell types of GSE247238__GSM7885780
+🖇 Harmonizing cell types of GSE155468__GSM4704937
+🖇 Harmonizing cell types of GSE224587__GSM7048233
+🖇 Harmonizing cell types of GSE253903__GSM8029963
+🖇 Harmonizing cell types of GSE247238__GSM7885781
+🖇 Harmonizing cell types of GSE253903__GSM8029965
+🖇 Harmonizing cell types of GSE253903__GSM8029970
+🖇 Harmonizing cell types of GSE222318__GSM6919846
+🖇 Harmonizing cell types of GSE224587__GSM7048230
+🖇 Harmonizing cell types of GSE159677__GSM4837527
+🖇 Harmonizing cell types of GSE155512__GSM4705590
+🖇 Harmonizing cell types of GSE253903__GSM8029966
+🖇 Harmonizing cell types of GSE253903__GSM8029968
+🖇 Harmonizing cell types of GSE210248__GSM6424658
+🖇 Harmonizing cell types of GSE155468__GSM4704932
+🖇 Harmonizing cell types of GSE237230__GSM7597522
+🖇 Harmonizing cell types of GSE253903__GSM8029971
+🖇 Harmonizing cell types of GSE155468__GSM4704935
+🖇 Harmonizing cell types of GSE155468__GSM4704941
+🖇 Harmonizing cell types of GSE213740__GSM6593316
+🖇 Harmonizing cell types of GSE224587__GSM7048234
+🖇 Harmonizing cell types of PMID33626908__patient1_AO
+🖇 Harmonizing cell types of PMID33626908__patient3_AO2
+🖇 Harmonizing cell types of PMID33626908__patient3_AO1
+🖇 Harmonizing cell types of GSE224587__GSM7048229
+🖇 Harmonizing cell types of GSE166676__GSM5077727
+🖇 Harmonizing cell types of HCA__right coronary artery_female_38_27db61a6-efbd-7dc3-c4eb-2a4edbdec9a4
+🖇 Harmonizing cell types of GSE228643__GSM7134356
+🖇 Harmonizing cell types of GSE213740__GSM6593318
+🖇 Harmonizing cell types of HCA__ascending aorta_female_67_ff8074d9-0ef7-c568-fc09-5b8a429c4609
+🖇 Harmonizing cell types of GSE155512__GSM4705591
+🖇 Harmonizing cell types of GSE222318__GSM6919845
+🖇 Harmonizing cell types of PMID33626908__patient1_CA
+🖇 Harmonizing cell types of HCA__descending aorta_male_48_9fe7b0d1-313d-321c-6dc6-527896498775
+🖇 Harmonizing cell types of GSE155468__GSM4704936
+🖇 Harmonizing cell types of HCA__bulb of aorta_male_39_ce790bcc-f766-f230-4680-cd188adbd5b1
+🖇 Harmonizing cell types of GSE247238__GSM7885776
+🖇 Harmonizing cell types of GSE247238__GSM7885777
+🖇 Harmonizing cell types of GSE254132__GSM8033730
+🖇 Harmonizing cell types of GSE222318__GSM6919842
+🖇 Harmonizing cell types of GSE159677__GSM4837528
+🖇 Harmonizing cell types of GSE222318__GSM6919840
+🖇 Harmonizing cell types of GSE224273__GSM7018581
+🖇 Harmonizing cell types of GSE228643__GSM7134358
+🖇 Harmonizing cell types of GSE248609__GSM7917902
+🖇 Harmonizing cell types of GSE253903__GSM8029973
+🖇 Harmonizing cell types of GSE166676__GSM5077728
+🖇 Harmonizing cell types of GSE254132__GSM8033727
+🖇 Harmonizing cell types of GSE247238__GSM7885773
+🖇 Harmonizing cell types of GSE266682__GSM8253725
+🖇 Harmonizing cell types of GSE247238__GSM7885774
+🖇 Harmonizing cell types of GSE159677__GSM4837523
+🖇 Harmonizing cell types of GSE210248__GSM6424659
+🖇 Harmonizing cell types of HCA__right coronary artery_female_67_423b4b4e-9d8e-9dd0-0e38-195bc87226f2
+🖇 Harmonizing cell types of HCA__iliac artery_male_39_50c8263e-25f2-9e1c-7a48-297e8191cab7
+🖇 Harmonizing cell types of HCA__descending aorta_male_46_bc602299-5d56-fc05-ecbb-7956212df170
+🖇 Harmonizing cell types of HCA__right coronary artery_female_69_77a0fa2f-4883-0870-6508-cfb833a21558
+🖇 Harmonizing cell types of HCA__ascending aorta_female_38_33febb9f-3eab-e5e4-a4e4-ad445008a15e
+🖇 Harmonizing cell types of HCA__right coronary artery_female_67_f48c4de0-e123-98ca-c11e-5cd06f697cff
+🖇 Harmonizing cell types of GSE131778__GSM3819858
+🖇 Harmonizing cell types of GSE213740__GSM6593320
+🖇 Harmonizing cell types of GSE213740__GSM6593317
+🖇 Harmonizing cell types of GSE253903__GSM8029972
+🖇 Harmonizing cell types of GSE155468__GSM4704933
+🖇 Harmonizing cell types of GSE131778__GSM3819863
+🖇 Harmonizing cell types of HCA__iliac artery_female_67_e8923882-15ed-6dd7-b280-dc2343b631a4
+🖇 Harmonizing cell types of PMID33626908__patient2_PA
+🖇 Harmonizing cell types of PMID33626908__patient2_CA1
+🖇 Harmonizing cell types of PMID33626908__patient3_CA2
+🖇 Harmonizing cell types of GSE224273__GSM7018582
+🖇 Harmonizing cell types of GSE224559__GSM7025946
+🖇 Harmonizing cell types of GSE224587__GSM7048231
+🖇 Harmonizing cell types of GSE213128__GSM6573161
+🖇 Harmonizing cell types of GSE210248__GSM6424656
+🖇 Harmonizing cell types of PMID33626908__patient2_AO
+🖇 Harmonizing cell types of PMID33626908__patient3_CA1
+🖇 Harmonizing cell types of GSE224273__GSM7018579
+🖇 Harmonizing cell types of GSE253903__GSM8029962
+🖇 Harmonizing cell types of HCA__carotid artery segment_male_48_36dbc53e-d23e-7042-2421-910eaea67d7b
+🖇 Harmonizing cell types of GSE131778__GSM3819859
+🖇 Harmonizing cell types of HCA__arch of aorta_female_38_c0b136d6-b165-73cf-9ad3-e8110ea1826d
+🖇 Harmonizing cell types of GSE213740__GSM6593322
+🖇 Harmonizing cell types of GSE213740__GSM6593319
+🖇 Harmonizing cell types of HCA__descending aorta_female_69_0b798eb7-6cdb-bee6-7370-8a4f7d409591
+🖇 Harmonizing cell types of HCA__carotid artery segment_female_67_3aa51f38-ff2d-854d-8abd-700ae0337a56
+🖇 Harmonizing cell types of GSE248609__GSM7917903
+🖇 Harmonizing cell types of GSE237230__GSM7597527
+🖇 Harmonizing cell types of GSE247238__GSM7885769
+🖇 Harmonizing cell types of HCA__carotid artery segment_male_39_aaf919cb-633c-96e3-efd0-825595e790b4
+🖇 Harmonizing cell types of GSE247238__GSM7885770
+🖇 Harmonizing cell types of GSE266682__GSM8253727
+🖇 Harmonizing cell types of HCA__ascending aorta_female_69_6be7fdd7-7c0c-f4b8-511c-bfa7991a724d
+🖇 Harmonizing cell types of GSE247238__GSM7885768
+🖇 Harmonizing cell types of GSE247238__GSM7885766
+🖇 Harmonizing cell types of GSE247238__GSM7885772
+🖇 Harmonizing cell types of GSE247238__GSM7885775
+🖇 Harmonizing cell types of GSE271435__GSM8376913
+🖇 Harmonizing cell types of PMID33626908__patient3_PA
+🖇 Harmonizing cell types of HCA__ascending aorta_male_39_01c49e88-f463-3ea7-5d3f-c24e4dc915bb
+🖇 Harmonizing cell types of GSE222318__GSM6919844
+🖇 Harmonizing cell types of GSE266682__GSM8253726
+🖇 Harmonizing cell types of GSE222318__GSM6919843
+🖇 Harmonizing cell types of PMID33626908__patient2_CA2
+🖇 Harmonizing cell types of HCA__bulb of aorta_female_38_5773dc75-82b6-69ba-8025-c5018efd339b
+🖇 Harmonizing cell types of GSE224587__GSM7048236
+🖇 Harmonizing cell types of GSE271435__GSM8376915
+🖇 Harmonizing cell types of GSE222318__GSM6919837
+🖇 Harmonizing cell types of GSE294291__GSM8901830
+🖇 Harmonizing cell types of GSE254132__GSM8033728
+🖇 Harmonizing cell types of GSE237230__GSM7597526
+🖇 Harmonizing cell types of GSE224587__GSM7048232
+🖇 Harmonizing cell types of GSE155512__GSM4705589
+🖇 Harmonizing cell types of HCA__arch of aorta_male_39_6ffdb08a-ce5b-c152-9e80-93de5cd7a063
+🖇 Harmonizing cell types of GSE248609__GSM7917900
+🖇 Harmonizing cell types of GSE271435__GSM8376912
+🖇 Harmonizing cell types of GSE237230__GSM7597524
+🖇 Harmonizing cell types of GSE155468__GSM4704934
+🖇 Harmonizing cell types of GSE224273__GSM7018584
+🖇 Harmonizing cell types of GSE254132__GSM8033732
+🖇 Harmonizing cell types of GSE237230__GSM7597528
+🖇 Harmonizing cell types of GSE237230__GSM7597525
+🖇 Harmonizing cell types of GSE254132__GSM8033731
+🖇 Harmonizing cell types of GSE224559__GSM7025945
+🖇 Harmonizing cell types of GSE248609__GSM7917905
+🖇 Harmonizing cell types of GSE271435__GSM8376914
+🖇 Harmonizing cell types of GSE224273__GSM7018583
+🖇 Harmonizing cell types of GSE213128__GSM6573164
+🖇 Harmonizing cell types of GSE247238__GSM7885784
+🖇 Harmonizing cell types of PRJNA562645_2__SRX20865351
+🖇 Harmonizing cell types of GSE213740__GSM6593323
+🖇 Harmonizing cell types of GSE222318__GSM6919833
+🖇 Harmonizing cell types of GSE184073__GSM5577199
+🖇 Harmonizing cell types of PRJNA562645_2__SRX20865350
+🖇 Harmonizing cell types of GSE294291__GSM8901827
+🖇 Harmonizing cell types of GSE294291__GSM8901824
+🖇 Harmonizing cell types of GSE271435__GSM8376916
+🖇 Harmonizing cell types of GSE237230__GSM7597529
+🖇 Harmonizing cell types of GSE213128__GSM6573162
+🖇 Harmonizing cell types of GSE222318__GSM6919839
+🖇 Harmonizing cell types of GSE294291__GSM8901826
+🖇 Harmonizing cell types of GSE247238__GSM7885778
+🖇 Harmonizing cell types of GSE220774__GSM6817229
+🖇 Harmonizing cell types of GSE224587__GSM7048235
+🖇 Harmonizing cell types of GSE220774__GSM6817217
+🖇 Harmonizing cell types of GSE294291__GSM8901834
+🖇 Harmonizing cell types of GSE213128__GSM6573163
+🖇 Harmonizing cell types of GSE213128__GSM6573165
+🖇 Harmonizing cell types of GSE220774__GSM6817230
+🖇 Harmonizing cell types of GSE294291__GSM8901835
+🖇 Harmonizing cell types of HCA__pulmonary artery_male_39_d00a8dbb-57d4-1d87-0e62-de3f9384b9e0
+🖇 Harmonizing cell types of GSE220774__GSM6817231
+🖇 Harmonizing cell types of GSE222318__GSM6919835
+🖇 Harmonizing cell types of GSE220774__GSM6817218
+🖇 Harmonizing cell types of PRJNA562645_2__SRX20865347
+🖇 Harmonizing cell types of GSE294291__GSM8901831
+🖇 Harmonizing cell types of GSE237230__GSM7597523
+🖇 Harmonizing cell types of GSE224273__GSM7018580
+🖇 Harmonizing cell types of GSE220774__GSM6817222
+🖇 Harmonizing cell types of GSE224559__GSM7025944
+🖇 Harmonizing cell types of GSE222318__GSM6919834
+🖇 Harmonizing cell types of GSE247238__GSM7885767
+🖇 Harmonizing cell types of GSE220774__GSM6817225
+🖇 Harmonizing cell types of GSE222318__GSM6919836
+🖇 Harmonizing cell types of GSE220774__GSM6817221
+🖇 Harmonizing cell types of GSE247238__GSM7885783
+🖇 Harmonizing cell types of GSE248609__GSM7917901
+🖇 Harmonizing cell types of GSE220774__GSM6817228
+🖇 Harmonizing cell types of HCA__descending aorta_male_39_b5120aa0-1098-726d-c3ac-cea1f9631c83
+🖇 Harmonizing cell types of PRJNA562645_2__SRX20865349
+🖇 Harmonizing cell types of GSE184073__GSM5577200
+🖇 Harmonizing cell types of GSE220774__GSM6817219
+🖇 Harmonizing cell types of PRJNA562645_2__SRX20865348
+🖇 Harmonizing cell types of GSE273980__GSM8441018
+🖇 Harmonizing cell types of GSE220774__GSM6817227
+🖇 Harmonizing cell types of GSE220774__GSM6817224
+🖇 Harmonizing cell types of GSE220774__GSM6817223
+🖇 Harmonizing cell types of GSE213740__GSM6593315
+🖇 Harmonizing cell types of PRJNA562645_2__SRX20865352
+🖇 Harmonizing cell types of GSE220774__GSM6817226
+🖇 Harmonizing cell types of GSE220774__GSM6817220
+🖇 Harmonizing cell types of GSE247238__GSM7885771
+🖇 Harmonizing cell types of GSE247238__GSM7885782
+🖇 Harmonizing cell types of PRJNA562645_1__SRX6862539
+🖇 Harmonizing cell types of PRJNA562645_1__SRX6862538
+🖇 Harmonizing cell types of GSE166676__GSM5077732
+🖇 Harmonizing cell types of GSE166676__GSM5077731
+🖇 Harmonizing cell types of GSE273980__GSM8441017
+🖇 Harmonizing cell types of GSE254132__GSM8033729
+🖇 Harmonizing cell types of PRJNA562645_1__SRX6862543
+🖇 Harmonizing cell types of GSE255895__GSM8082326
+🖇 Harmonizing cell types of GSE255895__GSM8082329
+🖇 Harmonizing cell types of PRJNA562645_1__SRX6862542
+🖇 Harmonizing cell types of PRJNA562645_1__SRX6862540
+🖇 Harmonizing cell types of PRJNA562645_1__SRX6862541
+🖇 Harmonizing cell types of GSE255895__GSM8082324
+🖇 Harmonizing cell types of GSE255895__GSM8082325
+🖇 Harmonizing cell types of GSE255895__GSM8082328
+🖇 Harmonizing cell types of GSE255895__GSM8082331
+🖇 Harmonizing cell types of GSE255895__GSM8082334
+🖇 Harmonizing cell types of GSE255895__GSM8082327
+🖇 Harmonizing cell types of GSE255895__GSM8082330
+🖇 Harmonizing cell types of GSE255895__GSM8082333
+🖇 Harmonizing cell types of GSE255895__GSM8082332
+🖇 Harmonizing cell types of GSE255895__GSM8082335
+🖋️ Reannotating cells
+✅ Harmonization done!
+{
+  "input": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/inputs/scib_primary_sampleonly_cap1500_hvg2000.h5ad",
+  "input_sha256": "62be48e45915b278910021de311651ddfd14ac3b06742892603edf6b1cddd0c5",
+  "pca": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/primary/omicverse_pca.npy",
+  "pca_sha256": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+  "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+  "n_cells": 315949,
+  "batch_key": "sample_uid",
+  "label_key": "studywise_marker_level1",
+  "n_samples": 247,
+  "parameters": {
+    "use_pct": false,
+    "filter_cells": true,
+    "use_rep": "X_pca_omicverse"
+  },
+  "optimization": "single-entry confusion matrix memoization; deep copies; all native harmonization thresholds/order unchanged",
+  "reusable_for": [
+    "meta3",
+    "meta5"
+  ],
+  "cpu_affinity": [
+    1,
+    5,
+    11,
+    12
+  ],
+  "status": "completed",
+  "elapsed_seconds": 14208.404373407364,
+  "cache_hits": 3430,
+  "cache_misses": 245,
+  "reannotated_cells": 250843,
+  "reannotation_sha256": "a1277b61b34ff80660b5e7e033de83b01bf832336f5e8ccfb03c0e628d716f1d"
+}

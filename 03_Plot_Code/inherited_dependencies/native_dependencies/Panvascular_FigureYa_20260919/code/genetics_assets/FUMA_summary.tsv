@@ -1,0 +1,5 @@
+analysis	n_genomic_risk_loci	n_lead_snps	n_independent_significant_snps	n_fuma_mapped_genes	n_magma_tested_genes	n_magma_bonferroni_genes	n_magma_fdr_genes	n_magma_bonferroni_pathways	n_magma_fdr_pathways	n_catalog_annotated_loci	n_vascular_catalog_annotated_loci	minimum_locus_p
+full_primary_r2_0.10	155	212	493	1625	17953	273	2206	20	102	152	134	1.6699378916e-67
+full_sensitivity_r2_0.60	171	258	589	1833	18238	302	2334	22	106	167	146	1.6699378916e-67
+leave_CAD_primary_r2_0.10	67	72	104	1610	18045	41	349	4	5	44	17	1.5571690881099997e-39
+leave_CAD_sensitivity_r2_0.60	72	80	120	1710	18255	51	393	3	5	49	20	1.5571690881099997e-39

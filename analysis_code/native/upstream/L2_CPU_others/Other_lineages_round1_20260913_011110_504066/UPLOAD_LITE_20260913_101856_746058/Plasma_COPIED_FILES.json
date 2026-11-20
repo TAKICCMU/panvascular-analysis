@@ -1,0 +1,656 @@
+[
+  {
+    "path": "tables/HVG3000.tsv",
+    "bytes": 19315,
+    "sha256": "9eac8a6e92d6dc1329086c04a6d5fda09dfb61b3b3d1d118192178217be95e11",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_clips.tsv",
+    "bytes": 7821,
+    "sha256": "cc966c2b443ed7e6328f32da10d7ce46cfe48fe97890c233b8897a05989b6b38",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/HVG_sample_eligibility.tsv",
+    "bytes": 7777,
+    "sha256": "3b9b9f095b5e0a763c460226be16c5d0b1b2bbd27c78279ba80ba2ac51136187",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/Harmony_objective_history.tsv",
+    "bytes": 240,
+    "sha256": "f8bcc2a6492b4500ab6f49cf4974269060f5d513ad1539c0dae3e8cf7b61f564",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/all_resolution_review_candidates.tsv",
+    "bytes": 19581,
+    "sha256": "8724ad37f525f9f675fcbb5185dc49dbc12d5973ea9b2a8e9e8d1830238023c1",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/boundary_multi_marker_by_cluster.tsv",
+    "bytes": 131593,
+    "sha256": "5b6ac1f604cb7cec079fd85d7680f39e24d36f4bad2dc393109e61dae7ae8167",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/cell_cluster_mapping.tsv.gz",
+    "bytes": 82882,
+    "sha256": "08d0754b2281b6eb3c1e1a8843e468ca020fa6f496d3758223575021a1502df1",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/missing_markers.json",
+    "bytes": 47,
+    "sha256": "db1c2df227f682018576af7114ca729f36e5de42d1f6b3c8853b3ce6a2c5228a",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 2493,
+    "sha256": "34eab7cd04fc26a26902f71b214901454137a4bb5d9e8653e1d561a5a080985d",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 2496,
+    "sha256": "1230fee76b2be5003633e2c8c434b908915319a3fdaf65c31f62751b2f1ababa",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top100.tsv",
+    "bytes": 74206,
+    "sha256": "8fc4fb41ea2c0b070439b98df7f01d31a6baa202ffe550387d8b900d3e75ef83",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 14993,
+    "sha256": "9241d3c797ceb91f7864b393093c160f48f7c07f0d5c46cfc1e77f4a0eadacf2",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_condition.tsv",
+    "bytes": 168,
+    "sha256": "4153a90d2c44137c5e7e12e707d56eb7d7f4faf5c3e68c9d21ddf8ada03d696f",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease.tsv",
+    "bytes": 168,
+    "sha256": "4153a90d2c44137c5e7e12e707d56eb7d7f4faf5c3e68c9d21ddf8ada03d696f",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_disease_context.tsv",
+    "bytes": 257,
+    "sha256": "072a4936d216db1f17c74b7a41e9c69c611c6352d9376a085f7974278eacc4a6",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_donor_uid_v2.tsv",
+    "bytes": 5645,
+    "sha256": "f03714b39688a5a554af8eea4b9b1ff0ad86918dd3129710da219538904b7483",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_sample_uid.tsv",
+    "bytes": 7444,
+    "sha256": "d560c22c2fa15bab759b17ee0b674bc0a0ebfa721fd005a3cda09afe3a7613cb",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_study.tsv",
+    "bytes": 723,
+    "sha256": "27cf578371932057eacf60a86cb526b2398ce62fa47430e06f4eb310279bbead",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_by_tissue.tsv",
+    "bytes": 456,
+    "sha256": "fdd8255c6315f58d7634bb5f4481b8c4ae0fa38a667f3fc4f26bea5db856bdec",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_review_template.tsv",
+    "bytes": 4026,
+    "sha256": "3cd0bd3fef93ec6b43e40d119b07d30b916fe73038ee1ba243aca7bc435319c4",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_groups.tsv",
+    "bytes": 31564,
+    "sha256": "c976d7d72b662e4a7476b897241b711e55522d4f2a67248963dcfd5d5a61517d",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 32954,
+    "sha256": "2b0daf7eacb53ac51534100920910e85e8bc60bc9b4b6617ff65e42d7573888d",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 175755,
+    "sha256": "2d32245317dfefb5582ad20cd81e16195749a383a2d5e0f41a6849350c095182",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/cluster_summary.tsv",
+    "bytes": 2881,
+    "sha256": "868cfaa67775b6aec1bebd1fcb5d1f58944191d3f7627e8e57d673d89d8dc9f3",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_detection_fraction.tsv",
+    "bytes": 11404,
+    "sha256": "49be0afb7da800f701ff5a708370697dd93d2ec08490c03c7438199c4e7a64ee",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_evidence_long.tsv",
+    "bytes": 45671,
+    "sha256": "d9cb2b11a8d2137c8e303d7c9c3a5cf10538be7722dd5ee726029b9a69e93a3e",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_log1p.tsv",
+    "bytes": 11458,
+    "sha256": "84c8135da759eb89fd5dae5e3afb13cca835c937f199db6840cf6942ec0ba2e3",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p4/marker_mean_raw_counts.tsv",
+    "bytes": 11226,
+    "sha256": "4efc41af5a66ffe8a65c122240bcabbb4089d8c723e048f45dade3640b6ba283",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 5470,
+    "sha256": "175722aeb011143891332e621efc628fc92417ca7f810ca6e6bb425873a024c5",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 5768,
+    "sha256": "0a973a61135a6920256897236c0dbb290d26f4e948407fc14344134a8aec41e8",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 3795,
+    "sha256": "48d6af14b16329034084f2c9b210bb58a87ac9875afdae614fa170c25843a46c",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 4052,
+    "sha256": "30400ac0fd8b0147e2a352e8bf1a3e8595719120d5911c8f4e78add8c3c424f3",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top100.tsv",
+    "bytes": 147159,
+    "sha256": "a88eb08bd8a43b7122446ed69ef6234005b1fd32a95b4bc05252e07c906c8e1d",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 29517,
+    "sha256": "ce24155e7943a8c38e9f1701c0655e6ea75f5093f2c166e50053e0bab40b43a3",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_condition.tsv",
+    "bytes": 297,
+    "sha256": "9ac7f8d99d4c279a683da2a7b485982e63c88d775a1f62116e85cf8636fe3c25",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease.tsv",
+    "bytes": 297,
+    "sha256": "9ac7f8d99d4c279a683da2a7b485982e63c88d775a1f62116e85cf8636fe3c25",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_disease_context.tsv",
+    "bytes": 408,
+    "sha256": "b19e7131bf7fff6cf19e6c3579ba4edd0f2fd2c63d073bbe1593bbd7513db977",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_donor_uid_v2.tsv",
+    "bytes": 7070,
+    "sha256": "81399e32cd72748df1071ba4c180db437d21acdf1be2d1aa82bb9a78b7e62eea",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_sample_uid.tsv",
+    "bytes": 9351,
+    "sha256": "19e7218592e7787018393eb93fb9861cb4523d061d74f4c7b8698475d53d326a",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_study.tsv",
+    "bytes": 1092,
+    "sha256": "637101fea55f9f159303379fffb38059c4a528147e1e7f35a50f40a2b2c65841",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_by_tissue.tsv",
+    "bytes": 689,
+    "sha256": "66139c4f8e230727fd9dae5682760f79360ba55db88c3b246cbd92bac463ddb1",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_review_template.tsv",
+    "bytes": 7325,
+    "sha256": "b8e8426d4b8a202848a08765c3d249ac2e8d9329ef5dbe38ba43a5b1e354cdd0",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_groups.tsv",
+    "bytes": 45683,
+    "sha256": "016ffda8d8cda7e4e105d8ccf08feff62e9ad1f8627afc669f7fa95d6acd7b53",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 38137,
+    "sha256": "15911573412048c035250296947b2a5fdf039bcb2422039748a8251470db37dc",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 227316,
+    "sha256": "ea2f944bede54af0d1ac195c13677ae05ed32e3fb0b4d8365191e4f72d3db7bd",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/cluster_summary.tsv",
+    "bytes": 5122,
+    "sha256": "10883d042b7882db815c20fa328228b54d72c8f9c0d406e440d0fc931ad22138",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_detection_fraction.tsv",
+    "bytes": 19708,
+    "sha256": "8cd49edb763a2baa4c5b3e65ec09ba27e6e1786dca03447feda82bdd59ccf808",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_evidence_long.tsv",
+    "bytes": 85323,
+    "sha256": "3e7ee4d6a9ea72bb730088e7b12ca24165b1589f6b1d7e015fefb2bdebe463d1",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_log1p.tsv",
+    "bytes": 21032,
+    "sha256": "8724919da3f74b9990bb0b28cdd57a5844f8066a1bce17abeac102199ba569ee",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8/marker_mean_raw_counts.tsv",
+    "bytes": 19525,
+    "sha256": "0c7a1bd5af4d6c7e7a3b9c50478a780009cabc5cc6d6658c0ebca77fe0e7b0fe",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r0p4_membership.tsv",
+    "bytes": 428,
+    "sha256": "5faad6506b4c0f84bcd6b58723258d683cc737099ea28e5052c6899894c6bd8d",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r0p8_vs_r1p2_membership.tsv",
+    "bytes": 791,
+    "sha256": "d3ba399eee7bf8385669ff7f53a3ecd8ac6099435b24b053d2d1be87a85bc69a",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_detection_fraction.tsv",
+    "bytes": 7108,
+    "sha256": "425dbb2c7da58d807842dd92094652fd003f5bf6a101957405531854e0be556b",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_01_mean_log1p.tsv",
+    "bytes": 7360,
+    "sha256": "cc8bae54da02d5ea94db303bdde456d6c7d98aa525d27735e20a2c90c53e6689",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_detection_fraction.tsv",
+    "bytes": 8344,
+    "sha256": "94d937020a50ccfbbe5eb5451a8b8d6b7466741ffc037c0282c307a33f0e627a",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_02_mean_log1p.tsv",
+    "bytes": 8402,
+    "sha256": "65c0370309f530d0511da0894618116f644431a6f4e7b05d0496179401180108",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_detection_fraction.tsv",
+    "bytes": 2891,
+    "sha256": "2428c4bbf2d4d9347589c350713e1e90aed8307ad46d5815731c748902269fe5",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_panel_03_mean_log1p.tsv",
+    "bytes": 2887,
+    "sha256": "428d30baecf8297d15e1e439446aa31af2b4c371999e218dc3012d2c55584a79",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top100.tsv",
+    "bytes": 207622,
+    "sha256": "24dd0971dd70ca0e2180e3499fc1eccdccbd7a3253a16da6ed1f20a5f6e1301e",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_top20_marker_candidates.tsv",
+    "bytes": 41281,
+    "sha256": "c9cf5de3369069dfeea1d7f094a53e5f78901ef4609ee85d1d5dc246dee63d15",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/FindMarkers_untestable_groups.tsv",
+    "bytes": 18,
+    "sha256": "1cbdd8cad99d795af4b6b88143675f7ce450cbf5041be965e3fd0656c8015451",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_condition.tsv",
+    "bytes": 404,
+    "sha256": "5229f2fda79cf36c391c26ff315ba5dece2dddb7ec48b8551e912618348cf318",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease.tsv",
+    "bytes": 404,
+    "sha256": "5229f2fda79cf36c391c26ff315ba5dece2dddb7ec48b8551e912618348cf318",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_disease_context.tsv",
+    "bytes": 533,
+    "sha256": "115541028af5b1c2bb21d0900cac51d8d8091fcc8278b9d3bd44d4c53ded4f05",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_donor_uid_v2.tsv",
+    "bytes": 8212,
+    "sha256": "90e5e63641cc65915b8b53679d6049259551e0941c6d88b5ebf265e3df31398a",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_sample_uid.tsv",
+    "bytes": 10870,
+    "sha256": "535f5ddffabccfc14f442115fd587a5c74ee0c7b487a3b8fb1c168585cf57cdd",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_study.tsv",
+    "bytes": 1377,
+    "sha256": "2a3a25949801583152caeac5ad8018c857b8fe52e83419ca2e16cf1ff9876ab3",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_by_tissue.tsv",
+    "bytes": 881,
+    "sha256": "9659d00c0258734757cb9113bc1e1c0c302ff38d283a33d186860cdc9b6bbc39",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_review_template.tsv",
+    "bytes": 9972,
+    "sha256": "60c110205645b90e634a2eac5c165919fc2b7ef054bacf04378cec9c9454a8a6",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_groups.tsv",
+    "bytes": 54206,
+    "sha256": "8391c14b3876db1aa24c098c7267c0d8ee4259e29ef0e9d6ac5f45619194170e",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_detection_fraction.tsv.gz",
+    "bytes": 41443,
+    "sha256": "a18aea0fdfda7fbbbb7358b0cc5cc6059a5c987c6149f53f8c0e2c779d155ebb",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_sample_marker_mean_log1p.tsv.gz",
+    "bytes": 258435,
+    "sha256": "410a8fbfa3479de72b267a334ffe5b68bb33f5f2cdf300ed56e9d65e207ca6de",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/cluster_summary.tsv",
+    "bytes": 6939,
+    "sha256": "9c7a9a17b87a986ebbc4bd31466f19454fdec2a9a3fc0ce17fbbb9a74511a1b9",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_detection_fraction.tsv",
+    "bytes": 28322,
+    "sha256": "6cbd7cd3aedcc3b7dc5a7738d4c0392624d80ddc3d70c5d56533bf0d5c2d90b3",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_evidence_long.tsv",
+    "bytes": 121203,
+    "sha256": "ef5248a830471fc7c13c4a584dd08f6f5d089f1907cce7ab6f7743566ff5e89b",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_log1p.tsv",
+    "bytes": 28599,
+    "sha256": "647fa967772cbb713c567b74ab2ef942a898b43d75576d2c5ee1687515a84630",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "tables/r1p2/marker_mean_raw_counts.tsv",
+    "bytes": 28012,
+    "sha256": "2b3d068d78482c54fc8d911928295af7a738be85026274780407d4b18d70c3ce",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "PROJECT_STATE_LINEAGE_L2_ROUND1.md",
+    "bytes": 1280,
+    "sha256": "9ff4d65c67aeb4449f3c1f8ddd7d94589d24b51a4809efda8623c181c7ce352d",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "RESULTS.json",
+    "bytes": 1172,
+    "sha256": "7842f2fa56aed65f7d0c527f38118b132553d2a14e72e3009a836e88b85aaa1b",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "REVIEW_CN.md",
+    "bytes": 1999,
+    "sha256": "4850741289bf9598103af22c5e8ec2ad5c25c7a1b5691ebe7966e793086dff8d",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_detected_genes.png",
+    "bytes": 249164,
+    "sha256": "69759ff6b1bc0c456b791366381721b36ebd0801f486567182c728ffc838ddcc",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_pct_counts_mt.png",
+    "bytes": 238211,
+    "sha256": "c638d23fd82a2958b888f2da77412397fe4bc8494b8e356b551e0e6909b25a0c",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_L2_total_raw_counts.png",
+    "bytes": 244824,
+    "sha256": "4c7b997fdbc7f8d2a085c0c478cdb843308ff43ed64e8580608ace1d9533ed14",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_condition.png",
+    "bytes": 156232,
+    "sha256": "3a9ba9c4758abf9b1a90c91409d0a0aedb8b24637f8ddb876db5b907049b4d81",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_disease_context.png",
+    "bytes": 189271,
+    "sha256": "e1190ad1f836117e20a8bb21e1ad77bdfcce464bf9e9ef7a8c7a00aae826521c",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p4.png",
+    "bytes": 186610,
+    "sha256": "1858b07146ad829d3f59b80429378112edce3007750c7ebb6fb02a8495c42a39",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r0p8.png",
+    "bytes": 242359,
+    "sha256": "9e742103bb6baa83689ddeb19d20c779918a4ce58cd627e676ae67c0fcb1c502",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_r1p2.png",
+    "bytes": 251978,
+    "sha256": "10591cccc4fc159dc512ec313a0005f63699f40bc07b3f5c4e36526dd0bd64d6",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "bytes": 281943,
+    "sha256": "53b5a50636707b0ef60fca99c33ce20d2bceddaa657ea8954d645d3d8ec12757",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "bytes": 242367,
+    "sha256": "4421c01ee51deed574855685c22dc2325b0e3bf8c1cdeb0ee9f478520fcdc661",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_classic_states_mean_log1p.png",
+    "bytes": 387903,
+    "sha256": "278b09ca7ac5a42a7aa6244c9538752fff01ef99de8af608bddbc28a8827717a",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/baseline_lineage_checks_mean_log1p.png",
+    "bytes": 363468,
+    "sha256": "f1b1f36502a48bd12f0ebfaca9a58a939b1c6731117a617f137421601c982d9b",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_FindMarkers_dotplot_01.png",
+    "bytes": 196349,
+    "sha256": "ed84865fc68e7700ff65eacd13884bb4a00f836087914156096fb7d01ba6d824",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_classic_states_relative.png",
+    "bytes": 269190,
+    "sha256": "347e0dc87d0b54f3cc43b59090eb2bc5da027e8f54a8726ec973b6d67b3de647",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p4_lineage_checks_relative.png",
+    "bytes": 298662,
+    "sha256": "8af55cd04fe556f80bec8c929d25115e62171c758f7c2f3a5fb5f3e0d33f1ab9",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_01.png",
+    "bytes": 293399,
+    "sha256": "80a2d90607519300c6d7283355a18446914b68e4ba2b4da236ef2efdd153a80f",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_FindMarkers_dotplot_02.png",
+    "bytes": 239483,
+    "sha256": "dbf76065ae58abbae32f7a12774c5ca654a2641e14aa4a5e376b91b39dc44db3",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_classic_states_relative.png",
+    "bytes": 405411,
+    "sha256": "f6c233cc8d7582441c5b281e68c11c29274f740b88f57b7fc5f6d49904c37e51",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r0p8_lineage_checks_relative.png",
+    "bytes": 390784,
+    "sha256": "355f14d792bfe2c6bbfe8379119e85af4e0098b31fb5170402956b6f3e6e198c",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_01.png",
+    "bytes": 358583,
+    "sha256": "df0c0125b2a451d3448858728374fafb3ef0d1e27170bbe78cdb45adcd842d06",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_02.png",
+    "bytes": 370600,
+    "sha256": "f46ca7d88e00fc0cf3cfa3a7ffb9eda152a852d7cb20abd45291b91a873841d1",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_FindMarkers_dotplot_03.png",
+    "bytes": 180049,
+    "sha256": "94fde25d33cbaaac89ad760fdffd3b8b5d58d50c20c2de35b20de9aa8932db5e",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_classic_states_relative.png",
+    "bytes": 514996,
+    "sha256": "ef6dbe18deac04829b40b1842c8a62a5498cc7c152efda6ed34434a20c7a7585",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "figures/r1p2_lineage_checks_relative.png",
+    "bytes": 463163,
+    "sha256": "cdbfb91e724a8e3efcbe2a4e6a5e22d10a855bd33826f2e013d262fd78003ae2",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "marker_panels.json",
+    "bytes": 2648,
+    "sha256": "9802019aaf235d50b13200f9786a54da4e3d41e3097e1e5360233478a84e4774",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "review_checksums.json",
+    "bytes": 18894,
+    "sha256": "0028df917757c8eacc0886e01dceb12ec4fe1edb56018373228f3a97b0e2acf3",
+    "bundle": "Plasma_review_lite_01.zip"
+  },
+  {
+    "path": "task.json",
+    "bytes": 4923,
+    "sha256": "4952c1a4a63c9bbccc87bfcfe19e8a8a7478453afebf5e0f419cb807c510aac0",
+    "bundle": "Plasma_review_lite_01.zip"
+  }
+]

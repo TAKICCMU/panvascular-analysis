@@ -1,0 +1,16 @@
+{
+  "observed_during_this_task": true,
+  "python": "/home/anzhen_vhd/miniconda3/envs/cell2location_GPU/bin/python",
+  "packages": {
+    "torch": "2.10.0+cu128",
+    "cell2location": "0.1.5",
+    "scvi-tools": "1.3.3",
+    "anndata": "0.11.4",
+    "pyro-ppl": "1.9.1"
+  },
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "memory_total_MiB": 32607,
+  "memory_used_MiB": 2331,
+  "utilization_percent": 89,
+  "training_started": false
+}

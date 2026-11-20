@@ -1,0 +1,210 @@
+test_alias_conflict (tests.test_core.CoreTests) ... ok
+test_annotation_hierarchy (tests.test_core.CoreTests) ... ok
+test_checksum_tamper_rejected (tests.test_core.CoreTests) ... ok
+test_cohort_conflict_rejected (tests.test_core.CoreTests) ... ok
+test_complete_synthetic_release_preflight (tests.test_core.CoreTests) ... ok
+test_counts_stream_vs_dense (tests.test_core.CoreTests) ... ok
+test_denominator_unknown_and_missing_parent (tests.test_core.CoreTests) ... ok
+test_detection_matches_raw (tests.test_core.CoreTests) ... ok
+test_fractional_detection_rejected (tests.test_core.CoreTests) ... ok
+test_fractional_raw_rejected (tests.test_core.CoreTests) ... ok
+test_missing_covariates_do_not_global_drop (tests.test_core.CoreTests) ... ok
+test_missing_donor_never_new_person (tests.test_core.CoreTests) ... ok
+test_no_fallback_input (tests.test_core.CoreTests) ... ok
+test_pending_rejected (tests.test_core.CoreTests) ... ok
+test_provisional_donor_not_independent (tests.test_core.CoreTests) ... ok
+test_pseudobulk_export_preserves_input (tests.test_core.CoreTests) ... ok
+test_release_without_approval_rejected (tests.test_core.CoreTests) ... ok
+test_shuffled_expression_metadata_rejected (tests.test_core.CoreTests) ... ok
+test_technical_replicates_require_review (tests.test_core.CoreTests) ... ok
+test_unapproved_contrast (tests.test_core.CoreTests) ... ok
+test_unknown_retained (tests.test_core.CoreTests) ... ok
+test_unpaired_repeated_donor_rejected (tests.test_core.CoreTests) ... ok
+test_wrong_parent (tests.test_core.CoreTests) ... ok
+test_axis_reordered_full_preflight (tests.test_release_compat.CompatTests) ... ok
+test_bound_encoding_unknown_full_preflight (tests.test_release_compat.CompatTests) ... ok
+test_bound_file_missing (tests.test_release_compat.CompatTests) ... ok
+test_bound_file_mutation (tests.test_release_compat.CompatTests) ... ok
+test_bound_source_sha_mismatch_full_preflight (tests.test_release_compat.CompatTests) ... ok
+test_category_missing (tests.test_release_compat.CompatTests) ... ok
+test_category_no_missing (tests.test_release_compat.CompatTests) ... ok
+test_compat_manifest_required (tests.test_release_compat.CompatTests) ... ok
+test_dependency_manifest_binds_historical_records_as_leaves (tests.test_release_compat.CompatTests) ... ok
+test_donor_changed (tests.test_release_compat.CompatTests) ... ok
+test_duplicate_sample_blocked (tests.test_release_compat.CompatTests) ... /tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:26: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=m.groupby('biological_sample_uid',dropna=False).sample_uid.transform('size')
+ok
+test_exact_no_trim_casefold (tests.test_release_compat.CompatTests) ... ok
+test_hash_encodings_distinct (tests.test_release_compat.CompatTests) ... ok
+test_hash_generic_unchanged (tests.test_release_compat.CompatTests) ... ok
+test_hash_shuffle_delete_add (tests.test_release_compat.CompatTests) ... ok
+test_hash_unicode_byte_length (tests.test_release_compat.CompatTests) ... ok
+test_key_alignment (tests.test_release_compat.CompatTests) ... /tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:26: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=m.groupby('biological_sample_uid',dropna=False).sample_uid.transform('size')
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:60: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  for key,g in m.reset_index().groupby('biological_sample_uid'):
+ok
+test_leading_zero_changed (tests.test_release_compat.CompatTests) ... ok
+test_literal_nan_not_missing (tests.test_release_compat.CompatTests) ... ok
+test_metadata_sources_missing (tests.test_release_compat.CompatTests) ... ok
+test_metadata_sources_native_good (tests.test_release_compat.CompatTests) ... ok
+test_metadata_sources_tamper (tests.test_release_compat.CompatTests) ... ok
+test_missing_encoding_rejected (tests.test_release_compat.CompatTests) ... ok
+test_missing_not_empty (tests.test_release_compat.CompatTests) ... ok
+test_missing_position (tests.test_release_compat.CompatTests) ... ok
+test_native_compat_preflight_end_to_end (tests.test_release_compat.CompatTests) ... ok
+test_native_csv_leading_zero (tests.test_release_compat.CompatTests) ... ok
+test_native_five_module_smoke_with_missing_category (tests.test_release_compat.CompatTests) ... /tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:26: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=m.groupby('biological_sample_uid',dropna=False).sample_uid.transform('size')
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:60: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  for key,g in m.reset_index().groupby('biological_sample_uid'):
+/tmp/panvas_code_review_20260922/downstream_base/src/figures.py:12: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpaocbwy2j/preflight.json' mode='r' encoding='UTF-8'>
+  pf=json.load(open(run/'preflight.json'));key=pf['global_key_map']['umap']
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_nullable_string (tests.test_release_compat.CompatTests) ... ok
+test_object_none_pdNA (tests.test_release_compat.CompatTests) ... ok
+test_registry_changed_mapping (tests.test_release_compat.CompatTests) ... ok
+test_registry_invalid_embedding (tests.test_release_compat.CompatTests) ... ok
+test_registry_invalid_graph (tests.test_release_compat.CompatTests) ... ok
+test_registry_native_good (tests.test_release_compat.CompatTests) ... ok
+test_true_donor_mutation_blocked (tests.test_release_compat.CompatTests) ... /tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:14: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=data.assign(_value=data[c].map(lambda v:'<MISSING>' if missing(v) else str(v))).groupby('sample_uid')['_value'].nunique()
+/tmp/panvas_code_review_20260922/downstream_base/src/cohort.py:26: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  n=m.groupby('biological_sample_uid',dropna=False).sample_uid.transform('size')
+ok
+test_unknown_encoding_rejected (tests.test_release_compat.CompatTests) ... ok
+test_abundance_values_spot_order_and_content_binding (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_actual_cli_other_table_not_config_bound_copy (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_changed_weights_rejected_without_new_approval (tests.test_v2_1_projection.ProjectionV21Tests) ... /tmp/panvas_code_review_20260922/downstream_base/src/dispatcher.py:17: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmp7cqsf8pr/manifest.json' mode='r' encoding='UTF-8'>
+  m=json.load(open(a['manifest']))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/tmp/panvas_code_review_20260922/downstream_base/src/dispatcher.py:22: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmp7cqsf8pr/approval.json' mode='r' encoding='UTF-8'>
+  r=json.load(open(receipt))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_counts_table_cannot_masquerade_as_weights (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_embedding_is_not_posterior_abundance (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_missing_manifests_or_selection_block (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_module_ids_and_normalized_weight_semantics (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_native_release_authenticated_cli_projection (tests.test_v2_1_projection.ProjectionV21Tests) ... /tmp/panvas_code_review_20260922/downstream_base/src/dispatcher.py:17: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpj35eelpw/manifest.json' mode='r' encoding='UTF-8'>
+  m=json.load(open(a['manifest']))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/tmp/panvas_code_review_20260922/downstream_base/src/dispatcher.py:22: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpj35eelpw/approval.json' mode='r' encoding='UTF-8'>
+  r=json.load(open(receipt))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_partial_receipt_blocks_actual_dispatcher_targets (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_posterior_factor_names_conflict_rejected (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_posterior_or_provenance_changed_rejects (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_spot_ids_with_leading_zero_preserved_by_real_cli (tests.test_v2_1_projection.ProjectionV21Tests) ... /tmp/panvas_code_review_20260922/downstream_base/src/dispatcher.py:17: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpr75hglih/manifest.json' mode='r' encoding='UTF-8'>
+  m=json.load(open(a['manifest']))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/tmp/panvas_code_review_20260922/downstream_base/src/dispatcher.py:22: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpr75hglih/approval.json' mode='r' encoding='UTF-8'>
+  r=json.load(open(receipt))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_wrong_atlas_ontology_or_run_block (tests.test_v2_1_projection.ProjectionV21Tests) ... ok
+test_beta_binomial_positive_control (tests.test_models.CompositionRTests) ... ok
+test_edger_case_reference_direction (tests.test_models.RModelTests) ... ok
+test_edger_singular_design_stops (tests.test_models.RModelTests) ... ok
+test_meta_approximation_runs_when_explicit (tests.test_models.RModelTests) ... ok
+
+----------------------------------------------------------------------
+Ran 76 tests in 35.690s
+
+OK

@@ -1,0 +1,8 @@
+{
+  "code_sha": "a08aa882af19b84f4dc7bbc32c09f947ab8433ad7d2a33af9c82f8d4e64e8de6",
+  "receipt_sha": "57f266ec117513e52dcc59ee23fe7d757dfdea0a9434c8c6fc71c0446fb1e328",
+  "reference_sha": "b202a7c78568e473b2718c8d358978f282a7d0e01b543c5ae9d19fe6d3fc0077",
+  "posterior_sha": "cceb15d5439889da5f37d577ca9ad2bae7b4caff4196b2e5c3a767db4698d501",
+  "n_genes": 20383,
+  "excluded_targets_present": []
+}

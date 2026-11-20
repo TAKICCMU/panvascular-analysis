@@ -1,0 +1,85 @@
+{
+  "status": "SEALED_AUTHORIZED_SCORING_REUSE_AND_COMPLETION",
+  "authorization": "User: scDRS\u540e\u7eed\u9a8c\u8bc1\u4e0d\u9700\u8981\u6392\u961f\u4e86; resume pending checks and group tests with actual resource budget",
+  "bound_files": [
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/code/resume.py",
+      "sha256": "529f594bb9093cd530bc318a26d34a25dcbd405549987a782c719313961c207d",
+      "bytes": 4970
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/config.json",
+      "sha256": "f5701d191a3fe0abe5271629bb7f117f05dc75806fd3fbec23284ce430424c30",
+      "bytes": 438
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/TEST_RESULTS.json",
+      "sha256": "4659cb27f32706dff088a6917e99f087c0e335b6ec2efad97118f1767bf09b70",
+      "bytes": 705
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/README_CN.md",
+      "sha256": "9aee731467dde996d0b335b40a7bd9c91f6339aee55beadb686e2b3c21ddc82c",
+      "bytes": 402
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_racefix_v2/code/validate_native.py",
+      "sha256": "326a9c6b292a98014baa35cb6db635ad691ae4f9e9156d6df647bb01e7761221",
+      "bytes": 3726
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_racefix_v2/COORDINATOR_RECEIPT.json",
+      "sha256": "bf4ff8404f03646366216114cf7ffd952ca8a408f280467578d8460beaa9686c",
+      "bytes": 9028
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/communication_data_v1/parallel4_r2/completion_review_v1/VALIDATION.json",
+      "sha256": "90a1a049c324d6211af4f5d8d223ca8f91851cb11a3f75d17be287c627e9354f",
+      "bytes": 545
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/evidence/old_status.json",
+      "sha256": "1f770d6d54293d9659a2f96d4a415b68f6fa97a2e8e61efbb8438ca933e02516",
+      "bytes": 2245
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/evidence/prior_commands.json",
+      "sha256": "ceb8632cd461038d39b2aaeeaecb95a5b02161a7d32f46318a633162b52173ac",
+      "bytes": 12604
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/evidence/retire_candidate.json",
+      "sha256": "b8e0fe12f4d2aeb6ad4255c09334569b6f21915ceeb0acad9ddaa7dc48cbc23d",
+      "bytes": 362
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/evidence/old_coordinator.py",
+      "sha256": "ae5fc80890454aee0bc46194bcad4e402ec5ed6f3a0e0b06d0c904b13a030ca3",
+      "bytes": 10980
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/third_score_completion_v3/evidence/old_storage_utils.py",
+      "sha256": "1f1b7c2397aaddaf460c92e9ce3abdc03820205e526ebf54f7307570e268ecab",
+      "bytes": 5183
+    }
+  ],
+  "score_stat_bindings": [
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1/native/leave_one_CAD_r0.1/scores/PanVascular_G_leave_one_CAD_r0_1.full_score.gz",
+      "st_size": 5547905124,
+      "st_mtime_ns": 1789469430363631384,
+      "st_ino": 21758262,
+      "st_dev": 64656
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1/native/leave_one_CAD_r0.1/scores/PanVascular_G_leave_one_CAD_r0_1.score.gz",
+      "st_size": 40854944,
+      "st_mtime_ns": 1789466104118338947,
+      "st_ino": 21758261,
+      "st_dev": 64656
+    }
+  ],
+  "score_native_exit_code": 0,
+  "score_full_hash_will_be_saved_by_unchanged_validator": true,
+  "frozen_atlas_identity_verified_by_original_receipt": true
+}

@@ -1,0 +1,7 @@
+{
+  "receipt": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/spatial_gpu_20260913T183753Z/configs/PRODUCTION_RECEIPT.json",
+  "n_bound_files": 266,
+  "config_sha256": "51eb8719bb3070147f9e6b19c938e6e5de0d31e9f1861aeaca17cba740d19de0",
+  "receipt_sha256": "f8fea930cebeb97668035326f4cc371fda537ef28425facfa292e1566c5d7043",
+  "compile": "PASS"
+}

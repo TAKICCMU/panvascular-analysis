@@ -1,0 +1,31 @@
+{
+  "section": "GSE248608::GSM7917894_CA1",
+  "section_choice": "Results P86 names FN1 and SCARB1; one non-QC-fallback calcified arterial section with known paired identity and both targets estimable. Both section slopes align with their overall sign; SCARB1 is not section-significant. Chosen after examining existing results; not blinded and not a maximum signal or minimum P selection.",
+  "shared_field": "entire original hires image; no new crop, ROI or mask",
+  "n_spots": 1779,
+  "limits": {
+    "FN1": [
+      1.8499559877594565,
+      4.352771622269675
+    ],
+    "SCARB1": [
+      0.45313323079225926,
+      2.27122445764514
+    ],
+    "Fib_abundance": [
+      0.0304108033255033,
+      6.498108049295842
+    ]
+  },
+  "new_example_scale_rule": "Positive-expression 2nd\u201398th percentiles, the pre-existing plotting convention; zero separately grey; no numeric expression changes. Abundance full min\u2013max, not expression scale.",
+  "image": "/Users/taki/Desktop/Codex\u4efb\u52a11/spatial_visium_geo_local/extracted/GSE248608/GSM7917894_CA1_tissue_hires_image.png",
+  "scalefactors": {
+    "tissue_hires_scalef": 0.12207031,
+    "tissue_lowres_scalef": 0.036621094,
+    "fiducial_diameter_fullres": 192.13406039577904,
+    "spot_diameter_fullres": 118.94013262595847
+  },
+  "histology": "NOT_CONFIRMED; no named layers; no new per-spot pathology screening",
+  "model": "primary q05/all_sections/cell_abundance; conditional at section program mean",
+  "unit_CI": "not stored; show original SE explicitly in detailed quantitative prototype"
+}

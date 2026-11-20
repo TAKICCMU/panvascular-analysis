@@ -1,0 +1,92 @@
+[
+  {
+    "path": "figures/composition_source.tsv",
+    "sha256": "a26dd20ee68c9b23cb390214ae4628abe1a37b89b7fca40287c0747c26006ea4",
+    "bytes": 8442
+  },
+  {
+    "path": "figures/palette_tissue.tsv",
+    "sha256": "b888f20d4f4626f9ede560576ab0c898d57deed65605432785f0db33ea0121fc",
+    "bytes": 953
+  },
+  {
+    "path": "figures/UMAP_level2_annotation.pdf",
+    "sha256": "7fe747e2d1fa4665bcbc327da500614a193e05ea65a96bf5023d9083cb1806b6",
+    "bytes": 3598107
+  },
+  {
+    "path": "figures/UMAP_study.png",
+    "sha256": "af28f6b9aea2200715675e86c1a12800771220495e354700a050c27e5738e622",
+    "bytes": 4699034
+  },
+  {
+    "path": "figures/palette_level1_annotation.tsv",
+    "sha256": "699bbb5e956d8a9050b9774b48b008f366b6c2779d780525c5ea60ff49c35fda",
+    "bytes": 1255
+  },
+  {
+    "path": "figures/UMAP_study.pdf",
+    "sha256": "9b9e2fe172f17ae1bf4d82bd337712e58013f77562304c263b720162d808cf93",
+    "bytes": 4931601
+  },
+  {
+    "path": "figures/UMAP_tissue.png",
+    "sha256": "5c4bec1d964ad42921bd267ba0ff431b1d94dde66900ee6f5606af38ecb15264",
+    "bytes": 4767316
+  },
+  {
+    "path": "figures/palette_study.tsv",
+    "sha256": "c0535b35463814c9360b28189eb2466e195ca69f6e28f1f1d72d43ef5bd3c53a",
+    "bytes": 1566
+  },
+  {
+    "path": "figures/L2_composition.png",
+    "sha256": "d67fb745fb940676fbfbb8d9dc53b8b6d295ae9d708505e311e00e63e8db193b",
+    "bytes": 580117
+  },
+  {
+    "path": "figures/UMAP_level1_annotation.pdf",
+    "sha256": "eabcbe6ec286e4ce343e223be5a8f9a7a633c7ed817acef381d4f8a75a076745",
+    "bytes": 2592575
+  },
+  {
+    "path": "figures/UMAP_level1_annotation.png",
+    "sha256": "f7545b61f330cfa3c7ceb1846223878b550884474bada5b2316cfea693764ae6",
+    "bytes": 4097831
+  },
+  {
+    "path": "figures/UMAP_comparison_group.png",
+    "sha256": "0f45197d21788c042bbd4a34d3d479044c81eba08e82db3113f7c5ab9dc09ad0",
+    "bytes": 4702035
+  },
+  {
+    "path": "figures/UMAP_level2_annotation.png",
+    "sha256": "1c4f62021ed18e6c91eaba91fc8b3f5a437be30cf33e744c2eaede23595ceb99",
+    "bytes": 4154553
+  },
+  {
+    "path": "figures/UMAP_tissue.pdf",
+    "sha256": "76f66496701308899183c47e334df4defd8dbc1dc075b555b6b9b1dc4a10ebed",
+    "bytes": 5061290
+  },
+  {
+    "path": "figures/palette_level2_annotation.tsv",
+    "sha256": "cde6019a5fb5dbd5500a4cb35cbf3b55f7c25cb21c7d6a05b07778128c2754a1",
+    "bytes": 9271
+  },
+  {
+    "path": "figures/UMAP_comparison_group.pdf",
+    "sha256": "a42d635c9f2641ccac052b6069551c45c4c1c084c3d81e03f6777c4ebc610551",
+    "bytes": 4579107
+  },
+  {
+    "path": "figures/palette_comparison_group.tsv",
+    "sha256": "8ac785b3e4822133a9820d828d57c62c0c37285d664339f3b4b935039cffbb43",
+    "bytes": 162
+  },
+  {
+    "path": "figures/panel_manifest.tsv",
+    "sha256": "41589f25c5cdc4f300bc22db4ff1c2ccb52668703929d04e01751bfbb3344c6c",
+    "bytes": 1480
+  }
+]

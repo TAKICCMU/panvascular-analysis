@@ -1,0 +1,104 @@
+MODEL	VARIABLE	group	condition_variable
+1	S0000	B cell | AICDA germinal-centre-like B cell	Average
+2	S0001	B cell | BANK1 memory-like B cell	Average
+3	S0002	B cell | MS4A1 B cell	Average
+4	S0003	B cell | MT2A stress-responsive B cell	Average
+5	S0004	B cell | NR4A1 activated B cell	Average
+6	S0005	B cell | TCL1A naive-like B cell	Average
+7	S0006	Dendritic cell | CD1C cDC2 dendritic cell	Average
+8	S0007	Dendritic cell | CLEC9A cDC1 dendritic cell	Average
+9	S0008	Dendritic cell | IL1B inflammatory dendritic cell	Average
+10	S0009	Dendritic cell | LILRA4 plasmacytoid dendritic cell	Average
+11	S0010	Endothelial cell | ACKR1 venous endothelial cell	Average
+12	S0011	Endothelial cell | ASPN matrix-associated endothelial cell	Average
+13	S0012	Endothelial cell | CA4 capillary endothelial cell	Average
+14	S0013	Endothelial cell | NRG1 matrix-associated endothelial cell	Average
+15	S0014	Endothelial cell | OMD matrix-associated endothelial cell	Average
+16	S0015	Endothelial cell | PECAM1 endothelial cell	Average
+17	S0016	Endothelial cell | PROX1 lymphatic endothelial cell	Average
+18	S0017	Endothelial cell | SEMA3G arterial endothelial cell	Average
+19	S0018	Endothelial cell | ZNF385D venous endothelial cell	Average
+20	S0019	Fibroblast | CDH19 matrix-associated fibroblast	Average
+21	S0020	Fibroblast | CLDN1 matrix-associated fibroblast	Average
+22	S0021	Fibroblast | CXCL12 chemokine-expressing fibroblast	Average
+23	S0022	Fibroblast | DCN fibroblast	Average
+24	S0023	Fibroblast | FAP activated ECM-remodelling fibroblast	Average
+25	S0024	Fibroblast | FOSB stress-responsive fibroblast	Average
+26	S0025	Fibroblast | ITGA8 contractile-program fibroblast	Average
+27	S0026	Fibroblast | ITGBL1 ECM-remodelling fibroblast	Average
+28	S0027	Fibroblast | LAMA2 tissue-associated fibroblast	Average
+29	S0028	Fibroblast | LTBP2 ECM-remodelling fibroblast	Average
+30	S0029	Fibroblast | PI16 adventitial-like fibroblast	Average
+31	S0030	Fibroblast | RSAD2 IFN-responsive fibroblast	Average
+32	S0031	Fibroblast | S100B matrix-associated fibroblast	Average
+33	S0032	Fibromyocyte | ACTA2 contractile fibromyocyte	Average
+34	S0033	Fibromyocyte | AEBP1 fibromyocyte	Average
+35	S0034	Fibromyocyte | CD9 ECM-remodelling fibromyocyte	Average
+36	S0035	Fibromyocyte | DCN fibroblast-like fibromyocyte	Average
+37	S0036	Fibromyocyte | FOSB stress-responsive fibromyocyte	Average
+38	S0037	Fibromyocyte | ITGA10 ECM-remodelling fibromyocyte	Average
+39	S0038	Fibromyocyte | LAMA2 matrix-associated fibromyocyte	Average
+40	S0039	Fibromyocyte | MYOCD contractile fibromyocyte	Average
+41	S0040	Fibromyocyte | PRKG1 contractile fibromyocyte	Average
+42	S0041	Macrophage | C1QC complement-rich macrophage	Average
+43	S0042	Macrophage | CCL20 inflammatory macrophage	Average
+44	S0043	Macrophage | CCL3 activated resident-like macrophage	Average
+45	S0044	Macrophage | CD68 macrophage	Average
+46	S0045	Macrophage | CD83 activated macrophage	Average
+47	S0046	Macrophage | CXCL10 IFN-responsive macrophage	Average
+48	S0047	Macrophage | CYP27A1 lipid-associated macrophage	Average
+49	S0048	Macrophage | FCN1 monocyte-like macrophage	Average
+50	S0049	Macrophage | HLA-DRA antigen-presenting macrophage	Average
+51	S0050	Macrophage | IL1B inflammatory macrophage	Average
+52	S0051	Macrophage | JUN stress-responsive macrophage	Average
+53	S0052	Macrophage | KYNU inflammatory macrophage	Average
+54	S0053	Macrophage | LYVE1 resident-like macrophage	Average
+55	S0054	Macrophage | MKI67 proliferating macrophage	Average
+56	S0055	Macrophage | MSR1 phagocytosis-associated macrophage	Average
+57	S0056	Macrophage | PDE4C-high macrophage	Average
+58	S0057	Macrophage | SPP1 lipid-associated macrophage	Average
+59	S0058	Mast cell | NFKBIA activation-associated mast cell	Average
+60	S0059	Mast cell | P2RY14 receptor-associated mast cell	Average
+61	S0060	Mast cell | TPSAB1 mast cell	Average
+62	S0061	Monocyte | CXCL8 inflammatory monocyte	Average
+63	S0062	Monocyte | FCGR3A-expressing monocyte	Average
+64	S0063	Monocyte | FCN1 classical monocyte	Average
+65	S0064	Monocyte | IL1B inflammatory monocyte	Average
+66	S0065	Monocyte | S100A12 classical monocyte	Average
+67	S0066	Monocyte | SERPINB2 inflammatory monocyte	Average
+68	S0067	Monocyte | TXNIP-high monocyte	Average
+69	S0068	Natural killer cell | FGFBP2 cytotoxic NK cell	Average
+70	S0069	Natural killer cell | GZMK chemokine-associated NK cell	Average
+71	S0070	Natural killer cell | KLRD1 NK cell	Average
+72	S0071	Natural killer cell | XCL1 chemokine-expressing NK cell	Average
+73	S0072	Neutrophil | CSF3R neutrophil	Average
+74	S0073	Neutrophil | CXCL8 inflammatory neutrophil	Average
+75	S0074	Neutrophil | CXCR2-associated neutrophil	Average
+76	S0075	Neutrophil | S100A12 inflammatory neutrophil	Average
+77	S0076	Pericyte | COL4A1 basement-membrane-associated pericyte	Average
+78	S0077	Pericyte | COX4I2 pericyte	Average
+79	S0078	Pericyte | PDGFRA matrix-associated pericyte	Average
+80	S0079	Pericyte | PRKG1 contractile-program pericyte	Average
+81	S0080	Plasma cell | DERL3 secretory plasma cell	Average
+82	S0081	Smooth muscle cell | CCL21 chemokine-expressing SMC	Average
+83	S0082	Smooth muscle cell | CNN1 contractile SMC	Average
+84	S0083	Smooth muscle cell | COX4I2 contractile SMC	Average
+85	S0084	Smooth muscle cell | DLX5 contractile SMC	Average
+86	S0085	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	Average
+87	S0086	Smooth muscle cell | IFIT1 IFN-responsive SMC	Average
+88	S0087	Smooth muscle cell | MYH11 SMC	Average
+89	S0088	Smooth muscle cell | MYH11 contractile SMC	Average
+90	S0089	Smooth muscle cell | PRKG1 contractile SMC	Average
+91	S0090	Smooth muscle cell | RGS6 contractile SMC	Average
+92	S0091	T cell | BACH2 memory-associated T cell	Average
+93	S0092	T cell | CD3D T cell	Average
+94	S0093	T cell | FGFBP2 cytotoxic T cell	Average
+95	S0094	T cell | FOXP3 regulatory T cell	Average
+96	S0095	T cell | GIMAP7 memory-associated T cell	Average
+97	S0096	T cell | GZMK cytotoxic-memory T cell	Average
+98	S0097	T cell | IFIT1 IFN-responsive T cell	Average
+99	S0098	T cell | IL7R memory T cell	Average
+100	S0099	T cell | MKI67 proliferating T cell	Average
+101	S0100	T cell | SLC4A10 innate-like T cell	Average
+102	S0101	T cell | ZEB2 cytotoxic T cell	Average
+103	S0102	T cell | ZNF683 cytotoxic T cell	Average

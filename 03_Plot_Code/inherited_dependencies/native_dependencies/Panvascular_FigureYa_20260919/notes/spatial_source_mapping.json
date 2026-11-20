@@ -1,0 +1,32 @@
+{
+  "Figure5a_b_d_e_f": "baseline SVG groups unchanged; all spatial image/spot coordinates, colour limits, matrix, 14 modules, 35 points and 5 median glyphs retained byte-for-byte",
+  "Figure5c": {
+    "rows": 29,
+    "source": "/Users/taki/Documents/Panvascular_Figure_Archive_20260919/Panvascular_Figure_Redesign_20260917_v3/source_data/derived/spatial_primary_shared29.tsv",
+    "sha256": "1919e49e94089688d379493358322e47fbe84b0383d6293724eb85b08ea75f1f",
+    "fields": [
+      "gene_symbol",
+      "cell_state",
+      "beta",
+      "CI_low",
+      "CI_high",
+      "FDR_BH_all_29_pairs_x_3_terms"
+    ],
+    "new_display": "FDR numeric column; separate gene and lineage columns; aligned native forestplot table",
+    "template": "FigureYa6rHRsV2/FigureYa6rHRsV2.Rmd",
+    "original_lines": "113-160",
+    "adaptations": [
+      "linear coefficient axis and zero=0 (not hazard ratio log axis)",
+      "source significance colours retained",
+      "fixed 29-row order; no sorting",
+      "6pt text; native R forestplot 3.2.0; svglite 2.2.2",
+      "original model results only; no fit or testing"
+    ]
+  },
+  "size_mm": [
+    183,
+    170
+  ],
+  "scientific_analysis_run": false,
+  "visual_review": "ROOT_VIEWED_FINAL_FULL_PAGE_AND_NATIVE_FOREST_PANEL"
+}

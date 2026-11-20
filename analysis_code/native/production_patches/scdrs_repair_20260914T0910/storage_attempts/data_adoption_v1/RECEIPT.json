@@ -1,0 +1,112 @@
+{
+  "scope": "RAM_preserving_scDRS_storage_adoption",
+  "authorization_source": "user_data_storage_authorization_relayed_and_safety_plan_accepted_by_root_20260914",
+  "old_and_data_alias": {
+    "root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908",
+    "old_attempt": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1",
+    "original_scdrs_root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910",
+    "data_root": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1",
+    "output": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1/native",
+    "old_controller": {
+      "pid": 8830,
+      "start_ticks": "231734095",
+      "state": "S",
+      "ppid": 1,
+      "threads": 2,
+      "cmd": "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python -u /home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/code/resume_scdrs.py --receipt /home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/RECEIPT.json --execute ",
+      "exit_wait_status": 0
+    },
+    "native": {
+      "pid": 9199,
+      "start_ticks": "231738761",
+      "state": "R",
+      "ppid": 8830,
+      "threads": 13,
+      "cmd": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/bin/python3.9 /home/anzhen_vhd/miniconda3/envs/scdrs_env/bin/scdrs compute-score --h5ad-file /home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs/derived/scdrs_raw_symbols.h5ad --h5ad-species human --gs-file /home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_primary_r0_1.gs --gs-species human --cov-file /home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs/derived/native_covariates.cov.gz --ctrl-match-opt mean_var --weight-opt vs --flag-filter-data True --flag-raw-count True --n-ctrl 1000 --flag-return-ctrl-raw-score False --flag-return-ctrl-norm-score True --out-folder /home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/outputs/primary_r0.1/scores ",
+      "exit_wait_status": 0
+    },
+    "old_guard": {
+      "pid": 42638,
+      "start_ticks": "232150904",
+      "state": "S",
+      "ppid": 1,
+      "threads": 1,
+      "cmd": "/usr/bin/python3 -u /home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/disk_guard_20260914/guard.py ",
+      "exit_wait_status": 0
+    },
+    "old_guard_status": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/disk_guard_20260914/STATUS.json",
+    "old_scores": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/outputs/primary_r0.1/scores",
+    "data_scores": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1/native/primary_r0.1/scores",
+    "ledger": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/storage_migration_20260914/MOUNT_RESOURCE_LEDGER.json",
+    "ledger_sha256": "8550dc0cf05cb8741be2f70c333c2892017f0b514fc67b3365f9bf29c95e3040",
+    "communication_root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/communication_L1_20260914T015040Z",
+    "gpu_root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/spatial_gpu_20260913T183753Z",
+    "project_lock": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/execution_control_20260914/.scdrs_full_project.lock",
+    "original_config": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/config.json",
+    "original_receipt": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/RECEIPT.json"
+  },
+  "allowed_actions": [
+    "stop_old_guard_only_if_WATCHING",
+    "stop_controller8830",
+    "brief_STOP_native9199_only_during_empty_directory_exchange_then_CONT",
+    "preserve_old_scores_empty_directory",
+    "replace_guard_with_mount_aware_guard"
+  ],
+  "forbidden": [
+    "rebuild_derived",
+    "rescore_current_RAM_progress",
+    "overwrite_old_sealed_code_or_config",
+    "move_open_compute_log"
+  ],
+  "bound_files": [
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_v1/config.json",
+      "sha256": "8deaf9d54e399026750f3c2b102a448a842598a02ea6e729300be230d2dd1b75"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_v1/TEST_STORAGE.json",
+      "sha256": "d35f594bae5706870fed0d41dc26932f2610e349b56b2ece47906c8e980b9bc2"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/storage_migration_20260914/MOUNT_RESOURCE_LEDGER.json",
+      "sha256": "8550dc0cf05cb8741be2f70c333c2892017f0b514fc67b3365f9bf29c95e3040"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/config.json",
+      "sha256": "73526f7328ab1a8efe6a95eb9a1e2aac89c5db895cdac55ac93c71b833ef8604"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/RECEIPT.json",
+      "sha256": "ec33d8e3886bc75674ea6d4cbc8df4ccc9839d3719949f3dc6290fb8567aaa4f"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/code/resume_scdrs.py",
+      "sha256": "2f3d6e350173af554a7fd06c768065f88e1d8e15844abb65f3d29ecd634b8c94"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/code/scdrs_adapter.py",
+      "sha256": "d3781dd01887502a9e1ecde0190533f5c36093c7c872789d1e3256f20469e712"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_v1/code/mount_guard.py",
+      "sha256": "eaa10e8f1e87140c196f5d8c88474b60a2e5c7d799fcd4610dcb443c507e2462"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_v1/code/validate_native.py",
+      "sha256": "326a9c6b292a98014baa35cb6db635ad691ae4f9e9156d6df647bb01e7761221"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_v1/code/migrate_alias.py",
+      "sha256": "e0dea3993b4d68a94b4d0406a95821da27f2e873c9e2f1e77266cbc7f983a3c7"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_v1/code/storage_utils.py",
+      "sha256": "888926601810b533273a4499955c735d0978ef007f08c4fffd9ca74e399ad37e"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_v1/code/test_storage.py",
+      "sha256": "2622c573b64b2607042be589e729ff0966463b14ed69d2791caa5fe8b99b36b7"
+    }
+  ],
+  "created": 1789365336.121661
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "gene": "LIPA",
+    "section_id": "GSE248608::GSM7917895_CA2",
+    "historical_file": "/home/anzhen_vhd/scRNAseq/codex/spatial_validation_v5_locked71_gpu_final/02_cell2location/GSE248608__final_atlas_cell2location.h5ad",
+    "historical_n": 1254,
+    "current_plot_n": 1254,
+    "barcode_set_identical": true,
+    "matched_n": 1254,
+    "coordinate_max_abs_diff": 0.0,
+    "inference_boundary": "Same barcode/coordinates does not equate count-gene universe, model context, residual transform, or neighborhood test to current raw expression display"
+  },
+  {
+    "gene": "STAT3",
+    "section_id": "GSE314851::GSM9414344_LCA",
+    "historical_file": "/home/anzhen_vhd/scRNAseq/codex/spatial_validation_v5_locked71_gpu_final/02_cell2location/GSE314851__final_atlas_cell2location.h5ad",
+    "historical_n": 2072,
+    "current_plot_n": 2072,
+    "barcode_set_identical": true,
+    "matched_n": 2072,
+    "coordinate_max_abs_diff": 0.0,
+    "inference_boundary": "Same barcode/coordinates does not equate count-gene universe, model context, residual transform, or neighborhood test to current raw expression display"
+  }
+]

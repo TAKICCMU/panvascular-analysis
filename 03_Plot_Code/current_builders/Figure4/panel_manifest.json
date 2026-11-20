@@ -1,0 +1,52 @@
+{
+  "Figure4a": {
+    "width_mm": 183,
+    "height_mm": 25,
+    "panel_letter_embedded": false
+  },
+  "Figure4b": {
+    "width_mm": 83,
+    "height_mm": 59,
+    "panel_letter_embedded": false
+  },
+  "Figure4c": {
+    "width_mm": 83,
+    "height_mm": 80,
+    "panel_letter_embedded": false
+  },
+  "Figure4d": {
+    "width_mm": 96,
+    "height_mm": 143,
+    "panel_letter_embedded": false
+  },
+  "ExtendedData10a": {
+    "width_mm": 65,
+    "height_mm": 69,
+    "panel_letter_embedded": false
+  },
+  "ExtendedData10b": {
+    "width_mm": 65,
+    "height_mm": 45,
+    "panel_letter_embedded": false
+  },
+  "ExtendedData10d": {
+    "width_mm": 65,
+    "height_mm": 39,
+    "panel_letter_embedded": false
+  },
+  "ExtendedData10c": {
+    "width_mm": 68,
+    "height_mm": 170,
+    "panel_letter_embedded": false
+  },
+  "ExtendedData10e": {
+    "width_mm": 43,
+    "height_mm": 170,
+    "panel_letter_embedded": false
+  },
+  "Supplementary_spatial_sensitivity_and_programmes": {
+    "width_mm": 180,
+    "height_mm": 71,
+    "panel_letter_embedded": false
+  }
+}

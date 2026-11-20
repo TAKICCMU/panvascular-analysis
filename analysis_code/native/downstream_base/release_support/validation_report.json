@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "shape": [
+    1175115,
+    37336
+  ],
+  "sample_count": 247,
+  "L1_unchanged": true,
+  "metadata_unchanged": true,
+  "protected_datasets_unchanged": true,
+  "no_Pending": true,
+  "no_unspecified": true,
+  "n_named": 1054063,
+  "n_unknown": 118220,
+  "n_not_assessed": 2832,
+  "n_named_states": 116,
+  "n_changed": 398610,
+  "new_scientific_analysis_performed": false,
+  "new_donor_inference_performed": false,
+  "source_sha256": "482afaad7ed8cc9490dbce2b5c8656b12054ce9bee0a68138471795d6706d580",
+  "output_sha256": "00fc74c1ddaa5e4b32d8664f134e0ec5a0c762f5e9a9fb45b96acbd40804a310"
+}

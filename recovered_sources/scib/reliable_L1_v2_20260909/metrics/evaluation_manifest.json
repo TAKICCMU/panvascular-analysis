@@ -1,0 +1,35 @@
+{
+  "batch_key": "sample_uid",
+  "coverage": 0.5791061215575931,
+  "k_sensitivity": "Not executed; official metric-specific defaults retained",
+  "membership_sha256": "7304955f7106b1b345da84928a6ff018b4963fad2e5dbb0fba7ce8a494bf2f9f",
+  "min_max_scale_main": false,
+  "n_evaluated": 182968,
+  "n_primary": 315949,
+  "neighbor_random_state": 0,
+  "neighbors": [
+    15,
+    50,
+    90
+  ],
+  "pca_sha256": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+  "seed": 0,
+  "unknown_policy": "All metrics on identical trusted subset; Unknown never a type",
+  "versions": {
+    "anndata": "0.12.10",
+    "jax": "0.9.1",
+    "jaxlib": "0.9.1",
+    "numpy": "2.2.5",
+    "pandas": "2.3.3",
+    "pynndescent": "0.5.13",
+    "scanpy": "1.12",
+    "scib-metrics": "0.5.9",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.16.3",
+    "umap-learn": "0.5.11"
+  },
+  "weights": {
+    "batch": 0.4,
+    "biology": 0.6
+  }
+}

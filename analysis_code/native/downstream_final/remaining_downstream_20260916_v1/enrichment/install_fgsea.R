@@ -1,0 +1,1 @@
+a<-commandArgs(trailingOnly=TRUE); .libPaths(c(a[1],.libPaths())); BiocManager::install("fgsea",lib=a[1],ask=FALSE,update=FALSE,Ncpus=2);stopifnot(requireNamespace("fgsea",quietly=TRUE));writeLines(as.character(packageVersion("fgsea")),file.path(a[1],"FGSEA_VERSION.txt"))

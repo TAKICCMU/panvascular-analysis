@@ -1,0 +1,50 @@
+{
+  "versions": {
+    "omicverse": "2.1.2rc1",
+    "scanpy": "1.11.5",
+    "anndata": "0.11.4",
+    "numpy": "1.26.4",
+    "scipy": "1.12.0",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.7.2",
+    "torch": "2.10.0",
+    "numba": "0.63.1",
+    "igraph": "0.10.8",
+    "pynndescent": "0.5.13",
+    "umap-learn": "0.5.11",
+    "h5py": "3.15.1"
+  },
+  "threads": 20,
+  "CUDA_VISIBLE_DEVICES": "",
+  "torch_cuda_available": false,
+  "torch_threads": 20,
+  "numba_threads": 20,
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 20,
+      "prefix": "libopenblas",
+      "filepath": "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/libopenblasp-r0.3.30.so",
+      "version": "0.3.30",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 20,
+      "prefix": "libgomp",
+      "filepath": "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/torch/lib/libgomp.so.1",
+      "version": null
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 20,
+      "prefix": "libgomp",
+      "filepath": "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/louvain.libs/libgomp-a34b3233.so.1.0.0",
+      "version": null
+    }
+  ]
+}

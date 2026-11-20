@@ -1,0 +1,26 @@
+{
+  "authorization": "User requested additional CPU parallel calculations; existing scDRS descriptive review only, no new model",
+  "cpu_threads": 1,
+  "bound_files": [
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/cpu_light_parallel_20260914/code/scdrs_descriptive.py",
+      "sha256": "978ea7f2a795c1ba416a9cd99f12f9d38d723dc485152991c85756aee8c096e0"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/cpu_light_parallel_20260914/config.json",
+      "sha256": "d266f3818b0650335845fcc18003b57923a5fcb8e13b5c063020fafa418fd050"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/cpu_light_parallel_20260914/TESTS.json",
+      "sha256": "c695f30441e978e37043161aff1704da251ba5c3db56d0b04ae5715430c33f27"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/storage_attempts/data_adoption_racefix_v2/COORDINATOR_RECEIPT.json",
+      "sha256": "bf4ff8404f03646366216114cf7ffd952ca8a408f280467578d8460beaa9686c"
+    },
+    {
+      "path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/scdrs_storage_v1/native/primary_r0.1/scores/PanVascular_G_primary_r0_1.score.gz",
+      "sha256": "5a6f6f57e7cba9d07d8899e61a1e016c7dec817666471a94b07e4e171389f792"
+    }
+  ]
+}

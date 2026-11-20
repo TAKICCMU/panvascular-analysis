@@ -1,0 +1,42 @@
+{
+  "status": "INPUTS_READY",
+  "blocking_reasons": [],
+  "parameters": {
+    "min_profile_cells": 100,
+    "min_node_cells": 500,
+    "min_node_profiles": 10,
+    "min_node_studies": 3,
+    "rank_min": 2,
+    "rank_max": 25,
+    "seed": 20260806,
+    "rank_nrun": 50,
+    "final_nrun": 200,
+    "stability_nrun": 30,
+    "n_bootstrap": 30,
+    "parent_null_permutations": 2000,
+    "threads_per_worker": 20,
+    "workers": 2
+  },
+  "eligibility_basis": "explicit_ontology_review",
+  "n_cells": 5260,
+  "n_profiles": 24,
+  "n_states": 6,
+  "n_variable_states": 6,
+  "unknown_donor_policy": "biological_sample_placeholder_not_inferred_person",
+  "source_identity": {
+    "synthetic_fixture": true
+  },
+  "code_sha256": "2fc5f67bc9077e5feaaf92bc1516bc46347e7127d09799f17708afa08dc52ec2",
+  "files": {
+    "CoVarNet_node_counts.tsv": "125706c92c51b880183dc460d5340b46a6e598015d603942ce439d441b958fdc",
+    "CoVarNet_node_proportion_of_all_atlas_cells.tsv": "8eedfab87e11be89c94c36ae7418e1d59f98ae7d70648561128c044ecec34e57",
+    "CoVarNet_node_proportion_among_stable_nodes_sensitivity.tsv": "d4270a3ff6f04bbb44593fcf814428ba661bfd67d9c2244ab214bf7d0cc26eaf",
+    "CoVarNet_proportion_within_full_parent.tsv": "a3dc2c005488fc2aa4584d9b2242af76d7bd7e60538dabdc55e6cea21ce86ca3",
+    "CoVarNet_full_parent_counts.tsv": "3e4afce8a174a49610f72a9516b9a7c19579e1d52c7a432075350dfb0764404a",
+    "CoVarNet_sample_metadata.tsv": "a451cf168aebd33f6e74ce13ef21dc35ec8fee23b9aae41f59792ce0179838ea",
+    "all_profile_count_ledger.tsv": "a451cf168aebd33f6e74ce13ef21dc35ec8fee23b9aae41f59792ce0179838ea",
+    "CoVarNet_node_replication_audit.tsv": "c7734e9b643483f543cff52354ad3e7697b3951289ac555509c519b886fec863",
+    "CoVarNet_node_parent_map.tsv": "a1d79c1ea9e0dc57f9c99c201064cb5fa85feeeccdfe910044e2766876781c24",
+    "sample_to_covarnet_profile.tsv": "ec7ba40996f689d28115828a08fbb466b1ea7c8b44528863a24bf5abf659f929"
+  }
+}

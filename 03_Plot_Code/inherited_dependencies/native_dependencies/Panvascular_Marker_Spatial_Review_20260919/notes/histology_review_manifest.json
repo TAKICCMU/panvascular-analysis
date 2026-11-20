@@ -1,0 +1,54 @@
+[
+  {
+    "page": 2,
+    "roi": "LIPA_central_clear_space",
+    "crop_hires_xyxy": [
+      607.871753023642,
+      486.871753023642,
+      709.128246976358,
+      596.128246976358
+    ],
+    "physical_radius_px": 8.205154360223771,
+    "original_expression_display": true,
+    "value_source": "/Users/taki/Desktop/Panvascular_Content_Alignment_ST_Audit_20260919/audit/spatial_counts_roi_LIPA_central_clear_space_all_positions.tsv"
+  },
+  {
+    "page": 3,
+    "roi": "STAT3_small_clear_space",
+    "crop_hires_xyxy": [
+      1144.0,
+      1170.0,
+      1201.0,
+      1214.0
+    ],
+    "physical_radius_px": 7.329638946488515,
+    "original_expression_display": true,
+    "value_source": "/Users/taki/Desktop/Panvascular_Content_Alignment_ST_Audit_20260919/audit/spatial_counts_roi_STAT3_small_clear_space_all_positions.tsv"
+  },
+  {
+    "page": 4,
+    "roi": "STAT3_internal_cleft",
+    "crop_hires_xyxy": [
+      1022.0,
+      1118.0,
+      1068.0,
+      1187.0
+    ],
+    "physical_radius_px": 7.329638946488515,
+    "original_expression_display": true,
+    "value_source": "/Users/taki/Desktop/Panvascular_Content_Alignment_ST_Audit_20260919/audit/spatial_counts_roi_STAT3_internal_cleft_all_positions.tsv"
+  },
+  {
+    "page": 5,
+    "roi": "STAT3_lower_cleft",
+    "crop_hires_xyxy": [
+      1041.0,
+      1249.0,
+      1082.0,
+      1319.0
+    ],
+    "physical_radius_px": 7.329638946488515,
+    "original_expression_display": true,
+    "value_source": "/Users/taki/Desktop/Panvascular_Content_Alignment_ST_Audit_20260919/audit/spatial_counts_roi_STAT3_lower_cleft_all_positions.tsv"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "SUPPORTING_L1_Atherosclerosis_d5310a358619",
+  "role": "supporting_single_context",
+  "status": "COMPLETE_WITH_NATIVE_NA",
+  "unestimable": 20,
+  "files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L1_Atherosclerosis_d5310a358619/native_unestimable_pathways.tsv": "e9598e71c7d92c1f9ee4fb24fd5f038ab2f14ba9368fd73f4ba36d8b2127dc54",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L1_Atherosclerosis_d5310a358619/gene_set_version.tsv": "7dd3442af0b50cc7efacbc4bd37acdc87393b51d67de357b0317ab7177dcdb79",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L1_Atherosclerosis_d5310a358619/ora_all_tested_before_display_filter.tsv.gz": "63ab4d1b97937dab0a2805252ada42d0a640a0191c2bb2c729f8ef54768467e3",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L1_Atherosclerosis_d5310a358619/fgsea_all.tsv.gz": "d17dd40643b78a7ae71e44516f29d975ebef1ff9f2a2a016d08fe32a994ed287",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L1_Atherosclerosis_d5310a358619/sessionInfo.txt": "e9b3c4c1da16387b462d3049721760050e846a8e25052b52e4712553d5a318ef"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETE",
+  "result": {
+    "status": "COMPLETE",
+    "command": [
+      "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python",
+      "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/magma_adapter_v3/scripts/external_run_module.py",
+      "--config",
+      "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/configs/magma_config_APPROVED.yaml",
+      "--module",
+      "magma",
+      "--out",
+      "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_recovery_roundtrip_fix_20260914T0930/outputs/runs/20260914T013548_608658_d62bd9f120de/magma"
+    ]
+  }
+}

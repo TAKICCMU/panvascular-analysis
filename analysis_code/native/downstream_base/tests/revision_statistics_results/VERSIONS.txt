@@ -1,0 +1,2 @@
+R= 4.3.1  edgeR= 4.0.16  metafor= 5.0.1 \n3.10.19 | packaged by conda-forge | (main, Jan 26 2026, 23:45:08) [GCC 14.3.0]
+numpy 1.26.4 pandas 2.2.3 scipy 1.12.0

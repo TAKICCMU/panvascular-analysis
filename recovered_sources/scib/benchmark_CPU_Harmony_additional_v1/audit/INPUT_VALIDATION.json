@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "checks": {
+    "frozen_input": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/reliable_L1_v2_20260909/inputs/primary.h5ad",
+      "sha256": "a941aea79619c4b861ce4dafd00b09b0ccdff84e9df9cbf807f25dc7c90aea5d",
+      "expected": "a941aea79619c4b861ce4dafd00b09b0ccdff84e9df9cbf807f25dc7c90aea5d",
+      "passed": true
+    },
+    "original_PCA_input": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/inputs/scib_primary_sampleonly_cap1500_hvg2000.h5ad",
+      "sha256": "62be48e45915b278910021de311651ddfd14ac3b06742892603edf6b1cddd0c5",
+      "expected": "62be48e45915b278910021de311651ddfd14ac3b06742892603edf6b1cddd0c5",
+      "passed": true
+    },
+    "PCA": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/reliable_L1_v2_20260909/embeddings/pca.npy",
+      "sha256": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+      "expected": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+      "passed": true
+    },
+    "GPU_Harmony": {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/reliable_L1_v2_20260909/embeddings/harmony.npy",
+      "sha256": "353fe4841c17497fa5db5a58e47c57eddd872b0a9451478456cf8e4b05ba1c3f",
+      "expected": "353fe4841c17497fa5db5a58e47c57eddd872b0a9451478456cf8e4b05ba1c3f",
+      "passed": true
+    },
+    "identity_and_metadata": {
+      "passed": true,
+      "n_primary": 315949,
+      "n_evaluated": 182968,
+      "n_samples": 247,
+      "n_HVG": 2000,
+      "n_PCs": 30,
+      "membership_sha256": "7304955f7106b1b345da84928a6ff018b4963fad2e5dbb0fba7ce8a494bf2f9f",
+      "cell_ids_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "HVG_order_sha256": "67e617711780fd1691bb7a53e992535cfc3c83a615fff5f0acd4c0e645937b4f",
+      "evaluation_labels": "reliable_L1",
+      "integration_label": "not used",
+      "batch": "sample_uid"
+    }
+  }
+}

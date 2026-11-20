@@ -1,0 +1,8 @@
+HP_cluster	paper_region	evidence_type
+0	media	transcriptomic_cluster_proxy
+1	media	transcriptomic_cluster_proxy
+2	fibrous_cap_VSMC_rich	transcriptomic_cluster_proxy
+3	lipid_core_low_quality	transcriptomic_cluster_proxy
+4	fibrous_cap_immune_rich	transcriptomic_cluster_proxy
+5	adventitia	transcriptomic_cluster_proxy
+6	media_low_abundance	transcriptomic_cluster_proxy

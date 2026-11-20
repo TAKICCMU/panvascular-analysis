@@ -1,0 +1,15 @@
+new_location	previous_location	meaning	source	preservation
+Figure4a	old Figure4a / old Figure5 scope	workflow	Figure4a_source_and_scope.json; section_input_audit.tsv	223 profiles, 89 states, 14 modules; 49 sections, 29 candidates
+Figure4b	old Figure4c/d	NMF weights	05_top_nodes_reference.tsv; FINAL_STATE_IDENTITY_MAP.tsv; 14_final_module_evidence_and_tiers.tsv	CM09 and CM03 original top five; full identity map retained
+Figure4c	old Figure5b	conditional associations	Figure5b_60_gene_unit_estimates.tsv; Figure5b_point_mapping.tsv; Figure5b_pooled_FDR_I2_original.tsv	60 estimates, 34 distinct recorded unit IDs; original pooled CI/FDR/I2
+Figure4d	old Figure5c	conditional associations	Fig5c_all29.tsv; Fig3d_e_all29.tsv	All 29; original order, beta, CI, FDR; full CI endpoints visible
+ExtendedData10a	old Figure5e + old ED10a/b	spatial matched-null coherence	module_coherence_meta.tsv	All 14; q05, strict_parent; original FDR_BH_28
+ExtendedData10b	old ED10d	source counts	section_input_audit.tsv	49 sections and 35 original analysis units
+ExtendedData10c	old ED10c	conditional model sensitivity	all29_original_meta.tsv; Fig3d_e_all29.tsv	All29, q05, all_sections vs exclude_QC_fallback; original CI
+ExtendedData10d	old ED10f	heterogeneity	Fig5c_all29.tsv	All29 I2; same bins [0,20,40,60,80,100]
+ExtendedData10e	old ED10e	FDR sensitivity	all29_original_meta.tsv; Fig3d_e_all29.tsv	All29 four settings; original 87-test FDR; c/e same page row centres
+Supplementary_spatial_sensitivity_and_programmes left	old Figure5d	four setting counts	all29_original_meta.tsv	6/3/20;7/4/18;6/4/19;6/4/19 retained; no new test
+Supplementary_spatial_sensitivity_and_programmes right	old Figure5f	module programme correlations	module_dataset_stats.tsv; module_program_direction_meta.tsv	All35 dataset points and 5 saved medians; original FDR_BH_84
+Historical companion retained	old Figure5a / two page companion	tissue displays + detailed unit estimates	/Users/taki/Desktop/投稿包_最新版_20260919/Public_Release/Supporting_Visuals/Focus_FN1.svg; /Users/taki/Desktop/投稿包_最新版_20260919/Public_Release/Supporting_Visuals/Focus_SCARB1.svg	Not new main-panel content; detailed beta +/- SE retained
+Former detection matrix retained	former Figure5b	gene detection fractions	/Users/taki/Desktop/投稿包_最新版_20260919/Source_Data_Figures/Figure5_final_companion/Former_5b_detection_matrix.pdf	Existing original source, not removed
+Existing Source Data / supplementary tables retained	old Figure4b/e/f	original module evidence, stability and context metrics	Source_Data_Figures/Figure4/14_final_module_evidence_and_tiers.tsv; 07_within_study_node_correlation_meta.tsv	Complete 14-module evidence and underlying stored correlations retained; no regrading or omission from source

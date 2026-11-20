@@ -1,0 +1,10 @@
+{
+  "change": "Fraction -> Pair fraction / (rho > 0; FDR < 0.05)",
+  "source_field": "positive_FDR_pair_fraction",
+  "denominator": "meta-analyzed pairs of the five highest-weight nodes in each module; n_top5_pairs_meta_analyzed (10 in plotted modules)",
+  "numerator": "pooled_rho > 0 AND BH FDR < 0.05",
+  "other_panel_scope": "PDF outside xlabel patch reused exactly; c/e shared row region pixel-identical",
+  "plot_values_unchanged": true,
+  "PDF_text_diff": "Only Fraction removed, Pair fraction and (rho > 0; FDR < 0.05) added; all tick labels retained",
+  "visual_review": "PASS"
+}

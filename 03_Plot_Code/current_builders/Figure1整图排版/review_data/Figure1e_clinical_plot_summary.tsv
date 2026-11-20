@@ -1,0 +1,10 @@
+variable	category	count	denominator	reported_denominator	rule
+Age	<20	6	172	111	0 <= age < 20
+Age	20–39	14	172	111	20 <= age < 40
+Age	40–59	36	172	111	40 <= age < 60
+Age	60–79	47	172	111	60 <= age < 80
+Age	≥80	8	172	111	80 <= age < 100
+Age	Not reported	61	172	111	Missing stored age
+Sex	male	94	172	134	Stored category; missing shown separately
+Sex	female	40	172	134	Stored category; missing shown separately
+Sex	Not reported	38	172	134	Stored category; missing shown separately

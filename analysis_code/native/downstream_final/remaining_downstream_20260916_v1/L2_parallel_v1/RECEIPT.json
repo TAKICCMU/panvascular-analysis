@@ -1,0 +1,16 @@
+{
+  "status": "AUTHORIZED_PARALLEL_EXECUTION",
+  "bound_files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/L2_parallel_v1/parallel_lane.py": "a8a499c35f5cf125725c901ae7102590eda05559c7e5160f95e6d607553a049c",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/L2_parallel_v1/PLAN.json": "b778ad00842f7f7c3a5dc46bc9ee352732d3281a3d0fb0267dcb763f83a47944",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/L2_parallel_v1/TEST_PASS.json": "856e64c2ac3fdb600dae96540609c1aadac43c7e693ed98ee6e83866edf895dc",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/RECEIPT.json": "81909dc3fd0b62d703f3586b409ef9647eb1ca03b49b93223ecb1afe54ad843d",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/inputs/selected_specimens.tsv": "7fa9083abebd265782c1f4946c5d3f027d0fab5b4a99edc351cd51a117508228",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/code/communication_worker_thread_limited_r5.py": "e41542fe7c98a728880f0d9aa63c2d4da2b0658ce09d839e8044c46f5d31f31c",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/code/communication_worker.py": "66c58dac12f007de6ec8c6a49750a891295953ca93067421d91e1bda93968fb9",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/communication/L2/code/cellchat_native.R": "61178921780e415e77d6456e655a40146193b298b145cd8ea96d5676da509962"
+  },
+  "scientific_parameters_changed": false,
+  "original_controller_state": "INTENTIONALLY_STOPPED_ONLY_CONTROLLER",
+  "existing_worker_preserved": true
+}

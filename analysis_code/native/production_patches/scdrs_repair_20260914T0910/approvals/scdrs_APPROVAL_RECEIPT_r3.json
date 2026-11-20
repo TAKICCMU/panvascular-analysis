@@ -1,0 +1,173 @@
+{
+  "mode": "approved_execution",
+  "allowed_modules": [
+    "scdrs"
+  ],
+  "approval_source": "user_authorized_traits_repair_20260914",
+  "config": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/configs/scdrs_APPROVED.json",
+  "bound_files": [
+    {
+      "path": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/lib/python3.9/site-packages/scdrs/method.py",
+      "sha256": "055fc45f3a55cb2c7dc82c3ffc80e2e703bdded023a6f74973d7837940b61eff"
+    },
+    {
+      "path": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/lib/python3.9/site-packages/scdrs/pp.py",
+      "sha256": "a9fcfeee5cda20752620bece15eeaa24caccec1a2e9c2919430c5146ddd9f9c8"
+    },
+    {
+      "path": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/lib/python3.9/site-packages/scdrs/util.py",
+      "sha256": "7046a3d67516bf1b0c8f3af71ab70faa738ecb2143c650f300d2e6e40671652c"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_leave_one_CAD_r0_1.gs",
+      "sha256": "595200f57e5f33ec1324e746d41d37a03ea235a5b647155f4328af5807ef1120"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_primary_r0_1.gs",
+      "sha256": "7f6d55f3bb19ca959dd6627f7c95622a80fbaacd08de0cb84e47d0b544310904"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_primary_r0_6.gs",
+      "sha256": "13799767d841a83962642abc34de0b40de0700c29c83155f4ed3935628e5a939"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.acceptance_r1.manifest.json",
+      "sha256": "eb46d0ff9ba5cf0e4c4a90b65f78eb09d1f263477ca46c809b0c45521ff22f06"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/parallel_execution_handoff_20260914/CODEX_START_PARALLEL_EXECUTION_PROMPT.md",
+      "sha256": "7d2628cf02fa2852eb443d6afc461a59fc52011f7a619dc1105c5fe4b8c5201c"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/execution_control_20260914/AUTHENTICATED_ATLAS_STAT.json",
+      "sha256": "9bce9e1f35838c1a107aceb17ade3d5f4b7585922f868aab40f0a4f3abacb609"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/execution_control_20260914/RESOURCE_LEDGER_traits_repair_v2.json",
+      "sha256": "dd9d55c3d83a4bc867eb3d879b3afadb6a44d6748da75c6f9f4f27f049286c28"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/phase1_/20260913T183720_920345Z/outputs/runs/20260913T183912_636388_077099775370/preflight.json",
+      "sha256": "9c548bc46dba645dcc35331fb83967c1f22cddc82f64a1e68ff99273ea6869a6"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/approvals/USER_SCOPE.md",
+      "sha256": "ddf8a47d05b6dad29834e9569f60a8405e7966bb2c4acfce41c7750eadff7c7b"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/audit_scripts/finalize_scdrs_map.py",
+      "sha256": "73c7ecbbb8bcf44499b504d2bfc3f0e02f1e82de714402641401d0f9a7a0ec93"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/audit_scripts/trace_mapping.py",
+      "sha256": "4d3182880c3a1a6468c173c212d8aae88c636d432c494b31aae509dfd2179ff4"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/code/prepare_launch.py",
+      "sha256": "dfb85653cf7262bea5774ad3cd6db074c8330e7a846990cc622437ef3d2b316f"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/code/production_runner.py",
+      "sha256": "d40d14d30ec9a80b4b4f4ffaaae2b6cb181d4db2a3233beb02d884f1b30a8f3b"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/code/scdrs_adapter.py",
+      "sha256": "d3781dd01887502a9e1ecde0190533f5c36093c7c872789d1e3256f20469e712"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/configs/scdrs_APPROVED.json",
+      "sha256": "e85c1ab703e49f834b5822b372ae8a92100fb802de9c848774da2850ead131b9"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/evidence/NATIVE_VERSIONS_AND_SOURCE.json",
+      "sha256": "89d6e46da1ff947fd9558a4000ce8466c56f1629c4ca7e50004866fd74526945"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/inputs/HGNC_24509.json",
+      "sha256": "54e9b89edf538cfbc302e25ceba0eaa781cf9446492954f2bf793ee63c8c9f13"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/inputs/SCDRS_GENE_MAPPING_VALIDATION.json",
+      "sha256": "85f6a1cfdd149267d25d09ccc12ea6c7d172ac65760202382b9028fa9e7652f8"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/inputs/gene_map_scDRS_READY.tsv",
+      "sha256": "55378df49e46c988dd641a633c041951281af5189447ca952fc805bfad85e24c"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/inputs/local_gtf_exact_symbol_hits.json",
+      "sha256": "a68af00068f98e2edc42195c3892dc7d47a627fdae4b1ed563c587d9c2f95a45"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/FINAL_SMOKE_VALIDATION.json",
+      "sha256": "b46f4ac5fe0767c93819c57b0e8d6081441c9ed9088b3b53664aa20ee878b132"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/actual_l2_obs_smoke_v3/SMOKE_RESULT.json",
+      "sha256": "ee4acbea27d6f56f9257290ff16b013f86926d6b4718d132b438880e7c6c109d"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/native_adapter_smoke.py",
+      "sha256": "7dc3b1a779ffc9f9932ed455b03914cafeabf4b416327353be7b8c290b053223"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/native_l2_adapter_smoke.py",
+      "sha256": "e1b3a33f54d1e4a1a55a8222adcbed0b847cb0c00403ff1885c086c60394f54d"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/native_l2_adapter_smoke_v3.py",
+      "sha256": "140d50482a49463d23a044345ecab93670325f0ae49a9cbb574889c9f878b20a"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/test_exact_counts.py",
+      "sha256": "c359f5cade25081fd179f1e521643379c61ba757a465dc7a080b76db8b420259"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/test_resource_accounting.py",
+      "sha256": "5cf159626034047477a1208cfd714f249f3490f352bdcc721440231cb3005dfc"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/validate_native_outputs.py",
+      "sha256": "1e4df2d1975cb7f12d0fa964701adf3ed97a844079e3db0bbb7a0fc75c9ff72a"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z/inputs/scDRS_raw_verified.cov.gz",
+      "sha256": "826c7d919686301f548decf35685417d0d41e4b25ad67ca715dbdb4d87305037"
+    },
+    {
+      "path": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/bin/scdrs",
+      "sha256": "9bc0b4e17ccd8600f3816a35b0d5d9d7e8f25827294b770f3bd34eb8b26d599f"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/actual_l2_obs_smoke_v3/native/primary_r0.1/SCHEMA_VALIDATION.json",
+      "sha256": "7a1366dca7d088eba96747183a0519a031095935874a1467525a44c3d5a46e5c"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/actual_obs_smoke_v1/native/primary_r0.6/SCHEMA_VALIDATION.json",
+      "sha256": "0b9e753bd776f699a30997fb98de1b6ec34c96dbfbfc924cfee367c866963027"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/actual_obs_smoke_v1/native/leave_one_CAD_r0.1/SCHEMA_VALIDATION.json",
+      "sha256": "63f4df35712e8a0270d6682698868b9ce1d142a0a57b14a7bbba6ace3da7bef9"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/actual_obs_smoke_v1/native/primary_r0.1/SCHEMA_VALIDATION.json",
+      "sha256": "384761abd8efaeb64186b230ab8c5c65ed0405a9d740a21e284507dc83358f5f"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/code/production_runner_r2.py",
+      "sha256": "befa7a755d540655770bc452c5248a8d43b83c85cddd43dad496d2a4f632486c"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/tests/test_stopped_process_accounting.py",
+      "sha256": "3d8b38c6064501e0288960d28cb0d298c5b3e6261ceab735203d1f8db2688968"
+    }
+  ],
+  "generated_UTC": "2026-09-14T01:33:51.763015+00:00",
+  "no_production_started_by_prepare": true,
+  "supersedes_receipt": {
+    "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/approvals/scdrs_APPROVAL_RECEIPT_r2.json",
+    "sha256": "c2a2f3aca6b46702361b4bdc6a1bd3de35d3ea89ef418a40c4bb0278b4785053"
+  },
+  "revision_reason": "Explicitly SIGSTOP T/t processes cannot be scheduled and are audited separately; R/S/D and parked threads remain fully counted. Scientific adapter and parameters unchanged. Approved root resource-gate repair."
+}

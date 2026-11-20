@@ -1,0 +1,8 @@
+{
+  "Harmony": "OmicVerse HarmonyCPU NumPy, CUDA_VISIBLE_DEVICES empty, device cpu",
+  "neighbors": "scib_metrics.nearest_neighbors.pynndescent uses pynndescent.NNDescent CPU; 8 jobs as historical; prepare process CUDA hidden",
+  "Leiden": "not run because original official NMI/ARI use KMeans; any future Leiden in this branch must be CPU",
+  "UMAP": "umap-learn CPU for both methods, CUDA hidden",
+  "scIB_numeric_metrics": "historical JAX GPU maintained; does not integrate data or run GPU nearest-neighbor search",
+  "historical_files_read_only": true
+}

@@ -1,0 +1,2 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G2	Fibromyocyte | PRKG1 contractile fibromyocyte	GSE222318	GSE222318::DONOR::Aortic_dissection_Subacute-2	ascending aorta	disease	L2_b5de7f6e49a3e247	31	GSE222318__GSM6919839		male	scRNA-seq	GSE222318	True	case

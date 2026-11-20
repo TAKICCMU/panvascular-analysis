@@ -1,0 +1,7 @@
+block	group	pathways	old_gap_mm	new_gap_mm	label_to_line_gap_mm
+c_magma	GO BP	['Sterol homeostasis', 'Lipid homeostasis', 'Sterol transport']	33.581840444360815	1.2	1.0
+c_magma	KEGG	['Pyrimidine metabolism', 'Selenoamino acid metabolism', 'Small cell lung cancer gene set']	22.21991553116637	1.2	1.0
+c_magma	Reactome	['Lipoprotein assembly / remodelling / clearance', 'Plasma lipoprotein clearance', 'LDL clearance']	7.937927683944152	1.2	1.0
+c_pseudobulk	GO BP	['Syncytium formation (negative regulation)', 'Ribonucleoprotein complex biogenesis', 'Ribosome biogenesis']	4.462645565888589	1.2	1.0
+c_pseudobulk	KEGG	['Ribosome', 'Spliceosome', 'Oxidative phosphorylation']	19.288958499916365	1.2	1.0
+c_pseudobulk	Reactome	['SRP-dependent targeting to membrane', 'Eukaryotic translation elongation', 'Eukaryotic translation initiation']	6.641323951305255	1.2	1.0

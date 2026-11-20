@@ -1,0 +1,155 @@
+{
+  "gene_unit_estimates": 60,
+  "unique_recorded_unit_IDs": 34,
+  "gene_counts": {
+    "FN1": 34,
+    "SCARB1": 26
+  },
+  "overlapping_IDs": 26,
+  "c_f_SVG_identical": {
+    "FigureYa6_native_forest": true,
+    "axes_8": true,
+    "axes_9": true,
+    "axes_10": true,
+    "legend_2": true,
+    "legend_3": true,
+    "legend_4": true,
+    "text_136": true,
+    "text_137": true,
+    "text_138": true,
+    "text_139": true,
+    "text_140": true,
+    "text_141": true,
+    "text_142": true,
+    "text_143": true,
+    "text_144": true,
+    "text_145": true,
+    "text_146": true,
+    "text_147": true,
+    "text_148": true,
+    "text_149": true,
+    "text_150": true,
+    "text_151": true,
+    "text_152": true,
+    "text_153": true,
+    "text_154": true,
+    "text_155": true,
+    "text_156": true
+  },
+  "c_f_render_identical": true,
+  "companion_PDF_byte_identical": true,
+  "spatial_views": [
+    {
+      "key": "HE",
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "allocated_mm": [
+        5,
+        16,
+        28,
+        29.8
+      ],
+      "data_mm": [
+        5.031250000000001,
+        16.0,
+        27.937499999999996,
+        29.8
+      ],
+      "spots": null
+    },
+    {
+      "key": "Fib_abundance",
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "allocated_mm": [
+        37,
+        16,
+        28,
+        29.8
+      ],
+      "data_mm": [
+        37.03125,
+        16.0,
+        27.937499999999993,
+        29.8
+      ],
+      "spots": 1779
+    },
+    {
+      "key": "FN1",
+      "field": [
+        0,
+        1875,
+        2000,
+        0
+      ],
+      "allocated_mm": [
+        69,
+        16,
+        28,
+        29.8
+      ],
+      "data_mm": [
+        69.03124999999999,
+        16.0,
+        27.937499999999996,
+        29.8
+      ],
+      "spots": 1779
+    }
+  ],
+  "same_field_and_physical_scale": true,
+  "source_scales_unchanged": {
+    "FN1": [
+      1.8499559877594565,
+      4.352771622269675
+    ],
+    "SCARB1": [
+      0.45313323079225926,
+      2.27122445764514
+    ],
+    "Fib_abundance": [
+      0.0304108033255033,
+      6.498108049295842
+    ]
+  },
+  "science_recomputed": false,
+  "visual_review": "PENDING_RENDER_INSPECTION",
+  "status": "PAUSED_FOR_FIGURE5_ADOPTION_REVIEW",
+  "ORA": "PENDING",
+  "donor_identity_pending": true,
+  "source_hashes": {
+    "/Users/taki/Desktop/Panvascular_Figure5_Evidence_Focus_20260920/figures/Figure5.pdf": "20e78b0edec92c8d3b7af3e8f9b656d0c6a1febffc4873ee4ecbe4bae086a9d9",
+    "/Users/taki/Desktop/Panvascular_Figure5_Evidence_Focus_20260920/figures/Figure5.svg": "2b05e9e7e142c643481fddbb6f63de08c4a44a4f7d731ec50e8568ceda633120",
+    "/Users/taki/Desktop/Panvascular_Figure5_Evidence_Focus_20260920/figures/Figure5_focus_prototype.pdf": "6344e685c11eb1631ae237e0c2e44e237adb2f990ad52457e5b828aec163e113",
+    "/Users/taki/Desktop/Panvascular_Figure5_Evidence_Focus_20260920/source_data/all29_original_meta.tsv": "4b5ed1a2f66d2e7168d9b4def47b711dada114cbb056642bb70b1a3521d391cd",
+    "/Users/taki/Desktop/Panvascular_Figure5_Evidence_Focus_20260920/source_data/all29_original_unit_models.tsv": "404e01b17a78b9db1742881fe7f644ecd479dc2aaf88e960adea0c29899f837c",
+    "/Users/taki/Desktop/Codex\u4efb\u52a11/spatial_visium_geo_local/extracted/GSE248608/GSM7917894_CA1_tissue_hires_image.png": "a41756e6ea302524d61295161d453a96d3ed8f7756f765f8e8eae3aed8797a95"
+  },
+  "actual_visual_review": "Figure5_after.png inspected; labels, pooled fields and dedicated legend readable; author confirmation pending",
+  "dimensions_mm": [
+    183.00000559488933,
+    170.00000237358938
+  ],
+  "minimum_font_pt": 6.0,
+  "text_outside_page": 0,
+  "Table32_87_entries_matched": true,
+  "primary_significant_terms": {
+    "cell_abundance": 10,
+    "interaction": 1,
+    "pathology": 8
+  },
+  "CA1_SCARB1_original_section_P": 0.5815535134951394,
+  "P1_SCARB1_original_unit_beta": -0.02418324202935819,
+  "formal_matrix_promoted": true,
+  "companion_ID_map": "Source_Data/Figure5/Figure5b_34_recorded_unit_IDs.tsv",
+  "former_matrix_text_check": "GSE241346 / FN1 / SCARB1 present"
+}

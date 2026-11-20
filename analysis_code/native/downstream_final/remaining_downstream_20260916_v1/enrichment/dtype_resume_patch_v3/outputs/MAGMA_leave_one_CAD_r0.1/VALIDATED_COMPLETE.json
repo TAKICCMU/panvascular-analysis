@@ -1,0 +1,18 @@
+{
+  "status": "VALIDATED_WITH_NATIVE_NA_PATHWAYS",
+  "id": "MAGMA_leave_one_CAD_r0.1",
+  "reused_native": true,
+  "n_GSEA": 8409,
+  "n_native_NA": 8,
+  "source_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_leave_one_CAD_r0.1",
+  "files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_leave_one_CAD_r0.1/UNESTIMABLE_NATIVE_GSEA_PATHWAYS.tsv": "8de868fd14bc7666e0a3e101d71db157e9e1beb1a6b89b61e42512a6fa39388a",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_leave_one_CAD_r0.1/gene_set_version.tsv": "7dd3442af0b50cc7efacbc4bd37acdc87393b51d67de357b0317ab7177dcdb79",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_leave_one_CAD_r0.1/ora_all_tested_before_display_filter.tsv.gz": "bbe414f46624c106ef7b8c12bad84dc5103c3db8860a3fa06c6e4c9a34ddf8bc",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_leave_one_CAD_r0.1/fgsea_all.tsv.gz": "96895bcee336f024d07f776f2ab2a78b32b7e5996da4cfd4218e44a2d167d4ea",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_leave_one_CAD_r0.1/VALIDATED_COMPLETE.json": "b42b41751c6da05080a8715b071f6b167b2a557fca296a2943cb76241e98a734",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/remaining_downstream_20260916_v1/enrichment/native_NA_review_patch_v2/outputs/MAGMA_leave_one_CAD_r0.1/sessionInfo.txt": "e9b3c4c1da16387b462d3049721760050e846a8e25052b52e4712553d5a318ef"
+  },
+  "rank_sha256": "580c1c7995da3c7f3abe71b7004ef71241ab959834217914edf5792649c33e56",
+  "native_sha256": "5a7ec13c9a149ed3c4a90135e5d973852a06dcb7fa03fdbfabbd2f38633a42e7"
+}

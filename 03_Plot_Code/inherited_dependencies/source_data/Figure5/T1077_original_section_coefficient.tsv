@@ -1,0 +1,2 @@
+GSE	section_id	biological_unit_id	metadata_status	QC_fallback	posterior	gene	cell_context	pathology	expected_direction	target_removed_from_program	n_program_genes	n_spots	n_positive_spots	gene_present_in_source	model_status	term	beta	se	z	p	model
+GSE314851	GSE314851::GSM9414346_T1077	GSE314851::T1077	unique_library_identifier_moderate_confidence	False	q05	FN1	Fibroblast	fibrous_cap_core	1	False	9	1363	1346	True	FIT_OK	cell_abundance	-0.5534014486090209	0.043879177617724884	-12.611937567067704	1.8147588372797275e-36	Poisson_loglink_spatial_block_cluster_robust

@@ -1,0 +1,6 @@
+{
+  "original_receipt_sha256": "0def0ebbb7e10091cbd3878822b1916b9339e545361d3a0c5fcfea6c7f4b9e4b",
+  "current_queue_sha256": "3bc46e7d6d8ebde9b53aa94017321fa9e1ecf52d3cda0316277ab439b9673cb5",
+  "test_sha256": "8e5575f95e4550d207295e5e9630c0767d91c723b8a8b9c5ec0717a95cead1c7",
+  "scope": "Repair aggregation of completed analyses and resume unchanged native fgsea; retain explicit unestimable results; no model refit"
+}

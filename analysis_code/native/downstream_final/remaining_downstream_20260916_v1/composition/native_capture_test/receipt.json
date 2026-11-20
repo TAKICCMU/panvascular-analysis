@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "observations": 80,
+  "independent_donors": 79,
+  "native_repeated_capture_fit": true,
+  "unknown_duplicate_blocked": true
+}

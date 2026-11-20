@@ -1,0 +1,2 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G3	Macrophage | LYVE1 resident-like macrophage	GSE198750	GSE198750::DONOR::patient_2	pulmonary artery	healthy	L2_f17e96c60233b91d	93	PMID33626908__patient2_PA			scRNA-seq	GSE198750	True	reference

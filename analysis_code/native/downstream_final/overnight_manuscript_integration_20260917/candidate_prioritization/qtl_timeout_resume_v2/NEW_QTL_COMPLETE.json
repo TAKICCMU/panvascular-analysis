@@ -1,0 +1,127 @@
+{
+  "rows": 84,
+  "coordinates": [
+    {
+      "gene": "NT5C2",
+      "gene_id": "ENSG00000076685",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "10",
+      "start_grch38": "103086478",
+      "end_grch38": "103277622",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "COL4A1",
+      "gene_id": "ENSG00000187498",
+      "nominated_lineage": "Endothelial cell",
+      "chromosome": "13",
+      "start_grch38": "110148963",
+      "end_grch38": "110307202",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "TP53INP2",
+      "gene_id": "ENSG00000078804",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "20",
+      "start_grch38": "34701662",
+      "end_grch38": "34713442",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "LIPA",
+      "gene_id": "ENSG00000107798",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "10",
+      "start_grch38": "89212830",
+      "end_grch38": "89415367",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "SWAP70",
+      "gene_id": "ENSG00000133789",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "11",
+      "start_grch38": "9664058",
+      "end_grch38": "9753298",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "EDEM2",
+      "gene_id": "ENSG00000088298",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "20",
+      "start_grch38": "35113122",
+      "end_grch38": "35147404",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "PHB",
+      "gene_id": "ENSG00000167085",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "17",
+      "start_grch38": "49404009",
+      "end_grch38": "49436245",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "STAT3",
+      "gene_id": "ENSG00000168610",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "17",
+      "start_grch38": "42313322",
+      "end_grch38": "42388574",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "SNF8",
+      "gene_id": "ENSG00000159210",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "17",
+      "start_grch38": "48928972",
+      "end_grch38": "48944842",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "SKI",
+      "gene_id": "ENSG00000157933",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "1",
+      "start_grch38": "2227388",
+      "end_grch38": "2310213",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "NQO1",
+      "gene_id": "ENSG00000181019",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "16",
+      "start_grch38": "69691310",
+      "end_grch38": "69726668",
+      "start_grch37": "",
+      "end_grch37": ""
+    },
+    {
+      "gene": "ZHX3",
+      "gene_id": "ENSG00000174306",
+      "nominated_lineage": "Fibroblast",
+      "chromosome": "20",
+      "start_grch38": "41178448",
+      "end_grch38": "41317783",
+      "start_grch37": "",
+      "end_grch37": ""
+    }
+  ],
+  "timeout_seconds": 360,
+  "reused_v1_success": 62
+}

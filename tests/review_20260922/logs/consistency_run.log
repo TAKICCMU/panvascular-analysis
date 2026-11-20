@@ -1,0 +1,16 @@
+/Users/taki/Desktop/投稿包_最新版_20260919/图件编辑资料/全流程代码审核_20260922/Panvascular_code_review/audit/code/audit_review.py:11: DtypeWarning: Columns (0,1,4) have mixed types. Specify dtype option on import or set low_memory=False.
+  def read(p,**kw):return pd.read_csv(p,sep='\t',**kw)
+{
+  "files": 4525,
+  "code_python": 828,
+  "python_parse_ok": 828,
+  "checks": 164,
+  "check_pass": 163,
+  "review_required": [
+    {
+      "check": "packaged_native_resolver_dependency",
+      "status": "REVIEW_REQUIRED",
+      "detail": "figure_code/native_plot_code/merge_records/PATH_MAP.json missing in inherited package; original manifest recovered separately, not silently patched"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "counts_file": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/CPU_raw_counts_with_clinical_v1/panvascular_all_cells_raw_counts_with_clinical_v1.h5ad",
+  "input_sha256": "39ca188109d70b8c4bb32ddf70ba127d44af5b44bfea760a17ac9ba41a7adec5",
+  "hvg_patch_sha256": "41db6ac24969e95d6241770ddb88a4530fe6be662e0d3f95bed47b1ba195254b",
+  "packages": {
+    "omicverse": "2.1.2rc1",
+    "scanpy": "1.11.5",
+    "anndata": "0.11.4",
+    "numpy": "1.26.4",
+    "scipy": "1.12.0",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.7.2",
+    "pynndescent": "0.5.13",
+    "numba": "0.63.1",
+    "igraph": "0.10.8",
+    "umap-learn": "0.5.11",
+    "torch": "2.10.0"
+  },
+  "threads": 40,
+  "seed": 0,
+  "n_hvg": 2000,
+  "n_pcs": 30,
+  "batch_key": "sample_uid",
+  "pearson_theta": 100,
+  "pearson_clip": "sqrt(n_cells_per_sample)",
+  "normalize_target_sum": 10000,
+  "scale_max_value": 10,
+  "pca_solver": "covariance_eigh",
+  "harmony": {
+    "theta": 2.0,
+    "lamb": null,
+    "sigma": 0.1,
+    "nclust": null,
+    "tau": 0,
+    "block_size": 0.05,
+    "max_iter_harmony": 100,
+    "max_iter_kmeans": 20,
+    "epsilon_cluster": 1e-05,
+    "epsilon_harmony": 0.0001,
+    "alpha": 0.2,
+    "random_state": 0,
+    "device": "cpu",
+    "verbose": true
+  },
+  "neighbors_key": "neighbors_cpu_n30",
+  "neighbors": {
+    "n_neighbors": 30,
+    "metric": "euclidean",
+    "method": "umap",
+    "transformer": "PyNNDescentTransformer",
+    "n_jobs": 40
+  },
+  "leiden": {
+    "key": "leiden_res1",
+    "resolution": 1.0,
+    "flavor": "igraph",
+    "n_iterations": 100,
+    "directed": false,
+    "use_weights": true
+  },
+  "umap": {
+    "min_dist": 0.3,
+    "spread": 1.0,
+    "maxiter": 500,
+    "init_pos": "spectral",
+    "n_components": 2,
+    "alpha": 1.0,
+    "negative_sample_rate": 5
+  },
+  "L1_status": "PENDING_MANUAL_REVIEW",
+  "L2_started": false,
+  "actual_harmony_class": "omicverse.external.harmony._harmony_cpu.HarmonyCPU",
+  "actual_harmony_source_sha256": "e82153b3837b49d264a319e6d86d8a340c34c93081af062a054e9e3c07f1cec5",
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 40,
+      "prefix": "libopenblas",
+      "filepath": "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/libopenblasp-r0.3.30.so",
+      "version": "0.3.30",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 40,
+      "prefix": "libgomp",
+      "filepath": "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/torch/lib/libgomp.so.1",
+      "version": null
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 40,
+      "prefix": "libgomp",
+      "filepath": "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/louvain.libs/libgomp-a34b3233.so.1.0.0",
+      "version": null
+    }
+  ],
+  "n_leiden_clusters": 29
+}

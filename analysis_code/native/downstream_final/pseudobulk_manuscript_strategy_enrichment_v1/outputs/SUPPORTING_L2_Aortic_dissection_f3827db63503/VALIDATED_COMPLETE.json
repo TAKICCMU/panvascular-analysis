@@ -1,0 +1,13 @@
+{
+  "id": "SUPPORTING_L2_Aortic_dissection_f3827db63503",
+  "role": "supporting_single_context",
+  "status": "COMPLETE",
+  "unestimable": 0,
+  "files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L2_Aortic_dissection_f3827db63503/native_unestimable_pathways.tsv": "55469d6dc535a6f3607a15f54b55eb720e60938e942a75f4c5e1a91dc2094a6b",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L2_Aortic_dissection_f3827db63503/gene_set_version.tsv": "7dd3442af0b50cc7efacbc4bd37acdc87393b51d67de357b0317ab7177dcdb79",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L2_Aortic_dissection_f3827db63503/ora_all_tested_before_display_filter.tsv.gz": "69bde8c1f32f640438eb831494cfc02baf6dea175d7c667bba52653231a76f23",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L2_Aortic_dissection_f3827db63503/fgsea_all.tsv.gz": "4168f549edb81babb2b4ac69a71db4b7f98a9f956bf3a3e3c3585507de75d1a3",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/outputs/SUPPORTING_L2_Aortic_dissection_f3827db63503/sessionInfo.txt": "e9b3c4c1da16387b462d3049721760050e846a8e25052b52e4712553d5a318ef"
+  }
+}

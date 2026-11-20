@@ -1,0 +1,12 @@
+{
+  "CPU_only": true,
+  "n_cells": 182968,
+  "subset": "identical frozen trusted evaluation cells",
+  "neighbors": 15,
+  "source_graph": "official frozen GPU graph reused; newly computed CPU graph",
+  "min_dist": 0.3,
+  "maxiter": 500,
+  "seed": 0,
+  "Leiden": "not run: original benchmark uses KMeans NMI/ARI",
+  "scope": "display only, no score change"
+}

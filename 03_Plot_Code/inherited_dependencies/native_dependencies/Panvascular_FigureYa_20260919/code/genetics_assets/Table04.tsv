@@ -1,0 +1,9 @@
+Phenotype	Cases, n	Controls, n	Total sample size	Source	PMID	DOI	Ancestry
+aortic dissection	1150	463106	464256	FinnGen R12 I9_AORTIC_DISSECTION	36653562	10.1038/s41586-022-05473-8	European
+abdominal aortic aneurysm	16289	427111	443400	Klarin et al., Circulation (2020)	32981348	10.1161/CIRCULATIONAHA.120.047544	European
+carotid atherosclerosis	21540	26894	48434	Franceschini et al., Nature Communications (2018)	30510157	10.1038/s41467-018-07340-5	European
+coronary artery disease	122733	424528	547261	van der Harst and Verweij, Circulation Research (2018)	29212778	10.1161/CIRCRESAHA.117.312086	European
+calcific aortic valve stenosis	14819	941863	956682	Theriault et al., Nature Communications (2024)	38494474	10.1038/s41467-024-46639-4	European
+peripheral artery disease	12086	437462	449548	van Zuydam et al., Circulation: Genomic and Precision Medicine (2021)	34601942	10.1161/CIRCGEN.119.002862	European
+stroke	73822	1223086	1296908	Mishra et al., Nature (2022)	36180795	10.1038/s41586-022-05165-3	European
+thoracic aortic aneurysm	1351	18295	19646	Roychowdhury et al., American Journal of Human Genetics (2021)	34265237	10.1016/j.ajhg.2021.06.016	European

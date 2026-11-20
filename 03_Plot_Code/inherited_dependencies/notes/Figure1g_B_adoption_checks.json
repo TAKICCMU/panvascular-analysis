@@ -1,0 +1,28 @@
+{
+  "display": "B_ADOPTED",
+  "matrix_shape": [
+    14,
+    28
+  ],
+  "source_tables": {
+    "/Users/taki/Desktop/Panvascular_Main_Figure_Refinement_20260920/marker_audit_20260921/tables/original_mean_log1p.tsv": "de41a61a37fbfa95db5da6cea36188e55b656d12ea80dc78174faa33838380d6",
+    "/Users/taki/Desktop/Panvascular_Main_Figure_Refinement_20260920/marker_audit_20260921/tables/original_detection_fraction.tsv": "09a1c5ddb0f06039c2b8231e59b1ef1ca161cd8f9443977f5d52226829d5e93d",
+    "/Users/taki/Desktop/Panvascular_Main_Figure_Refinement_20260920/marker_audit_20260921/tables/per_gene_scaled_mean.tsv": "aca96b300e8b3c9a88eb2a946e4924eb4f73a8fd8de15dcfea2894257bc0c518"
+  },
+  "scaled_values_read_not_recomputed": true,
+  "area_linear_detection": true,
+  "zero_area_at_zero": true,
+  "max_dot_diameter_pt": 3.89318335208099,
+  "row_pitch_pt": 5.122609673790777,
+  "column_pitch_pt": 11.136107986501688,
+  "native_export_mm": [
+    183,
+    170
+  ],
+  "no_174x83_page_scaling": true,
+  "a_f_unchanged": true,
+  "Figure5_only_two_HE_header_strings_changed": true,
+  "annotation_validated": false,
+  "measurement_coverage_newly_validated": false,
+  "ORA": "PENDING"
+}

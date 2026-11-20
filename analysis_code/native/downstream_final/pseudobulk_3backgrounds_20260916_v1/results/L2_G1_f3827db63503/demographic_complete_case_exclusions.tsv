@@ -1,0 +1,6 @@
+proposed_background_id	cell_state	study	donor_uid	tissue	group_binary	pseudobulk_id	n_cells	sample_uids	age	sex	assay_type	study_block	donor_resolved	comparison_group
+G1	Fibroblast | LTBP2 ECM-remodelling fibroblast	GSE198750	GSE198750::DONOR::patient_1	coronary artery	healthy	L2_5e879b0b7a7c3fb4	351	PMID33626908__patient1_CA			scRNA-seq	GSE198750	True	reference
+G1	Fibroblast | LTBP2 ECM-remodelling fibroblast	GSE198750	GSE198750::DONOR::patient_2	coronary artery	healthy	L2_5ca374a3b9b30ba2	472	PMID33626908__patient2_CA1;PMID33626908__patient2_CA2			scRNA-seq	GSE198750	True	reference
+G1	Fibroblast | LTBP2 ECM-remodelling fibroblast	GSE198750	GSE198750::DONOR::patient_3	coronary artery	healthy	L2_35a500f3b82935c8	275	PMID33626908__patient3_CA1;PMID33626908__patient3_CA2			scRNA-seq	GSE198750	True	reference
+G1	Fibroblast | LTBP2 ECM-remodelling fibroblast	GSE248610	GSE248609::DONOR::patient1	artery	disease	L2_d543740b79eb5302	55	GSE248609__GSM7917900			scRNA-seq	GSE248610	True	case
+G1	Fibroblast | LTBP2 ECM-remodelling fibroblast	GSE248610	GSE248609::DONOR::patient1	artery	healthy	L2_73a3743e007cc106	57	GSE248609__GSM7917903			scRNA-seq	GSE248610	True	reference

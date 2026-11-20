@@ -1,0 +1,75 @@
+{
+  "changes": [
+    {
+      "id": "legend_1",
+      "dx_pt": 212.59448899999995,
+      "center_x_pt": 292.59448899999995
+    },
+    {
+      "id": "axes_6",
+      "dx_pt": -25.5,
+      "center_x_pt": 130
+    },
+    {
+      "id": "axes_7",
+      "dx_pt": -29.375,
+      "center_x_pt": 389
+    },
+    {
+      "id": "Figure4f_module_key_0921",
+      "dx_pt": 183.7500015,
+      "center_x_pt": 267.3750015
+    },
+    {
+      "id": "r2_legend_3",
+      "dx_pt": 19.938976377952763,
+      "center_x_pt": 48.18897637795276
+    },
+    {
+      "id": "r2_legend_1",
+      "dx_pt": 6.073088499999983,
+      "center_x_pt": 384.3230885
+    },
+    {
+      "id": "r2_legend_2",
+      "dx_pt": -23.651320999999996,
+      "center_x_pt": 439.598679
+    },
+    {
+      "id": "Figure5b_pooled_key_0921",
+      "dx_pt": 25.187007499999993,
+      "center_x_pt": 403.9370075
+    },
+    {
+      "id": "legend_2",
+      "dx_pt": 65.55157566929137,
+      "center_x_pt": 159.55157566929137
+    },
+    {
+      "id": "legend_3",
+      "dx_pt": 77.08907249999993,
+      "center_x_pt": 440.83907249999993
+    },
+    {
+      "id": "text_156",
+      "dx_pt": -23.51328950000004,
+      "center_x_pt": 412.11171049999996
+    },
+    {
+      "id": "legend_4",
+      "dx_pt": 70.76476149999996,
+      "center_x_pt": 420.01476149999996
+    }
+  ],
+  "Figure5_images_identical": true,
+  "Figure5_c_f_data_groups_identical": true,
+  "module_colours_verified_from_row_paths": {
+    "CM01": "#657c92",
+    "CM03": "#8d7a9f",
+    "CM09": "#398f8b",
+    "Other modules": "#929fa9"
+  },
+  "models_recomputed": false,
+  "ORA": "PENDING",
+  "donor_identity": "PENDING"
+}

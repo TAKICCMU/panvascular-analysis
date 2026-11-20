@@ -1,0 +1,17 @@
+{
+  "authorization": "User approved three-background analysis and CKB focus",
+  "model": "L1_G3_1493778f350f",
+  "cell_state": "Macrophage",
+  "context": "G3",
+  "input_source": "hash-verified frozen sample-level raw pseudobulk; completed L1 export",
+  "bound_files": {
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/code/fit.R": "aec36354d94a25b81587b37638903de39deb92acb439e916fddf22bb60548210",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/tests/native_v1/PASS.json": "b8df72006e43b0daf4ef4d06bf5abdde333ce80d77f846cfc6be2688de04b78a",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/genes.tsv": "b7c25ab334560bd59509836de035b2f11ddd7b2ed20c9a2a42dde9eddd3ea787",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/inputs/L1_G3_1493778f350f/counts.mtx.gz": "8d5e8cb2edbc39f5ebd6181f5598df87b66bacd63eacf34b8bb88de5c5431b7b",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_3backgrounds_20260916_v1/inputs/L1_G3_1493778f350f/units.tsv": "fe490b6f04f86a84ffe445ebeaf949da3a1d3368e2f9645ef8717249f63d63fc",
+    "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/disease_background_3groups_review_v2/sample_background_sidecar_v2.tsv": "852c08353c53a1b4d32b0b5928c9d1ac6a0278e365748912adfaf2ff30cf2ce4"
+  },
+  "prep_pid_suspended": 1218024,
+  "scope": "one complete all-gene edgeR test, CKB extracted after full-gene BH"
+}

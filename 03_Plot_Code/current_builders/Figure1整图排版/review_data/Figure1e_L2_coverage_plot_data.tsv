@@ -1,0 +1,117 @@
+level1_annotation	level2_annotation	n_cells_named	selected_genes	state	n_cells	samples	studies	donors	tissues	plot_y_mm	plot_x_studies	display_hex
+Endothelial cell	ASPN matrix-associated endothelial cell	3509	IFI27;ADGRF5	Endothelial cell | ASPN matrix-associated endothelial cell	3509	59	16	49	6	2.1950000000000003	16	#356D8A
+Endothelial cell	PROX1 lymphatic endothelial cell	2255	CCL21;TFF3	Endothelial cell | PROX1 lymphatic endothelial cell	2255	112	22	80	11	1.6850000000000003	22	#356D8A
+Endothelial cell	ZNF385D venous endothelial cell	9303	CCL14;LDB2	Endothelial cell | ZNF385D venous endothelial cell	9303	169	22	118	12	2.705	22	#356D8A
+Endothelial cell	OMD matrix-associated endothelial cell	8265	EDN1;CLU	Endothelial cell | OMD matrix-associated endothelial cell	8265	170	23	120	12	2.1950000000000003	23	#356D8A
+Endothelial cell	ACKR1 venous endothelial cell	19887	CCL14;ACKR1	Endothelial cell | ACKR1 venous endothelial cell	19887	207	24	141	12	1.1750000000000003	24	#356D8A
+Endothelial cell	NRG1 matrix-associated endothelial cell	10107	VWF;CALCRL	Endothelial cell | NRG1 matrix-associated endothelial cell	10107	169	24	121	12	2.1950000000000003	24	#356D8A
+Endothelial cell	SEMA3G arterial endothelial cell	7194	IFI27;ARL15	Endothelial cell | SEMA3G arterial endothelial cell	7194	187	24	124	12	3.2150000000000003	24	#356D8A
+Endothelial cell	CA4 capillary endothelial cell	8378	IFI27;CALCRL	Endothelial cell | CA4 capillary endothelial cell	8378	203	25	140	12	1.6850000000000003	25	#356D8A
+Endothelial cell	PECAM1 endothelial cell	31638	LDB2;CALCRL	Endothelial cell | PECAM1 endothelial cell	31638	229	25	161	12	2.705	25	#356D8A
+Fibroblast	S100B matrix-associated fibroblast	9001	CLU;TIMP3	Fibroblast | S100B matrix-associated fibroblast	9001	39	9	28	4	7.095000000000001	9	#C09554
+Fibroblast	CDH19 matrix-associated fibroblast	23071	CLU;DCN	Fibroblast | CDH19 matrix-associated fibroblast	23071	109	19	83	11	7.095000000000001	19	#C09554
+Fibroblast	ITGBL1 ECM-remodelling fibroblast	3406	MGP;DCN	Fibroblast | ITGBL1 ECM-remodelling fibroblast	3406	158	20	103	11	7.095000000000001	20	#C09554
+Fibroblast	CLDN1 matrix-associated fibroblast	2914	APOD;DCN	Fibroblast | CLDN1 matrix-associated fibroblast	2914	136	21	89	12	6.585000000000001	21	#C09554
+Fibroblast	PI16 adventitial-like fibroblast	32357	DCN;CFD	Fibroblast | PI16 adventitial-like fibroblast	32357	164	21	111	12	7.605	21	#C09554
+Fibroblast	CXCL12 chemokine-expressing fibroblast	17381	DCN;CFD	Fibroblast | CXCL12 chemokine-expressing fibroblast	17381	172	22	114	11	6.075000000000001	22	#C09554
+Fibroblast	FOSB stress-responsive fibroblast	6474	CLU;DCN	Fibroblast | FOSB stress-responsive fibroblast	6474	174	22	123	11	7.095000000000001	22	#C09554
+Fibroblast	RSAD2 IFN-responsive fibroblast	1078	MGP;ISG15	Fibroblast | RSAD2 IFN-responsive fibroblast	1078	125	22	91	12	8.115	22	#C09554
+Fibroblast	LTBP2 ECM-remodelling fibroblast	19443	MGP;CLU	Fibroblast | LTBP2 ECM-remodelling fibroblast	19443	178	24	121	11	7.095000000000001	24	#C09554
+Fibroblast	DCN fibroblast	52329	DCN;MGP	Fibroblast | DCN fibroblast	52329	218	25	152	12	5.565	25	#C09554
+Fibroblast	FAP activated ECM-remodelling fibroblast	15584	DCN;MGP	Fibroblast | FAP activated ECM-remodelling fibroblast	15584	208	25	143	12	6.585000000000001	25	#C09554
+Fibroblast	ITGA8 contractile-program fibroblast	28861	MGP;IGFBP7	Fibroblast | ITGA8 contractile-program fibroblast	28861	194	25	134	12	7.605	25	#C09554
+Fibroblast	LAMA2 tissue-associated fibroblast	34044	DCN;FBLN1	Fibroblast | LAMA2 tissue-associated fibroblast	34044	197	25	135	12	8.625	25	#C09554
+Smooth muscle cell	DLX5 contractile SMC	710	TAGLN;IGFBP7	Smooth muscle cell | DLX5 contractile SMC	710	35	7	29	3	11.485000000000001	7	#718C65
+Smooth muscle cell	IFIT1 IFN-responsive SMC	1451	TAGLN;ACTA2	Smooth muscle cell | IFIT1 IFN-responsive SMC	1451	121	19	82	11	11.485000000000001	19	#718C65
+Smooth muscle cell	CNN1 contractile SMC	20939	TAGLN;ACTA2	Smooth muscle cell | CNN1 contractile SMC	20939	174	20	121	12	11.485000000000001	20	#718C65
+Smooth muscle cell	MYH11 contractile SMC	12272	MYH11;TAGLN	Smooth muscle cell | MYH11 contractile SMC	12272	185	22	126	12	11.485000000000001	22	#718C65
+Smooth muscle cell	CCL21 chemokine-expressing SMC	7132	TAGLN;ACTA2	Smooth muscle cell | CCL21 chemokine-expressing SMC	7132	188	23	130	12	10.975000000000001	23	#718C65
+Smooth muscle cell	COX4I2 contractile SMC	22487	TAGLN;ACTA2	Smooth muscle cell | COX4I2 contractile SMC	22487	182	23	124	12	11.995000000000001	23	#718C65
+Smooth muscle cell	EFEMP1 ECM-remodelling SMC	30411	TAGLN;MGP	Smooth muscle cell | EFEMP1 ECM-remodelling SMC	30411	204	24	139	12	10.975000000000001	24	#718C65
+Smooth muscle cell	RGS6 contractile SMC	5422	PRKG1;SOX5	Smooth muscle cell | RGS6 contractile SMC	5422	194	24	131	12	11.995000000000001	24	#718C65
+Smooth muscle cell	MYH11 SMC	60412	TAGLN;ACTA2	Smooth muscle cell | MYH11 SMC	60412	235	25	165	12	11.485000000000001	25	#718C65
+Smooth muscle cell	PRKG1 contractile SMC	45301	PRKG1;DMD	Smooth muscle cell | PRKG1 contractile SMC	45301	232	26	166	12	11.485000000000001	26	#718C65
+Fibromyocyte	MYOCD contractile fibromyocyte	1621	PRKG1;TAGLN	Fibromyocyte | MYOCD contractile fibromyocyte	1621	124	16	78	12	14.855000000000002	16	#8D739E
+Fibromyocyte	FOSB stress-responsive fibromyocyte	4298	DCN;MGP	Fibromyocyte | FOSB stress-responsive fibromyocyte	4298	97	17	76	9	14.855000000000002	17	#8D739E
+Fibromyocyte	CD9 ECM-remodelling fibromyocyte	1866	MGP;IGFBP7	Fibromyocyte | CD9 ECM-remodelling fibromyocyte	1866	124	19	83	11	14.855000000000002	19	#8D739E
+Fibromyocyte	PRKG1 contractile fibromyocyte	4296	PRKG1;LTBP1	Fibromyocyte | PRKG1 contractile fibromyocyte	4296	164	20	111	12	14.855000000000002	20	#8D739E
+Fibromyocyte	ITGA10 ECM-remodelling fibromyocyte	1984	MGP;IGFBP7	Fibromyocyte | ITGA10 ECM-remodelling fibromyocyte	1984	157	22	105	12	14.855000000000002	22	#8D739E
+Fibromyocyte	DCN fibroblast-like fibromyocyte	4014	MGP;IGFBP7	Fibromyocyte | DCN fibroblast-like fibromyocyte	4014	173	23	116	11	14.855000000000002	23	#8D739E
+Fibromyocyte	AEBP1 fibromyocyte	5141	FN1;MGP	Fibromyocyte | AEBP1 fibromyocyte	5141	185	24	129	11	14.345000000000002	24	#8D739E
+Fibromyocyte	LAMA2 matrix-associated fibromyocyte	3475	MGP;LAMA2	Fibromyocyte | LAMA2 matrix-associated fibromyocyte	3475	180	24	128	12	15.365000000000002	24	#8D739E
+Fibromyocyte	ACTA2 contractile fibromyocyte	2652	MGP;TAGLN	Fibromyocyte | ACTA2 contractile fibromyocyte	2652	177	25	122	12	14.855000000000002	25	#8D739E
+Pericyte	PI15-high pericyte	152	SPARCL1;RGS5	Pericyte | PI15-high pericyte	152	33	7	19	10	19.245000000000005	7	#AD6879
+Pericyte	CD36-high pericyte	252	FABP4;RGS5	Pericyte | CD36-high pericyte	252	61	9	32	9	19.245000000000005	9	#AD6879
+Pericyte	STEAP4-associated pericyte	905	RGS5;FABP4	Pericyte | STEAP4-associated pericyte	905	69	11	34	11	19.245000000000005	11	#AD6879
+Pericyte	COX4I2 pericyte	532	RGS5;NDUFA4L2	Pericyte | COX4I2 pericyte	532	89	16	57	10	19.245000000000005	16	#AD6879
+Pericyte	COL4A1 basement-membrane-associated pericyte	598	RGS5;NDUFA4L2	Pericyte | COL4A1 basement-membrane-associated pericyte	598	97	17	63	11	17.715000000000003	17	#AD6879
+Pericyte	FN1 matrix-associated pericyte	422	RGS5;NDUFA4L2	Pericyte | FN1 matrix-associated pericyte	422	77	17	57	10	18.735000000000003	17	#AD6879
+Pericyte	PDGFRA matrix-associated pericyte	586	SPARCL1;RGS5	Pericyte | PDGFRA matrix-associated pericyte	586	102	17	71	10	19.755000000000006	17	#AD6879
+Pericyte	PRKG1 contractile-program pericyte	597	RGS5;DLC1	Pericyte | PRKG1 contractile-program pericyte	597	111	17	75	12	20.775000000000006	17	#AD6879
+Pericyte	RGS5 pericyte	469	TAGLN;MYL9	Pericyte | RGS5 pericyte	469	120	21	83	11	19.245000000000005	21	#AD6879
+Macrophage	PDE4C-high macrophage	2487	RBM47;INTS6	Macrophage | PDE4C-high macrophage	2487	135	19	94	12	26.695000000000004	19	#2A8C85
+Macrophage	FCN1 monocyte-like macrophage	3940	TYROBP;AIF1	Macrophage | FCN1 monocyte-like macrophage	3940	182	24	131	11	26.695000000000004	24	#2A8C85
+Macrophage	CCL3 activated resident-like macrophage	14189	C1QA;C1QB	Macrophage | CCL3 activated resident-like macrophage	14189	210	25	144	11	23.125000000000004	25	#2A8C85
+Macrophage	CD83 activated macrophage	13961	HLA-DRA;CCL3	Macrophage | CD83 activated macrophage	13961	203	25	138	11	24.145000000000003	25	#2A8C85
+Macrophage	CXCL10 IFN-responsive macrophage	2321	HLA-DRA;CD74	Macrophage | CXCL10 IFN-responsive macrophage	2321	174	25	123	12	25.165000000000003	25	#2A8C85
+Macrophage	CYP27A1 lipid-associated macrophage	9483	TYROBP;FTL	Macrophage | CYP27A1 lipid-associated macrophage	9483	209	25	147	11	26.185000000000002	25	#2A8C85
+Macrophage	HLA-DRA antigen-presenting macrophage	32438	HLA-DRA;CD74	Macrophage | HLA-DRA antigen-presenting macrophage	32438	211	25	146	11	27.205000000000005	25	#2A8C85
+Macrophage	IL1B inflammatory macrophage	9172	IL1B;CXCL8	Macrophage | IL1B inflammatory macrophage	9172	185	25	129	11	28.225000000000005	25	#2A8C85
+Macrophage	JUN stress-responsive macrophage	3504	CD83;CD74	Macrophage | JUN stress-responsive macrophage	3504	201	25	140	11	29.245000000000005	25	#2A8C85
+Macrophage	LYVE1 resident-like macrophage	16558	C1QA;RNASE1	Macrophage | LYVE1 resident-like macrophage	16558	211	25	152	12	30.265000000000004	25	#2A8C85
+Macrophage	C1QC complement-rich macrophage	9819	C1QA;C1QB	Macrophage | C1QC complement-rich macrophage	9819	232	26	159	12	23.635000000000005	26	#2A8C85
+Macrophage	CCL20 inflammatory macrophage	10878	CXCL8;CCL3	Macrophage | CCL20 inflammatory macrophage	10878	215	26	149	12	24.655000000000005	26	#2A8C85
+Macrophage	CD68 macrophage	36109	CD74;TYROBP	Macrophage | CD68 macrophage	36109	237	26	166	12	25.675000000000004	26	#2A8C85
+Macrophage	KYNU inflammatory macrophage	22530	CXCL8;IL1B	Macrophage | KYNU inflammatory macrophage	22530	230	26	163	12	26.695000000000004	26	#2A8C85
+Macrophage	MKI67 proliferating macrophage	5458	CD74;TUBA1B	Macrophage | MKI67 proliferating macrophage	5458	205	26	143	12	27.715000000000003	26	#2A8C85
+Macrophage	MSR1 phagocytosis-associated macrophage	7832	CD74;HLA-DRA	Macrophage | MSR1 phagocytosis-associated macrophage	7832	212	26	150	12	28.735000000000003	26	#2A8C85
+Macrophage	SPP1 lipid-associated macrophage	7757	SPP1;CTSB	Macrophage | SPP1 lipid-associated macrophage	7757	208	26	144	12	29.755000000000003	26	#2A8C85
+Monocyte	CXCL10 IFN-responsive monocyte	401	LYZ;S100A9	Monocyte | CXCL10 IFN-responsive monocyte	401	89	19	72	10	33.635000000000005	19	#AE7658
+Monocyte	JUN stress-responsive monocyte	320	LYZ;S100A9	Monocyte | JUN stress-responsive monocyte	320	105	21	75	11	33.635000000000005	21	#AE7658
+Monocyte	S100A12 classical monocyte	4342	S100A9;S100A8	Monocyte | S100A12 classical monocyte	4342	156	23	110	11	32.615	23	#AE7658
+Monocyte	SERPINB2 inflammatory monocyte	1584	IL1B;S100A9	Monocyte | SERPINB2 inflammatory monocyte	1584	126	23	104	9	33.635000000000005	23	#AE7658
+Monocyte	TXNIP-high monocyte	6091	LYZ;S100A9	Monocyte | TXNIP-high monocyte	6091	163	23	116	11	34.65500000000001	23	#AE7658
+Monocyte	CXCL8 inflammatory monocyte	2470	IL1B;CXCL8	Monocyte | CXCL8 inflammatory monocyte	2470	157	24	118	11	32.615	24	#AE7658
+Monocyte	FCGR3A-expressing monocyte	1606	LST1;AIF1	Monocyte | FCGR3A-expressing monocyte	1606	140	24	113	11	33.635000000000005	24	#AE7658
+Monocyte	IL1B inflammatory monocyte	9080	IL1B;CXCL8	Monocyte | IL1B inflammatory monocyte	9080	175	24	128	11	34.65500000000001	24	#AE7658
+Monocyte	FCN1 classical monocyte	5152	S100A9;S100A8	Monocyte | FCN1 classical monocyte	5152	189	26	138	12	33.635000000000005	26	#AE7658
+Neutrophil	CXCR4-associated neutrophil	3558	NAMPT;CSF3R	Neutrophil | CXCR4-associated neutrophil	3558	23	8	23	3	37.455000000000005	8	#7D91B2
+Neutrophil	CXCR2-associated neutrophil	918	NAMPT;CSF3R	Neutrophil | CXCR2-associated neutrophil	918	54	13	41	10	37.455000000000005	13	#7D91B2
+Neutrophil	CSF3R neutrophil	6445	NAMPT;IL1R2	Neutrophil | CSF3R neutrophil	6445	67	15	53	12	37.455000000000005	15	#7D91B2
+Neutrophil	S100A12 inflammatory neutrophil	2053	S100A8;S100A9	Neutrophil | S100A12 inflammatory neutrophil	2053	84	19	64	11	37.455000000000005	19	#7D91B2
+Neutrophil	CXCL8 inflammatory neutrophil	4406	NAMPT;CSF3R	Neutrophil | CXCL8 inflammatory neutrophil	4406	90	20	77	9	37.455000000000005	20	#7D91B2
+Dendritic cell	IL1B inflammatory dendritic cell	2520	IL1B;HLA-DRA	Dendritic cell | IL1B inflammatory dendritic cell	2520	62	15	48	7	40.705000000000005	15	#658A98
+Dendritic cell	SIGLEC6 AXL-associated dendritic cell	144	HLA-DRA;CD74	Dendritic cell | SIGLEC6 AXL-associated dendritic cell	144	64	16	60	7	40.705000000000005	16	#658A98
+Dendritic cell	FCER1A dendritic cell	208	HLA-DRA;CD74	Dendritic cell | FCER1A dendritic cell	208	79	20	70	8	40.705000000000005	20	#658A98
+Dendritic cell	LAMP3 mature dendritic cell	228	HLA-DRA;CD74	Dendritic cell | LAMP3 mature dendritic cell	228	71	21	64	9	40.705000000000005	21	#658A98
+Dendritic cell	LILRA4 plasmacytoid dendritic cell	1196	GZMB;CD74	Dendritic cell | LILRA4 plasmacytoid dendritic cell	1196	107	23	93	9	40.705000000000005	23	#658A98
+Dendritic cell	CLEC9A cDC1 dendritic cell	824	HLA-DRA;CD74	Dendritic cell | CLEC9A cDC1 dendritic cell	824	124	24	105	10	40.705000000000005	24	#658A98
+Dendritic cell	CD1C cDC2 dendritic cell	2901	HLA-DRA;HLA-DPB1	Dendritic cell | CD1C cDC2 dendritic cell	2901	182	25	135	12	40.705000000000005	25	#658A98
+T cell	FGFBP2 cytotoxic T cell	5521	NKG7;CCL5	T cell | FGFBP2 cytotoxic T cell	5521	140	23	116	9	47.075	23	#56799D
+T cell	IFIT1 IFN-responsive T cell	994	CCL5;ISG15	T cell | IFIT1 IFN-responsive T cell	994	104	24	90	8	46.565000000000005	24	#56799D
+T cell	ZNF683 cytotoxic T cell	8643	CCL5;CXCR4	T cell | ZNF683 cytotoxic T cell	8643	171	24	135	10	47.585	24	#56799D
+T cell	BACH2 memory-associated T cell	22505	IL7R;CXCR4	T cell | BACH2 memory-associated T cell	22505	205	25	148	12	43.505	25	#56799D
+T cell	CD3D T cell	17622	PTPRC;FYN	T cell | CD3D T cell	17622	230	25	162	12	44.525000000000006	25	#56799D
+T cell	FOXP3 regulatory T cell	4783	IL32;LTB	T cell | FOXP3 regulatory T cell	4783	172	25	136	11	45.545	25	#56799D
+T cell	GIMAP7 memory-associated T cell	19276	CCL5;PTPRC	T cell | GIMAP7 memory-associated T cell	19276	221	25	155	12	46.565000000000005	25	#56799D
+T cell	GZMK cytotoxic-memory T cell	31086	CCL5;CXCR4	T cell | GZMK cytotoxic-memory T cell	31086	203	25	148	11	47.585	25	#56799D
+T cell	MKI67 proliferating T cell	2715	STMN1;HMGB2	T cell | MKI67 proliferating T cell	2715	172	25	138	12	48.605000000000004	25	#56799D
+T cell	SLC4A10 innate-like T cell	3217	IL7R;CD69	T cell | SLC4A10 innate-like T cell	3217	173	25	140	11	49.625	25	#56799D
+T cell	ZEB2 cytotoxic T cell	13574	CCL5;PTPRC	T cell | ZEB2 cytotoxic T cell	13574	191	25	142	12	50.645	25	#56799D
+T cell	IL7R memory T cell	23231	CXCR4;IL7R	T cell | IL7R memory T cell	23231	176	26	141	11	47.075	26	#56799D
+Natural killer cell	FGFBP2 cytotoxic NK cell	8321	GNLY;NKG7	Natural killer cell | FGFBP2 cytotoxic NK cell	8321	184	24	138	11	52.99500000000001	24	#B77455
+Natural killer cell	GZMK chemokine-associated NK cell	3960	CCL5;CCL4	Natural killer cell | GZMK chemokine-associated NK cell	3960	126	24	104	8	54.01500000000001	24	#B77455
+Natural killer cell	XCL1 chemokine-expressing NK cell	9719	NKG7;CCL5	Natural killer cell | XCL1 chemokine-expressing NK cell	9719	198	25	146	11	53.50500000000001	25	#B77455
+Natural killer cell	KLRD1 NK cell	2581	CCL5;NKG7	Natural killer cell | KLRD1 NK cell	2581	173	26	141	11	53.50500000000001	26	#B77455
+B cell	AICDA germinal-centre-like B cell	696	IGKC;HLA-DRA	B cell | AICDA germinal-centre-like B cell	696	23	11	18	6	56.87500000000001	11	#9C8CAD
+B cell	NR4A1 activated B cell	1514	HLA-DRA;IGKC	B cell | NR4A1 activated B cell	1514	50	15	41	8	56.87500000000001	15	#9C8CAD
+B cell	MT2A stress-responsive B cell	1284	BANK1;HLA-DRA	B cell | MT2A stress-responsive B cell	1284	69	16	60	9	56.87500000000001	16	#9C8CAD
+B cell	BANK1 memory-like B cell	1807	BANK1;CD74	B cell | BANK1 memory-like B cell	1807	111	22	99	10	56.36500000000001	22	#9C8CAD
+B cell	TCL1A naive-like B cell	2594	HLA-DRA;CD74	B cell | TCL1A naive-like B cell	2594	89	22	76	10	57.385000000000005	22	#9C8CAD
+B cell	MS4A1 B cell	2601	CD74;IGKC	B cell | MS4A1 B cell	2601	133	23	114	10	56.87500000000001	23	#9C8CAD
+Plasma cell	MKI67 proliferation-associated plasma cell	311	IGKC;JCHAIN	Plasma cell | MKI67 proliferation-associated plasma cell	311	65	21	58	10	60.185	21	#B78D8D
+Plasma cell	DERL3 secretory plasma cell	3865	IGKC;JCHAIN	Plasma cell | DERL3 secretory plasma cell	3865	171	25	126	12	60.185	25	#B78D8D
+Mast cell	P2RY14 receptor-associated mast cell	868	TPSB2;TPSAB1	Mast cell | P2RY14 receptor-associated mast cell	868	98	17	68	10	63.435	17	#8A995B
+Mast cell	PRG2 granule-associated mast cell	181	TPSB2;TPSAB1	Mast cell | PRG2 granule-associated mast cell	181	79	22	66	10	63.435	22	#8A995B
+Mast cell	NFKBIA activation-associated mast cell	2007	TPSAB1;TPSB2	Mast cell | NFKBIA activation-associated mast cell	2007	136	24	108	11	63.435	24	#8A995B
+Mast cell	TPSAB1 mast cell	6828	TPSB2;TPSAB1	Mast cell | TPSAB1 mast cell	6828	210	26	149	12	63.435	26	#8A995B

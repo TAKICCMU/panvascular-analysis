@@ -1,0 +1,27 @@
+INFO:root:Versions={'scib-metrics': '0.5.9', 'anndata': '0.12.10', 'numpy': '2.2.5', 'pandas': '2.3.3', 'scipy': '1.16.3', 'jax': '0.9.1', 'jaxlib': '0.9.1', 'scanpy': '1.12', 'pynndescent': '0.5.13', 'umap-learn': '0.5.11', 'scikit-learn': '1.8.0'} devices=[CudaDevice(id=0)]
+Computing neighbors:   0%|          | 0/1 [00:00<?, ?it/s]Computing neighbors: 100%|██████████| 1/1 [00:00<00:00,  7.37it/s]Computing neighbors: 100%|██████████| 1/1 [00:00<00:00,  7.36it/s]
+Embeddings:   0%|[32m          [0m| 0/1 [00:00<?, ?it/s]
+Metrics:   0%|[34m          [0m| 0/10 [00:00<?, ?it/s][A
+Metrics:   0%|[34m          [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][AINFO:root:isolated labels: no more than 74 batches per label
+
+Metrics:  10%|[34m█         [0m| 1/10 [02:29<22:26, 149.65s/it, Bio conservation: isolated_labels][A
+Metrics:  10%|[34m█         [0m| 1/10 [02:30<22:26, 149.65s/it, Bio conservation: nmi_ari_cluster_labels_kmeans][A
+Metrics:  20%|[34m██        [0m| 2/10 [02:59<10:32, 79.08s/it, Bio conservation: nmi_ari_cluster_labels_kmeans] [A
+Metrics:  20%|[34m██        [0m| 2/10 [02:59<10:32, 79.08s/it, Bio conservation: silhouette_label]             [A
+Metrics:  30%|[34m███       [0m| 3/10 [03:05<05:21, 45.92s/it, Bio conservation: silhouette_label][A
+Metrics:  30%|[34m███       [0m| 3/10 [03:05<05:21, 45.92s/it, Bio conservation: clisi_knn]       [A
+Metrics:  40%|[34m████      [0m| 4/10 [03:07<02:50, 28.40s/it, Bio conservation: clisi_knn][A
+Metrics:  40%|[34m████      [0m| 4/10 [03:07<02:50, 28.40s/it, Batch correction: bras]     [A
+Metrics:  50%|[34m█████     [0m| 5/10 [03:48<02:45, 33.01s/it, Batch correction: bras][A
+Metrics:  50%|[34m█████     [0m| 5/10 [03:48<02:45, 33.01s/it, Batch correction: ilisi_knn][A
+Metrics:  60%|[34m██████    [0m| 6/10 [03:49<01:28, 22.11s/it, Batch correction: ilisi_knn][A
+Metrics:  60%|[34m██████    [0m| 6/10 [03:49<01:28, 22.11s/it, Batch correction: kbet_per_label][A
+Metrics:  70%|[34m███████   [0m| 7/10 [05:15<02:08, 43.00s/it, Batch correction: kbet_per_label][A
+Metrics:  70%|[34m███████   [0m| 7/10 [05:15<02:08, 43.00s/it, Batch correction: graph_connectivity][A/home/anzhen_vhd/miniconda3/envs/scib_GPU/lib/python3.13/site-packages/scib_metrics/metrics/_graph_connectivity.py:32: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+  tab = pd.value_counts(comps)
+
+Metrics:  80%|[34m████████  [0m| 8/10 [05:16<00:59, 29.53s/it, Batch correction: graph_connectivity][A
+Metrics:  80%|[34m████████  [0m| 8/10 [05:16<00:59, 29.53s/it, Batch correction: pcr_comparison]    [A
+Metrics:  90%|[34m█████████ [0m| 9/10 [05:19<00:21, 21.20s/it, Batch correction: pcr_comparison][AEmbeddings: 100%|[32m██████████[0m| 1/1 [05:19<00:00, 319.06s/it]Embeddings: 100%|[32m██████████[0m| 1/1 [05:19<00:00, 319.06s/it]
+
+                                                                                         [A

@@ -1,0 +1,49 @@
+{
+  "native_body_bbox": [
+    21.00255584716797,
+    50.58587646484375,
+    103.95380401611328,
+    188.43838500976562
+  ],
+  "native_vessel_bbox": [
+    37.065372467041016,
+    69.5256118774414,
+    87.65125274658203,
+    184.3627471923828
+  ],
+  "current_body_bbox_preserved": [
+    14.16,
+    24.604724,
+    30.64,
+    51.964724
+  ],
+  "old_vessel_bbox": [
+    17.28,
+    24.764724,
+    29.2,
+    51.804724
+  ],
+  "new_vessel_bbox": [
+    17.351214402902862,
+    28.363749978985428,
+    27.40115729597356,
+    51.15581996291999
+  ],
+  "method": "Transfer relative placement from native BioRender group; body unchanged; no pixel values or other figure objects changed",
+  "checks": [
+    {
+      "file": "Figure/Figure1.pdf",
+      "changed_pixels_within_vessel_region": 2476,
+      "changed_pixels_outside_region": 0,
+      "text_identical": true,
+      "page_size_identical": true
+    },
+    {
+      "file": "Figures/Figure1.pdf",
+      "changed_pixels_within_vessel_region": 2476,
+      "changed_pixels_outside_region": 0,
+      "text_identical": true,
+      "page_size_identical": true
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+state_id	level1_annotation	level2_annotation	hex	within_parent_display_order	non_named_state
+L2_096ecc1a9e3d	B cell	AICDA germinal-centre-like B cell	#0072B2	1	False
+L2_fab35282a4fd	B cell	BANK1 memory-like B cell	#D55E00	2	False
+L2_95beb86e5b94	B cell	MS4A1 B cell	#009E73	3	False
+L2_2017c5ee55bf	B cell	MT2A stress-responsive B cell	#CC79A7	4	False
+L2_d8215a668404	B cell	NR4A1 activated B cell	#E69F00	5	False
+L2_f0d916fbf169	B cell	TCL1A naive-like B cell	#56B4E9	6	False
+L2_35e7f0b7e7a0	Dendritic cell	CD1C cDC2 dendritic cell	#0072B2	1	False
+L2_e17cb51bdbe9	Dendritic cell	CLEC9A cDC1 dendritic cell	#D55E00	2	False
+L2_7e4347eb7cad	Dendritic cell	FCER1A dendritic cell	#009E73	3	False
+L2_cd4594fbfd93	Dendritic cell	IL1B inflammatory dendritic cell	#CC79A7	4	False
+L2_65f5df446b8f	Dendritic cell	LAMP3 mature dendritic cell	#E69F00	5	False
+L2_05b8801cfe33	Dendritic cell	LILRA4 plasmacytoid dendritic cell	#56B4E9	6	False
+L2_8791643c0cca	Dendritic cell	SIGLEC6 AXL-associated dendritic cell	#332288	7	False
+L2_700ff29be0fb	Endothelial cell	ACKR1 venous endothelial cell	#0072B2	1	False
+L2_43528a699905	Endothelial cell	ASPN matrix-associated endothelial cell	#D55E00	2	False
+L2_86f704962638	Endothelial cell	CA4 capillary endothelial cell	#009E73	3	False
+L2_4625e955d444	Endothelial cell	NRG1 matrix-associated endothelial cell	#CC79A7	4	False
+L2_8f0c48bd4aba	Endothelial cell	OMD matrix-associated endothelial cell	#E69F00	5	False
+L2_a62ba8a9b9b0	Endothelial cell	PECAM1 endothelial cell	#56B4E9	6	False
+L2_e113afe05c7c	Endothelial cell	PROX1 lymphatic endothelial cell	#332288	7	False
+L2_641baf39fb8c	Endothelial cell	SEMA3G arterial endothelial cell	#882255	8	False
+L2_95500ac5486e	Endothelial cell	ZNF385D venous endothelial cell	#44AA99	9	False
+L2_cee868a0824a	Fibroblast	CDH19 matrix-associated fibroblast	#0072B2	1	False
+L2_2705ff04f2a0	Fibroblast	CLDN1 matrix-associated fibroblast	#D55E00	2	False
+L2_96fc15d3a0ef	Fibroblast	CXCL12 chemokine-expressing fibroblast	#009E73	3	False
+L2_1470e9acba10	Fibroblast	DCN fibroblast	#CC79A7	4	False
+L2_df6ac5f97d56	Fibroblast	FAP activated ECM-remodelling fibroblast	#E69F00	5	False
+L2_c6cf7820e034	Fibroblast	FOSB stress-responsive fibroblast	#56B4E9	6	False
+L2_2103f18a553c	Fibroblast	ITGA8 contractile-program fibroblast	#332288	7	False
+L2_fd8a511dae68	Fibroblast	ITGBL1 ECM-remodelling fibroblast	#882255	8	False
+L2_065af36c5807	Fibroblast	LAMA2 tissue-associated fibroblast	#44AA99	9	False
+L2_5fbc7aa67bb5	Fibroblast	LTBP2 ECM-remodelling fibroblast	#999933	10	False
+L2_d933b1dfdc96	Fibroblast	PI16 adventitial-like fibroblast	#661100	11	False
+L2_24e16725a6dd	Fibroblast	RSAD2 IFN-responsive fibroblast	#6699CC	12	False
+L2_055c558b1d77	Fibroblast	S100B matrix-associated fibroblast	#AA4499	13	False
+L2_27ff88ffc7e0	Fibromyocyte	ACTA2 contractile fibromyocyte	#0072B2	1	False
+L2_c033a171d61f	Fibromyocyte	AEBP1 fibromyocyte	#D55E00	2	False
+L2_7577f7a39cfe	Fibromyocyte	CD9 ECM-remodelling fibromyocyte	#009E73	3	False
+L2_d46d435b9c94	Fibromyocyte	DCN fibroblast-like fibromyocyte	#CC79A7	4	False
+L2_244a81d2e512	Fibromyocyte	FOSB stress-responsive fibromyocyte	#E69F00	5	False
+L2_b9ea57176b2e	Fibromyocyte	ITGA10 ECM-remodelling fibromyocyte	#56B4E9	6	False
+L2_8ac6c1b35fe9	Fibromyocyte	LAMA2 matrix-associated fibromyocyte	#332288	7	False
+L2_00749d116d08	Fibromyocyte	MYOCD contractile fibromyocyte	#882255	8	False
+L2_56fda57877fa	Fibromyocyte	PRKG1 contractile fibromyocyte	#44AA99	9	False
+L2_06ccf0eea037	Macrophage	C1QC complement-rich macrophage	#0072B2	1	False
+L2_dcc124caf722	Macrophage	CCL20 inflammatory macrophage	#D55E00	2	False
+L2_a7ffc2cbbbf1	Macrophage	CCL3 activated resident-like macrophage	#009E73	3	False
+L2_388e7ab8a86a	Macrophage	CD68 macrophage	#CC79A7	4	False
+L2_6076c8fdbb80	Macrophage	CD83 activated macrophage	#E69F00	5	False
+L2_669fb73116cd	Macrophage	CXCL10 IFN-responsive macrophage	#56B4E9	6	False
+L2_002b936eafb0	Macrophage	CYP27A1 lipid-associated macrophage	#332288	7	False
+L2_343e08d912e8	Macrophage	FCN1 monocyte-like macrophage	#882255	8	False
+L2_1e430987af3f	Macrophage	HLA-DRA antigen-presenting macrophage	#44AA99	9	False
+L2_adb1ee0c9e55	Macrophage	IL1B inflammatory macrophage	#999933	10	False
+L2_e1236472a79d	Macrophage	JUN stress-responsive macrophage	#661100	11	False
+L2_3a22177ca243	Macrophage	KYNU inflammatory macrophage	#6699CC	12	False
+L2_accd24a5cd99	Macrophage	LYVE1 resident-like macrophage	#AA4499	13	False
+L2_ad81293a8367	Macrophage	MKI67 proliferating macrophage	#117733	14	False
+L2_4004d577bdcf	Macrophage	MSR1 phagocytosis-associated macrophage	#CC6677	15	False
+L2_0f291d68992d	Macrophage	PDE4C-high macrophage	#777777	16	False
+L2_53ea43ca145f	Macrophage	SPP1 lipid-associated macrophage	#A6761D	17	False
+L2_9d6667f7f21e	Mast cell	NFKBIA activation-associated mast cell	#0072B2	1	False
+L2_66042ba3b1b2	Mast cell	P2RY14 receptor-associated mast cell	#D55E00	2	False
+L2_57ac90faeaed	Mast cell	PRG2 granule-associated mast cell	#009E73	3	False
+L2_c987bf6a1603	Mast cell	TPSAB1 mast cell	#CC79A7	4	False
+L2_f10c2fd9c25c	Monocyte	CXCL10 IFN-responsive monocyte	#0072B2	1	False
+L2_1d804333a205	Monocyte	CXCL8 inflammatory monocyte	#D55E00	2	False
+L2_7fc95625ac16	Monocyte	FCGR3A-expressing monocyte	#009E73	3	False
+L2_789eea6f93eb	Monocyte	FCN1 classical monocyte	#CC79A7	4	False
+L2_c4244ddbf11f	Monocyte	IL1B inflammatory monocyte	#E69F00	5	False
+L2_118ef034baff	Monocyte	JUN stress-responsive monocyte	#56B4E9	6	False
+L2_02b203b92374	Monocyte	S100A12 classical monocyte	#332288	7	False
+L2_a67b431c341b	Monocyte	SERPINB2 inflammatory monocyte	#882255	8	False
+L2_090229618f20	Monocyte	TXNIP-high monocyte	#44AA99	9	False
+L2_cf12f7cc2e42	Natural killer cell	FGFBP2 cytotoxic NK cell	#0072B2	1	False
+L2_44e5c73fbfcc	Natural killer cell	GZMK chemokine-associated NK cell	#D55E00	2	False
+L2_af0c334f7118	Natural killer cell	KLRD1 NK cell	#009E73	3	False
+L2_3ae9165349b4	Natural killer cell	XCL1 chemokine-expressing NK cell	#CC79A7	4	False
+L2_bfa3fa482afd	Neutrophil	CSF3R neutrophil	#0072B2	1	False
+L2_467372b54dfa	Neutrophil	CXCL8 inflammatory neutrophil	#D55E00	2	False
+L2_67b310adf0c8	Neutrophil	CXCR2-associated neutrophil	#009E73	3	False
+L2_e906261466e1	Neutrophil	CXCR4-associated neutrophil	#CC79A7	4	False
+L2_fae19bfb92b8	Neutrophil	S100A12 inflammatory neutrophil	#E69F00	5	False
+L2_8ed172e7df94	Pericyte	CD36-high pericyte	#0072B2	1	False
+L2_0358838942a3	Pericyte	COL4A1 basement-membrane-associated pericyte	#D55E00	2	False
+L2_4e86410a8315	Pericyte	COX4I2 pericyte	#009E73	3	False
+L2_93e025321630	Pericyte	FN1 matrix-associated pericyte	#CC79A7	4	False
+L2_8b4b73efa4ad	Pericyte	PDGFRA matrix-associated pericyte	#E69F00	5	False
+L2_27d0a8bf79da	Pericyte	PI15-high pericyte	#56B4E9	6	False
+L2_67c25844e5d4	Pericyte	PRKG1 contractile-program pericyte	#332288	7	False
+L2_5b47e698b9eb	Pericyte	RGS5 pericyte	#882255	8	False
+L2_e699d585d8e9	Pericyte	STEAP4-associated pericyte	#44AA99	9	False
+L2_4737f5eb3c6c	Plasma cell	DERL3 secretory plasma cell	#0072B2	1	False
+L2_5836329581fd	Plasma cell	MKI67 proliferation-associated plasma cell	#D55E00	2	False
+L2_8dfc3645f2b2	Smooth muscle cell	CCL21 chemokine-expressing SMC	#0072B2	1	False
+L2_0ce362a0fd5e	Smooth muscle cell	CNN1 contractile SMC	#D55E00	2	False
+L2_0101ed411c1c	Smooth muscle cell	COX4I2 contractile SMC	#009E73	3	False
+L2_6d9650d2e3c0	Smooth muscle cell	DLX5 contractile SMC	#CC79A7	4	False
+L2_da8b160edbb6	Smooth muscle cell	EFEMP1 ECM-remodelling SMC	#E69F00	5	False
+L2_4284c525a7f1	Smooth muscle cell	IFIT1 IFN-responsive SMC	#56B4E9	6	False
+L2_d6067f9523f0	Smooth muscle cell	MYH11 SMC	#332288	7	False
+L2_794f78a089a5	Smooth muscle cell	MYH11 contractile SMC	#882255	8	False
+L2_16d0d72b3cbd	Smooth muscle cell	PRKG1 contractile SMC	#44AA99	9	False
+L2_809147f3664e	Smooth muscle cell	RGS6 contractile SMC	#999933	10	False
+L2_b40e18bd03ca	T cell	BACH2 memory-associated T cell	#0072B2	1	False
+L2_9912582e8b28	T cell	CD3D T cell	#D55E00	2	False
+L2_32373f98f209	T cell	FGFBP2 cytotoxic T cell	#009E73	3	False
+L2_2a6886fd89e6	T cell	FOXP3 regulatory T cell	#CC79A7	4	False
+L2_5f8cdfd19e2e	T cell	GIMAP7 memory-associated T cell	#E69F00	5	False
+L2_50c003e9fd0b	T cell	GZMK cytotoxic-memory T cell	#56B4E9	6	False
+L2_5a30eea27754	T cell	IFIT1 IFN-responsive T cell	#332288	7	False
+L2_f6a186876124	T cell	IL7R memory T cell	#882255	8	False
+L2_ce607396b11f	T cell	MKI67 proliferating T cell	#44AA99	9	False
+L2_dd5b9c6c12a7	T cell	SLC4A10 innate-like T cell	#999933	10	False
+L2_c843571c67a6	T cell	ZEB2 cytotoxic T cell	#661100	11	False
+L2_31e49ad481ed	T cell	ZNF683 cytotoxic T cell	#6699CC	12	False

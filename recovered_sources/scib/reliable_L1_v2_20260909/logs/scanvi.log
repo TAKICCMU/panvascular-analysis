@@ -1,0 +1,13 @@
+Seed set to 0
+Traceback (most recent call last):
+  File "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/scib/reliable_L1_v2_20260909/code/train_supervised.py", line 25, in <module>
+    base=scvi.model.SCVI.load(src,adata=a,accelerator='gpu',device=0)
+  File "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/scvi/model/base/_base_model.py", line 796, in load
+    _, _, device = parse_device_args(
+  File "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/scvi/model/_utils.py", line 102, in parse_device_args
+    connector = _AcceleratorConnector(accelerator=accelerator, devices=devices)
+  File "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/accelerator_connector.py", line 144, in __init__
+    self._check_device_config_and_set_final_flags(devices=devices, num_nodes=num_nodes)
+  File "/home/anzhen_vhd/miniconda3/envs/omicverse/lib/python3.10/site-packages/lightning/pytorch/trainer/connectors/accelerator_connector.py", line 325, in _check_device_config_and_set_final_flags
+    raise MisconfigurationException(
+lightning.fabric.utilities.exceptions.MisconfigurationException: `Trainer(devices=0)` value is not a valid input using cuda accelerator.

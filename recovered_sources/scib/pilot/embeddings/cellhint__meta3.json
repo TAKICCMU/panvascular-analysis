@@ -1,0 +1,38 @@
+{
+  "status": "completed",
+  "method": "cellhint",
+  "config_id": "meta3",
+  "output_type": "graph_only",
+  "parameters": {
+    "n_meta_neighbors": 3,
+    "K_exported": 30,
+    "batch_key": "sample_uid",
+    "input_label_key": "studywise_marker_level1",
+    "input_representation": "X_pca_omicverse",
+    "pca_file": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/pilot/omicverse_pca.npy",
+    "pca_sha256": "e24495b3ec9d83a3103977643317c4f26914a1079f462070107c8b01d4a6d61f",
+    "pca_metadata": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/pilot/omicverse_pca.metadata.json"
+  },
+  "input_shape": [
+    114833,
+    2000
+  ],
+  "graph_shape": [
+    114833,
+    30
+  ],
+  "obs_names_sha256": "0b380c76e5af648f6e927c3bdece573705ff2893daa5ded7ca98c01913bcf2f7",
+  "elapsed_seconds": 46391.73917746544,
+  "environment": {
+    "python": "3.10.19",
+    "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+    "packages": {
+      "anndata": "0.11.4",
+      "cellhint": "1.0.0",
+      "numpy": "1.26.4",
+      "pandas": "2.2.3",
+      "scanpy": "1.11.5",
+      "scipy": "1.12.0"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+module	rank	state_id	full_name	display_name	weight
+CM09	1	L2_50c003e9fd0b	GZMK cytotoxic-memory T cell	GZMK cytotoxic memory T	0.137408635158464
+CM09	2	L2_31e49ad481ed	ZNF683 cytotoxic T cell	ZNF683 cytotoxic T	0.123814847498123
+CM09	3	L2_5f8cdfd19e2e	GIMAP7 memory-associated T cell	GIMAP7 memory T	0.0885816917254251
+CM09	4	L2_ce607396b11f	MKI67 proliferating T cell	MKI67 proliferating T	0.0832650478416711
+CM09	5	L2_f6a186876124	IL7R memory T cell	IL7R memory T	0.0664742771381166
+CM03	1	L2_96fc15d3a0ef	CXCL12 chemokine-expressing fibroblast	CXCL12 chemokine Fib	0.279802706679193
+CM03	2	L2_d933b1dfdc96	PI16 adventitial-like fibroblast	PI16 adventitial-like Fib	0.239871346491072
+CM03	3	L2_065af36c5807	LAMA2 tissue-associated fibroblast	LAMA2 tissue-associated Fib	0.161648350609504
+CM03	4	L2_df6ac5f97d56	FAP activated ECM-remodelling fibroblast	FAP activated ECM Fib	0.110435269245166
+CM03	5	L2_e113afe05c7c	PROX1 lymphatic endothelial cell	PROX1 lymphatic EC	0.0525586938992445

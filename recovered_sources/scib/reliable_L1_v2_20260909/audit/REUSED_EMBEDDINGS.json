@@ -1,0 +1,292 @@
+[
+  {
+    "method": "pca",
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/embeddings/pca__baseline.npy",
+    "sha256": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+    "metadata": {
+      "status": "completed",
+      "method": "pca",
+      "config_id": "baseline",
+      "parameters": {
+        "n_components": 30,
+        "correction": "none",
+        "pca_source": "omicverse_sidecar",
+        "pca_file": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/primary/omicverse_pca.npy",
+        "pca_sha256": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+        "pca_metadata": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/primary/omicverse_pca.metadata.json",
+        "pca_metadata_sha256": "81ba51b3afa0517d55d169eca01bcbe61df2732c5547b1ea2399f73c851e4682"
+      },
+      "input_shape": [
+        315949,
+        2000
+      ],
+      "embedding_shape": [
+        315949,
+        30
+      ],
+      "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "batch_key": "sample_uid",
+      "label_key": "studywise_marker_level1",
+      "n_batches": 247,
+      "n_labels": 15,
+      "seed": 0,
+      "elapsed_seconds": 7.069784641265869,
+      "environment": {
+        "python": "3.10.19",
+        "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+        "packages": {
+          "anndata": "0.11.4",
+          "numpy": "1.26.4",
+          "pandas": "2.2.3",
+          "scanpy": "1.11.5",
+          "scipy": "1.12.0"
+        }
+      }
+    },
+    "retrained": false
+  },
+  {
+    "method": "harmony",
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/embeddings/harmony__theta1.npy",
+    "sha256": "353fe4841c17497fa5db5a58e47c57eddd872b0a9451478456cf8e4b05ba1c3f",
+    "metadata": {
+      "status": "completed",
+      "method": "harmony",
+      "config_id": "theta1",
+      "parameters": {
+        "theta": 1.0,
+        "device": "cuda",
+        "backend": "omicverse",
+        "omicverse_global_mode": "cpu-gpu-mixed",
+        "max_iter_harmony": 20,
+        "input": "X_pca",
+        "pca_source": "omicverse_sidecar",
+        "pca_file": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/primary/omicverse_pca.npy",
+        "pca_sha256": "d5b636ec1519a29141c049a940116a9bafc8ec561592d36c6ecccbf98c14b22e",
+        "pca_metadata": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/omicverse_pca/primary/omicverse_pca.metadata.json",
+        "pca_metadata_sha256": "81ba51b3afa0517d55d169eca01bcbe61df2732c5547b1ea2399f73c851e4682"
+      },
+      "input_shape": [
+        315949,
+        2000
+      ],
+      "embedding_shape": [
+        315949,
+        30
+      ],
+      "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "batch_key": "sample_uid",
+      "label_key": "studywise_marker_level1",
+      "n_batches": 247,
+      "n_labels": 15,
+      "seed": 0,
+      "elapsed_seconds": 26.052140474319458,
+      "environment": {
+        "python": "3.10.19",
+        "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+        "packages": {
+          "anndata": "0.11.4",
+          "numpy": "1.26.4",
+          "omicverse": "2.1.2rc1",
+          "pandas": "2.2.3",
+          "scanpy": "1.11.5",
+          "scipy": "1.12.0",
+          "torch": "2.10.0"
+        }
+      }
+    },
+    "retrained": false
+  },
+  {
+    "method": "scvi",
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/embeddings/scvi__latent20_layers2.npy",
+    "sha256": "f6e833e61dee20dce4056124332dc3cf23bd62a59df001ffcc4f6a1fbe9b9533",
+    "metadata": {
+      "status": "completed",
+      "method": "scvi",
+      "config_id": "latent20_layers2",
+      "parameters": {
+        "n_latent": 20,
+        "n_hidden": 128,
+        "n_layers": 2,
+        "gene_likelihood": "nb",
+        "batch_unit": "sample_uid",
+        "accelerator": "gpu",
+        "batch_size": 1024,
+        "num_workers": 8,
+        "float32_matmul_precision": "high",
+        "max_epochs": 100
+      },
+      "input_shape": [
+        315949,
+        2000
+      ],
+      "embedding_shape": [
+        315949,
+        20
+      ],
+      "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "batch_key": "sample_uid",
+      "label_key": "studywise_marker_level1",
+      "n_batches": 247,
+      "n_labels": 15,
+      "seed": 0,
+      "elapsed_seconds": 624.9028537273407,
+      "environment": {
+        "python": "3.10.19",
+        "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+        "packages": {
+          "anndata": "0.11.4",
+          "numpy": "1.26.4",
+          "pandas": "2.2.3",
+          "scanpy": "1.11.5",
+          "scipy": "1.12.0",
+          "scvi-tools": "1.3.3",
+          "torch": "2.10.0"
+        }
+      }
+    },
+    "retrained": false
+  },
+  {
+    "method": "scanorama",
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/embeddings/scanorama__dim30.npy",
+    "sha256": "2bc4dacba8163941d7f4e4ee71ab2530e35dda154f7e1881ebad58af3a96f2ab",
+    "metadata": {
+      "status": "completed",
+      "method": "scanorama",
+      "config_id": "dim30",
+      "parameters": {
+        "dimred": 30,
+        "batch_unit": "sample_uid"
+      },
+      "input_shape": [
+        315949,
+        2000
+      ],
+      "embedding_shape": [
+        315949,
+        30
+      ],
+      "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "batch_key": "sample_uid",
+      "label_key": "studywise_marker_level1",
+      "n_batches": 247,
+      "n_labels": 15,
+      "seed": 0,
+      "elapsed_seconds": 1599.3472549915314,
+      "environment": {
+        "python": "3.10.19",
+        "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+        "packages": {
+          "anndata": "0.11.4",
+          "numpy": "1.26.4",
+          "pandas": "2.2.3",
+          "scanorama": "1.7.4",
+          "scanpy": "1.11.5",
+          "scipy": "1.12.0"
+        }
+      }
+    },
+    "retrained": false
+  },
+  {
+    "method": "liger",
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/embeddings/liger__k20_lambda5.npy",
+    "sha256": "a0239ae96054fb77cab28465916d7d29ceac95f1ce137a4b2838f80ca4472697",
+    "metadata": {
+      "status": "completed",
+      "method": "liger",
+      "config_id": "k20_lambda5",
+      "parameters": {
+        "algorithm": "online_iNMF",
+        "k": 20,
+        "lambda": 5.0,
+        "max_epochs": 5,
+        "mini_batch_size_requested": 5000,
+        "mini_batch_size_effective": 5000,
+        "dataset_order_rule": "minimum proportional epoch capacity first, then batch name",
+        "minimum_dataset_epoch_capacity": 220,
+        "batch_unit": "sample_uid",
+        "genes": "frozen 2,000 benchmark HVGs"
+      },
+      "input_shape": [
+        315949,
+        2000
+      ],
+      "embedding_shape": [
+        315949,
+        20
+      ],
+      "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "batch_key": "sample_uid",
+      "label_key": "studywise_marker_level1",
+      "n_batches": 247,
+      "n_labels": 15,
+      "seed": 0,
+      "elapsed_seconds": 646.0642147064209,
+      "environment": {
+        "python": "3.10.19",
+        "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+        "packages": {
+          "anndata": "0.11.4",
+          "numpy": "2.2.6",
+          "pandas": "2.3.3",
+          "pyliger": "0.2.4",
+          "scanpy": "1.11.5",
+          "scipy": "1.15.2"
+        }
+      }
+    },
+    "retrained": false
+  },
+  {
+    "method": "scalex",
+    "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/02_scib_benchmark/studywise_sampleonly_v1/primary/embeddings/scalex__iter30000_bs512.npy",
+    "sha256": "2c52c4928e21d108147f81c73d6e2b72b6882b94a577815cc91757d44909c38e",
+    "metadata": {
+      "status": "completed",
+      "method": "scalex",
+      "config_id": "iter30000_bs512",
+      "parameters": {
+        "latent_dim_requested": 10,
+        "batch_size": 512,
+        "max_iteration": 30000,
+        "learning_rate": 0.0002,
+        "batch_unit": "sample_uid",
+        "processed_input": true,
+        "gpu": 0,
+        "seed": 124
+      },
+      "input_shape": [
+        315949,
+        2000
+      ],
+      "embedding_shape": [
+        315949,
+        10
+      ],
+      "obs_names_sha256": "e2ac0ad6c47a2349b3b26a129287868dd211b6b43a72b2644a9a5a1ed08f88d4",
+      "batch_key": "sample_uid",
+      "label_key": "studywise_marker_level1",
+      "n_batches": 247,
+      "n_labels": 15,
+      "seed": 124,
+      "elapsed_seconds": 13008.38651585579,
+      "environment": {
+        "python": "3.10.12",
+        "platform": "Linux-5.15.0-187-generic-x86_64-with-glibc2.31",
+        "packages": {
+          "SCALEX": "1.0.4",
+          "anndata": "0.11.4",
+          "numpy": "1.26.4",
+          "pandas": "2.3.3",
+          "scanpy": "1.11.5",
+          "scipy": "1.15.2",
+          "torch": "2.10.0"
+        }
+      }
+    },
+    "retrained": false
+  }
+]

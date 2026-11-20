@@ -1,0 +1,21 @@
+{
+  "command": [
+    "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python",
+    "-B",
+    "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/magma_adapter_v1/scripts/run_downstream.py",
+    "--config",
+    "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/configs/magma_config_APPROVED.yaml",
+    "--execute",
+    "--modules",
+    "cohort",
+    "magma"
+  ],
+  "config": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/configs/magma_config_APPROVED.yaml",
+  "receipt": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/approvals/magma_approval.json",
+  "code_dir": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/magma_adapter_v1",
+  "code_sha256": "ac18f657d6197cf3229f64e9578bb14c5f85b846b4917d7f621cb404c783a006",
+  "tests_passed": 6,
+  "science_started": false,
+  "prior_failure_preserved": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/traits_20260914T023900Z",
+  "output_root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/magma_category_fix_20260914T0301/outputs"
+}

@@ -1,0 +1,19 @@
+{
+  "created": 1789548342.0329745,
+  "job": {
+    "id": "pseudobulk_manuscript_primary_enrichment",
+    "command": [
+      "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/code/run.py"
+    ],
+    "threads_reserved": 4,
+    "bound_files": {
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/code/run.py": "a1b5e7f2cf81774892f9905a957347a37a8953ae7086bb9503e759ec655f320c",
+      "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/pseudobulk_manuscript_strategy_enrichment_v1/RECEIPT.json": "c62ff0f9a38809d9e6ed7c5874ea0317cca463e46b2ba08b01409a5424e13645"
+    },
+    "depends_on": []
+  },
+  "receipt_sha256": "c62ff0f9a38809d9e6ed7c5874ea0317cca463e46b2ba08b01409a5424e13645",
+  "queue_sha256": "84c4f891169eb6025ab778d30e32a9b6c1fc92b2d250134723d151a0fb6b7030",
+  "previous_queue_sha256": "ee3789b3486a716273eb077a911a00839278236b671d55ddc3751653f9a68f71"
+}

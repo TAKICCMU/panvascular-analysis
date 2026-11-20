@@ -1,0 +1,52 @@
+{
+  "source": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_level1_frozen_v1.h5ad",
+  "source_manifest": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_level1_frozen_v1.manifest.json",
+  "threads": 40,
+  "code_version": "Macrophage_L2_CPU_Round1_1.0",
+  "script_sha256": "978f8bbb970e0fc29fd32e4bba85895c946775bd51ceab3c6a96563582ad6a96",
+  "config": {
+    "n_hvg": 3000,
+    "n_pcs": 50,
+    "n_neighbors": 30,
+    "seed": 0,
+    "pearson_theta": 100,
+    "pearson_chunksize": 1000,
+    "hvg_min_sample_cells": 2,
+    "normalize_target_sum": 10000,
+    "scale_max_value": 10,
+    "pca_solver": "covariance_eigh",
+    "metric": "euclidean",
+    "leiden_resolutions": [
+      0.4,
+      0.8,
+      1.2
+    ],
+    "baseline_resolution": 0.8,
+    "leiden_flavor": "igraph",
+    "leiden_n_iterations": 100,
+    "umap_min_dist": 0.3,
+    "umap_spread": 1.0,
+    "umap_maxiter": 500,
+    "min_cells_gene_test": 3,
+    "findmarkers_method": "wilcoxon",
+    "tie_correct": true,
+    "findmarkers_all_three_resolutions": true,
+    "figure_dpi": 250,
+    "harmony": {
+      "theta": 2.0,
+      "lamb": null,
+      "sigma": 0.1,
+      "nclust": null,
+      "tau": 0,
+      "block_size": 0.05,
+      "max_iter_harmony": 100,
+      "max_iter_kmeans": 20,
+      "epsilon_cluster": 1e-05,
+      "epsilon_harmony": 0.0001,
+      "alpha": 0.2,
+      "random_state": 0,
+      "device": "cpu",
+      "verbose": true
+    }
+  }
+}

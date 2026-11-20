@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "n_cells": 360,
+  "n_samples": 4,
+  "identical_relation": true,
+  "identical_reannotation": true,
+  "identical_selected_thresholds": true,
+  "cache_hits": 28,
+  "cache_misses": 2
+}

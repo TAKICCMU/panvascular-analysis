@@ -1,0 +1,254 @@
+[
+  {
+    "gene": "LIPA",
+    "section": "GSM7917895_CA2",
+    "n_plotted": 1254,
+    "n_original_flags": 7,
+    "full_image_size": [
+      1956,
+      2000
+    ],
+    "xlim": [
+      0,
+      1956
+    ],
+    "ylim": [
+      2000,
+      0
+    ],
+    "source_matrix": "/Users/taki/Desktop/Codex\u4efb\u52a11/spatial_visium_geo_local/extracted/GSE248608/GSM7917895_CA2_matrix.mtx",
+    "source_audit": "/Users/taki/Desktop/Panvascular_Content_Alignment_ST_Audit_20260919/audit/spatial_counts_LIPA_plotted_spots.tsv",
+    "join_source": "/Users/taki/Desktop/Codex\u4efb\u52a11/overnight_manuscript_integration_20260917/spatial_target_excluded_joint_v1/spot_joint_source.tsv.gz",
+    "join_key": "spot_id",
+    "join_complete": true,
+    "normalization": "log1p(10000 * raw / original all-feature library)",
+    "target_and_qc_exact_source_check": "PASS",
+    "panels": [
+      {
+        "panel": "Total UMI",
+        "key": "matrix_total_UMI_all_features",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 0,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 77085.0,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "Detected genes",
+        "key": "matrix_detected_features",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 0,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 8137.0,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "LIPA",
+        "key": "log1p_CP10k__LIPA",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 568,
+        "n_missing": 0,
+        "vmin": 0.5495389920698179,
+        "vmax": 2.735178133522082,
+        "colourbar_extend": "both"
+      },
+      {
+        "panel": "DCN (Fib reference)",
+        "key": "log1p_CP10k__DCN",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 220,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 4.255135602557479,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "COL1A1 (Fib reference)",
+        "key": "log1p_CP10k__COL1A1",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 182,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 7.152219822911512,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "LST1 (myeloid reference)",
+        "key": "log1p_CP10k__LST1",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 616,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 3.2234953634310632,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "ACTA2 (SMC reference)",
+        "key": "log1p_CP10k__ACTA2",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 101,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 4.916231078630291,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "Fib abundance (q05; model-inferred)",
+        "key": "abundance__Fibroblast",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 0,
+        "n_missing": 0,
+        "vmin": 0.0218271767327678,
+        "vmax": 16.084563175216317,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "Fibrous-cap expression program",
+        "key": "program__fibrous_cap_core",
+        "n": 1254,
+        "n_finite": 1254,
+        "n_zero": 0,
+        "n_missing": 0,
+        "vmin": -1.398786466090552,
+        "vmax": 1.7833758294435988,
+        "colourbar_extend": "neither"
+      }
+    ]
+  },
+  {
+    "gene": "STAT3",
+    "section": "GSM9414344_LCA",
+    "n_plotted": 2072,
+    "n_original_flags": 0,
+    "full_image_size": [
+      2000,
+      1951
+    ],
+    "xlim": [
+      0,
+      2000
+    ],
+    "ylim": [
+      1951,
+      0
+    ],
+    "source_matrix": "/Users/taki/Desktop/Codex\u4efb\u52a11/spatial_visium_geo_local/extracted/GSE314851/GSM9414344_LCA_matrix.mtx",
+    "source_audit": "/Users/taki/Desktop/Panvascular_Content_Alignment_ST_Audit_20260919/audit/spatial_counts_STAT3_plotted_spots.tsv",
+    "join_source": "/Users/taki/Desktop/Codex\u4efb\u52a11/overnight_manuscript_integration_20260917/spatial_target_excluded_joint_v1/spot_joint_source.tsv.gz",
+    "join_key": "spot_id",
+    "join_complete": true,
+    "normalization": "log1p(10000 * raw / original all-feature library)",
+    "target_and_qc_exact_source_check": "PASS",
+    "panels": [
+      {
+        "panel": "Total UMI",
+        "key": "matrix_total_UMI_all_features",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 0,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 10497.0,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "Detected genes",
+        "key": "matrix_detected_features",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 0,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 4205.0,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "STAT3",
+        "key": "log1p_CP10k__STAT3",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 1029,
+        "n_missing": 0,
+        "vmin": 1.1699175776502118,
+        "vmax": 3.301349903925083,
+        "colourbar_extend": "both"
+      },
+      {
+        "panel": "DCN (Fib reference)",
+        "key": "log1p_CP10k__DCN",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 157,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 5.162689151495463,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "COL1A1 (Fib reference)",
+        "key": "log1p_CP10k__COL1A1",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 1083,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 5.333261137303267,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "LST1 (myeloid reference)",
+        "key": "log1p_CP10k__LST1",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 2002,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 2.9981103959589586,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "ACTA2 (SMC reference)",
+        "key": "log1p_CP10k__ACTA2",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 107,
+        "n_missing": 0,
+        "vmin": 0,
+        "vmax": 5.87991491036337,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "Fib abundance (q05; model-inferred)",
+        "key": "abundance__Fibroblast",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 0,
+        "n_missing": 0,
+        "vmin": 0.0618048148695379,
+        "vmax": 28.439098273590204,
+        "colourbar_extend": "neither"
+      },
+      {
+        "panel": "Fibrous-cap expression program",
+        "key": "program__fibrous_cap_core",
+        "n": 2072,
+        "n_finite": 2072,
+        "n_zero": 0,
+        "n_missing": 0,
+        "vmin": -0.9943861916831938,
+        "vmax": 1.9449983264242217,
+        "colourbar_extend": "neither"
+      }
+    ]
+  }
+]

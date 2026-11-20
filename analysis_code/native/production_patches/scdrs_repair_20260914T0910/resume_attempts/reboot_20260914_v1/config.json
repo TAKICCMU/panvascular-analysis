@@ -1,0 +1,125 @@
+{
+  "root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908",
+  "workdir": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1",
+  "original_config": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/configs/scdrs_APPROVED.json",
+  "original_receipt": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/approvals/scdrs_APPROVAL_RECEIPT_r3.json",
+  "adapter": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/code/scdrs_adapter.py",
+  "derived": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs/derived/scdrs_raw_symbols.h5ad",
+  "derived_sha256": "e0e9ade8c4a8851e7e69f318246e47c1b466c4d00cf35d1a9c0f3c6d67a1aea4",
+  "derived_report": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs/derived/DERIVED_OBJECT.json",
+  "covariates": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs/derived/native_covariates.cov.gz",
+  "covariates_sha256": "7ead33bae67a30d22218d42cad0381173dd190f4e4fce24fc32d154811a06a1c",
+  "scenarios": [
+    {
+      "name": "primary_r0.1",
+      "geneset": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_primary_r0_1.gs",
+      "sha256": "7f6d55f3bb19ca959dd6627f7c95622a80fbaacd08de0cb84e47d0b544310904"
+    },
+    {
+      "name": "primary_r0.6",
+      "geneset": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_primary_r0_6.gs",
+      "sha256": "13799767d841a83962642abc34de0b40de0700c29c83155f4ed3935628e5a939"
+    },
+    {
+      "name": "leave_one_CAD_r0.1",
+      "geneset": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/enrichment/scdrs_label_independent/genesets/PanVascular_G_leave_one_CAD_r0_1.gs",
+      "sha256": "595200f57e5f33ec1324e746d41d37a03ea235a5b647155f4328af5807ef1120"
+    }
+  ],
+  "native_threads": 12,
+  "n_ctrl": 1000,
+  "graph_policy": "frozen_global_n30",
+  "scdrs_executable": "/home/anzhen_vhd/miniconda3/envs/scdrs_env/bin/scdrs",
+  "group_keys": [
+    "level1_annotation_scdrs_test",
+    "level2_annotation_scdrs_test"
+  ],
+  "output": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/outputs",
+  "rebuild_derived": false,
+  "old_native_outputs": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs/native",
+  "lock": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/execution_control_20260914/.scdrs_full_project.lock",
+  "communication_root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/communication_L1_20260914T015040Z",
+  "gpu_root": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/spatial_gpu_20260913T183753Z",
+  "resource_ledger": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/RESOURCE_RESUME_LEDGER.json",
+  "resource_ledger_sha256": "d0a80a5e335f7a93c26f29198db50bf24f3776d6ed574ab4dba9fcfa48b8826e",
+  "authenticated_files": [
+    {
+      "certificate": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/ATLAS_VERIFIED.json",
+      "selector": [],
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/panvascular_CPU_theta2_L1L2_final_v1.h5ad",
+      "sha256": "00fc74c1ddaa5e4b32d8664f134e0ec5a0c762f5e9a9fb45b96acbd40804a310"
+    },
+    {
+      "certificate": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/SCDRS_DERIVED_VERIFIED.json",
+      "selector": [],
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs/derived/scdrs_raw_symbols.h5ad",
+      "sha256": "e0e9ade8c4a8851e7e69f318246e47c1b466c4d00cf35d1a9c0f3c6d67a1aea4"
+    }
+  ],
+  "bound_files": [
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/ATLAS_VERIFIED.json",
+      "sha256": "1bad4738e8690bd789f1a6d9e2be21f461ae9f9b0ef93fb80c70b7b354861880"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/SCDRS_DERIVED_VERIFIED.json",
+      "sha256": "181f4d3b496a97055b263146e61409fdb2f9b87916e0fcef9cef35d43ae98b6b"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/INPUT_REVALIDATION.json",
+      "sha256": "c249592deee919822b7af87f92ad1da1b008039c3cfaec090d9fd71198a91135"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_resume_20260914/RESOURCE_RESUME_LEDGER.json",
+      "sha256": "d0a80a5e335f7a93c26f29198db50bf24f3776d6ed574ab4dba9fcfa48b8826e"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/configs/scdrs_APPROVED.json",
+      "sha256": "e85c1ab703e49f834b5822b372ae8a92100fb802de9c848774da2850ead131b9"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/approvals/scdrs_APPROVAL_RECEIPT_r3.json",
+      "sha256": "8eaf0dc155ca8bba2a06533109e7fc9dea2d85af98bdbfea1c35a10f1c341d59"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/code/scdrs_adapter.py",
+      "sha256": "d3781dd01887502a9e1ecde0190533f5c36093c7c872789d1e3256f20469e712"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/outputs/derived/DERIVED_OBJECT.json",
+      "sha256": "d82797211223ec0753ec96de69f430b92d1c61547175c674e370d7c436708019"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/STAGE_STATUS.json",
+      "sha256": "c19a5553377d1122e25bfa6e07350508bcbd61d4afd37e94cb635f5b197c3fa1"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_pause_20260914/MAINTENANCE_VERIFIED.json",
+      "sha256": "c5742abd8a1d164fcffb31a22cf26dffdb90e2c5a45286de7f7d7656c66f18a8"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/maintenance_pause_20260914/SCDRS_NATIVE_INVENTORY.json",
+      "sha256": "1f4b799fc05be63dbf0187a6a13de4f6ced9dfbe89eaef6800edcbaa649bf27d"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/TEST_RESULTS.json",
+      "sha256": "62704c68141054c713537f3a4a3999d24cd32602187b59f625a3a14bb49bf0f1"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/HISTORICAL_REUSE_AUDIT.json",
+      "sha256": "01cbd802396648fccf23f26c6387f9dca2fedcc8ee534ddd1ad5c0f57f5b5ba8"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/code/test_resume.py",
+      "sha256": "38c25616e679f97e519048de9c7b9558a44b3d9805986ac08d323fae2f39e0dc"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/code/seal_resume.py",
+      "sha256": "2870103abaf820584d59ae031986b9f1b1d9fbd500b9f150fa586052b16929f9"
+    },
+    {
+      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/resume_attempts/reboot_20260914_v1/code/resume_scdrs.py",
+      "sha256": "2f3d6e350173af554a7fd06c768065f88e1d8e15844abb65f3d29ecd634b8c94"
+    }
+  ]
+}
