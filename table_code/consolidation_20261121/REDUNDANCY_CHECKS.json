@@ -1,0 +1,83 @@
+{
+  "3_in_2": {
+    "identical_projected_rows": true,
+    "small_rows": 247,
+    "unmatched_rows": 0,
+    "examples": []
+  },
+  "7_in_6": {
+    "identical_projected_rows": true,
+    "small_rows": 116,
+    "unmatched_rows": 0,
+    "examples": []
+  },
+  "27_in_24": {
+    "identical_projected_rows": true,
+    "small_rows": 29,
+    "unmatched_rows": 0,
+    "examples": []
+  },
+  "32_in_30": {
+    "identical_projected_rows": true,
+    "small_rows": 14,
+    "unmatched_rows": 0,
+    "examples": []
+  },
+  "46_in_34": {
+    "identical_projected_rows": true,
+    "small_rows": 700,
+    "unmatched_rows": 0,
+    "examples": []
+  },
+  "36_in_37": {
+    "identical_projected_rows": true,
+    "small_rows": 87,
+    "unmatched_rows": 0,
+    "examples": []
+  },
+  "36_target51": {
+    "identical_projected_rows": true,
+    "small_rows": 87,
+    "unmatched_rows": 0,
+    "examples": []
+  },
+  "36_original51": {
+    "identical_projected_rows": false,
+    "small_rows": 87,
+    "unmatched_rows": 87,
+    "examples": [
+      "[\"ARHGEF12\", \"Macrophage\", 26, -0.125074933977072, 0.0392619249660165, -3.18565465359459, 0.001444268872381, 0.0212644599683974, 65.1330706744665, \"q05\", \"lipid_foam\", \"cell_abundance\", \"all_sections\", 6, -0.202028306910465, -0.0481215610436798, 0.0114228538088323]",
+      "[\"ARHGEF12\", \"Macrophage\", 26, 0.0149732295994737, 0.0123935815952701, 1.20814386740215, 0.226991928664632, 0.0013427050603995, 45.8302794455889, \"q05\", \"lipid_foam\", \"interaction\", \"all_sections\", 6, -0.0093181903272556, 0.0392646495262032, 0.438851062084956]"
+    ]
+  },
+  "37_target51": {
+    "identical_projected_rows": false,
+    "small_rows": 348,
+    "unmatched_rows": 3,
+    "examples": [
+      "[\"EDEM2\", \"Fibroblast\", 23, -0.0100224042917801, 0.0214837903578698, -0.466510058273251, 0.640850449673278, 0.0023749874499824, 23.8065923790351, \"mean\", \"fibrous_cap_core\", \"interaction\", \"all_sections\", 7, -0.0521306333932051, 0.0320858248096447, 0.77485955886273]",
+      "[\"TP53INP2\", \"Fibroblast\", 24, 0.0096043834389111, 0.0261823256673684, 0.366826979426098, 0.713748081745954, 0.0063047340835552, 43.7096400988729, \"mean\", \"fibrous_cap_core\", \"cell_abundance\", \"all_sections\", 5, -0.041712974869131, 0.0609217417469534, 0.817053725156552]"
+    ]
+  },
+  "37_original51": {
+    "identical_projected_rows": false,
+    "small_rows": 348,
+    "unmatched_rows": 348,
+    "examples": [
+      "[\"ARHGEF12\", \"Macrophage\", 26, -0.113111201756416, 0.0364071049372092, -3.10684417097973, 0.0018909604787183, 0.0186789930195814, 65.4636789285332, \"mean\", \"lipid_foam\", \"cell_abundance\", \"all_sections\", 6, -0.184469127433346, -0.0417532760794859, 0.0149557783316812]",
+      "[\"ARHGEF12\", \"Macrophage\", 26, -0.113111201756416, 0.0364071049372092, -3.10684417097973, 0.0018909604787183, 0.0186789930195814, 65.4636789285332, \"mean\", \"lipid_foam\", \"cell_abundance\", \"exclude_QC_fallback\", 6, -0.184469127433346, -0.0417532760794859, 0.0149557783316812]"
+    ]
+  },
+  "25_in_24": {
+    "identical_values": true,
+    "rows": 87
+  },
+  "2_10_sample_join": {
+    "all_common_fields_exact": true,
+    "rows": 247
+  },
+  "12_41_pair_join": {
+    "all_pair_keys_match": true,
+    "rows": 64
+  }
+}

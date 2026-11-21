@@ -34,7 +34,7 @@ ax.set_yticks(range(len(order)));ax.set_yticklabels(order);ax.axvline(0,c='grey'
 cols=[c for c in ['context','cell_state','logFC','fold_change','PValue','FDR','n_case_donors','n_reference_donors','status'] if c in res]
 report='# 三大疾病背景 pseudobulk：CKB阶段结果\n\n状态：'+('所有计划主模型已结束。' if (B/'COMPLETE.json').exists() else '部分结果，剩余模型仍在队列或运行。')+'\n\n'
 report+='G1=动脉粥样硬化及钙化性主动脉瓣病；G2=主动脉夹层及动脉瘤；G3=肺高压。logFC>0表示疾病组更高，<0表示更低。FDR为每个细胞群/背景内全部受检基因BH；不是只对CKB或显著基因校正。未通过表达过滤不代表无变化。\n\n'
-report+='## 方法和解释边界\n\n原raw计数按供者×组织×条件汇总；20细胞、5独立供者/臂门槛。edgeR 4.0.16、TMM、稳健QL。保留study/重复供者、组织及assay调整空间，缺失人口学协变量按原90%完整度规则处理并逐模型记录。只有冗余设计列被移除，完全混杂的疾病效应不强行检验。\n\n用户批准的外部健康对照包含在候选输入与可用拟合中，但只有健康或只有病例的研究在study调整后不能单独识别疾病效应。study_condition_information.tsv提供各study对条件设计的支持；不能把新增健康细胞数说成等量新增疾病效应证据。儿童健康瓣膜按用户要求保留，年龄混杂和不同组织的共同效应假设仍是限制。跨状态共享供者，因此本轮各状态/背景的显著性不自动等同独立重复验证。\n\n'
+report+='## 方法和解释边界\n\n原raw计数按供者×组织×条件汇总；20细胞、5独立供者/臂门槛。edgeR 4.0.16、TMM、稳健QL。保留study/重复供者、组织及assay调整空间，缺失人口学协变量按原90%完整度规则处理并逐模型记录。只有冗余设计列被移除，完全混杂的疾病效应不强行检验。\n\n外部健康对照包含在候选输入与可用拟合中，但只有健康或只有病例的研究在study调整后不能单独识别疾病效应。study_condition_information.tsv提供各study对条件设计的支持；不能把新增健康细胞数说成等量新增疾病效应证据。保留儿童健康瓣膜，年龄混杂和不同组织的共同效应假设仍是限制。跨状态共享供者，因此本轮各状态/背景的显著性不自动等同独立重复验证。\n\n'
 report+='已验证 '+str(len(records))+' 个模型的完整DE表、唯一基因及BH一致性。CKB当前结果见表格。未运行新的跨背景meta；不使用abs(logFC)/sqrt(F)伪装精确标准误。\n'
 (B/'CKB_REVIEW_CN.md').write_text(report)
 image=base64.b64encode((figs/'CKB_L1_logFC.png').read_bytes()).decode()

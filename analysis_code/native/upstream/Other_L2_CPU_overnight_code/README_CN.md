@@ -4,7 +4,7 @@
 - 不重跑、覆盖或重命名巨噬细胞数据；不读取Notebook内的巨噬细胞AnnData。
 - 不清空kernel、不修改当前adata、Macrophage_L2、MACROPHAGE_L2_RUN等变量。
 - 不改冻结母h5ad、原始counts、L1、全局图/坐标、旧PROJECT_STATE或既有benchmark。
-- 排除Macrophage（已完成首轮）、Schwann cell（用户要求不做L2）、L1 Unknown。
+- 排除Macrophage（已完成首轮）、Schwann cell（不纳入本轮L2分析）、L1 Unknown。
 - 不自动贴正式L2标签；若后续人工审核确认其他谱系/身份不明，只在L2设Unknown，不回改L1。
 - 共享程序、单个marker、HLA、细胞毒/IFN/ECM等不自动触发Unknown。
 

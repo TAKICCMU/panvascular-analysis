@@ -1,0 +1,61 @@
+Original table	Original title	Current file	Current worksheet	Current table	Block	Disposition
+1	Single-cell datasets and publications	Supplementary_Tables.xlsx	Table 01	1		retained
+2	Sample and donor metadata	Supplementary_Tables.xlsx	Table 02	2		retained
+3	Sample-level post-QC cell counts	Supplementary_Tables.xlsx	Table 02	2		identical subset
+4	Integration benchmark	Supplementary_Tables.xlsx	Table 03	3		retained
+5	Marker expression summaries	Supplementary_Tables.xlsx	Table 04	4		retained
+6	Cell-state annotations and coverage	Supplementary_Tables.xlsx	Table 05	5		retained
+7	Cell-state study coverage	Supplementary_Tables.xlsx	Table 05	5		identical subset
+8	Cell-type fractions by tissue	Supplementary_Tables.xlsx	Table 06	6	A	merged as distinct block
+9	Cell-type composition by study	Supplementary_Tables.xlsx	Table 06	6	B	merged as distinct block
+10	Unknown-cell source coverage	Supplementary_Tables.xlsx	Table 02	2		Unknown count joined by exact sample ID; common metadata identical
+11	GWAS datasets	Supplementary_Tables.xlsx	Table 07	7		retained
+12	Pairwise genetic correlations	Supplementary_Tables.xlsx	Table 08	8		retained
+13	Exploratory factor loadings	Supplementary_Tables.xlsx	Table 09	9	A	merged as distinct block
+14	Genetic model fit statistics	Supplementary_Tables.xlsx	Table 09	9	B	merged as distinct block
+15	Bifactor model loadings	Supplementary_Tables.xlsx	Table 09	9	C	merged as distinct block
+16	Leave-one-trait factor correlations	Supplementary_Tables.xlsx	Table 09	9	D	merged as distinct block
+17	Component-disease locus novelty assessment	Supplementary_Tables.xlsx	Table 10	10	A	merged as distinct block
+18	Locus catalogue and literature matches	Supplementary_Tables.xlsx	Table 10	10	B	merged as distinct block
+19	MAGMA and scDRS cell-group associations	Supplementary_Tables.xlsx	Table 11	11	A	merged as distinct block
+20	Genetic cell-group enrichment summaries	Supplementary_Tables.xlsx	Table 11	11	B	merged as distinct block
+21	MAGMA pathway enrichment	Supplementary_Tables.xlsx	Table 12	12		retained
+22	Pseudobulk pathway enrichment	Supplementary_Tables.xlsx	Table 13	13	A	merged as distinct block
+23	Recurrent pseudobulk pathways	Supplementary_Tables.xlsx	Table 13	13	B	merged as distinct block
+24	Prioritised gene–cell-population pairs	Supplementary_Tables.xlsx	Table 14	14		retained
+25	Candidate MAGMA evidence across scenarios	Supplementary_Tables.xlsx	Table 14	14		exact wide-to-long equivalent
+26	Pseudobulk meta-analysis of prioritised genes	Supplementary_Tables.xlsx	Table 15	15		retained
+27	Regulatory evidence for prioritised genes	Supplementary_Tables.xlsx	Table 14	14		identical subset
+28	GWAS–eQTL colocalisation	Supplementary_Tables.xlsx	Table 16	16	A	merged as distinct block
+29	QTL coverage by gene and GWAS scenario	Supplementary_Tables.xlsx	Table 16	16	B	merged as distinct block
+30	CoVarNet module evidence	Supplementary_Tables.xlsx	Table 17	17	A	merged as distinct block
+31	CoVarNet cell-state weights	Supplementary_Tables.xlsx	Table 17	17	B	merged as distinct block
+32	CoVarNet evaluation criteria	Supplementary_Tables.xlsx	Table 17	17	A	identical subset
+33	Parent-lineage-matched CoVarNet null results	Supplementary_Tables.xlsx	Table 18	18	B	merged as distinct block
+34	CoVarNet resampling and refits	Supplementary_Tables.xlsx	Table 18	18	C	merged as distinct block
+35	Spatial sample metadata	Supplementary_Tables.xlsx	Table 19	19	A	merged as distinct block
+36	Candidate spatial associations	Supplementary_Tables.xlsx	Table 20	20	A	exact primary subset: q05/all_sections
+37	Spatial posterior and QC sensitivity	Supplementary_Tables.xlsx	Table 20	20	A	merged as distinct block
+38	Section-level module spatial statistics	Supplementary_Data.xlsx	Module_section_statistics			moved to detailed data workbook
+39	Dataset-level module spatial statistics	Supplementary_Data.xlsx	Module_dataset_statistics			moved to detailed data workbook
+40	Module spatial coherence	Supplementary_Tables.xlsx	Table 21	21		retained
+41	LDSC intercepts	Supplementary_Tables.xlsx	Table 08	8		LDSC intercept joined by exact phenotype pair
+42	Multi-signal colocalisation sensitivity	Supplementary_Tables.xlsx	Table 16	16	C	merged as distinct block
+43	Disease-associated cell proportions	Supplementary_Tables.xlsx	Table 22	22	A	merged as distinct block
+44	Cell-proportion model eligibility	Supplementary_Tables.xlsx	Table 22	22	B	merged as distinct block
+45	CoVarNet rank selection	Supplementary_Tables.xlsx	Table 18	18	A	merged as distinct block
+46	Leave-one-study CoVarNet refits	Supplementary_Tables.xlsx	Table 18	18	C	identical subset
+47	CoVarNet sample and donor metadata	Supplementary_Data.xlsx	CoVarNet_sample_metadata			moved to detailed data workbook
+48	Availability of spatial region annotations	Supplementary_Tables.xlsx	Table 19	19	B	merged as distinct block
+49	cell2location model diagnostics	Supplementary_Tables.xlsx	Table 19	19	C	merged as distinct block
+50	Spatial and single-cell source overlap	Supplementary_Tables.xlsx	Table 19	19	D	merged as distinct block
+51	Target-exclusion spatial sensitivity	Supplementary_Tables.xlsx	Table 20	20	B	merged as distinct block
+52	Unit-level spatial coefficients	Supplementary_Data.xlsx	Candidate_unit_coefficients			moved to detailed data workbook
+53	Section-level spatial coefficients	Supplementary_Data.xlsx	Candidate_section_coefficients			moved to detailed data workbook
+54	Spatial model eligibility	Supplementary_Data.xlsx	Spatial_model_eligibility			moved to detailed data workbook
+55	Plaque and calcification gene programmes	Supplementary_Tables.xlsx	Table 23	23	A	merged as distinct block
+56	Module–programme direction across datasets	Supplementary_Tables.xlsx	Table 23	23	B	merged as distinct block
+57	Analysis sample sizes and units	Supplementary_Tables.xlsx	Table 24	24	A	merged as distinct block
+58	Relationships among evidence sources	Supplementary_Tables.xlsx	Table 24	24	B	merged as distinct block
+59	Multiple-testing families	Supplementary_Tables.xlsx	Table 24	24	C	merged as distinct block
+60	Software versions and random seeds	Supplementary_Tables.xlsx	Table 24	24	D	merged as distinct block
