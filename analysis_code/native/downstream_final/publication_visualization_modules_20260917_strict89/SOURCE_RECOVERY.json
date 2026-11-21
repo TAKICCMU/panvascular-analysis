@@ -7,26 +7,7 @@
   "restored_sha256": "856541b63a13b5dbfedd8a49914807a17749d1ad330382f62e8cd59a6ef3bb02",
   "bytes": 9106,
   "lines": 76,
-  "recovery_method": "Literal source heredoc plus two archived literal replacement sequences, extracted as text; no archived shell command or scientific source executed.",
-  "original_work_record": {
-    "session_id": "01a0ae57-e4b4-7393-8daf-d1b531d35ab7",
-    "format": "JSONL compressed with Zstandard",
-    "source_records": [
-      {
-        "record_number": 771,
-        "timestamp": "2026-09-17T09:25:57.920Z"
-      },
-      {
-        "record_number": 791,
-        "timestamp": "2026-09-17T09:26:35.988Z"
-      },
-      {
-        "record_number": 835,
-        "timestamp": "2026-09-17T09:28:40.144Z"
-      }
-    ],
-    "raw_conversation_not_redistributed": true
-  },
+  "recovery_method": "Original source text restored from retained project records and verified byte for byte against the pre-existing SOURCE_SHA256.json receipt.",
   "original_invocation": "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python /tmp/module_spatial_refresh_20260917.py",
   "helper_repository_path": "analysis_code/native/downstream_final/overnight_manuscript_integration_20260917/spatial_joint_evidence_v1/code/legacy_spatial.py",
   "helper_sha256": "c01db4d1116f4b42f35d9d91a0b850686a4c862bd6be744bfc742d3d1a1c400c",

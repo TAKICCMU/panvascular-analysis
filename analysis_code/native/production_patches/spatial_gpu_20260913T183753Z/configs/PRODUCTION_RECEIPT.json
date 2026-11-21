@@ -1,7 +1,6 @@
 {
   "receipt_schema": "explicit_user_execution_gpu_descriptive_v1",
   "created_utc": "2026-09-13T18:50:22Z",
-  "authorizer": "user explicit message and CODEX_START_PARALLEL_EXECUTION_PROMPT.md; recorded by Codex, not a digital signature",
   "scope": [
     "descriptive_reference",
     "descriptive_mapping"
@@ -285,7 +284,6 @@
     "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/atlas_release/L1L2_final_v1_acceptance_r1/level2_ontology.tsv": "5656a12473bc595bbd16f53bf7fa6f72e712f84a9e318d044378219d95d43954",
     "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/atlas_release/L1L2_final_v1_acceptance_r1/metadata_review_sources.json": "99863cbe02c2fccb75bfd2c947c1547ec1e2edb5916f6907ec18adbb4db3437e",
     "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/atlas_release/L1L2_final_v1_acceptance_r1/source_registry.tsv": "0254c5ee44bdceb80ed32e976a3dbbd1b6f63f9fe6499bc5a0f4b8fd7111cbe8",
-    "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/parallel_execution_handoff_20260914/CODEX_START_PARALLEL_EXECUTION_PROMPT.md": "7d2628cf02fa2852eb443d6afc461a59fc52011f7a619dc1105c5fe4b8c5201c",
     "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_release_compat_20260914/external_legacy/spatial/02_spatial_v4_cell2location_GPU.py": "8b709c4de73500e33e07c7b7669708f965f40ffaae864c1479452f855a78a437",
     "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/downstream_CPU_L1L2_v2_1_release_compat_20260914/evidence/REVIEW_DEPENDENCIES_PROPOSED.json": "7417b6b2c5c47cca23a4f886d4bff547a2493aa8a238a1e2934459796a13cfba"
   },
@@ -297,5 +295,6 @@
     "nonfinite histories or posterior values stop affected branch"
   ],
   "science_started": false,
-  "status": "AUTHORIZED_CONDITIONAL_EXECUTION"
+  "status": "AUTHORIZED_CONDITIONAL_EXECUTION",
+  "publication_copy_note": "Operational correspondence omitted; scientific parameters, computational dependencies and result identities retained. This public metadata copy is not the original sealed execution receipt."
 }

@@ -35,10 +35,6 @@
       "sha256": "eb46d0ff9ba5cf0e4c4a90b65f78eb09d1f263477ca46c809b0c45521ff22f06"
     },
     {
-      "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/parallel_execution_handoff_20260914/CODEX_START_PARALLEL_EXECUTION_PROMPT.md",
-      "sha256": "7d2628cf02fa2852eb443d6afc461a59fc52011f7a619dc1105c5fe4b8c5201c"
-    },
-    {
       "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/execution_control_20260914/AUTHENTICATED_ATLAS_STAT.json",
       "sha256": "9bce9e1f35838c1a107aceb17ade3d5f4b7585922f868aab40f0a4f3abacb609"
     },
@@ -161,5 +157,6 @@
     "path": "/home/anzhen_vhd/scRNAseq/codex/panvascular_atlas_rebuild_v2_20260907/06_reanalysis_takeover_20260908/production_launches/scdrs_repair_20260914T0910/approvals/scdrs_APPROVAL_RECEIPT.json",
     "sha256": "ff0956b91da4074035cf1c4751c1275f119ee7ddc94d3b9fc266c45d096722e9"
   },
-  "revision_reason": "Additional native CLI and actual native schema evidence hashes; code/config/parameters unchanged"
+  "revision_reason": "Additional native CLI and actual native schema evidence hashes; code/config/parameters unchanged",
+  "publication_copy_note": "Operational correspondence omitted; scientific parameters, computational dependencies and result identities retained. This public metadata copy is not the original sealed execution receipt."
 }

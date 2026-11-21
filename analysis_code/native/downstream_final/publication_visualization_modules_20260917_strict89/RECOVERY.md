@@ -1,8 +1,8 @@
 # Original spatial module runner
 
-Recovered on 2026-11-21 from the original compressed project work records. The source at `code/module_spatial_refresh_20260917.py` is byte identical to the script identified by the existing `SOURCE_SHA256.json`: **9,106 bytes, 76 lines**, SHA256 `856541b63a13b5dbfedd8a49914807a17749d1ad330382f62e8cd59a6ef3bb02`.
+Recovered on 2026-11-21 from retained project source records. The source at `code/module_spatial_refresh_20260917.py` is byte identical to the script identified by the existing `SOURCE_SHA256.json`: **9,106 bytes, 76 lines**, SHA256 `856541b63a13b5dbfedd8a49914807a17749d1ad330382f62e8cd59a6ef3bb02`.
 
-The original server temporary file was absent. Historical source archives retained output receipts but not this runner. The original creation text and its two subsequent literal edits were recovered from the 2026-09-17 work record (records 771, 791 and 835). No historical shell command was executed, and no algorithm was reconstructed from the manuscript. The final matching hash distinguishes this strict89 script from the earlier 128-state null-pool draft.
+The original server temporary file was absent. Historical source archives retained output receipts but not this runner. The retained source text was verified against the pre-existing source receipt; no algorithm was reconstructed from the manuscript. The final matching hash distinguishes this strict89 script from the earlier 128-state null-pool draft.
 
 ## Original invocation and dependencies
 
@@ -25,6 +25,6 @@ All 34 non-runner entries in `SOURCE_SHA256.json` were read and hashed on the se
 
 The current `Supplementary_Data.xlsx` sheets `Module_section_statistics` and `Module_dataset_statistics` retain the 1,372 and 196 records. All cells in these sheets and Supplementary Tables 21 and 23B were compared with the original result TSVs. Text, identities, row order and missing values match; numeric values agree within spreadsheet serialization precision (largest absolute difference below 6 × 10⁻¹⁶). No values were rewritten.
 
-The six result files and `COMPLETE.json` match the current manuscript package's module source data byte for byte. The three module files used by the retained Figure4 plotting chain also match the server outputs. Historical `Figure5` source paths refer to provenance, not a fifth current main figure. `SOURCE_RECOVERY.json` contains the input checks, output hashes, worksheet mapping and recovery record references.
+The six result files and `COMPLETE.json` match the current manuscript package's module source data byte for byte. The three module files used by the retained Figure4 plotting chain also match the server outputs. Historical `Figure5` source paths refer to provenance, not a fifth current main figure. `SOURCE_RECOVERY.json` contains the input checks, output hashes, worksheet mapping and source identity checks.
 
 The source was syntax-parsed only. No analysis, null draws, significance tests, models, plots or workbooks were regenerated.

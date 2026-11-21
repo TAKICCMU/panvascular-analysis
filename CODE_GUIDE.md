@@ -11,3 +11,5 @@ Unpack the code and data archives into the same parent directory; their top-leve
 Environments and seeds are retained in the original parameter/receipt files and current Supplementary Table 24D. The original 76-test log includes shared package functions beyond the current manuscript scope; a test pass is not evidence of scientific validity. No new test result has been generated here.
 
 Current navigation reflects the 24 Supplementary Tables and six Supplementary Data tables, whereas historical logs retain the numbering at execution time. See `REPRODUCIBILITY_STATUS.md` for the completed source recovery and remaining external dependencies.
+
+`PUBLIC_SOURCE_NOTES.md` identifies the publication-only changes to execution-scope text and metadata. Analysis functions, scientific settings, original dependency paths and original test results remain unchanged.
