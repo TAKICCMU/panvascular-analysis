@@ -1,6 +1,6 @@
 # Code navigation
 
-1. `06_Maps/MODULE_CODE_RESULT_CROSSWALK.tsv` preserves the original 32 workflow stage identifiers. Stages24–25 are marked removed from the current manuscript; the remaining stages are linked to current table numbers. Stage29 records the missing final module runner separately from its retained helper.
+1. `06_Maps/MODULE_CODE_RESULT_CROSSWALK.tsv` preserves the original 32 workflow stage identifiers. Stages24–25 are marked removed from the current manuscript; the remaining stages are linked to current table numbers. Stage29 links the recovered original spatial module runner and its retained helper separately; its original source hash and current result correspondence are verified in the accompanying recovery record.
 2. `analysis_code/` contains the actual retained computational scripts, local wrappers, configurations and execution provenance. `recovered_sources/` adds the original QC notebook cells, full-count builder, scIB benchmark code and plotting path map.
 3. `03_Plot_Code/ADOPTED_CODE_ORDER.md` gives the adopted plotting/editing chain. The authoritative 14 SVG masters are `04_Current_Figures/Editable_SVG`. Final plotting patches include Figure1a body/vessel alignment and the merged Figure4. Earlier builders alone do not reproduce the final visual edits.
 4. `table_code/20261117` contains the 60-table cleaning/renumbering code; `table_code/final_20261118` contains the former Table8/24/59/60 and corresponding data-format corrections. `table_code/consolidation_20261121` contains the subsequent 60-to-24 table consolidation and six Supplementary Data tables. The 2026-11-20 data archive retains its original 60-table workbook. The current manuscript workbook and crosswalk use the consolidated layout.
@@ -10,4 +10,4 @@ Unpack the code and data archives into the same parent directory; their top-leve
 
 Environments and seeds are retained in the original parameter/receipt files and current Supplementary Table 24D. The original 76-test log includes shared package functions beyond the current manuscript scope; a test pass is not evidence of scientific validity. No new test result has been generated here.
 
-Current navigation reflects the 24 Supplementary Tables and six Supplementary Data tables, whereas historical logs retain the numbering at execution time. See `REPRODUCIBILITY_STATUS.md` for the source recovery item.
+Current navigation reflects the 24 Supplementary Tables and six Supplementary Data tables, whereas historical logs retain the numbering at execution time. See `REPRODUCIBILITY_STATUS.md` for the completed source recovery and remaining external dependencies.

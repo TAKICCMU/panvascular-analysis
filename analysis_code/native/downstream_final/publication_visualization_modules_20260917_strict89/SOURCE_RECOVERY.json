@@ -1,0 +1,929 @@
+{
+  "status": "ORIGINAL_ENTRY_SOURCE_RECOVERED_HASH_MATCH",
+  "recovery_date": "2026-11-21",
+  "original_script": "/tmp/module_spatial_refresh_20260917.py",
+  "restored_repository_path": "analysis_code/native/downstream_final/publication_visualization_modules_20260917_strict89/code/module_spatial_refresh_20260917.py",
+  "original_sha256": "856541b63a13b5dbfedd8a49914807a17749d1ad330382f62e8cd59a6ef3bb02",
+  "restored_sha256": "856541b63a13b5dbfedd8a49914807a17749d1ad330382f62e8cd59a6ef3bb02",
+  "bytes": 9106,
+  "lines": 76,
+  "recovery_method": "Literal source heredoc plus two archived literal replacement sequences, extracted as text; no archived shell command or scientific source executed.",
+  "original_work_record": {
+    "session_id": "01a0ae57-e4b4-7393-8daf-d1b531d35ab7",
+    "format": "JSONL compressed with Zstandard",
+    "source_records": [
+      {
+        "record_number": 771,
+        "timestamp": "2026-09-17T09:25:57.920Z"
+      },
+      {
+        "record_number": 791,
+        "timestamp": "2026-09-17T09:26:35.988Z"
+      },
+      {
+        "record_number": 835,
+        "timestamp": "2026-09-17T09:28:40.144Z"
+      }
+    ],
+    "raw_conversation_not_redistributed": true
+  },
+  "original_invocation": "/home/anzhen_vhd/miniconda3/envs/omicverse/bin/python /tmp/module_spatial_refresh_20260917.py",
+  "helper_repository_path": "analysis_code/native/downstream_final/overnight_manuscript_integration_20260917/spatial_joint_evidence_v1/code/legacy_spatial.py",
+  "helper_sha256": "c01db4d1116f4b42f35d9d91a0b850686a4c862bd6be744bfc742d3d1a1c400c",
+  "server_source_receipt_checks": [
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE241346_q05_named.tsv.gz",
+      "expected_sha256": "814d9de05fb0fa618a3ccea4b0271421ffe13a0312091229221a6ccfecb471f5",
+      "current_sha256": "814d9de05fb0fa618a3ccea4b0271421ffe13a0312091229221a6ccfecb471f5",
+      "bytes": 1322286,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE241346_q05_nuisance.tsv.gz",
+      "expected_sha256": "13b5753d8ff0027afff76b550c5a761e7f8cb8f9234cdd445ba559deb5bdccf8",
+      "current_sha256": "13b5753d8ff0027afff76b550c5a761e7f8cb8f9234cdd445ba559deb5bdccf8",
+      "bytes": 148978,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE241346_means_named.tsv.gz",
+      "expected_sha256": "24e24831231a8c067a7862c2dc5575e5a61caf9f0b7a21d8eb44ff338ddcf5de",
+      "current_sha256": "24e24831231a8c067a7862c2dc5575e5a61caf9f0b7a21d8eb44ff338ddcf5de",
+      "bytes": 654187,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE241346_means_nuisance.tsv.gz",
+      "expected_sha256": "95599d19d5aaa5c476880c5e24aac88fafffd545a0f74bf6148265a2069d343c",
+      "current_sha256": "95599d19d5aaa5c476880c5e24aac88fafffd545a0f74bf6148265a2069d343c",
+      "bytes": 79252,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE243179_q05_named.tsv.gz",
+      "expected_sha256": "cb743ca2633357c7810627d83601fde87ce4f8108271513c243f29086d450523",
+      "current_sha256": "cb743ca2633357c7810627d83601fde87ce4f8108271513c243f29086d450523",
+      "bytes": 3036756,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE243179_q05_nuisance.tsv.gz",
+      "expected_sha256": "fa5cbe609dc1ec415236956012bac68b0e26a74ba9313d520855b455cd0cece9",
+      "current_sha256": "fa5cbe609dc1ec415236956012bac68b0e26a74ba9313d520855b455cd0cece9",
+      "bytes": 342707,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE243179_means_named.tsv.gz",
+      "expected_sha256": "ec7b88f0f9d73e249ddf326587124cf3bf5159a6947c9b937a3fe55d923ad9a6",
+      "current_sha256": "ec7b88f0f9d73e249ddf326587124cf3bf5159a6947c9b937a3fe55d923ad9a6",
+      "bytes": 1474087,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE243179_means_nuisance.tsv.gz",
+      "expected_sha256": "25c6cf149bceb0d6107a7674d37ca2f6e4ad0dde1fcd522d1e5be71c70acd73d",
+      "current_sha256": "25c6cf149bceb0d6107a7674d37ca2f6e4ad0dde1fcd522d1e5be71c70acd73d",
+      "bytes": 179562,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE248608_q05_named.tsv.gz",
+      "expected_sha256": "1d8ca88218ac87f9ecd406a5b4e00b797749e00b51c4c8b32c77785ab9d783ea",
+      "current_sha256": "1d8ca88218ac87f9ecd406a5b4e00b797749e00b51c4c8b32c77785ab9d783ea",
+      "bytes": 6923692,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE248608_q05_nuisance.tsv.gz",
+      "expected_sha256": "c86c57d4baab37ca224736b7662f4fa815ceebfbd118f7070014048b20edb301",
+      "current_sha256": "c86c57d4baab37ca224736b7662f4fa815ceebfbd118f7070014048b20edb301",
+      "bytes": 772058,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE248608_means_named.tsv.gz",
+      "expected_sha256": "ce9ef9ccf2b1212cf31fd34b2e04663cabc60d9a298e728109b5e89166dadfa7",
+      "current_sha256": "ce9ef9ccf2b1212cf31fd34b2e04663cabc60d9a298e728109b5e89166dadfa7",
+      "bytes": 3436450,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE248608_means_nuisance.tsv.gz",
+      "expected_sha256": "3d1afe583b9b5bf4c76f013e926fbbb10a04a8f7cdd84b1f662551b9ffa75a18",
+      "current_sha256": "3d1afe583b9b5bf4c76f013e926fbbb10a04a8f7cdd84b1f662551b9ffa75a18",
+      "bytes": 407028,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE274572_q05_named.tsv.gz",
+      "expected_sha256": "e5fdd4857682191037b01483d9aa5d7a38d2e0225a719e48f5c721084b1b3b45",
+      "current_sha256": "e5fdd4857682191037b01483d9aa5d7a38d2e0225a719e48f5c721084b1b3b45",
+      "bytes": 8374020,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE274572_q05_nuisance.tsv.gz",
+      "expected_sha256": "f1b99a1625d2dc926a80fc520ad2d7bc8d09c1e3643b2e97ad3d6eb7a1bcc3da",
+      "current_sha256": "f1b99a1625d2dc926a80fc520ad2d7bc8d09c1e3643b2e97ad3d6eb7a1bcc3da",
+      "bytes": 940784,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE274572_means_named.tsv.gz",
+      "expected_sha256": "df16d1f09807251d63cd8fe7d3f6850ae66266da7b1c7f5895f8be68b721bc7f",
+      "current_sha256": "df16d1f09807251d63cd8fe7d3f6850ae66266da7b1c7f5895f8be68b721bc7f",
+      "bytes": 4145691,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE274572_means_nuisance.tsv.gz",
+      "expected_sha256": "bdef534fe4dcc4b8587fb2e6b680b7607e05d43e94cd18c4d4595c1f717171e3",
+      "current_sha256": "bdef534fe4dcc4b8587fb2e6b680b7607e05d43e94cd18c4d4595c1f717171e3",
+      "bytes": 498824,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE293427_q05_named.tsv.gz",
+      "expected_sha256": "97ec9fd76d2cf0c603f318a5f165829de2c819b8013840dfe8f85d4476dbcfbc",
+      "current_sha256": "97ec9fd76d2cf0c603f318a5f165829de2c819b8013840dfe8f85d4476dbcfbc",
+      "bytes": 6422547,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE293427_q05_nuisance.tsv.gz",
+      "expected_sha256": "cd2ca2189fc3ad03773b7ef6fd8e52c441c2434dce535d3504619c12fb6fd087",
+      "current_sha256": "cd2ca2189fc3ad03773b7ef6fd8e52c441c2434dce535d3504619c12fb6fd087",
+      "bytes": 718966,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE293427_means_named.tsv.gz",
+      "expected_sha256": "8f75d9c8d2a692116e066048be4456067f197f12e9f36f24c5011996235c4a07",
+      "current_sha256": "8f75d9c8d2a692116e066048be4456067f197f12e9f36f24c5011996235c4a07",
+      "bytes": 3176410,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE293427_means_nuisance.tsv.gz",
+      "expected_sha256": "1ac606354a0d3b481618b0675186d4cec3cdbd5d65aaa26e0304256f0b344391",
+      "current_sha256": "1ac606354a0d3b481618b0675186d4cec3cdbd5d65aaa26e0304256f0b344391",
+      "bytes": 379578,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE306288_q05_named.tsv.gz",
+      "expected_sha256": "fb127f7265e272168326180d64bf838a80a7db3a1191d4a9a58054dd0c182b5b",
+      "current_sha256": "fb127f7265e272168326180d64bf838a80a7db3a1191d4a9a58054dd0c182b5b",
+      "bytes": 5596715,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE306288_q05_nuisance.tsv.gz",
+      "expected_sha256": "244b6eb331b1c66396999e657539c974a46dee39255958a0479d491425eb2360",
+      "current_sha256": "244b6eb331b1c66396999e657539c974a46dee39255958a0479d491425eb2360",
+      "bytes": 628945,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE306288_means_named.tsv.gz",
+      "expected_sha256": "7dc346155114c44d1af6efd0e4bde8c6e12453c894b8257d022b492202a09712",
+      "current_sha256": "7dc346155114c44d1af6efd0e4bde8c6e12453c894b8257d022b492202a09712",
+      "bytes": 2768545,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE306288_means_nuisance.tsv.gz",
+      "expected_sha256": "5fbc8d9041f87823a2cb0162dca9a2654c2ab104dc840359405a11681195f8b2",
+      "current_sha256": "5fbc8d9041f87823a2cb0162dca9a2654c2ab104dc840359405a11681195f8b2",
+      "bytes": 333494,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE314851_q05_named.tsv.gz",
+      "expected_sha256": "55855a895c93c6e7f5fcf7160cef0b5941f99e018b150cbc94d6daae5192f1ee",
+      "current_sha256": "55855a895c93c6e7f5fcf7160cef0b5941f99e018b150cbc94d6daae5192f1ee",
+      "bytes": 16285602,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE314851_q05_nuisance.tsv.gz",
+      "expected_sha256": "360b41f2a2bc0032b6372a74b1e1ab7934b24ecb82bab75b89c57716e418d3b7",
+      "current_sha256": "360b41f2a2bc0032b6372a74b1e1ab7934b24ecb82bab75b89c57716e418d3b7",
+      "bytes": 1819381,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE314851_means_named.tsv.gz",
+      "expected_sha256": "bda5f4b0722bbf37038e5839f26cfbd22e0c1d7582a60b2047e63f5085fbd812",
+      "current_sha256": "bda5f4b0722bbf37038e5839f26cfbd22e0c1d7582a60b2047e63f5085fbd812",
+      "bytes": 8088828,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/GSE314851_means_nuisance.tsv.gz",
+      "expected_sha256": "7b726a41b02865e1a2f34f233a7b06ec1d38b4953726ce6bc8f304dca4233ba7",
+      "current_sha256": "7b726a41b02865e1a2f34f233a7b06ec1d38b4953726ce6bc8f304dca4233ba7",
+      "bytes": 961352,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/covarnet/stable_NMF/module_node_weights_K14.tsv",
+      "expected_sha256": "52f823b2c4cf8a8f11a26480ac7a5f2fc9f2b563e43f82f9636f22818eaf5c47",
+      "current_sha256": "52f823b2c4cf8a8f11a26480ac7a5f2fc9f2b563e43f82f9636f22818eaf5c47",
+      "bytes": 23601,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/covarnet/CoVarNet_node_parent_map.tsv",
+      "expected_sha256": "eef1c9ce7e77991b7594362dc06c37297c14eee6ec64147de45b8e1b0df3e3aa",
+      "current_sha256": "eef1c9ce7e77991b7594362dc06c37297c14eee6ec64147de45b8e1b0df3e3aa",
+      "bytes": 5255,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_joint_evidence_v1/code/legacy_spatial.py",
+      "expected_sha256": "c01db4d1116f4b42f35d9d91a0b850686a4c862bd6be744bfc742d3d1a1c400c",
+      "current_sha256": "c01db4d1116f4b42f35d9d91a0b850686a4c862bd6be744bfc742d3d1a1c400c",
+      "bytes": 38594,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_joint_v1/spot_joint_source.tsv.gz",
+      "expected_sha256": "ea678951e358837cb90fbf534a47325f942348339fc21e4fa85e40d85673e250",
+      "current_sha256": "ea678951e358837cb90fbf534a47325f942348339fc21e4fa85e40d85673e250",
+      "bytes": 8940024,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_joint_v1/section_input_audit.tsv",
+      "expected_sha256": "54f07e149d3c24224a1bdcfb7af30db5e30ea6cbc146595414aadb779d52f363",
+      "current_sha256": "54f07e149d3c24224a1bdcfb7af30db5e30ea6cbc146595414aadb779d52f363",
+      "bytes": 7464,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/data/anzhen_vhd/scRNAseq/codex/panvascular_downstream_storage_v1/expanded_parallel_20260916_v1/overnight_manuscript_integration_20260917/spatial_target_excluded_v1/outputs/reference_factors.tsv",
+      "expected_sha256": "5c96cedb09672d4957456cca809975368f2039f26f28f26fadb5b15e5fa07ae8",
+      "current_sha256": "5c96cedb09672d4957456cca809975368f2039f26f28f26fadb5b15e5fa07ae8",
+      "bytes": 8713,
+      "status": "MATCH"
+    },
+    {
+      "original_path": "/tmp/module_spatial_refresh_20260917.py",
+      "expected_sha256": "856541b63a13b5dbfedd8a49914807a17749d1ad330382f62e8cd59a6ef3bb02",
+      "current_sha256": null,
+      "bytes": null,
+      "status": "MISSING"
+    }
+  ],
+  "original_tmp_file_status": "Absent on server; identical bytes recovered and retained in this repository.",
+  "server_results": [
+    {
+      "file": "COMPLETE.json",
+      "bytes": 826,
+      "sha256": "8f27b74e49065e0584d61640d2271426caeed1b992d34f2a9c961be51fdef64d"
+    },
+    {
+      "file": "SOURCE_SHA256.json",
+      "bytes": 9318,
+      "sha256": "2d0fb272014e8bd2c784548b62e61739b45727bf41438cc62a26d22f7693ce62"
+    },
+    {
+      "file": "module_biological_unit_stats.tsv",
+      "bytes": 356421,
+      "sha256": "c55381b8fdfc1b1afe7da0d8b6dd57cce2675a05affb34fd93d6b90677d737a8",
+      "columns": [
+        "posterior",
+        "module",
+        "GSE",
+        "biological_unit_id",
+        "QC_fallback",
+        "n_spots",
+        "within_spot_coherence",
+        "spatial_lag_coherence",
+        "rho__fibrous_cap_core",
+        "rho__fibrous_cap_nonstructural_sensitivity",
+        "rho__calcification",
+        "rho__lipid_foam",
+        "rho__inflammation",
+        "rho__endothelial_activation",
+        "legacy_fallback__within__p",
+        "legacy_fallback__within__nullmean",
+        "legacy_fallback__lag__p",
+        "legacy_fallback__lag__nullmean",
+        "strict_parent__within__p",
+        "strict_parent__within__nullmean",
+        "strict_parent__lag__p",
+        "strict_parent__lag__nullmean"
+      ],
+      "rows": 980,
+      "posterior_unique_count": 2,
+      "posterior_values": [
+        "mean",
+        "q05"
+      ],
+      "module_unique_count": 14,
+      "module_values": [
+        "CM01",
+        "CM02",
+        "CM03",
+        "CM04",
+        "CM05",
+        "CM06",
+        "CM07",
+        "CM08",
+        "CM09",
+        "CM10",
+        "CM11",
+        "CM12",
+        "CM13",
+        "CM14"
+      ],
+      "GSE_unique_count": 7,
+      "GSE_values": [
+        "GSE241346",
+        "GSE243179",
+        "GSE248608",
+        "GSE274572",
+        "GSE293427",
+        "GSE306288",
+        "GSE314851"
+      ],
+      "biological_unit_id_unique_count": 35
+    },
+    {
+      "file": "module_coherence_meta.tsv",
+      "bytes": 16201,
+      "sha256": "b4f7a55ac8e2be762d8c9f39796542b98ec5a088995da3a57bfcd2bd53677a66",
+      "columns": [
+        "posterior",
+        "module",
+        "null_method",
+        "metric",
+        "observed_median",
+        "null_median",
+        "observed_minus_null",
+        "P",
+        "datasets",
+        "biological_units",
+        "draws",
+        "FDR_BH_28"
+      ],
+      "rows": 112,
+      "posterior_unique_count": 2,
+      "posterior_values": [
+        "mean",
+        "q05"
+      ],
+      "module_unique_count": 14,
+      "module_values": [
+        "CM01",
+        "CM02",
+        "CM03",
+        "CM04",
+        "CM05",
+        "CM06",
+        "CM07",
+        "CM08",
+        "CM09",
+        "CM10",
+        "CM11",
+        "CM12",
+        "CM13",
+        "CM14"
+      ],
+      "metric_unique_count": 2,
+      "metric_values": [
+        "spatial_lag",
+        "within_spot"
+      ],
+      "null_method_unique_count": 2,
+      "null_method_values": [
+        "legacy_fallback",
+        "strict_parent"
+      ]
+    },
+    {
+      "file": "module_dataset_stats.tsv",
+      "bytes": 67925,
+      "sha256": "62db39e4555548720682243cc56dc04a2afc14b2b25a0b2c79e5e61aa1944242",
+      "columns": [
+        "posterior",
+        "module",
+        "GSE",
+        "QC_fallback",
+        "n_spots",
+        "within_spot_coherence",
+        "spatial_lag_coherence",
+        "rho__fibrous_cap_core",
+        "rho__fibrous_cap_nonstructural_sensitivity",
+        "rho__calcification",
+        "rho__lipid_foam",
+        "rho__inflammation",
+        "rho__endothelial_activation",
+        "legacy_fallback__within__p",
+        "legacy_fallback__within__nullmean",
+        "legacy_fallback__lag__p",
+        "legacy_fallback__lag__nullmean",
+        "strict_parent__within__p",
+        "strict_parent__within__nullmean",
+        "strict_parent__lag__p",
+        "strict_parent__lag__nullmean"
+      ],
+      "rows": 196,
+      "posterior_unique_count": 2,
+      "posterior_values": [
+        "mean",
+        "q05"
+      ],
+      "module_unique_count": 14,
+      "module_values": [
+        "CM01",
+        "CM02",
+        "CM03",
+        "CM04",
+        "CM05",
+        "CM06",
+        "CM07",
+        "CM08",
+        "CM09",
+        "CM10",
+        "CM11",
+        "CM12",
+        "CM13",
+        "CM14"
+      ],
+      "GSE_unique_count": 7,
+      "GSE_values": [
+        "GSE241346",
+        "GSE243179",
+        "GSE248608",
+        "GSE274572",
+        "GSE293427",
+        "GSE306288",
+        "GSE314851"
+      ]
+    },
+    {
+      "file": "module_program_direction_meta.tsv",
+      "bytes": 18421,
+      "sha256": "46d8c14714d266e06c7e92505d1d3f91b3c477b4fd8cbe4c21bd5709e9f51ac1",
+      "columns": [
+        "posterior",
+        "module",
+        "program",
+        "n_datasets",
+        "positive_datasets",
+        "median_rho",
+        "min_rho",
+        "max_rho",
+        "P_direction_positive",
+        "FDR_BH_84"
+      ],
+      "rows": 168,
+      "posterior_unique_count": 2,
+      "posterior_values": [
+        "mean",
+        "q05"
+      ],
+      "module_unique_count": 14,
+      "module_values": [
+        "CM01",
+        "CM02",
+        "CM03",
+        "CM04",
+        "CM05",
+        "CM06",
+        "CM07",
+        "CM08",
+        "CM09",
+        "CM10",
+        "CM11",
+        "CM12",
+        "CM13",
+        "CM14"
+      ],
+      "program_unique_count": 6,
+      "program_values": [
+        "calcification",
+        "endothelial_activation",
+        "fibrous_cap_core",
+        "fibrous_cap_nonstructural_sensitivity",
+        "inflammation",
+        "lipid_foam"
+      ]
+    },
+    {
+      "file": "module_section_stats.tsv",
+      "bytes": 541407,
+      "sha256": "ec1e84cd15df4d3dfc3aa3bb1681dd22e42e44055313b1b59865a87876e3f7e3",
+      "columns": [
+        "GSE",
+        "section_id",
+        "biological_unit_id",
+        "posterior",
+        "module",
+        "QC_fallback",
+        "n_spots",
+        "within_spot_coherence",
+        "spatial_lag_coherence",
+        "rho__fibrous_cap_core",
+        "rho__fibrous_cap_nonstructural_sensitivity",
+        "rho__calcification",
+        "rho__lipid_foam",
+        "rho__inflammation",
+        "rho__endothelial_activation",
+        "legacy_fallback__within__p",
+        "legacy_fallback__within__nullmean",
+        "legacy_fallback__lag__p",
+        "legacy_fallback__lag__nullmean",
+        "strict_parent__within__p",
+        "strict_parent__within__nullmean",
+        "strict_parent__lag__p",
+        "strict_parent__lag__nullmean"
+      ],
+      "rows": 1372,
+      "posterior_unique_count": 2,
+      "posterior_values": [
+        "mean",
+        "q05"
+      ],
+      "module_unique_count": 14,
+      "module_values": [
+        "CM01",
+        "CM02",
+        "CM03",
+        "CM04",
+        "CM05",
+        "CM06",
+        "CM07",
+        "CM08",
+        "CM09",
+        "CM10",
+        "CM11",
+        "CM12",
+        "CM13",
+        "CM14"
+      ],
+      "GSE_unique_count": 7,
+      "GSE_values": [
+        "GSE241346",
+        "GSE243179",
+        "GSE248608",
+        "GSE274572",
+        "GSE293427",
+        "GSE306288",
+        "GSE314851"
+      ],
+      "section_id_unique_count": 49,
+      "biological_unit_id_unique_count": 35
+    },
+    {
+      "file": "null_draw_identity.tsv.gz",
+      "bytes": 553838,
+      "sha256": "22551f0b40b16507482445506aaa0b4d0f33af9f5af943f6cac2519b13328fdc",
+      "columns": [
+        "module",
+        "method",
+        "draw",
+        "fallback_nodes",
+        "states",
+        "observed_top10_weights",
+        "strict_parent_combination_count"
+      ],
+      "rows": 28000,
+      "module_unique_count": 14,
+      "module_values": [
+        "CM01",
+        "CM02",
+        "CM03",
+        "CM04",
+        "CM05",
+        "CM06",
+        "CM07",
+        "CM08",
+        "CM09",
+        "CM10",
+        "CM11",
+        "CM12",
+        "CM13",
+        "CM14"
+      ],
+      "method_unique_count": 2,
+      "method_values": [
+        "legacy_fallback",
+        "strict_parent"
+      ]
+    }
+  ],
+  "current_local_result_correspondence": [
+    {
+      "local_file": "submission_package/Source_Data_Figures/Figure5/module_spatial/COMPLETE.json",
+      "remote_file": "COMPLETE.json",
+      "sha256": "8f27b74e49065e0584d61640d2271426caeed1b992d34f2a9c961be51fdef64d",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "analysis_code/native/downstream_final/publication_visualization_modules_20260917_strict89/COMPLETE.json",
+      "remote_file": "COMPLETE.json",
+      "sha256": "8f27b74e49065e0584d61640d2271426caeed1b992d34f2a9c961be51fdef64d",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "analysis_code/native/downstream_final/publication_visualization_modules_20260917_strict89/SOURCE_SHA256.json",
+      "remote_file": "SOURCE_SHA256.json",
+      "sha256": "2d0fb272014e8bd2c784548b62e61739b45727bf41438cc62a26d22f7693ce62",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "submission_package/Source_Data_Figures/Figure5/module_spatial/module_biological_unit_stats.tsv",
+      "remote_file": "module_biological_unit_stats.tsv",
+      "sha256": "c55381b8fdfc1b1afe7da0d8b6dd57cce2675a05affb34fd93d6b90677d737a8",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "submission_package/Source_Data_Figures/Figure5/module_spatial/module_coherence_meta.tsv",
+      "remote_file": "module_coherence_meta.tsv",
+      "sha256": "b4f7a55ac8e2be762d8c9f39796542b98ec5a088995da3a57bfcd2bd53677a66",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "03_Plot_Code/current_builders/Figure4/source_data/module_coherence_meta.tsv",
+      "remote_file": "module_coherence_meta.tsv",
+      "sha256": "b4f7a55ac8e2be762d8c9f39796542b98ec5a088995da3a57bfcd2bd53677a66",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "submission_package/Source_Data_Figures/Figure5/module_spatial/module_dataset_stats.tsv",
+      "remote_file": "module_dataset_stats.tsv",
+      "sha256": "62db39e4555548720682243cc56dc04a2afc14b2b25a0b2c79e5e61aa1944242",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "03_Plot_Code/current_builders/Figure4/source_data/module_dataset_stats.tsv",
+      "remote_file": "module_dataset_stats.tsv",
+      "sha256": "62db39e4555548720682243cc56dc04a2afc14b2b25a0b2c79e5e61aa1944242",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "submission_package/Source_Data_Figures/Figure5/module_spatial/module_program_direction_meta.tsv",
+      "remote_file": "module_program_direction_meta.tsv",
+      "sha256": "46d8c14714d266e06c7e92505d1d3f91b3c477b4fd8cbe4c21bd5709e9f51ac1",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "03_Plot_Code/current_builders/Figure4/source_data/module_program_direction_meta.tsv",
+      "remote_file": "module_program_direction_meta.tsv",
+      "sha256": "46d8c14714d266e06c7e92505d1d3f91b3c477b4fd8cbe4c21bd5709e9f51ac1",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "submission_package/Source_Data_Figures/Figure5/module_spatial/module_section_stats.tsv",
+      "remote_file": "module_section_stats.tsv",
+      "sha256": "ec1e84cd15df4d3dfc3aa3bb1681dd22e42e44055313b1b59865a87876e3f7e3",
+      "status": "MATCH"
+    },
+    {
+      "local_file": "submission_package/Source_Data_Figures/Figure5/module_spatial/null_draw_identity.tsv.gz",
+      "remote_file": "null_draw_identity.tsv.gz",
+      "sha256": "22551f0b40b16507482445506aaa0b4d0f33af9f5af943f6cac2519b13328fdc",
+      "status": "MATCH"
+    }
+  ],
+  "current_workbook_correspondence": [
+    {
+      "workbook": "Supplementary_Tables.xlsx",
+      "sheet": "Table 21",
+      "block": null,
+      "source": "module_coherence_meta.tsv",
+      "rows": 112,
+      "columns": 12,
+      "header_source": [
+        "posterior",
+        "module",
+        "null_method",
+        "metric",
+        "observed_median",
+        "null_median",
+        "observed_minus_null",
+        "P",
+        "datasets",
+        "biological_units",
+        "draws",
+        "FDR_BH_28"
+      ],
+      "header_workbook": [
+        "Posterior summary",
+        "Module",
+        "Null method",
+        "Metric",
+        "Observed median",
+        "Null median",
+        "Observed minus null",
+        "P",
+        "Datasets (n)",
+        "Analysis units (n)",
+        "Draws",
+        "BH FDR (28 tests)"
+      ],
+      "checked_cells": 1344,
+      "numeric_cells": 896,
+      "string_cells": 448,
+      "boolean_cells": 0,
+      "blank_cells": 0,
+      "numeric_comparison": "rel_tol=2e-14; abs_tol=1e-15 to allow spreadsheet numeric serialization; no values rewritten",
+      "max_absolute_numeric_difference": 5.551115123125783e-16,
+      "differences": []
+    },
+    {
+      "workbook": "Supplementary_Tables.xlsx",
+      "sheet": "Table 23",
+      "block": "B.",
+      "source": "module_program_direction_meta.tsv",
+      "rows": 168,
+      "columns": 10,
+      "header_source": [
+        "posterior",
+        "module",
+        "program",
+        "n_datasets",
+        "positive_datasets",
+        "median_rho",
+        "min_rho",
+        "max_rho",
+        "P_direction_positive",
+        "FDR_BH_84"
+      ],
+      "header_workbook": [
+        "Posterior summary",
+        "Module",
+        "Program",
+        "Datasets (n)",
+        "Positive datasets",
+        "Median rho",
+        "Min rho",
+        "Max rho",
+        "P direction positive",
+        "BH FDR (84 tests)"
+      ],
+      "checked_cells": 1680,
+      "numeric_cells": 1176,
+      "string_cells": 504,
+      "boolean_cells": 0,
+      "blank_cells": 0,
+      "numeric_comparison": "rel_tol=2e-14; abs_tol=1e-15 to allow spreadsheet numeric serialization; no values rewritten",
+      "max_absolute_numeric_difference": 5.828670879282072e-16,
+      "differences": []
+    },
+    {
+      "workbook": "Supplementary_Data.xlsx",
+      "sheet": "Module_section_statistics",
+      "block": null,
+      "source": "module_section_stats.tsv",
+      "rows": 1372,
+      "columns": 23,
+      "header_source": [
+        "GSE",
+        "section_id",
+        "biological_unit_id",
+        "posterior",
+        "module",
+        "QC_fallback",
+        "n_spots",
+        "within_spot_coherence",
+        "spatial_lag_coherence",
+        "rho__fibrous_cap_core",
+        "rho__fibrous_cap_nonstructural_sensitivity",
+        "rho__calcification",
+        "rho__lipid_foam",
+        "rho__inflammation",
+        "rho__endothelial_activation",
+        "legacy_fallback__within__p",
+        "legacy_fallback__within__nullmean",
+        "legacy_fallback__lag__p",
+        "legacy_fallback__lag__nullmean",
+        "strict_parent__within__p",
+        "strict_parent__within__nullmean",
+        "strict_parent__lag__p",
+        "strict_parent__lag__nullmean"
+      ],
+      "header_workbook": [
+        "Study ID",
+        "Section ID",
+        "Analysis unit ID",
+        "Posterior summary",
+        "Module",
+        "QC fallback",
+        "Spots (n)",
+        "Within spot coherence",
+        "Spatial lag coherence",
+        "ρ: fibrous-cap core",
+        "ρ: fibrous-cap nonstructural sensitivity",
+        "ρ: calcification",
+        "ρ: lipid foam",
+        "ρ: inflammation",
+        "ρ: endothelial activation",
+        "Fallback within-spot P",
+        "Fallback within-spot null mean",
+        "Fallback lag P",
+        "Fallback lag null mean",
+        "Parent-matched within-spot P",
+        "Parent-matched within-spot null mean",
+        "Parent-matched lag P",
+        "Parent-matched lag null mean"
+      ],
+      "checked_cells": 31556,
+      "numeric_cells": 23324,
+      "string_cells": 6860,
+      "boolean_cells": 1372,
+      "blank_cells": 0,
+      "numeric_comparison": "rel_tol=2e-14; abs_tol=1e-15 to allow spreadsheet numeric serialization; no values rewritten",
+      "max_absolute_numeric_difference": 5.967448757360216e-16,
+      "differences": []
+    },
+    {
+      "workbook": "Supplementary_Data.xlsx",
+      "sheet": "Module_dataset_statistics",
+      "block": null,
+      "source": "module_dataset_stats.tsv",
+      "rows": 196,
+      "columns": 21,
+      "header_source": [
+        "posterior",
+        "module",
+        "GSE",
+        "QC_fallback",
+        "n_spots",
+        "within_spot_coherence",
+        "spatial_lag_coherence",
+        "rho__fibrous_cap_core",
+        "rho__fibrous_cap_nonstructural_sensitivity",
+        "rho__calcification",
+        "rho__lipid_foam",
+        "rho__inflammation",
+        "rho__endothelial_activation",
+        "legacy_fallback__within__p",
+        "legacy_fallback__within__nullmean",
+        "legacy_fallback__lag__p",
+        "legacy_fallback__lag__nullmean",
+        "strict_parent__within__p",
+        "strict_parent__within__nullmean",
+        "strict_parent__lag__p",
+        "strict_parent__lag__nullmean"
+      ],
+      "header_workbook": [
+        "Posterior summary",
+        "Module",
+        "Study ID",
+        "Median QC-fallback indicator",
+        "Median spots per unit",
+        "Within spot coherence",
+        "Spatial lag coherence",
+        "ρ: fibrous-cap core",
+        "ρ: fibrous-cap nonstructural sensitivity",
+        "ρ: calcification",
+        "ρ: lipid foam",
+        "ρ: inflammation",
+        "ρ: endothelial activation",
+        "Median Fallback within-spot P (descriptive)",
+        "Fallback within-spot null mean",
+        "Median Fallback lag P (descriptive)",
+        "Fallback lag null mean",
+        "Median Parent-matched within-spot P (descriptive)",
+        "Parent-matched within-spot null mean",
+        "Median Parent-matched lag P (descriptive)",
+        "Parent-matched lag null mean"
+      ],
+      "checked_cells": 4116,
+      "numeric_cells": 3528,
+      "string_cells": 588,
+      "boolean_cells": 0,
+      "blank_cells": 0,
+      "numeric_comparison": "rel_tol=2e-14; abs_tol=1e-15 to allow spreadsheet numeric serialization; no values rewritten",
+      "max_absolute_numeric_difference": 5.828670879282072e-16,
+      "differences": []
+    }
+  ],
+  "original_completion_receipt": {
+    "status": "COMPLETE",
+    "modules": 14,
+    "nodes": 89,
+    "sections": 49,
+    "spots": 45348,
+    "biological_units": 35,
+    "datasets": 7,
+    "posterior": [
+      "q05",
+      "mean"
+    ],
+    "seed": 20260917,
+    "null_draws": 1000,
+    "threads": 8,
+    "coherence_BH_family": 28,
+    "program_BH_family": 84,
+    "method_note": "legacy_fallback excludes observedtop10 and maycrossparent; strict_parent samples sameparentcounts withoutreplacement frommapped89eligiblepool allowingobservednodes; top10weights attached in nodeorder; originalcoherence statistic unweighted. Common nulldrawstates acrosssections. Coherence aggregatedmediansectionswithinunit thenunitswithindataset thendatasets. Programs mediansectionrho withinunit thenunitswithindataset; one-sidedpositive binomial acrossdatasets. No confidenceinterval inferred from7datasets."
+  },
+  "validation_scope": "Original SHA256 equality, input/output file hashing, read-only table-cell comparison, and source AST parsing. No scientific analysis or runtime test was performed.",
+  "science_files_modified": false
+}

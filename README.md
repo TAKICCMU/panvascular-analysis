@@ -10,7 +10,7 @@ Scientific definitions remain unchanged. Candidate meta uses REML, whereas pathw
 
 The packages collect existing source files and adopted outputs. They do not replace any input data, scientific statistics or model fits. Existing execution logs describe their original runs. A packaging hash check is not a new biological validation or an end-to-end rerun.
 
-A final module runner is missing from the source archive. Its original path and recorded hash are documented in `REPRODUCIBILITY_STATUS.md`.
+The final spatial module runner has been recovered byte for byte from the original work records and matches the SHA256 in its original run receipt. Its source, dependencies and result correspondence are documented in `analysis_code/native/downstream_final/publication_visualization_modules_20260917_strict89/RECOVERY.md` and `REPRODUCIBILITY_STATUS.md`.
 
 ## Licences
 Author analysis/plotting code: MIT (see LICENSE). Author-derived data: CC BY 4.0. Original public inputs, external software, illustrations and BioRender assets retain their original rights and terms; their inclusion does not relicense them. Full component GWAS files, individual genotypes, full count matrices and spatial model weights are not redistributed.
