@@ -18,3 +18,7 @@ Author analysis/plotting code: MIT (see LICENSE). Author-derived data: CC BY 4.0
 The code archive contains `CODE_GUIDE.md`; the data archive contains `DATA_GUIDE.md`. Unpack both archives into the same parent directory. The data archive retains its navigation snapshot at deposition. Use the current repository maps for the consolidated manuscript table numbering. Checksums are separately named CODE_MANIFEST_SHA256.tsv and DATA_MANIFEST_SHA256.tsv.
 
 See `PUBLIC_SOURCE_NOTES.md` for the limited publication edits to operational metadata and preparation utilities. Computational settings, source-to-result mappings and source attribution are retained.
+
+## Current submission documentation — 22 November 2026
+
+The submission contains 4 main figures, 10 Extended Data figures, 24 Supplementary Tables and six Supplementary Data tables. The current documentation distinguishes the eight GWAS phenotypes from the three disease backgrounds used for the primary pseudobulk comparisons: atherosclerosis, aortic dissection and pulmonary arterial hypertension. GSE131778 metadata identify eight GEO sample records from four patients; saved analysis grouping keys are retained separately from corrected donor identities. See [RELEASE_NOTES.md](RELEASE_NOTES.md) for the scope of this documentation and metadata update.
